@@ -1,0 +1,40 @@
+---
+id: dicsje.moncloa-colegio-mayor-universitario.es
+work: diccionario-san-josemaria
+title: Moncloa, colegio mayor universitario
+voz: MONCLOA, COLEGIO MAYOR UNIVERSITARIO
+author: José Antonio IBÁÑEZ-MARTÍN
+creator: collective — a signed dictionary; the voz's own author is in `author` above
+language: es
+original-language: yes
+authority-type: scholarly
+status: current
+supersedes: 01. Sources/_originals/Biblioteca/_markdown/DicSJE.md
+edition: Diccionario de San Josemaría Escrivá de Balaguer, Instituto Histórico San Josemaría Escrivá de Balaguer / Fundación Studium / Editorial Monte Carmelo, Burgos, 2ª edición, diciembre 2013; ISBN 978-84-8353-592-9 (the work's own copyright page)
+source-file: Diccionario de San Josemaria Escriva de Balaguer.epub
+source-sha256: 9bb99eafaf5d432f
+original: 01. Sources/_originals/San Josemaria/diccionario/Diccionario de San Josemaria Escriva de Balaguer.epub
+decode-witness: 01. Sources/_originals/Biblioteca/_markdown/DicSJE/ record 0030 — the decode-derived text this file carried until 2026-08-28 is in the store (01. Sources/_originals/San Josemaria/diccionario/decode-2026-08-26/) and in git history
+replaced: "2026-08-28 — the publisher's epub text replaced the decode-derived promotion of 2026-08-26 in place, on the same anchors (§17b: 'check both to see which is best; keep the best')"
+anchors: "{#dicsje.moncloa-colegio-mayor-universitario} on the voz; {#dicsje.moncloa-colegio-mayor-universitario.N} on the sections the work numbers — CARRIED from the 2026-08-26 promotion (99. Tools/promote/dicsje-registered-anchors.tsv), never recomputed; this voz prints no sections, so the voz is the only unit"
+sections: 0
+extracted: 2026-08-28
+extracted-by: 99. Tools/promote/replace_dicsje_es.py
+---
+# Moncloa, colegio mayor universitario {#dicsje.moncloa-colegio-mayor-universitario}
+
+Entre los medios apostólicos especialmente adecuados para impulsar la labor del Opus Dei con estudiantes, san Josemaría incluyó muy pronto la promoción de residencias para estudiantes universitarios. Esto facilitaría a quienes comenzaban a acercarse al Opus Dei que comprobaran de cerca el atractivo de la vocación cristiana, porque a estas residencias podrían acudir muchos profesores y alumnos interesados en una vida cultural que diera toda su profundidad a la vocación universitaria.
+
+Por esto, ya en los años treinta, san Josemaría impulsó la apertura de la Residencia DYA, aunque sus recursos económicos fueran muy inferiores a sus deseos apostólicos. Destruida esa primera residencia en la Guerra Civil española, en cuanto pudo reanudar su trabajo en Madrid, comenzó ya en 1939 otra residencia en unos pisos en la calle de Jenner. En el curso 1942-1943, se casó el hijo del propietario de aquella casa, quien, de acuerdo con la legislación vigente, exigió el inmediato desahucio, para darla al nuevo matrimonio. Tras una intervención personal de san Josemaría, se dilató hasta el fin del curso académico la entrega de los apartamentos, mientras se buscaba un nuevo lugar que estuviera más cerca de la Ciudad Universitaria y donde pudieran vivir más residentes (cfr. AVP, II, pp. 583-584).
+
+Finalmente, se encontraron dos chalets muy cercanos a la Universidad que estaban en los números 3 y 4 de la avenida de la Moncloa, aunque separados por esta misma avenida y en una situación bastante deteriorada por los efectos de la cercana guerra. Comenzó de inmediato el acondicionamiento de los hotelitos, de modo que en octubre de 1943 se abrió la Residencia de La Moncloa, con cerca de noventa residentes (cfr. AVP, II, p. 585). Esas nuevas dimensiones, y la experiencia adquirida en los años anteriores, movieron a realizar una pequeña propaganda de la Residencia, como la que se publicó en el *Boletín Oficial Eclesiástico de la Diócesis de Ávila* (29 de enero de 1944, pp. 54 ss.), donde se señalaba que la Residencia era un sitio en el que se ofrecía una vida de familia cristiana, ambiente de trabajo, buena alimentación y habitación cómoda, cuya dirección espiritual estaba encomendada a la Sociedad Sacerdotal de la Santa Cruz. Para subrayar las primeras características citadas, san Josemaría mandó pintar un fresco con una ciudad amurallada, que tenía la leyenda "*Frater qui adiuvatur a fratre, quasi civitas firma*" (El hermano ayudado por su hermano es como una ciudad firme), y encargó confeccionar un repostero en el que, para mover a un trabajo sin dilaciones, se leía "*Hodie, nunc*" (Hoy, ahora), que un residente tradujo libremente como "Hoy o nunca", traducción que divirtió al fundador de la Obra por su acierto en expresar el fondo de lo que se quería transmitir (cfr. CECH, p. 234). Además, como expresión de amor a la Santa Cruz, y recuerdo de las calumnias recibidas, quiso poner la Cruz de palo en el oratorio, al otro lado del sagrario, enmarcada por un arco donde se leía: "*ludaeis quidem scandalum, gentibus autem stultitiam* (I Co 1, 23)" (Escándalo para los judíos y locura para los gentiles). Igualmente, un joven estudiante de Ingeniería Naval construyó un barco que se colocó en la sala de estar y que recibió el nombre de "*Ut eatis*" ("Para que vayáis"), expresando el celo apostólico que habrían de tener los miembros de la Obra y que les llevaría a promover la santidad en medio del mundo a los más lejanos rincones de la tierra.
+
+San Josemaría celebró la primera Misa en el oratorio de la Residencia el 8 de diciembre de 1943. Los tiempos iniciales de la Residencia fueron complejos, pues se comenzó a vivir con la casa llena de obreros, con todas las incomodidades que comportaba. Asimismo, era la primera vez que las mujeres de la Obra se hacían cargo de modo independiente de la administración de un centro de varones, atendiendo la limpieza, la cocina, el lavado de ropa, etc. Para tal tarea, san Josemaría pidió la colaboración de tres numerarias, que se encargarían de buscar las personas que ayudaran a trabajar (cfr. AVP, II, p. 587).
+
+La fuerza sobrenatural del ambiente de la Residencia contrastaba con una vieja imagen de la literatura española que describía a las residencias universitarias como lugares de un cierto descontrol. Esta realidad, que reclamó la intervención de san Josemaría para cambiar el modo de pensar de algunos de los residentes recién llegados, constituyó el fundamento de la ulterior vida de la Residencia, y de otras que la siguieron.
+
+Acudieron muchos estudiantes, tanto por el atractivo de las meditaciones y de otras actividades espirituales que dirigía allí en los primeros años san Josemaría (cfr. AVP, II, p. 675) como por el alto nivel cultural de las iniciativas que en ella se desarrollaban. Al cumplirse los primeros veinticinco años de su creación, san Josemaría mandó una carta al Colegio Mayor en la que decía: "Este aniversario es un motivo más de acción de gracias a Dios Nuestro Señor, que ha bendecido tan abundantemente nuestro esfuerzo y nuestro trabajo y ha hecho posible que esa queridísima Residencia sea un instrumento maravilloso para el bien de tantas almas, de la Universidad y de la sociedad entera" (*Obras,* X-1968, p. 1: AGP, Biblioteca, P01). El cariño del fundador de la Obra a La Moncloa le llevó a visitarla y a tener allí un encuentro con gente joven en el viaje que, en octubre de 1972, realizó a Madrid.
+
+Con el paso del tiempo se modificaron las características físicas y jurídicas de la Residencia, que hoy está en un solo bloque nuevo, en el antiguo número 3, y su nombre ha pasado a ser Colegio Mayor Moncloa, adscrito a la Universidad de Madrid, pues fue reconocida como tal por una Orden Ministerial del 14 de julio de 1951 (B.O.E. del día 24) que aprobó igualmente sus estatutos, que han ido adaptándose a las sucesivas legislaciones universitarias. En cambio, no ha variado el espíritu de la primitiva Residencia de La Moncloa; incluso sigue manteniéndose una actividad singular, y única en Madrid, que introdujeron los primeros residentes valencianos que allí llegaron, que consiste en construir una falla que se quema la noche anterior a san José, como se hace en Valencia, ante el alborozo de residentes y amigos.
+
+*José Antonio IBÁÑEZ-MARTÍN*

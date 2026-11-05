@@ -1,0 +1,1637 @@
+# Instrucción, 9-I-1935
+
+# Instrucción, 9-I-1935
+
+
+
+# 1
+
+Queridísimos (1): Desde hace tiempo, se va notando la necesidad de una Instrucción (2), que señale las <u id="bkmrk-normas-generales%2C-qu">normas generales, que han de seguir los formadores</u> (3), para encajar en la Obra las almas de los nuevos, que el Señor envía.  
+  
+**nota** (1): Cfr. nota 1 a la <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 19-III-1934. -Como se dice en otras notas, nuestro Padre escribió esta Instrucción con la experiencia que tenía, de la primera casa de San Rafael. Por eso, trata especialmente de esta faceta de la labor con la juventud. Naturalmente, lo que el Padre escribe en ese Documento vale de igual modo para todas las demás formas, con las que se ha desarrollado la obra de San Rafael. Pero hay que aplicarlo de la manera que sea más conveniente, según las circunstancias de la gente con la que se trabaje: y se ha de explicar la doctrina, aquí expuesta por el Padre, con **don de lenguas**, de cara a las futuras vocaciones de Numerarios, Oblatos y Supernumerarios, y para moldear a los que quedarán como Cooperadores o amigos.  
+  
+**nota** (2): Esta Instrucción que lleva fecha de enero del 35, debió nuestro Padre escribirla dentro del año 1934. Hasta entonces, todo el peso de la labor de San Rafael y el de la selección y formación de las nuevas vocaciones, lo llevaba personalmente el Padre. El fin de la Instrucción es el que claramente señala nuestro Fundador, al citar las palabras de San Mateo, con las que encabeza este escrito: <u id="bkmrk-ite-et-vos-in-vineam">Ite et vos in vineam meam</u>. El Padre se proponía dar unas normas, que sirvieran para preparar a los que habían de empezar a colaborar con él, en esta tarea de buscar y formar nuevas vocaciones; normas que han de ser siempre profundamente meditadas por los socios del Opus Dei, llamados a desarrollar esa labor de proselitismo y de formación. Parece que la Obra de San Rafael en este documento que ahora anotamos, se identifica con algunos puntos de la labor actual que se realiza en todos los Centros de Estudios. Es razonable que, en aquella época, la preparación interna de los socios de la Obra se hiciera de este modo, ya que ahora mismo -y siempre en lo sucesivo- una parte de la formación de los miembros de la Obra se recibe mientras trabajan en la Obra de San Rafael. La Instrucción, por tanto, va dirigida exclusivamente a las Numerarias y a los Numerarios, que, legítimamente nombrados por sus Directores, cooperan en la marcha de la Obra de San Rafael, ocupando cargos mayores o locales.  
+  
+**nota** (3): Después de lo dicho en la nota anterior, se comprende bien que con el nombre de Formadores vienen designados en esta Instrucción, de una parte, las Directoras y Directores de los Centros de Estudios; de otra, los Directores de las clases o Círculos de San Rafael y los demás Numerarios que colaboran con ellos, en la tarea de preparar las nuevas vocaciones.
+
+# 2
+
+Yo no puedo llegar a todo (4). Menester es que algunos de vosotros, hijos míos, persuadidos de que no sois nada, repitáis aquellas palabras del salmo: <u id="bkmrk-lapidem-quem-reproba">lapidem quem reprobaverunt aedificantes: hic factus est in caput anguli. A Domino factum est istud. Et est mirabile in oculis nostris</u>; la piedra desechada por los arquitectos: esa misma piedra ha sido escogida por piedra angular del edificio. El Señor es quien lo ha hecho. Es cosa admirable a nuestros ojos (<u id="bkmrk-ps">Ps</u>. CXVII, 22 y 23). Y sobre esta sentida y sincera humildad, puesto que todo lo atribuís a Dios, ya podréis empezar la labor fecunda de informar el espíritu de los que comienzan a vivir la vida de apostolado de la Obra (5).  
+  
+**nota** (4): Hasta entonces -ya se ha dicho- el peso de toda la obra de San Rafael lo llevaba directamente el Padre, que dirigía varios Círculos cada día. Como preparación y consecuencia de estas clases o Círculos, llevaba también la dirección espiritual de innumerables personas, y atendía a la formación de las vocaciones que el Señor iba mandando.  
+  
+**nota** (5): Se ve claramente -lo hemos dicho en la nota 2- que ha querido el Padre que esta Instrucción sirva, de modo especial, para formar a los Directores y **formadores**; y para que éstos la empleen, leyéndola, comentándola, viviéndola, al gobernar y al instruir a los demás. **Los que comienzan a vivir la vida de apostolado de la Obra**: porque el fin del Opus Dei es el apostolado, hasta tal punto que nuestro Fundador no ha querido hacer, en el **Ius peculiare**, la distinción habitual de fin genérico (la santificación de los miembros) y el fin específico (los apostolados peculiares); no la ha hecho por dos motivos. Primero, porque esta distinción es propia de las Constituciones de los religiosos, y nosotros no lo somos; segundo, porque considera que sus hijos no pueden buscar la perfección cristiana -la santidad- en medio del mundo y en su propio estado y profesión, si no trabajan como apóstoles; y que no pueden hacer ningún apostolado eficaz sino procuran santificarse. Llevado de estas razones lógicas, ha unido en nuestro **codex** lo que se suele llamar fin genérico y fin específico en un solo fin, que presenta un doble aspecto: la santificación propia y la de los demás, por medio del apostolado, entre personas de todas las clases de la sociedad. E inmediatamente indica el camino, para esta santificación propia y ajena, estableciendo que este fin se obtiene por la santificación del trabajo ordinario y por ejercicio de la tarea profesional u otra equivalente, que los socios no abandonan, porque es ahí donde buscan la santificación.
+
+# 3
+
+<u id="bkmrk-no-os-acobarde-el-pe">No os acobarde el pensamiento de vuestra responsabilidad</u>, que ciertamente es grande. Pensad, más bien en la hermosura y eficacia de vuestro concreto apostolado de formadores de almas.   
+ No olvidéis, para aumentar vuestra fortaleza, aquello que nos dice San Juan (I <u id="bkmrk-ioann">Ioann</u>. III, 1): <u id="bkmrk-videte-qualem-carita">videte qualem caritatem dedit nobis Pater, ut filii Dei nominemur et simus</u>; mirad qué tierno amor hacia nosotros ha tenido el Padre, queriendo que nos llamemos y que seamos hijos suyos (6).  
+  
+**nota** (6): Si siempre es grande la responsabilidad de cuantos reciben una misión tan alta como es la de formar a otros hermanos suyos en la Obra, esa responsabilidad era especialmente grande en aquella época: se trataba de empezar, de un modo sistemático y definitivo, a colaborar con el Padre en el maravilloso trabajo de **formadores**. Se comprende perfectamente que el Padre comience su Instrucción aconsejando, a los que entonces estaban ya en la Obra, que no les acobardara el pensamiento de esa responsabilidad. Igual que ha hecho en sus Instrucciones anteriores, también al principio de ésta nos habla de la **filiación divina**, esencial en el espíritu de la Obra (cfr. <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 19-III-1934, n. 1; <u id="bkmrk-instrucci%C3%B3n-1">Instrucción</u>, 1-IV-1934, n. 23, con sus notas).
+
+# 4
+
+Y, viendo en vuestras manos esa juventud, esperanza de la Obra -puesto que, de ordinario, la labor de formación se hará en las casas de San Rafael, verdaderos seminarios de apóstoles seglares (7)- entenderéis la <u id="bkmrk-necesidad-de-sacrifi">necesidad de sacrificaros en academias y residencias</u>, para lograr, con personal apto, el desarrollo de la Obra que Jesús nos tiene encomendada (8).  
+  
+**nota** (7): No habían nacido los Centros de Estudios. Por otra parte, la labor inicial de formación -como se ha practicado siempre- se hace en las casas de la Obra de San Rafael: por eso el Padre, repitiendo el concepto expresado en esta Instrucción, ha dicho repetidas veces que la labor de San Rafael puede considerarse como el seminario de la Obra (cfr. nota 2).  
+  
+**nota** (8): Muchas veces hemos oído decir a nuestro Fundador que las academias y las residencias son una parte pequeña y no la principal, de la Obra de San Rafael que se desarrolla con una actividad multiforme, que adquiere matices y formas diversas, según la edad y las demás circunstancias de las personas a las que, en cada caso concreto, vaya dirigida. Aunque la labor en academias y residencias suele ser dura, sobre todo al principio de cada casa, y se tarda en recoger el resultado del trabajo apostólico -por eso el Padre habla de la **necesidad de sacrificarse** en estos Centros-, el fruto viene siempre en abundancia tras unos años de perseverante tarea en esos hogares, que son además semilleros de vocaciones.
+
+# 5
+
+<u id="bkmrk-unas-advertencias-pr">Unas advertencias previas</u>:  
+  
+1) Sois vosotros, Directores (9), quienes habéis de dar a los demás el tono sobrenatural. Y, <u id="bkmrk-si-no-vibr%C3%A1is">si no vibráis</u>, por el amor a la Obra y por el cumplimiento exacto de las Normas y Reglamentos, decidme: ¿cómo podréis dar aquel tono a los hermanos, que de vosotros esperan su formación?  
+  
+**nota** (9): En el texto original está escrito **Formadores**. Después de lo dicho en notas precedentes, y como nuestro Padre no ha querido que se empleara esta palabra dentro de la nomenclatura interna propia de la Obra, en lugar de Formador o Formadores, escribiremos -por indicación **expresa** del Padre, que ha ordenado que se introduzca este cambio- Director o Directores. Bien entendido que, con la denominación de Directores, se comprenden también a cuantos trabajan en la labor de formación de las Numerarias o de los Numerarios, en los Centros de Estudios; y en la tarea de selección y formación de las nuevas vocaciones, en las casas de San Rafael, según se ha explicado en la nota 2. Es evidente que la casi totalidad de las normas que el Padre señala en esta Instrucción valen para los formadores de los Oblatos y de los Supernumerarios jóvenes: las tres obras, de San Miguel, de San Gabriel y de San Rafael se entrelazan y complementan constantemente.
+
+# 6
+
+2\) En los comienzos, sucede que algunos -envidiosos de otras actividades o deseosos de un monopolio- se preocupan del trabajo que desarrollan determinadas asociaciones de apostolado, siendo esa preocupación motivo de distracciones y, a veces, de flojedad en su actuación dentro de la Obra (10).  
+  
+**nota** (10): Nuestro espíritu no entiende de monopolios, en la labor apostólica dentro de la Santa Iglesia de Dios. Son las mismas ideas claras, en defensa de la libertad, que hemos visto en otras Instrucciones: cfr. <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 19-III-1934, nn. 11-13, 22-24; <u id="bkmrk-instrucci%C3%B3n-1">Instrucción</u>, 1-IV-1934, n.14, con sus notas respectivas.
+
+# 7
+
+<u id="bkmrk-es-preciso-evitar-es">Es preciso evitar este escollo</u>. Acordaos de aquella respuesta de Jesús a San Juan, cuando este apóstol -con inexperiencia de juventud- también se preocupaba, doliéndole que otro <u id="bkmrk-qui-non-sequitur-nos">qui non sequitur nos</u>, que no es de nuestro grupo (<u id="bkmrk-marc">Marc</u>. IX, 37-39) hiciera milagros.
+
+# 8
+
+La unidad del apostolado no es uniformidad: en el jardín de la Iglesia de Cristo, siempre hubo, hay y habrá una variedad admirable de hermosas flores, distintas por el aroma, por el tamaño, por el dibujo y por el color.
+
+# 9
+
+Procuremos reaccionar así: El Señor nos bendiga a todos. El campo es grande. Yo... a lo mío, a lo nuestro: que es mi único camino. -Y no dudéis que, de este modo, agradamos a Dios (11).  
+  
+**nota** (11): Nuestro Padre ha escrito estas palabras movido por su alegría ante el trabajo de todos los que sirven a la Iglesia: siempre ha defendido -es como un estribillo, en los labios del Padre- **la unidad del apostolado**; y, dentro de la unidad, **el pluralismo y la libertad de todos**. - Pero quizá le impulsara también a insistir, en las ideas que comentamos, la necesidad de grabar fuertemente en las almas de nuestros hermanos el convencimiento de que nosotros no estábamos haciendo **una cosa más**; sino que habíamos de cumplir la clara Voluntad de Dios, y hacer una obra divina. Se trataba de iluminar a quienes no se daban cuenta quizá de la grandeza de nuestra misión, y de este modo se podían distraer en el camino, pensando en lo que hacían los demás. Cfr. <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 19-III-1934, nn. 8-13, 26-28.
+
+# 10
+
+3\) Tened presente que no podemos abandonar la formación de la juventud de la Obra, creyendo -necedad grande sería- que basta con la que recibe en sociedades juveniles confesionales oficiales y privadas (12).  
+  
+**nota** (12): aparte de las dificultades mencionadas en la nota anterior, se entrevén otras, que venían de fuera. Algunos movían a otros y decían: ¿para qué han de trabajar éstos, si ya estamos nosotros? - Realmente no **estaban**, porque nuestra tarea era muy distinta; y distintos también el espíritu y el modo. **estaban** en esas sociedades juveniles oficiales o privadas, en las que no se requería una vocación divina, ni una dedicación absoluta y permanente. Pero continuaban lamentándose de que otros, **que no eran de su grupo**, no sólo se ocupaban en una nueva obra apostólica, sino que además dedicaban parte de su tiempo a formarse, en lugar de ayudarles directamente -no quedaba un minuto libre al día-, trabajando también con ellos, en los apostolados tradicionales de diversas asociaciones de fieles. Este pasaje es una prolongación y como una consecuencia de los anteriores. **La unidad del apostolado no es uniformidad**...: **El campo grande**... No todos querían comprender estas grandes verdades, y pretendían adjudicarse **campos propios** de apostolado: el primer **aldabonazo** que recibió el Padre en este sentido -presagio de las contradicciones que el Señor permitió después- le vino de una sacerdote, que ya en 1940 le insinuó que no trabajara con estudiantes. La reacción del Padre ha sido siempre la misma: el amor a la libertad de las conciencias; el respecto a las almas, que son de Dios; y seguir trabajando con todos, estudiantes o no. **El campo es grande. Yo... a lo mío, a lo nuestro: que es mi único camino**. Conviene hacer notar que el Padre, en estos pasajes -nn. 6 y 10-, compara otra vez la Obra con las asociaciones de fieles, no con los religiosos, con los que no había posibilidad de confundirnos.
+
+# 11
+
+Esa formación hemos de darla nosotros: porque la Obra tiene un sello y carácter especialísimo, que la distingue de las demás obras, y, consiguientemente, la Obra tiene por labor <u id="bkmrk-exclusiva">exclusiva</u> la formación de sus miembros (13).  
+  
+**nota** (13): Era la época de crecer **para adentro**, dedicados especialmente a la formación de los primeros miembros de la Obra. Formación a la que el Padre ha dado siempre la máxima importancia, porque <u id="bkmrk-nemo-dat-quod-non-ha">nemo dat quod non habet</u>, y nuestro apostolado es el de **dar doctrina**: y -comenta el Padre- **porque si damos a Dios todo, con entrega de holocausto -nuestro nombre, nuestra vida, nuestro amor-, es justo y es necesario que intentemos conocer lo mejor posible a Dios, que es el objeto de ese amor nuestro.** -La actividad exclusiva de la Obra, dice el Padre, es la formación de sus miembros. Todas las tareas de apostolado las hacen después los socios de la Obra con el ejemplo de su vida y la luz de su doctrina, en una silenciosa pero fecundísima labor personal: o bien -como especifica el Padre en el <u id="bkmrk-derecho-peculiar">derecho peculiar</u>- como ciudadanos que se unen a otros ciudadanos, de la Obra o ajenos a nuestra Familia, para llevar a cabo apostolados, de los que ellos responden ante la autoridad competente. La Obra responde moralmente sólo de las labores corporativas. -Da alegría copiar algunas palabras de la carta que, firmada por el Cardenal Pizzardo, escribió a nuestro Padre la Sagrada Congregación de Seminarios y Universidades con motivo de las bodas de plata de la Obra, a proposito de la formación de los miembros de la Obra. <u id="bkmrk-ella%2C-illustre-e-ben">Ella, illustre e benemerito Fondatore dell'Opus Dei, ha saputo compiere non senza speciale aiuto di Dio il sapiente ordinamento dei Regolamenti della Sua Istituzione, specie per quanto riguarda la sana e profonda formazione dei Sodali, come universitari e studiosi non solo di tutte le scienze e professioni civili, ma anche delle ecclesiastiche</u>. <u id="bkmrk-e%27-infatti-a-conosce">E' infatti a conoscenza di questa Sacra Congregazione che, in applicazione dei criteri sanciti dai loro Regolamenti, è stata adottata una "Ratio studiorum", corroborata ormai da una felice esperienza, secondo la quale tutti i Sodali Numerari laici hanno l'obbligo di seguire, oltre il biennio filosofico, anche il quadriennio completo di Sacra Teología, secondo lo spirito della Constituzione Apostolica "Deus scientiarum Dominus", con quei complementi che si addicono alle peculiari necessità dell'Opus Dei</u>. <u id="bkmrk-a-nessuno-dovr%C3%A0-dest">A nessuno dovrà destar meraviglia il fatto che ai laici dell'Opera venga richiesto il non lieve onere dello studio anche delle discipline ecclesiastiche alla stregua dei Sacerdoti: certamente ciò constituisce una perfezione che vorremo dire ideale, da proporsi a modello a quanti desiderano unire la solida preparazione professionale -tale da affermarli nei diversi campi del sapere umano- con quella seria formazione dottrinale religiosa, che ne completi al massimo lo svilupo della personalità. L'unire le discipline cosidette profane con quelle ecclesiastiche, mentre le integra e le completa tra loro, offre ai Sodali armi più efficaci per la loro azione apostolica, ed eleva le loro anime verso il Signore di tutte le scienze. Ottima, a tal fine, la prassi vigente presso i Centri di Studi dell'Istituzione di far seguir ad alcuno dei corsi quadrimestrali, nei quali si articolano il biennio de filosofia e il quadriennio di teologia, un periodo di tempo nel quale il Sodale, pur continuando l'esercizio della sua professione civile, matura le cognizioni acquisite mediante lo studio e la riflessione personale per diversi mesi, sotto l'immediata e vigile guida del Direttore degli studi, armonizzando così le propie esigenze professionali con quelle degli studi ecclesiastici</u>. <u id="bkmrk-con-particulare-dile">Con particulare dilezione pensiamo ai Sacerdoti Numerari, che dopo aver svolto da laici un lungo periodo d'apostolato specifico dell'Opus Dei in mezzo alla società civile, son chiamati al Sacerdozio dal Presidente Generale, e tutti conseguono una laurea ecclesiastica. E ci è caro rilevare che non solo i Sacerdoti, ma anche tutti i membri laici destinati ad essere docenti nei Centri di formazione dell'Opus Dei convengono a Roma per conseguire il grado ecclesiastico superiore in uno degli Atenei dell'Urbe. Saggia e lungimirante è stata la prudenza della Signora Vostra Reverendissima che a questo scopo, senza risparmiare fatiche e sofferenze, ha eretto nell'Urbe, nell'anno 1948, il Collegio Romano della Santa Croce, che nel prossimo anno giubilare dell'Opus Dei raggiungerà la consolantissima cifra di circa 150 alunni provenienti da diverse Nazioni d'Europa e di America</u> (24 de septiembre de 1953). -Otro documento de la Santa Sede, enviado por el Cardenal Valeri, con el mismo motivo, alababa <u id="bkmrk-quella-soda-individu">quella soda individuale formazione ascetica, culturale, professionale ed apostolica che incomincia su solide basi e continua, poi, ininterrota per tutta la vita</u> (25 de septiembre de 1953).
+
+# 12
+
+4\) Conviene no olvidar que <u id="bkmrk-somos-compatibles-co">somos compatibles con toda clase de actuaciones de apostolado</u>. La Obra no actúa: como si no existiese (14).  
+  
+**nota** (14): **No actúa: como si no existiese**. No se trata de un <u id="bkmrk-secreto-social">secreto social</u>, porque la Obra es bien conocida y no tenemos ningún secreto que guardar, sino de un criterio espiritual: la Obra forma a sus miembros, y éstos trabajan como ciudadanos. Recoge el Padre este espíritu de nuestro <u id="bkmrk-derecho-peculiar">derecho peculiar</u>; y, aunque nacen luego las <u id="bkmrk-obras-corporativas">obras corporativas</u> -de este proceso, de esta evolución o crecimiento, se escribiría detalladamente a su hora con criterio histórico, ascético y canónico-, el apostolado personal de los socios será siempre el quehacer más intenso y quizá el más eficaz, aunque pase desconocido (cfr. nota 13).
+
+# 13
+
+Venimos a servir -nuestra ambición es servir: <u id="bkmrk-serviam%21">serviam!</u>- y, por tanto, jamás habrá concurrencia, ni colisión con ninguna sociedad, congregación u orden religiosa (15).  
+  
+**nota** (15): Era lógico y sobrenatural que el Padre hiciera esta afirmación, porque siempre ha visto la labor de la Obra como un **servicio desinteresado a la Iglesia**. Abundando en el mismo pensamiento, suele decir nuestro Padre que **se necesita muy buena voluntad para chocar con el Opus Dei.**
+
+# 14
+
+5\) <u id="bkmrk-vais-a-encontrar-dif">Vais a encontrar dificultades grandes</u>, para vuestro trabajo de formación. Pero <u id="bkmrk-aetatem-habetis">aetatem habetis</u>, ya tenéis edad -os digo, como del ciego de nacimiento dijeron sus padres (<u id="bkmrk-ioann">Ioann</u>. IX, 21)- para hacer frente a esos obstáculos.
+
+# 15
+
+De ordinario, no los esquivéis; sino que, puesto el corazón en Dios, debéis afrontarlos y resolverlos. ¿Acaso no es nuestro grito: Dios y audacia? ¿Y acaso no nos dice la Escritura Santa (I <u id="bkmrk-ioann">Ioann</u>. III, 2) que <u id="bkmrk-nunc-filii-dei-sumus">nunc filii Dei sumus</u>, que ahora somos ya hijos de Dios? (16).  
+  
+**nota** (16): De nuevo, se viene a la pluma del Padre el sentimiento de la filiación divina, que hace afrontar con audacia y resolver con la gracia de Dios todas las dificultades (cfr. nota 6). -**Dificultades**. Dificultad no pequeña llevaba consigo, entonces, la obligación misma de formarse: ya que, de una parte, los miembros de la Obra tenían que dedicarse a nuevos estudios, los estudios internos; de otra, convenía que estos estudios -y la misma condición de miembros de la Obra, que **jurídicamente** aún no existía- pasaran inadvertidos, hasta que no llegara una aprobación final, <u id="bkmrk-in-scriptis">in scriptis</u>, de la Obra, por parte de la autoridad diocesana, que desde el primer momento alentó y bendijo la Obra; y, finalmente, se hacía preciso decir algo a parientes y amigos. -Otra dificultad, que era necesario superar, estaba constituida por el hecho de que, en aquella época, existía en España el prejuicio muy extendido de que, para cultivar una profunda vida interior, era necesario huir previamente del mundo.
+
+# 16
+
+<u id="bkmrk-hechas-estas-adverte">Hechas estas advertencias</u>, no perdáis de vista que, estando los Directores a más altura que los demás hermanos vuestros, habéis de ser modelo y espejo, donde todos se miren.
+
+# 17
+
+Como ocupáis más alto lugar, vuestra caída sería difícil que no produjera la de otros, a quienes habríais de arrastrar con el peso de vuestro prestigio (17).  
+  
+**nota** (17): Una nueva invitación a vivir el sentido de responsabilidad, que con tanto empeño nos inculca constantemente el Padre.
+
+# 18
+
+<u id="bkmrk-el-formador-mal-form">El formador mal formado</u> -porque no vive la <u id="bkmrk-esclavitud">esclavitud</u> de la Obra (18)- es rueda principal de la máquina, que se niega a andar y entorpece toda la marcha normal del apostolado; es un obstáculo, puesto de través en el camino de nuestra Obra, que, si no hace imposible seguir adelante, retarda y destruye el orden y la armonía del conjunto.  
+  
+**nota** (18): Al principio de la Obra, se llamaba **Esclavitud** a la **Fidelidad**. Pero nunca le gustó al Padre ese término, y lo cambió pronto.
+
+# 19
+
+<u id="bkmrk-trabajad%2C-llenos-de-">Trabajad, llenos de esperanza</u>: plantad, regad, confiando en el que da el incremento, Dios (I <u id="bkmrk-cor">Cor</u>. III, 7). Y, cuando el desaliento venga, si esta tentación permitiera el Señor; ante los hechos aparentemente adversos; al considerar, en algunos casos, la ineficacia de vuestros trabajos apostólicos de formación; si alguien, como a Tobías padre, os preguntara: <u id="bkmrk-ubi-est-spes-tua%3F">ubi est spes tua?</u>, ¿dónde está tu esperanza?..., alzando vuestros ojos sobre la miseria de esta vida, que no es vuestro fin, decidle con aquel varón del Antiguo Testamento, fuerte y esperanzado <u id="bkmrk-quoniam-memor-fuit-d">quoniam memor fuit Domini in toto corde suo (Tob</u>. I, 13), porque siempre se acordó del Señor y le amó con todo su corazón: <u id="bkmrk-filii-sanctorum-sumu">filii sanctorum sumus, et vitam illam expectamus, quam Deus daturus est his, qui fidem suam nunquam mutant ab eo</u>; somos hijos de santos, y esperamos aquella vida que Dios ha de dar a quienes nunca abandonaron su fe en El (<u id="bkmrk-tob">Tob</u>. II, 18).
+
+# 20
+
+El fruto de nuestros trabajos es seguro que lo encontraremos en la Patria (19).  
+  
+**nota** (19): Fortaleza, fe, esperanza: procura el Padre promover, en sus hijos mayores de aquel tiempo, una visión recia y sobrenatural de su apostolado.
+
+# 21
+
+<u id="bkmrk-y%2C-ahora%2C-os-apuntar">Y, ahora, os apuntaré</u> -quizá con un poco de desorden: la materia no consiente otra cosa- <u id="bkmrk-unas-santas-precauci">unas santas precauciones o industrias humanas</u> que la experiencia de varios años me enseñó, para que más fácilmente podáis conseguir vocaciones y formarlas.
+
+# 22
+
+Pero, antes, bueno será recordaros, de pasada, que hagáis una verdadera selección entre los jóvenes: porque Jesús no quiere en su Obra número, sino calidad (20).  
+  
+**nota** (20): **Instrucción**, 1-IV-1934, nn. 63-68. Véanse también los Decretos de aprobación: 24-II-1947, p. 9; 16-VI-1950, pp. 30-32. -Aunque no se busca el número, sino la idoneidad de las vocaciones, el Señor ha bendecido de tal manera la labor del Padre, que hoy se ve rodeado de tantos hijos e hijas por todo el mundo, que no se puede dejar de levantar el corazón a Dios en acción de gracias. Transcribimos unos párrafos, en los que el Cardenal Tedeschini -que había sido representante del Santo Padre en España, cuando nació la Obra- mostraba al mismo tiempo su admiración ante el número de vocaciones, promovidas por el Señor, y ante esa selección: <u id="bkmrk-alegr%C3%ADa-grande-me-tr">Alegría grande me trae la próxima fiesta del 2 de octubre, por evocar ella el acontecimiento que tan grabado está en nuestros corazones, y que no ha podido transcurrir sin que la mano de nuestro amadísimo Padre Santo se levantara a bendecir una vez más y de la manera más expresiva lo que Su paternal corazón tantas veces había delante de mí bendecido con palabras reveladoras del consuelo, que el Pontífice experimentaba, y de las esperanzas que las conseguidas realidades permitían concebir</u>. <u id="bkmrk-el-cumplirse-cinco-l">El cumplirse cinco lustros desde la fundación de un instituto, pocas veces llama la atención, y menos aún despierta interés, dado que veinticinco años sólo pueden bastar para comienzos y nunca para progresos. El Opus Dei, con la Sociedad Sacerdotal de la Santa Cruz, nació en cambio grande y maduro, por la inspirada oportunidad de la idea, oculta antes en el anhelo de los tiempos, y confiada ahora por Dios a la virtud sacerdotal y al prestigio personal del egregio Fundador: se abrió el camino a través de dos guerras, la Hispana y la segunda mundial; renovó, como en el Evo Medio, su llamada, no ya a una clase, sino a toda la sociedad, empezando por los selectos, intelectuales, y descendiendo a la universalidad del pueblo cristiano y de las cristianas familias; ganó la difícil simpatía de los jóvenes estudiosos y aun de los mas favorecidos por su posición en el mundo, y los llevó, como en los admirables tiempos de San Benito, de Santo Tomás de Aquino y de San Bernardo, con fuerza irresistible, a dejarlo todo, nombre, familia, bienestar, porvenir, por amor de Dios, en forma sin embargo tan acertadamente singular que la acogida tomó aspecto de fenómeno social nuevo</u>. <u id="bkmrk-y-me-place-recordar%2C">Y me place recordar, pues presente era yo, que brotó el Opus Dei en el silencio; se reveló sin ruido; se extendió sin fatiga; y llenó en pocos años, más que los claustros, el mundo, arrastrando cuantos había de generosos, de abnegados, de entusiastas. Somos de ayer y lo hemos llenado todo, decían los primeros cristianos, y lo repiten hoy los hijos de Mons. Escrivá. Lo que para los extraños es asombro, para ellos es naturalidad; y para la Iglesia es orgullo y consuelo. ¡Oh cuántas y cuáles vocaciones! Yo las conozco: yo puedo compararlas; puedo admirarlas. Lo que no puedo es contarlas. De donde menos era de esperar, naciones, carreras, oficios, de ahí más espontáneas, y, lo que más importa, más espirituales han venido los reclutas; y cuantos más instantes para ellos (por no desertar ni ambiente, ni profesiones, ni hábitos de aquel mundo que hay que curar) los peligros, tanto más adiestradas las legiones, y más interiores las armaduras de los nuevos ejércitos</u> (Carta del Cardenal Tedeschini a nuestro Fundador, del 24 de septiembre de 1953, con ocasión de las bodas de plata de la Obra). -Diez años antes -y nueve después de haber escrito el Padre esta Instrucción-, también el Revmo. Ordinario de Madrid, en su decreto de erección de la Obra, hablaba del número y la calidad de las vocaciones que el Señor iba suscitando: <u id="bkmrk-cui-piae-institution">Cui piae Institutioni divinus favor iam inde a primordiis constans adfuit, sese praecipue manifestans tum numero et qualitate ad eamdem advolantium iuvenum integritate aeque ac ingenio florentium uberrimis ubivis ab eadem collectis, tum denique signo contradictionis, quae operum Dei sigillum semper exstitit</u> (Decreto de aprobación, 8-XII-1943, p. 4). -Se citan aquí estos documentos para que levantemos el corazón a Dios, en acción de gracias. Y para repetir una vez más lo que tantas veces nos ha dicho el Padre (cfr., por ejemplo, **Instrucción**, 1-IV-1934, **passim**): la selección es la idoneidad, la capacidad de entregarse a Dios para buscar la perfección cristiana en medio del mundo, haciendo con la posible perfección humana el propio trabajo ordinario.
+
+# 23
+
+1\) No olvidéis que <u id="bkmrk-ira-non-habet-miseri">ira non habet misericordiam</u>, la ira no tiene misericordia (<u id="bkmrk-prov">Prov</u>. XXVII, 4). <u id="bkmrk-dominad-vuestro-geni">Dominad vuestro genio</u>, vuestro mal genio.
+
+# 24
+
+a. Cuando hayáis de reprender, no lo hagáis de pronto. Tardad, y que haya -primero y al final- unas palabras de afecto para el reprendido.
+
+# 25
+
+b. Nunca empleéis burlas, ni ironías, ni tijeretazos. No vaya a ser que, con la ilusión de santificar a alguien, lo destrocéis. Si en determinado caso concreto hay que salirse de esta norma, pensadlo bien delante de Dios antes de obrar.
+
+# 26
+
+c. Al hacer advertencias en público o al asentar una doctrina, nunca personalicéis, como no sea afectuosamente, en tono de broma.
+
+# 27
+
+d. Necesitáis una prudencia extremada, para no hablar de la Obra más que cuando convenga. Y, entonces, dadla a conocer con discreta indiscreción (21).  
+  
+**nota** (21): Cfr. esta instrucción, nota 16; **Instrucción**, 1-IV-1934, nn. 15, 16, 41, 42, con las notas 15, 41 y 42.
+
+# 28
+
+e. No os enfadéis delante de aquellos a quienes forméis, pase lo que pase.
+
+# 29
+
+f. Habéis de estar dispuestos a dominar las respuestas naturales, ante las preguntas muchas veces inoportunas de los jóvenes, teniendo para ellos las respuestas sobrenaturales, de que os hablé en otra Instrucción (22).  
+  
+**nota** (22): **Instrucción**, 1-IV-1934, n. 47.
+
+# 30
+
+g. No queráis acortar las confidencias de los muchachos, ni interrumpir bruscamente el aluvión de sus preguntas, a veces impertinentes e indiscretas. Por el contrario: aprended a escuchar, a interesaos por todos sus pequeños asuntos. Yo os aseguro que es éste un magnífico medio de apostolado.
+
+# 31
+
+h. Creedles, cuando afirman o niegan. Al menos, no manifestéis incredulidad. Esto les llena de confianza y les obliga a ser, de ordinario, escrupulosamente fieles (23).  
+  
+**nota** (23): ¡Cuántas veces hemos oído repetir al Padre que tiene **más confianza, en la afirmación de uno de sus hijos, que en la de mil notarios juntos y unánimes!** De esta manera, hacía que se acrecentase en todos ese sentido de responsabilidad, de que antes hablábamos: y, como consecuencia, se aprendía a amar más y más la objetividad, la sinceridad.
+
+# 32
+
+2\) Cuidad de <u id="bkmrk-no-tomar-a-broma">no tomar a broma</u> ningún detalle de la Obra, por insignificante que os parezca.
+
+# 33
+
+Ni digáis cosas de humor, entre vosotros, delante de los chicos: porque todo se presta a faltas de respeto (24).  
+  
+**nota** (24): Hay mucha experiencia propia en estas **santas industrias**. Así podemos entender bien ahora aquellas peticiones del Padre, en su oración, al verse **con la gran carga de fundar la Obra sin más medios humanos** -según le hemos oído decir tantas veces- **que ventiséis años y buen humor: ¡Señor** -clamaba al Cielo-, **dame ochenta años de gravedad!**
+
+# 34
+
+3\) Trabajad con el mismo entusiasmo, si la gente responde a vuestro esfuerzo y os veis rodeados de jóvenes, que si os encontráis solos o poco menos.
+
+# 35
+
+Recordad que la obra de San Rafael <u id="bkmrk-se-comenz%C3%B3-con-tres-">se comenzó con tres muchachos</u>. Y, en aquella primera reunión, llenos de Fe y de Amor, hicimos la exposición del Santísimo Sacramento, con igual alegría y con igual agradecimiento a Dios que si hubieran sido tres mil (25).  
+  
+**nota** (25): Se refiere aquí el Padre a la primera vez que les reunió para darles un Círculo o clase de formación, bajo ese nombre de obra de San Rafael: ya llevaba años el Padre trabajando con gente joven, y con actividades que se mantendrían luego en la Obra de San Rafael: meditaciones, charlas, visitas a los pobres, dirección espiritual, apostolado epistolar. Antes de esa primera reunión, de que habla aquí el Padre, solía recibir a muchachos, con los que inició la Obra de San Rafael, en casa de la Abuela; donde, entre otras costumbres, surgió la de hacer cada día el comentario del Evangelio ante una imagen de la Santísima Virgen, que hoy se conserva en Roma, en el retablo del Oratorio de Santa María **Stella Orientis**, en nuestra sede Central. Otras veces, el apostolado del Padre con los muchachos de San Rafael era itinerante: paseando por el Retiro, o reuniéndolos en un bar como el Sotanillo, etc. -Cuando reunió a aquellos tres en el asilo de Portacoeli, nos ha dicho el Padre en muchas ocasiones que, **al dar la bendición con el Santísimo, no vio solamente tres muchachos: sino tres mil, trescientos mil, tres millones...; blancos, negros, amarillos, de todas las lenguas y de todas las latitudes**. Demos gracias a Dios, que ha concedido al Padre la alegría de admirar cómo se van colmando sus esperanzas.
+
+# 36
+
+Bien podemos afirmar que vivimos la parábola del grano de mostaza, que <u id="bkmrk-cum-seminatum-fuerit">cum seminatum fuerit... minus est omnibus seminibus</u>, cuando se siembra... es la más pequeña de las simientes. Pero, llega a ser tal su desarrollo, <u id="bkmrk-ut-possint-sub-umbra">ut possint sub umbra eius aves coeli habitare</u>, que las aves del cielo pueden reposar bajo su sombra (<u id="bkmrk-marc">Marc</u>. IV, 31-32).
+
+# 37
+
+4\) <u id="bkmrk-no-habl%C3%A9is-de-pol%C3%ADti">No habléis de política</u>, en el sentido corriente de la palabra, y evitad que en nuestras casas se hable de partidos y banderías. Hacedles ver que en la Obra caben todas las opiniones, que respeten los derechos de la Santa Iglesia (26).  
+  
+**nota** (26): Este consejo se debe no solamente a la necesidad de evitar divisiones o rencores, sino, sobre todo, al respeto que siempre ha tenido el Padre a la libertad de los demás: y esto le lleva a decir que, **en lo humano, la herencia que nos quiere dejar es**, precisamente, **el amor a la libertad y el buen humor**. -Más tarde, codificó en nuestro **derecho peculiar** esta libertad personal de los miembros de la Obra respecto a las ideas políticas; libertad que no reconoce más límites que los que la fe y la moral imponen a cualquier católico. -La norma que nos da el Padre, en este pasaje de la Instrucción, tiende por una parte a hacer que nuestras casas sean **remanso de paz** y de santa y alegre convivencia; y, además, como se ha dicho antes, a confirmar a todos en la libertad, sin más límites que los que marquen el Papa y los Obispos, a todos los fieles católicos. ¡Cuántas veces hemos oído al Padre explicar estas ideas!
+
+# 38
+
+5\) <u id="bkmrk-nunca-manifest%C3%A9is-pr">Nunca manifestéis predilecciones</u>. Que jamás haya amistades particulares, como hasta aquí no las hubo. En cuanto sintáis que aparece un afecto que se sale de la común fraternidad, comunicadlo sencilla y confiadamente al Director de la casa.
+
+# 39
+
+Poned un especial empeño en que los jóvenes que forméis no se apeguen a vuestras personas, haciendo camarillas y grupitos. Por el contrario, fomentad en ellos la caridad, la verdadera fraternidad, y el respeto, el cariño y la completa adhesión a la autoridad de la Obra (27).  
+  
+**nota** (27): Una consecuencia de la limpieza de corazón y del hecho de estar libres de toda clase de ataduras humanas, es la perfecta unidad de voluntades, dentro de la Obra: y, al mismo tiempo, esta unidad fuerte y sentida es garantía segura contra toda clase de vínculos humanos, que empequeñecen y achican el horizonte apostólico. -No olviden jamás los Directores y los sacerdotes que misión principalísima suya es la de conservar la unidad espiritual, material y jurídica de la Obra: y que, en consecuencia, deben velar con todas sus fuerzas para que jamás se formen grupos o grupitos de hermanos nuestros en torno a ellos.
+
+# 40
+
+Muchas veces os sucederá que, al ponerse en contacto con el espíritu de la Obra, sufren los muchachos un deslumbramiento, que les lleva a manifestar su agradecimiento y su gozo interior, con lágrimas en los ojos, con palabras y con hechos de adhesión al formador. Rectificad ese agradecimiento: que vean cómo todo lo deben al Amor Misericordioso de nuestro Padre-Dios, y sólo a El agradezcan su llamada a la Obra (28).  
+  
+**nota** (28): Esta doctrina llevará de modo especial a los Directores y a los sacerdotes de la Obra a humillarse constantemente, porque el Señor les eligió para ayudar a formar a sus hermanos. Y les hará sentir el peso -la carga y la eficacia- de ser instrumentos de unidad.
+
+# 41
+
+Hijos: <u id="bkmrk-amad-con-el-amor-de-">amad con el amor de Dios</u>. Sed objetivos; no, apasionados. Y, de este modo, contribuiréis eficazmente a que una vez más se cumpla en nosotros la Escritura, pudiéndose decir de todos los nuestros aquello que en los Hechos (IV, 32) se lee de los primeros: <u id="bkmrk-credentium-erat-cor-">credentium erat cor unum, et anima una</u>, eran un solo corazón y una sola alma (29).  
+  
+**nota** (29): Hace años el Padre dispuso que se hiciera un repostero, que primero estuvo en una de nuestras casas de Madrid y ahora está en Coimbra, con esas palabras de los Hechos, tan meditadas y tan comentadas por nuestro Fundador: <u id="bkmrk-credentium-erat-cor--1">Credentium erat cor unum, et anima una</u> (<u id="bkmrk-act">Act</u>. IV, 32): ¡un solo corazón y una sola alma! Y, como para aclarar más su pensamiento, hizo añadir estas palabras: <u id="bkmrk-ubi-thesaurus%2C-cor">ubi thesaurus, cor</u> (cfr. <u id="bkmrk-matth">Matth</u>. VI, 21). Un solo corazón, puesto donde está el tesoro: la Obra, que nos lleva a Dios.
+
+# 42
+
+<u id="bkmrk-para-nuestros-sacerd">Para nuestros sacerdotes</u>, unas palabras: cuidad con especial empeño de la guarda de la común fraternidad, evitando escrupulosamente todo lo que pueda producir divisiones (30). Por eso, que nunca salga de vuestros labios, refiriéndose a vuestros hermanos que habitualmente se confiesan con vosotros (31), esta frase: mis dirigidos. -En la Obra solamente dirige la autoridad. De este modo, no habrá que repetir aquello de Pablo a los de Corinto: <u id="bkmrk-obsecro-autem-vos%2C-f">obsecro autem vos, fratres, per nomen Domini nostri Iesu Christi, ut... non sint in vobis schismata: sitis autem perfecti in eodem sensu et in eadem sententia</u>; encarecidamente os ruego, hermanos, por el nombre de nuestro Señor Jesucristo,... que no haya entre vosotros cismas, ni partidos: antes bien, viváis perfectamente unidos en el mismo pensar y en el mismo sentir (I <u id="bkmrk-cor">Cor</u>. I, 10) (32).  
+  
+**nota** (30): Son los sacerdotes -se lo hemos oído mil veces al Padre- uno de los instrumentos de unidad, en nuestra Obra.  
+  
+**nota** (31): Esta indicación va dirigida a aquellos sacerdotes de la Obra que han sido nombrados confesores ordinarios de alguna casa, Centro o Grupo: ya que, sin este nombramiento, ninguno oirá <u id="bkmrk-habitualmente">habitualmente</u> -si no hay un permiso especial- las confesiones de sus hermanos. -No parece necesario hablar aquí de la libertad que todos los miembros de la Obra tienen para confesarse con quien quieran, según las prescripciones del derecho canónico y de nuestro <u id="bkmrk-ius-peculiare">Ius Peculiare</u>, y el **consejo imperativo** que, para confirmar esa libertad y defender nuestro espíritu, nos da el Padre en la <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 1-IV-1934 (n. 80, con la nota 74). -Recuérdese en cambio que nuestro sacerdotes no son los directores espirituales de los miembros de la Obra, como se explica perfectamente en varios Documentos del Padre: **en la Obra solamente dirige la autoridad**, escribe a continuación nuestro Fundador, en este mismo pasaje de la Instrucción que anotamos.  
+  
+**nota** (32): **En la Obra solamente dirige la autoridad**. Esta doctrina, tan clara, ha sido expuesta de un modo breve en varios Documentos del Padre, distinguiendo entre la dirección espiritual colectiva, la dirección personal respecto a la conducta exterior, y la dirección personal respecto a las disposiciones interiores. Todas estas clases de dirección son ejercidas por la autoridad de la Obra: los demás -sacerdotes o laicos-, si no han recibido una delegación expresa, un encargo concreto, no tienen misión para dirigir a nadie en el Opus Dei, sino por medio del buen ejemplo y -con permiso de los Directores- de la corrección fraterna. La misión para ayudar en la dirección personal respecto a las disposiciones interiores de los miembros del Opus Dei se confiere, por tanto, a los que son constituidos en autoridad dentro de la Obra, prescindiendo por completo del hecho de que sean sacerdotes o seglares: y, al sacerdote nombrado para cada Centro, competa la obligación de colaborar en la dirección espiritual de los miembros de ese Centro, sólo en cuanto han sido designados personalmente para esa tarea.
+
+# 43
+
+6\) <u id="bkmrk-una-prevenci%C3%B3n-contr">Una prevención contra cierto peligro de soberbia</u>. Es natural: los chicos -sin formar, en formación- os dirán con sinceridad y en vuestra misma cara, frases que os sonrojarán, al ver cómo ellos os tienen por hombres santos o poco menos.
+
+# 44
+
+Pasadlas por alto. No os preocupen. Sois lo que sois delante de Dios, y nada más. No andéis con falsas humildades: quedad agradecidos al Señor, que cubre vuestras miserias. Lo hace porque sois sus instrumentos. Y, si no os creyeran buenos, ¿quién os seguiría? (33).  
+  
+**nota** (33): ¡Cuántos de esos sonrojos habría tenido que sufrir el Padre, que se vio obligado a escribir estas líneas! Parece como si el Señor hubiera querido compensarlos bien, permitiendo la desaprensión de los calumniadores. Ya en la época en la que redactó esta Instrucción debía el Padre tener una buena experiencia personal sobre la relatividad de los juicios de los hombres. Fue por entonces cuando escribía palabras como las que después recogió en <u id="bkmrk-camino">Camino</u>: **Otra vez...: Que han dicho, que han escrito...: En favor, en contra...: Con buena, y con menos buena voluntad...: Reticencias y calumnias, panegíricos y exaltaciones...: sandeces y aciertos... -¡Tonto, tontísimo!: ¿Qué te importa, cuando vas derecho a tu fin, cabeza y corazón borrachos de Dios, el clamor del viento o el clamor de la chicharra, o el mugido o el gruñido o el relincho?... -Además... es inevitable: no pretendas poner puertas al campo** (<u id="bkmrk-camino-1">Camino</u>, n. 688). Este espíritu no se opone al deber que tenemos todos, como buenos hijos de la Obra, de rechazar las calumnias, cuando plumas o lenguas dolosas impugnan la naturaleza sobrenatural de la Obra, o atacan injustamente las labores apostólicas de sus socios. -Del mismo modo que el Padre nos previene contra ese peligro de soberbia, muchas veces nos ha hecho ver que el conocimiento de nuestra indignidad no nos puede impedir hacer el bien a los demás, ayudándoles a vivir cristianamente al menos, y hablándoles de la obligación de ser santos. Esto sería otro tipo de soberbia, que no nos dejaría ver que todo el bien que podamos hacer es el Señor el que lo hace.
+
+# 45
+
+7\) <u id="bkmrk-ministerium-tuum-imp">Ministerium tuum imple</u>, cumple con las cargas de tu oficio, decía el Apóstol a Timoteo (II, IV, 5). <u id="bkmrk-cumplid-con-vuestro-">Cumplid con vuestro oficio de formadores</u>: sed puntuales, sed pacientes; noos excuséis, con las mil razonadas sinrazones, que no os faltarán, para aflojar en el apostolado que se os encomienda.
+
+# 46
+
+Practicad vosotros e inculcad en los jóvenes este convencimiento: en nuestro diccionario sobran dos palabras: mañana y después. ¡Hoy y ahora! No dejéis la labor para luego, y haced que no la dejen. Pronto llegaréis a comprender cómo, en igualdad de condiciones de talento, cultura, etc., el que vence la pereza de modo habitual -hoy, ahora- es el que domina siempre. El retardar -mañana, después- estropea todo el apostolado (34).  
+  
+**nota** (34): El Padre, comentando estas palabras, suele decir que **hay pocos hombres-cumbres, lo mismo que hay pocos hombres-simas: el talento medio es el que más abunda** (cfr. <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 1-IV-1934, nn. 66-67). Por eso, el que trabaja más y con mayor orden, el que hace lo que debe a su tiempo, **venciendo la pereza de modo habitual, es el que domina siempre. Bien entendido que no se trata de <u>dominar</u>, sino de ser instrumentos idóneos para <u>servir</u>**. -¡Cuántas veces nuestro Fundador nos ha repetido y nos ha hecho meditar las palabras del Señor: <u id="bkmrk-filius-hominis-non-v">Filius hominis non venit ministrari, sed ministrare</u>! (<u id="bkmrk-matth">Matth</u>. XX, 28). Pero, si queremos ser útiles, hemos de formarnos bien, hemos de trabajar con orden con eficacia. Recuérdese la leyenda que el Padre hizo grabar en piedra, en nuestra primera casa de Roma: **para servir, servir.**
+
+# 47
+
+No entendáis, por lo dicho, que hemos de precipitar la labor -sería un desorden- sino que hagamos cada cosa a su hora.
+
+# 48
+
+8\) Suplid con vuestra <u id="bkmrk-gravedad">gravedad</u> -que no es ñoñería, ni tiesura: es exterior muestra del orden y de la pureza de vuestra vida interior- la falta de años. Tened por dirigidas a vosotros las palabras del salmo: <u id="bkmrk-super-senes-intellex">super senes intellexi, quia mandata tua quaesivi</u>; entendí más que los ancianos: porque busqué y estudié y practiqué tus mandamientos (CXVIII, 100) (35).  
+  
+**nota** (35): Por entonces, refiriéndose a nosotros, eran muchos los que nos llamaban: <u id="bkmrk-los-chicos-de-d.-jos">los chicos de D. Josemaría</u>: los que esto decían se fijaban sólo en algunos, y decían que éramos jóvenes, reprochándonos esta circunstancia, y aprovechándola para hacernos pasar por otra asociación juvenil. Y el Padre comentaba: ¡**jóvenes!, es verdad: pero la Obra no es una asociación de jóvenes: ya nos haremos viejos**. -Después, durante los años 1940 y siguientes, echaban en cara al Padre que el <u id="bkmrk-opus-dei">Opus Dei</u> estaba dirigido <u id="bkmrk-por-ni%C3%B1os">por niños</u>: no era cierto. Pero, en todo caso, a los primeros que trajo el Señor al lado del Padre les hizo hombres, más que el tiempo y los azares de la guerra civil española, más que los años y las cárceles y las trincheras, la formación sobrenatural y humana que recibieron del Fundador. Gracias a Dios, podía el Padre con verdad poner en boca de sus hijos -que aunque eran jóvenes, hubieran podido ser padres de familia- las palabras del salmista: <u id="bkmrk-super-senes-intellex-1">super senes intellexi, quia mandata tua quaesivi</u>. -De la Sección femenina no se murmuraba, porque el Padre extremó la discreción en esta parte de su trabajo. Así, de modo paternal, logró evitar a nuestras hermanas lo más duro de las contradicciones, y se consiguió que fueran los varones quienes recibieran los golpes.
+
+# 49
+
+9\) <u id="bkmrk-exagerad-la-discreci">Exagerad la discreción</u>, no manifestando jamás a los otros muchachos las cosas que alguno de ellos os haya dicho en secreto, por triviales que sean (36). Y extremad sin amaneramientos la delicadeza del trato mutuo, haciendo desaparecer concretamente el uso de apodos, al que tan inclinados son los jóvenes, aun los de clase elevada y buena educación.  
+  
+**nota** (36): Las confidencias que se reciben sobre asuntos de vida espiritual, familiar, etc., constituyen -no para nosotros: para todos- un <u id="bkmrk-secreto-natural">secreto natural</u> que obliga en conciencia más o menos gravemente, según la gravedad de la materia. El Padre pide a sus hijos que tienen el oficio de orientar a otros, que sean extremadamente fieles a esta <u id="bkmrk-regla-general">regla general</u>: no impone secretos especiales.
+
+# 50
+
+10\) Nunca pronunciéis, delante de un muchacho, palabras de alabanza para él.
+
+# 51
+
+No seáis blandos: con suavidad e imperio -<u id="bkmrk-suaviter-in-modo%2C-fo">suaviter in modo, fortiter in re-, sed exigentes</u>.
+
+# 52
+
+Torpeza sería conformarse con que un alma dé cuatro, cuando puede dar seis. Acordaos de la parábola de los talentos (37).  
+  
+**nota** (37): <u id="bkmrk-matth">Matth</u>. XXV, 14-30.
+
+# 53
+
+11\) Si alguno de nuestros jóvenes va a pediros luz o <u id="bkmrk-consejos-de-car%C3%A1cter">consejos de carácter espiritual</u>, solamente debéis hablarles de su alma, de su vocación, y de la gloria y del Amor de Dios; dejando para otro rato las demás cuestiones científicas, políticas, etc., a no ser que -por especial circunstancia- estas cuestiones estén íntimamente ligadas con la santificación personal de quien os consulta (38).  
+  
+**nota** (38): Da el Padre esta norma no sólo para que, quien viene a pedir consejo espiritual, encuentre más fácilmente la luz que necesita, en el clima sobrenatural apropiado, sino también por amor a la libertad de los miembros de la Obra en el terreno social, político, científico, etc.: no pueden los Directores ni desvirtuar lo espiritual, mezclándolo con ganga humana, ni servirse de lo espiritual para fines nobles, pero meramente humanos.
+
+# 54
+
+12\) Evitando absolutamente hasta la más pequeña familiaridad, habéis de tener, para los jóvenes que forméis, una caridad abundante, un corazón grande y comprensivo; pero nunca la caridad, que con uno determinado tengamos, ha de ser falta de caridad con los demás y con la Obra.
+
+# 55
+
+Por eso, aunque os duela, es preciso rechazar sin remedio a aquellos muchachos que, por su aspecto exterior o por su volubilidad, son afeminados (39).  
+  
+**nota** (39): Queda claro que tampoco deben ser recibidas, en la Sección femenina, mujeres hombrunas. -No se interpretan estas palabras del Padre como peyorativas para las mujeres: la volubilidad, de que habla, es propia no de los verdaderos caracteres femeninos, sino de las personas cuyo carácter no es ni de varón ni de mujer. Estas personas son las que se deben evitar. Hacen falta en nuestra Obra hombres que sean muy varones; y mujeres, de las que el Padre dice en <u id="bkmrk-camino">Camino</u> que son más fuertes que los hombres... Más recia la mujer que el hombre, y más fiel, a la hora del dolor. -¡María de Magdala y María Cleofás y Salomé! -Con un grupo de mujeres valientes, como ésas, bien unidas a la Virgen Dolorosa, ¡qué labor de almas se haría en el mundo! (<u id="bkmrk-camino-1">Camino</u>, n. 982).
+
+# 56
+
+-Corazón grande, os pedía. Sí: y también cabeza. ¿No oís a Jesús, diciéndoos: <u id="bkmrk-venite-post-me%2C-et-f">venite post me, et faciam vos fieri piscatores hominum</u>, venid detrás de mí y os haré pescadores de hombres? (<u id="bkmrk-marc">Marc</u>. I, 17). No sin misterio emplea el Señor estas palabras: <u id="bkmrk-piscatores-hominum">piscatores hominum</u>, pescadores de hombres: porque a los hombres, como a los peces, hay que cogerlos también por la cabeza, por la inteligencia (40). De aquí la necesidad de que no abandonéis vuestros trabajos profesionales -carnaza para el anzuelo del apostolado- sino que procuréis sobresalir en ellos (41).  
+  
+**nota** (40): Desde el principio procuró el Padre inculcar en nosotros esa necesidad de ser **pescadores de hombres**. Tenía en su cuarto de la primera casa, un pequeño gravado que representaba a Jesús con los apóstoles metidos entre redes en una barca; y allí, de su puño y letra, nuestro Padre había escrito las palabras recogidas por San Marcos: <u id="bkmrk-venite-post-me%2C-et-f-1">Venite post me, et faciam vos fieri piscatores hominum</u> (I, 17). Y el Padre nos repetía una y otra vez este texto evangélico. -Ese grabado se conserva entre los recuerdos de la Obra: fue encontrado en las ruinas de nuestra casa de la calle de Ferraz 16, al final de la guerra civil española. **Apostolado de la inteligencia**: cfr. <u id="bkmrk-camino">Camino</u>, n. 978.  
+  
+**nota** (41): sobre la necesidad de no abandonar los propios trabajos profesionales y el deber de tener una buena preparación, que lleve a descollar en las tarea profesional de cada uno, ha insistido grandemente el Padre desde el principio de la Obra, de palabra y por escrito: en nuestro <u id="bkmrk-derecho-peculiar">derecho peculiar</u>, en las otras <u id="bkmrk-instrucciones">Instrucciones</u> y en sus <u id="bkmrk-cartas">Cartas</u>, desde las de 24-III-1931 y del 9-I-1932, y en muchos documentos enviados a la Santa Sede, y cartas mandadas a personas de la Obras o ajenas a nuestra Familia, aduciendo siempre las mismas razones: son los trabajos profesionales medio específico de santificación, instrumento de apostolado, modo de formación humana; razones que se reducen a una, es decir, a ser fieles a nuestra vocación. -Esa necesidad es además una consecuencia de nuestra pobreza, que lleva a todos los miembros de la Obra al afán de no gravar económicamente sobre el Opus Dei, y de ayudar al mantenimiento y desarrollo de los Centros de formación y de las obras de apostolado; ¡menguadas pruebas de amor a su vocación daría el que aceptara como ineludible el hecho de ser un peso para los demás, con el pretexto que fuera!
+
+# 57
+
+Y, con el prestigio de vuestro talento, y con la caridad de Cristo en vuestros corazones de hijos de Dios, arrastraréis a los chicos a todas las confidencias: que os los darán a conocer; y os permitirán ayudarles eficazmente, en la hora mala de la tentación, y hacerles comprender y practicar que, al confiar sus preocupaciones al Director, ha perdido el enemigo -la concupiscencia, cualquiera que sea- casi todo su poder (42).  
+  
+**nota** (42): **El prestigio de vuestro talento**: ésta es la base humana que el Padre exige a los que se dedican a la labor de formación. Pero este fundamento humano de nada serviría, si no se añadiera el elemento sobrenatural: **la caridad de Cristo en vuestros corazones de hijos de Dios**. Caridad de Cristo, que **no es,** dice el Padre, **una caridad seca y oficial, caricatura de la verdadera caridad, mera corrección, educación humana** -fría, que no es comprensiva, que no ve en el prójimo un hermano que sufre, necesitado de luz, de consejo, de consuelo-, **sino caridad verdadera, cariño humano y sobrenatural**.
+
+# 58
+
+No paso adelante sin explicar <u id="bkmrk-por-qu%C3%A9-hablo-del-fo">por qué hablo del formador, y no hablo más que incidentalmente del sacerdote</u>. Mirad: la Obra de Dios es eminentemente laical -empleo esta palabra en su sentido canónico (43)- y el sacerdote, en nuestro apostolado, ya lo veremos en otro documento que escribiré para vuestros hermanos sacerdotes, tiene, como norma particularísima, ocultarse y desaparecer (44).  
+  
+**nota** (43): En el sentido de que está formada en su mayoría por seglares. Concepto compatible con cuanto escribió después nuestro Fundador en el <u id="bkmrk-derecho-peculiar">derecho peculiar</u>: porque los principales cargos de dirección, que comportan una potestad de jurisdicción, están reservados a sacerdotes; y porque todos los miembros de la Obra tienen alma sacerdotal, y los Numerarios están de ordinario dispuestos a llegar al sacerdocio, libremente, si son llamados por el Padre.  
+  
+**nota** (44): <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 1-IV-1934, n. 72.
+
+# 59
+
+Los sacerdotes, por ahora -ya diré hasta cuando-, deben limitarse a la administración de sacramentos y a las funciones puramente eclesiásticas (45).  
+  
+**nota** (45): en la <u id="bkmrk-instrucci%C3%B3n">Instrucción</u> del 1-IV-1934 nuestro Fundador asentaba la doctrina general: **vosotros iniciáis la labor de proselitismo y la perfecciona el sacerdote** (nn. 69-73, con las notas 65-69). Ahora da una norma para la aplicación práctica, en aquel tiempo -**ya diré hasta cuando**, dice-, de esa teoría. -Esta norma restrictiva estaba dictada por la prudencia, y escrita con sangre: grande fue el sufrimiento que llevaron al corazón del Padre algunos de aquellos sacerdotes, que querían unirse a la Obra y que llegaron a vincularse con una promesa de obediencia a nuestro Fundador. **Todos** -asegura siempre-  **eran buenos, y aun buenísimos**: sin embargo, de dos o tres de ellos el Padre dirá -pocas veces lo ha dicho- que fueron **como su corona de espinas**. -El Señor le hizo ver muy claro -y por eso escribió en esta Instrucción esas palabras: **ya diré hasta cuando**- que los sacerdotes Numerarios debían proceder de las filas de los seglares de la Obra, que bebían directamente del Fundador -y más tarde lo recibirían de sus hijos, sacerdotes o seglares- el espíritu del Opus Dei: y vio también con claridad que solamente después habrían de venir, con el mismo espíritu de filiación, los sacerdotes Oblatos y Supernumerarios, para los que el Padre -en los años 1949 y 50- estuvo decidido a fundar otra Obra, si no hubieran tenido cabida en el Opus Dei.
+
+# 60
+
+<u id="bkmrk-dejando-algunas-otra">Dejando algunas otras prevenciones de humana prudencia</u>, que habré de haceros al final, vamos ahora a exponer: I. -Qué se propone la obra de San Rafael y II. -Cómo ha de organizarse una casa de San Rafael. Punto este último muy importante, porque la casa de San Rafael es el mejor instrumento para la captación y formación de jóvenes virilmente apostólicos (46).  
+  
+**nota** (46): Casa de San Rafael, en la terminología técnica de la Obra, es una casa en la que, con un motivo jurídico -es decir, admitido por las leyes civiles-, se recibe a jóvenes para darles una formación sobrenatural y humana.
+
+# 61
+
+Creo necesaria esta aclaración (47): la obra de San Rafael podrá y deberá realizarse también fuera de las casas de San Rafael. Por ejemplo: en un centro de la So-Co-In (48), sin duda que algunos de los nuestros tendrán ocasión de desarrollar los Cursillos de Formación, aunque no haya -precisamente por no haberla- casa de San Rafael, en la capital de que se trate. Lo mismo, en cualquier lugar universitario, si tenemos una casa <u id="bkmrk-abierta">abierta</u> de San Miguel (casa de San Pedro), a base de una academia, podrá desarrollarse la obra de San Rafael. Etc. (49).  
+  
+**nota** (47): Todo el párrafo 61 era un <u id="bkmrk-postscriptum">postscriptum</u> de la Instrucción: el Padre ha querido que, en la presente edición, fuera intercalado en esa parte del texto.  
+  
+**nota** (48): So. Co. In.: se trataba de los inicios de la obra de San Gabriel. Cfr. esta Instrucción, n. 126 y nota 95.  
+  
+**nota** (49): Esta terminología es parte de la que usaba el Padre para designar los diferentes tipos de casas, según su destino apostólico y sus características. Terminología que nuestro Fundador, al menos por ahora, ha dejado en desuso.
+
+# 62
+
+Conviene además recordar otra vez que <u id="bkmrk-la-ense%C3%B1anza-privada">la enseñanza privada no es oficio nuestro</u>: necesitamos muy pocas casas de San Rafael (50). Las suficientes para que salgan de allí directores -nuestros- para los Centros Universitarios y Residencias oficiales donde harán el trabajo de selección, enviando a nuestra obra de San Rafael el personal más escogido, los jóvenes más dispuestos que frecuenten los centros superiores oficiales (51).  
+  
+**nota** (50): Cuando el Padre escribió esta Instrucción, utilizó -es razonable- la experiencia que había tenido hasta entonces. Pero en aquella época, en España, el motivo jurídico (cfr. nota 46) más lógico para las casas de San Rafael era el de constituirlas en academias con residencias. Entendiendo en este sentido la casa de San Rafael, el Padre dice que necesitamos muy pocas, ya que la **enseñanza privada no es oficio nuestro**: esta indicación, nos la hacía entonces **otra vez más**, como consecuencia clara de las exigencias de la eficacia del apostolado, que nos llevan a trabajar **con preferencia** en los Centros oficiales, con los que es difícil competir. -Pasado el tiempo, y desaparecidas las circunstancias políticas anormales de persecución religiosa, se fue elaborando el concepto de casas de San Rafael, que comprende no sólo las destinadas al apostolado corporativo -residencias para universitarios, centros de enseñanza privada, etc.- sino además los Centros pequeños, en los que, con ocasión de facilitarles el estudio y la vida de piedad, se reúnen con variadísimos motivos los muchachos de la obra de San Rafael. -Respecto a la enseñanza privada, cfr. nota 52 de esta Instrucción.  
+  
+**nota** (51): Es también, pues, misión de las casas destinadas a labores corporativas de la obra de San Rafael -residencias, academias, etc- formar personal de nuestra Obra, idóneo para trabajar con eficacia en las universidades y en las residencias universitarias, oficiales o no, de los diversos Estados. Naturalmente, esa formación debe ser completa: la de buenos miembros de la Obra, y además la que se puede lograr en esos centros específicos, para llegar a ser directores de otros centros similares, oficiales o privados, con el ánimo de **servir** eficazmente con el testimonio de la luz, de la doctrina, del buen ejemplo. -En este pasaje de la Instrucción se dibujan ya los futuros Centros de Estudios, que en aquella época -por fuerza de las circunstancias- estaban incluidos en las casas de San Rafael: Centros que, como dice el Padre en este número que anotamos, serán relativamente pocos, en comparación con las demás actividades de apostolado. -Aunque hoy el desarrollo jurídico y práctico de la Obra ha llevado consigo la espléndida y necesaria realidad de los Centros de Estudios, las casas de San Rafael cumplen y han de cumplir siempre los dos objetivos que señala el Padre: dar el principio de la formación interna a las nuevas vocaciones, y preparar elementos directivos para centros análogos, principalmente oficiales. Respecto al número, la Santa Sede recogió de los escritos del Padre las siguientes ideas: <u id="bkmrk-ut-educatio-possit-p">Ut educatio possit profunde a candidatis assimilari et ulteriore formatione et trasformatione novi homines verique apostoli ex ipsis creari queant, arduum opus quadam veluti praeformatione incipiendum est. Nemo sane ad Opus Dei ut verum ipsius membrum directo admittitur. In coetibus per quos apostolatum "operis S. Raphaelis" sodales exercent, candidatus iuvenis probatur, educatur, praeparatur. Qui vocatus praesume potest, quia impedimentis caret, requisitis et qualitatibus ornatur et bonum de se specimen, dedit, in Collegiis et Residentiis Operis Dei, cum studiis vacat vel ipsa complet, in contactu gradatim ponitur cum spiritu intrínseco Institutionis et pedententim in diversis apostolatus operibus exercetur. Interea candidatus lente experitur et ipsius probatio completur</u> (Decreto de aprobación del Opus Dei, 16-VI-1950, pp. 31 y 32).
+
+# 63
+
+<u id="bkmrk-no-quiero-que-se-olv">No quiero que se olviden estos detalles</u>: igual labor que en las universidades oficiales habremos de desarrollar, si conviene, en los grandes centros de enseñanza privada -universidades católicas, por ejemplo-: y, en nuestras academias, jamás se darán títulos profesionales, ni siquiera certificados de asistencia. Así se evita el peligro de que, por la ley del mínimo esfuerzo, por comodidad o por un falso concepto del prestigio de la Obra -<u id="bkmrk-el-prestigio-de-la-o">el prestigio de la Obra de Dios es no tener prestigio humano: pasar oculta</u>-, al cabo de los años, algunos de los nuestros, abandonando la enseñanza oficial, trataran de formar un grandioso Estudio Mayor, iniciativa del todo opuesta al espíritu de la Obra (52).  
+  
+**nota** (52): Es interesantísima la aparente evolución que se observa, desde que el Padre escribió estas palabras hasta que redacto los sucesivos Reglamentos, especialmente los aprobados por la Santa Sede en 1950. En los diferentes textos de esos Reglamentos, el Padre recogió no sólo el espíritu de este párrafo de la Instrucción de San Rafael, sino que empleo las mismas palabras que comentamos. -El espíritu de la Obra nos lleva a procurar dar vida a organismos e instituciones no creadas por nosotros, que estén abiertas legalmente a los ciudadanos, de cada país. <u id="bkmrk-ubicumque-fuerit-cor">Ubicumque fuerit corpus, illic congregabuntur et aquilae</u> (<u id="bkmrk-matth">Matth</u>. XXIV, 28). Y, concretamente, en dependencias del Estado, al que los ciudadanos tienen obligación de servir: y con el que tratar de competir suele ser poco eficaz, porque sus medios son más abundantes que los de cualquier institución privada: es más práctico colaborar con el Estado, para que siendo ejemplares los ciudadanos también el Estado lo sea, en todos los órdenes. -Estas razones de eficacia -y la humildad colectiva de la Obra- llevan, pues, a actuar como describe el Padre en la Instrucción. -Sin embargo, también el Padre dispuso que <u id="bkmrk-membra-operis-dei-ex">membra Operis Dei exceptionaliter possint munus privatim docendi exercere collective, sive in Universitatibus Studiorum, quas sodales erigant vel moderentur, sive in Scholis Superioribus aut Collegiis, quae Institutio promoveat: quod, de cetero, tantum ut medium, nunquam ut specificus finis apostolatus sodalium admitti potest</u>. No se trata de un cambio, sino de la posibilidad de admitir una excepción, nunca como fin específico, sino como medio de apostolado: <u id="bkmrk-excepci%C3%B3n">excepción</u>, por motivos de eficacia, que habrán de ponderarse en cada caso, y para poner un freno a la tentación de abandonar lo difícil, que es la enseñanza en las Universidades estatales: **medio de apostolado**, porque la enseñanza, tanto oficial como privado, es un trabajo profesional, y el espíritu de la Obra exige que nos santifiquemos en todas las profesiones honestas, y las convirtamos en instrumento de apostolado. -De este modo, se conserva intacto el espíritu, sin que algún apostolado corporativo -iniciado después- suponga o lleve consigo ninguna contradicción. Sí entrañaría negación al espíritu de la Obra el hecho de empujar a los miembros de la Obra, sin distinción, a abandonar la enseñanza oficial; sobre todo en los países donde no hay libertad de enseñanza y donde, como ocurría en España cuando el Padre escribió esta Instrucción, la enseñanza oficial constituía o podía constituir un arma eficaz contra la Iglesia. -La aparente evolución consiste, pues, en pasar de la aplicación del espíritu de la Obra en las condiciones concretas en que entonces se encontraba en España, a la aplicación del mismo espíritu en diversas condiciones, más generales y menos extraordinarias; en las que sea más factible servir al Estado dentro de la enseñanza oficial y, al mismo tiempo, servirle atendiendo a la necesidad de defender con hechos la libertad de enseñanza, en la medida deseada por la Iglesia y por la sociedad. -He visto que el Padre, cuando al cabo de tantos años releía delante de mí esta parte de la Instrucción, ha sonreído y -me lo ha dicho- ha levantado el corazón a Dios en acción de gracias: porque, conservando intacto el espíritu, la aplicación de este espíritu se puede hacer de un modo universal y elástico según las circunstancias de los tiempos. -Quede, pues, bien claro el pensamiento de nuestro Fundador: los Centros de enseñanza <u id="bkmrk-corporativa">corporativa</u> universitaria son un medio previsto, pero excepcional, de nuestro apostolado; serán siempre, por lo tanto, relativamente pocos. Los Centros de enseñanza secundaria constituyen también una excepción que, según el criterio que nos da el Padre, concederá el Presidente General con menos dificultad: y no son excepción, cuando no se trata de obras corporativas. Finalmente, el medio ordinario de desarrollar la labor de San Rafael está formado por las residencias de estudiantes, los Centros que llamamos <u id="bkmrk-casas-peque%C3%B1as-de-sa">casas pequeñas de San Rafael</u> y otros Centros con finalidades inmediatas concretas, de los que tratará el Padre en otro Documento: todas estas residencias y centros forman una red tupida, un sistema capilar que actúa al lado de las Universidades oficiales o privadas que tengan prestigio y que, con menor peso económico que el que lleva consigo la institución de Universidades nuestras y empleando solamente Numerarios jóvenes, da un gran rendimiento de apostolado y procura numerosas vocaciones.
+
+# 64
+
+Claramente se ve, por lo dicho, que vamos a hacer el apostolado en edificios del Estado y con dinero del Estado (53).  
+  
+**nota** (53): Véase la <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 1-IV-1934, n. 24 con la nota 27. Jamás, como ahí se afirmaba, encontrará el Estado servidores más fieles que los que buscan santificarse cumpliendo su deber son lealtad y, en lo posible, con perfección.
+
+# 65
+
+<u id="bkmrk-%C2%BFqu%C3%A9-se-propone-la-o">¿Qué se propone la obra de San Rafael?</u> Como <u id="bkmrk-fin-inmediato">fin inmediato</u>, hacer una selección de jóvenes, ordinariamente universitarios, para procurar el mejoramiento de su vida cristiana, dándoles a conocer y haciéndoles practicar la vida interior, y de su vida profesional, convenciéndoles de que estudiar es obligación grave (54).  
+  
+**nota** (54): El Padre se refiere aquí a **jóvenes, ordinariamente universitarios**. En nuestro <u id="bkmrk-ius-peculiare">Ius peculiare</u> habla, de modo más general, de la Obra de San Rafael, dedicada **ad excolendos iuvenes**. -Aunque es esta Instrucción el Padre describe de modo especial el apostolado de la Obra de San Rafael entre los estudiantes, sus indicaciones han de ser aplicadas, <u id="bkmrk-congrua-congruis-ref">congrua congruis referendo</u>, a la labor de San Rafael de la Sección femenina, entre muchachas que no han de ser necesariamente universitarias; y al trabajo de toda la Obra entre gente joven idónea de cualquier clase social, tanto por medio del trato directo -**apostolado de la amistad y de la confidencia**, nos repite siempre el Padre- como el que se lleve a cabo en casas o Centros cuya razón de ser, legal y práctica, sea adecuada a la categoría social de las personas para las que se constituyen esas casa: escuelas de orientación profesional, escuelas nocturnas, escuelas dominicales o internados para sirvientas, etc. -A la pregunta con la que empieza nuestro Padre este pasaje de la Instrucción: **¿qué se propone la obra de San Rafael?**, se puede contestar: dar doctrina, formar a la juventud, con mil medios y con una perseverancia inagotable. **Es ésta una labor** -escribe el Padre- **que nunca se agota, que requiere especialmente celo por las almas y amor de Dios, paciencia, y una bondad sin límites, según aquello de San Pablo: <u>caritas patiens est, benigna est</u>; la caridad es paciente y está llena de bondad** (I <u id="bkmrk-cor">Cor</u>. XIII, 4). <u id="bkmrk-carta">Carta</u> 24-X-1942, n.6.
+
+# 66
+
+Y como <u id="bkmrk-fin-mediato">fin mediato</u>, formar vocaciones para la Obra de Dios, inclinando a los mejores a dedicarse al Señor en un celibato apostólico (obra de San Miguel), o formándolos para padres de familia y colaboradores de nuestros apostolados (obra de San Gabriel) (55).  
+  
+**nota** (55): **los mejores**: se busca una selección. Pero, naturalmente, la vocación la da Dios a quien quiere darla. Y puede haber muchos **mejores** que no reciban la vocación para la obrade San Miguel: nosotros pondremos todos los medios para provocar, con prudencia, la crisis vocacional, y Nuestro Señor perfeccionará la labor como quiera. ¡A cuántos Numerarios, hijos de Supernumerarios, les dice el Padre que se contentaría si fueran tan buenos como sus padres! -Quedan bien determinados los diversos modos divinos de seguir nuestra única vocación: y atribuidos a los Cooperadores a la obra de San Gabriel. -Nuestro <u id="bkmrk-codex">Codex</u> dice de la obra de San Rafael que es como el seminario -**el semillero**- de la Obra. La tarea de selección y de formación de la obra de San Rafael hace que los muchachos que la integran, tengan una capacidad espiritual e intelectual que les dispone, con la gracia de Dios -con la vocación- a llegar a ser miembros de la Obra: así como, con palabras del Padre, **los hogares de nuestro Supernumerarios son las escuelas apostólicas** (otras veces dice: **los seminarios**) **de la Obra**. Son dos comparaciones que ponen en resalto, con nuevo relieve, cuán diferente es nuestro modo de actuar al de los religiosos, porque no somos religiosos.
+
+# 67
+
+De donde se deduce que el <u id="bkmrk-fin-pr%C3%A1ctico-general">fin práctico general de la obra de San Rafael es</u>: selección de valores: formarlos, destacarlos y colocarlos (56). Para esto, se precisa conseguir becas, pensiones para el extranjero, y todos los apoyos oficiales (57). Pronto, si perseveramos, nos será muy fácil, con el intercambio -interayudad-, proporcionar a los nuestros una formación profesional tan eficaz y tan brillante, que les haga llegar por derecho a las cátedras y puestos de dirección e influencia, para ser testimonios de Jesucristo (58).  
+  
+**nota** (56): En otras palabras: seleccionarlos, formarlos, hacerles rendir en servicio de la Iglesia. -No se trata de crear una especie de agencia de colocaciones, ni una **sociedad de bombos mutuos**, sino de quitar obstáculos injustos -cuando los haya-, que puedan impedir la obtención del máximo rendimiento de elementos bien preparados. -**Colocarlos**: ésta es, con otro garbo pero con el mismo espíritu sobrenatural y humano, parte de la tarea que se proponen tantas beneméritas sociedades de antiguos alumnos de colegios, etc. En nuestra obra de San Rafael, esa tarea está animada por un sólido criterio sobrenatural de servir los superiores intereses de la Iglesia y de la sociedad: y se trata de prepararlos **para que ellos se coloquen**, sirviendo a la sociedad con criterio cristiano.  
+  
+**nota** (57): Es de justicia procurar esas ayudas oficiales del Estado, porque el Opus Dei colabora eficazmente en la formación de ciudadanos ejemplares. -Sin embargo, es interesante hacer constar que nuestro Padre, por determinadas circunstancias que podían ocasionar un perjuicio para la Obra, no quiso en España -durante bastantes años, a partir de la terminación de la guerra civil- ninguna ayuda oficial, de la que se han aprovechado abundantemente las diócesis, los institutos religiosos, y hasta las comunes asociaciones de fieles.  
+  
+**nota** (58): Que les haga llegar **por derecho**. Es continua la preocupación del Padre de dar la máxima formación a sus hijos, **siempre con la idea de servicio,** para conseguir esos puestos de que habla, dentro siempre de la más rigurosa y estricta justicia: **puestos** , escribe, **de dirección e influencia**; el sentido es claro, dado el espíritu de **servicio** de la Obra, y sólo puede ser interpretado como el deseo de tener mayor facilidad para el apostolado, para ser así más eficazmente **testimonios de Jesucristo**. Esta formación específica, para obtener puestos desde los que se pueda servir eficazmente, es consecuencia ineludible de la esencia de nuestra vocación. Y la necesidad de este apostolado es evidente: es preciso llegar a todos los sitios difíciles o inaccesibles para los sacerdotes y para los religiosos, teniendo la humildad suficiente para sufrir la comprensión de algunas personas buenas -y el **don de lenguas** necesario para aclararles las ideas-, que no saben atribuir a fines sobrenaturales el servicio que se hace a las almas desde los cargos oficiales, a los que nos lleva una misión de servicio a la Iglesia y a la sociedad (Decreto de aprobación, 16-VI-1950, p. 19; <u id="bkmrk-ius-peculiare%2C-passi">Ius peculiare, passim</u>).
+
+# 68
+
+<u id="bkmrk-%C2%BFc%C3%B3mo-ha-de-organiza">¿Cómo ha de organizarse una casa de San Rafael?</u> Aunque no tratamos de atar, con detalles, las actividades actuales y futuras de los miembros de la Obra -nada más lejos de nuestro espíritu- habremos de distinguir en la casa de San Rafael tres actividades distintas (llámense, en cada caso, como se llamen): la academia; los Cursos de Formación; la residencia (59).  
+  
+**nota** (59): Naturalmente, no es necesario que en las casas de San Rafael existan esas tres actividades: ya dice el Padre que no se trata de **atar** la labor actual o futura de sus hijos. El espíritu era, y es, que haya **un motivo**  que sirva de base a los Cursos de Formación, como se ha dicho en la nota 46. El único elemento que nunca puede faltar es, el constituido por los Cursos.
+
+# 69
+
+<u id="bkmrk-la-academia">La academia</u>: no podrá hacerse una labor fecunda donde no se tenga personal nuestro, para ejercer el profesorado.
+
+# 70
+
+Los profesores habrán de preocuparse de la formación de los alumnos, haciendo la selección de unos cuantos muchachos de talento -pocos, pocos- en cada curso, que, si llevan buena conducta, pasarán a los Cursos de Formación.
+
+# 71
+
+Las enseñanzas de la academia pueden ser:
+
+# 72
+
+a/ Repasos, preparando a los alumnos para sufrir los exámenes en las universidades oficiales y privadas, o en cualquier establecimiento de enseñanza superior;
+
+# 73
+
+b/ Preparación de oposiciones;
+
+# 74
+
+c/ Cursos de ampliación, explicando, por ejemplo, alguna asignatura o materia, que no se cursa en el centro oficial, por las muchas lagunas que hay en los planes de estudios;
+
+# 75
+
+d/ Idiomas: es convenientísimo mover a la gente a que estudie un par de idiomas, tanto desde el punto de vista profesional de los alumnos, como desde el punto de vista más interesante del apostolado (60).  
+  
+**nota** (60): Acaba de escribir el Padre (n. 68: cfr. nota 59) que una parte de la obra de San Rafael se puede desarrollar, precisamente por medio de la enseñanza, que es un medio para la selección de alumnos que han de ser enviados a los Cursos de Formación (n.70). Ahora, sin embargo, se limita a citar estas materias, como ejemplo de lo que se puede explicar en las academias, y nada dice sobre la labor corporativa de enseñanza. La razón está en que este Documento fue escrito con la experiencia de la España de 1935, cuando estaba aherrojada la libertad: por eso, sólo se refería a la colaboración con la enseñanza estatal -la única posible entonces- que será siempre **un modo muy eficaz** de nuestro apostolado.
+
+# 76
+
+El núcleo más numeroso de alumnos pasará sin que se le pueda, ni se le deba dar formación especial. Algo bueno se habrá hecho con ellos, aparte de evitar el mal de que fueran a centros de enseñanza indiferentes o anticatólicos.
+
+# 77
+
+Pero, no basta. Fúndese una asociación de antiguos alumnos, en cada casa. Con ellos, puede conseguirse un cierto mecenazgo, para la biblioteca, laboratorios, etc.; protección a las obras de celo -catequesis, misiones, pobres de la Virgen-, que llevan los alumnos, movidos por el grupo de San Rafael; propaganda, para la prensa, en la que colaboramos habitualmente, con el fin de hacer que sean más conocidos los ideales cristianos.
+
+# 78
+
+Y por medio de la revista de la asociación, se influirá en todos los socios para que lleven vida de piedad: sirviéndonos, finalmente, el fichero de los antiguos alumnos para tenerlos como auxiliares de nuestros apostolados, pues los Directores de la obra de San Gabriel mantendrán con ellos -con los antiguos alumnos- relación personal, al recorrer sus Centros.
+
+# 79
+
+La academia, desde luego, es un medio, para sostener económicamente la casa (61).  
+  
+**nota** (61): La obra de San Rafael requiere, como ha escrito el Padre, grande perseverancia (cfr. nota 54): sería triste cosa encender luces nuevas en las almas de los chicos, para después abandonarles y dejar que esas luces se fueran apagando. Por eso el Padre propone, por vía de ejemplo, algunos de los medios que se pueden utilizar para que el trabajo de la obra de San Rafael siga influyendo apostólicamente entre todos los que se han acercado al calor de nuestra Familia, y que -si no tienen vocación de Numerarios o de Oblatos-, pasarán después a formar parte de la obra de San Gabriel, como Supernumerarios o Cooperadores, o serán en todo caso buenos amigos. -El Padre escribe que la academia es un medio para sostener económicamente la casa: pero evidentemente puede haber otros medios, para atraer gente y para mantener la labor (cfr. notas 46 y 59). De hecho, el mismo Padre ha indicado y ha impulsado muchos otros medios de los que se sirve la obra de San Rafael, para su apostolado.
+
+# 80
+
+Los <u id="bkmrk-cursos-de-formaci%C3%B3n">Cursos de Formación</u> son la esencia de la obra de San Rafael, que habrán de cuidar los Directores con especial empeño.
+
+# 81
+
+Estos Cursos aparecerán siempre -es de grandísimo interés- como una de las varias actuaciones de un centro libre de enseñanza (62); y nunca, jamás deberá hacerse, con los chicos de San Rafael, asociación de ningún género (63).  
+  
+**nota** (62): Cuando en las casas de San Rafael no haya labor de enseñanza, por tratarse de simples residencias de estudiantes, <u id="bkmrk-clubs">clubs</u>, etc., los Cursos aparecerán siempre, en todo caso, como uno de los objetos de la labor formativa oficial del Centro. -Es evidente la idea del Padre: esos Cursos son una actividad <u id="bkmrk-secular">secular</u>.  
+  
+**nota** (63): Se trata de evitar el <u id="bkmrk-grupito">grupito</u>. No debemos sacar a nadie de su sitio: consecuencia del modo de ser de la Obra es procurar dar vida a todas las asociaciones y grupos con espíritu de caridad. No somos un grupo aparte, encerrado en sí mismo, sino gentes de la calle, abiertas a todas las iniciativas y compatibles con todas las labores honradas, en servicio de la Iglesia y de la humanidad. -Los chicos de la obra de San Rafael, con el impulso espiritual y la formación religiosa recibida en nuestras casas, han hecho y harán mucho bien en todo tipo de asociaciones de fieles, o de cualquier otra clase. Por eso, la sorpresa del Padre fue muy grande, cuando algunos dirigentes de movimientos o grupos apostólicos, que estaban entusiasmados con la labor de esos chicos en sus asociaciones para jóvenes, al enterarse de que tenían contacto con la Obra, los maltrataban y los expulsaron, en lugar de agradecer la ayuda que esos chicos les daban.
+
+# 82
+
+Los Cursos de Formación se componen: A., de un Curso Preparatorio; B., de los Cursos Profesionales; C., del Círculo General (64); y D., de los Seminarios.  
+  
+**nota** (64): Muy pronto vio el Padre que no convenía hacer este Circulo General, y lo sustituyó por los retiros mensuales, a los que invitaba a todos los chicos que ya habían pasado por los cursos de San Rafael.
+
+# 83
+
+<u id="bkmrk-el-curso-preparatori">El Curso Preparatorio</u> tiene un fin eminentemente sobrenatural, con exclusión de cualquier actividad científica, y acaba por encajar en la Obra a los muchachos. Así nos lo demuestra una muy grata experiencia, desde el curso 1932-1933.
+
+# 84
+
+Hágase con los nuevos <u id="bkmrk-alumnos">alumnos</u> grupos de nueve. Podrían ser grupos de ocho o de once: se cumpliría igualmente la finalidad, que no es dar aires de conferencia a la charla de formación, y adquirir el ambiente cordial, de familia, que es uno de los caracteres de la obra de San Rafael. Ponemos 9 (3+3+3), por devoción a la Trinidad Beatísima (65).  
+  
+**nota** (65): Siempre se interpretó con una cierta elasticidad esta indicación, siguiendo el espíritu expresamente definido por el Padre: exigía que fueran pocos los alumnos, no que fueran precisamente nueve. Prefería dar dos cursos a cinco o seis alumnos, que uno para diez o doce: y así animaba a los chicos a presentar oros compañeros, hasta llegar siquiera al número de nueve alumnos por grupo, enseñándoles de este modo a ser proselitistas. -También esta devoción tan tradicional en la Iglesia, que movía al Padre a fijarse con cariño en números determinados -recuérdense los 999 puntos de <u id="bkmrk-camino">Camino</u>-, fue ocasión, incomprensible ocasión de calumnias.
+
+# 85
+
+Antes de que un muchacho participe en la reunión semanal, mejor dicho, antes de que pueda asistir a la clase de formación, es preciso que el Director hable a solas con él; y, aunque habrá precedido a esta conversación todo el proceso de proselitismo, del que a su tiempo hablaremos, <u id="bkmrk-conviene-tomar-preca">conviene tomar precauciones</u> para evitar que vengan algunos jóvenes por conveniencia humana, por cálculo (66).  
+  
+**nota** (66): Siempre la pureza de intención. -Quizá el Padre preveía las incomprensiones que permitió más tarde el Señor.
+
+# 86
+
+No me olvidéis que estamos haciendo una labor sobrenatural: acudid frecuentemente al Señor -los Angeles Custodios son magníficos colaboradores- y pedidle que se haga la autoselección, para que no haya que echar a nadie, una vez admitido: que se vayan los que no han de coger el espíritu nuestro (67).  
+  
+**nota** (67): Este espíritu, lleno de caridad, lo recogió después el Padre en nuestro <u id="bkmrk-derecho-peculiar">derecho peculiar</u>. Y se ha practicado siempre, por indicación del Padre, en otras actividades: los Directores de las residencias, por ejemplo, han procurado no expulsar nunca a ningún residente. Es mejor convencer al interesado cuando sea preciso, <u id="bkmrk-ut-sponte-discedat">ut sponte discedat</u>, comenta nuestro fundador (cfr. n. 168).
+
+# 87
+
+En aquella conversación particular con el muchacho que pretende asistir a los cursos, hacedle verque nuestra casa no es un sitio de recreo -no tenemos, ni tendremos, ni un mal billar-, sino un lugar <u id="bkmrk-desagradable">desagradable</u>, donde se le pregunta con frecuencia si hace oración, etc.; si es bueno con sus padres... (68); y si estudia, porque estudiar es obligación grave (69).  
+  
+**nota** (68): Escribía el Padre estas palabras en 1934, muchos años antes de que fueran organizadas aquellas tristes e insidiosas campañas, que pretendían sembrar la discordia entre algunas familias de hermanos nuestros y la Obra: campañas que se desvanecieron, con la ayuda de Dios, cuando el Padre consagró nuestras familias a la Sagrada Familia. Ante mis ojos tengo una octavilla en la que de puño del Padre está escrito: **Roma 15 de mayo, 1951. Poner bajo el patrocinio de la Sagrada Familia, Jesús, María y José, a las familias de los nuestros: para que logren participar del <u>gaudium cum pace</u> de la Obra y obtengan del Señor el cariño para el Opus Dei**. Cumplió este propósito inmediatamente, entre las paredes sin terminar de lo que habría de ser el Oratorio de la Sagrada Familia, en nuestra sede Central. -Como fruto indudable de esa consagración, nuestro Fundador, que tanto ha insistido en los deberes que lleva consigo el **dulcísimo cuarto mandamiento** del decálogo, tiene la alegría de ver apiñadas a las familias de los miembros del Opus Dei en torno a la Obra: apiñadas y **sectarias**. Es el único **sectarismo** por la Obra que admite el Padre, ya que **nosotros** -suele decir- **no podemos ser sectarios de nada, porque nuestro amor debe ser ordenado**. Pero el **sectarismo** -sana pasión- de nuestras familias, les lleva a amar más a Dios y a su Iglesia, a rezar más por nosotros y a cooperar en los apostolados de la Obra. -De ese cariño de las familias de todos nosotros a nuestra Obra, dice el Padre, ponderándola, **que es tan grato al Señor, que hace que suenen campanillas de plata en el cielo**.  
+  
+**nota** (69): Desde el principio de la Obra -lo hemos hecho destacar en varias notas de esta Instrucción- ha insistido el Padre en la necesidad de una profunda y sólida formación profesional: tan importante la considera, que -con las palabras que ahora comentamos- viene a establecer que, los que no se dedican seriamente a adquirir esa formación, no son idóneos para asistir a los Cursos de San Rafael; y <u id="bkmrk-a-fortiori">a fortiori</u>, que no son aptos para recibir la vocación específica de la Obra. -Estas consideraciones se aplican a todos los miembros de las dos Secciones del Opus Dei, <u id="bkmrk-congrua-congruis-ref">congrua congruis referendo</u>, según las normas de selección definidas en el <u id="bkmrk-ius-peculiare">Ius peculiare</u> y en la <u id="bkmrk-instrucci%C3%B3n">Instrucción</u> del 1-IV-1934, nn. 63-6. -La necesidad de la formación profesional, que lleva a determinar un criterio para la selección de los candidatos, es una característica fundamental del espíritu de la Obra, ya que hemos de buscar la santidad y ejercer el apostolado **en** y **por medio** de nuestra ocupación secular cotidiana, que es al mismo tiempo el yunque, donde nos formamos, y el anzuelo de pescador de almas. -Aunque estén tan claras estas ideas, que siempre hemos vivido con fidelidad, no faltarían quienes, pasados los años, habrían de tratar de enturbiar las aguas, viendo en esta idea noble básica de nuestro espíritu -la necesidad de una sólida preparación profesional- **una ambición de cargos**. Y el Padre comenta, **¡como si fuera poca ambición la de la santidad!**
+
+# 88
+
+Luego, señalad al alumno el día y la hora de su clase semanal. Y, si asiste, ha dado un gran paso, indudablemente.
+
+# 89
+
+<u id="bkmrk-modo-de-hacer-las-re">Modo de hacer las reuniones de San Rafael</u> (Clases de Formación). Hasta ahora se ha seguido este orden, que ha sido de un resultado eficaz: I.- Oración; II.- Recapitulación; III.- Comentario; IV.- Charla; V.- Examen; VI.- Advertencias y asuntos de la semana; VII.- Lectura espiritual; VIII.- Preces finales (<u id="bkmrk-vid">vid</u>. Apéndice 1).
+
+# 90
+
+Viene a durar cada reunión una hora o poco más: no es práctico entretener más tiempo a la gente.
+
+# 91
+
+Procuramos que la habitación, donde se da la clase, esté recogida; y los muchachos, con el Director, se ponen familiarmente alrededor de la misma mesa, quitando todo aspecto de empaque y solemnidad (70).  
+  
+**nota** (70): La obra de San Rafael es, como dice el Padre, el **semillero** de vocaciones del Opus Dei. En ella se preparan, se forman, los futuros miembros de las obras de San Miguel y de San Gabriel. Es necesario, por tanto, que -en esos Cursos y en toda la actividad de la obra de San Rafael- resplandezca constantemente nuestro espíritu, lleno de sencillez, de ambiente de familia, de calor de hogar, sobrenatural y humano, que tan fuertemente atrae a las almas, las transforma y las eleva.
+
+# 92
+
+I.- La <u id="bkmrk-oraci%C3%B3n">oración</u>, al comenzar y al terminar, debe hacerla uno de los alumnos -cada vez distinto (71)- designado por el Director.  
+  
+**nota** (71): Es importante este detalle: contribuye a hacer perder respetos humanos, a sentirse más vinculados al Curso, a que todos adquieran una piedad más viva y a que se sienta más el espíritu de familia, en la que ninguno se singulariza.
+
+# 93
+
+II.- <u id="bkmrk-recapitular">Recapitular</u>, recordando lo tratado el día anterior. Hágase por un alumno. Pero tenga el Director cuidado que no resulte un ejercicio fatigoso y desagradable para los chicos. Más que una pregunta al cursillista, ha de ser una conversación con él (72).  
+  
+**nota** (72): está claro que, aunque se trate aparentemente sólo de <u id="bkmrk-recapitular-1">recapitular</u>, es un modo de explicar una y otra vez nociones fundamentales, de manera práctica -buena pedagogía-, haciendo que en esta repetición intervengan los alumnos. -No puede dejarse este punto a la improvisación de quien dirige la clase, y mucho menos a la de los alumnos. Ha de tener el Director durante esta parte de la clase especial tacto, para que resulte como una conversación familiar con uno -o varios- de los asistentes: y esto requiere una preparación cuidadosa. -En aquellas jornadas agotadoras en las que nuestro Padre, entre tantas otras actividades, dirigía personalmente muchos Cursos de San Rafael cada día, al hacer la recapitulación insistía siempre -en todas las clases- en lo que es y lo que no es la Obra, en los fines que se propone, etc. (temas 1 a 5, citados a continuación por el Padre), para pasar después a resumir el tema ascético de la charla de la clase anterior.
+
+# 94
+
+III.- El <u id="bkmrk-comentario">comentario</u>. ¿Qué es, en qué consiste el comentario? Es una explicación breve -dos minutos, tres- de un pasaje o de un versículo y aun simplemente de una sola palabra del Santo Evangelio del día -o no del día-: es como un recuadro llamativo, en la primera plana de nuestro diario sobrenatural: luz nueva, chispazo de Amor y eficacia de propósito.
+
+# 95
+
+Hágalo siempre el Director, y procure darle la vibración del espíritu de la Obra de Dios (73).  
+  
+**nota** (73): El comentario es un punto de oración, lleno de eficacia sobrenatural -e incluso humana, psicológica- porque se basa sobre la autoridad del Santo Evangelio. Es también un modo de dar doctrina y de hacer amar el Nuevo Testamento. Presupone, en el Director, una adecuada formación.
+
+# 96
+
+Aprenderéis a hacer el comentario, si leéis diariamente y meditáis el Santo Evangelio, según exigen nuestras Normas, y escucháis con sencilla humildad los comentarios que hagan vuestros hermanos.
+
+# 97
+
+IV.- La <u id="bkmrk-charla">charla</u> será el trabajo más hermoso y fecundo del Director, en este Curso Preparatorio. Los primeros días, se dedicará a inculcar en los jóvenes el espíritu de la Obra. Después, se hablará, sin excepción, de temas que lleven a los alumnos a conocer y a vivir la vida interior que ha de tener un caballero cristiano.
+
+# 98
+
+Concretaré los <u id="bkmrk-temas-de-las-primera">temas de las primeras charlas del Curso Preparatorio</u>: 1/ <u id="bkmrk-no-constituyen">No constituyen</u> los alumnos <u id="bkmrk-asociaci%C3%B3n">asociación</u> de ningún género. Ni se tienen, con ellos, actividades que se opongan a las propias de congregaciones, juventudes, etc.
+
+# 99
+
+2/ <u id="bkmrk-nos-distinguimos-cla">Nos distinguimos claramente de toda clase de agrupaciones juveniles</u>: por la limitación del número, pues aquí no queremos masa sino selección, ya que se atiende no sólo a la buena conducta del aspirante, sino a sus condiciones de talento y laboriosidad; por el modo de actuar, puesto que nuestros muchachos han de acostumbrarse a dejar en la sombra el vínculo, la casa que les une, no nombrándola jamás delante de extraños, y no contando a nadie que trabajan por su impulso (74).  
+  
+**nota** (74): El Padre explicaba este tema, cuando daba los Cursos, de modo que quedaba bien claro que no había secretos de ningún género. Los muchachos que acuden a las clases constituyen como una familia, y para las cosas de familia hay un pudor natural, que lleva a no pregonarlas en la calle. -Al cabo del tiempo, después de superadas las campañas calumniosas que atribuían un carácter de institución secreta a la Obra, admira la prudencia con que trataba este tema: prudencia siempre conveniente para evitar obstáculos, y que entonces era absolutamente necesaria. -sin embargo, cuando pasaron aquellas circunstancias de los primeros años que aconsejaban esa discreción, el Padre actuó de modo diferente: mantuvo, naturalmente, los criterios de selección que había señalado en sus Instrucciones; y recomendó tan sólo la prudencia indispensable, para evitar que entusiasmos exagerados llevaran a algunos muchachos a hablar constantemente de la labor formativa de la Obra, dando origen a celos por parte de los componentes de ciertas instituciones.
+
+# 100
+
+Están en el aprendizaje de <u id="bkmrk-ocultarse-y-desapare">ocultarse y desaparecer</u>, característica divinísima de la Obra, que muchos de ellos no conocerán, a pesar de ser su avanzada, su vanguardia (75).  
+  
+**nota** (75): Cfr. <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 1-IV-1934, n. 72, con la nota 67, donde se explicaba que ese lema, **ocultarse y desaparecer**, era el que vivía y vive el Padre. En el pasaje citado de la <u id="bkmrk-instrucci%C3%B3n-sobre-el">Instrucción sobre el modo de hacer proselitismo</u>, extendía nuestro Padre esa línea de conducta a los sacerdotes de la Obra, que es eminentemente laical. Ahora aplica a la Obra entera el mismo lema, y afirma que **ocultarse y desaparecer<u> es una ¨característica divinísima</u>**<u id="bkmrk-%3A-no-se-trata%2C-evide">: no se trata, evidentemente, de recomendar un **secreto social**</u><u id="bkmrk--siempre-nos-ha-ense"> -siempre nos ha enseñado el Padre que la Obra **ha de ser bien conocida**</u><u id="bkmrk--%2C-sino-de-imponer-l">-, sino de imponer la norma que, ciertamente con especial ayuda de divina, nos ha marcado: la de evitar el **faroleo**</u><u id="bkmrk-%2C-por-medio-de-la-pr">, por medio de la práctica de una **humildad colectiva, que es heroica**</u> -escribía hace muchos años- **y que algunos quizá no comprendan**.
+
+# 101
+
+3/ Considerar cómo los <u id="bkmrk-enemigos-de-la-idea-">enemigos de la idea cristiana se ayudan</u> en el terreno profesional y, con más o menos fundamento intelectual -a menudo con menos-, aparecen en la cúspide de las actividades científicas.
+
+# 102
+
+En cambio, se inutiliza el talento de muchos jóvenes católicos de valía, apartándolos de su labor cultural y haciéndoles perder el tiempo, con secretarías y presidencias y juntas y juntillas, y con propagandas: hoy, dar una conferencia; mañana, escribir un artículo.
+
+# 103
+
+Cosas admirables, pero que nada tienen que ver con su formación profesional, y que -en el caso concreto de que venimos hablando- son perjudiciales, no sólo para el porvenir del joven presidente, secretario o propagandista -con frecuencia, es las tres cosas simultáneamente-, sino para el mismo apostolado: porque el fruto, que su impaciencia juvenil pueda dar, no compensa la madurez y el buen sabor que se pierden para el día de mañana, cuando su apostolado pueda tener por base el prestigio científico bien conseguido.
+
+# 104
+
+¿Desde cuándo puede ser caudillo, entre los suyos un hombre profesionalmente fracasado?
+
+# 105
+
+Da pena ver cómo algunos, al querer ejercitarse en un apostolado profesional, siempre más práctico que un apostolado sin tono determinado, se encuentran con que los hombres de prestigio de su clase social pertenecen al campo de enfrente? (76).  
+  
+**nota** (76): Nadie en España habló de modo tan tajante y tan claro sobre este tema, a pesar de que la actuación de grupos cerrados anticatólicos -y muchas veces seudocientíficos- había creado un problema angustioso, acuciante: esos grupos, movidos por las sectas, hacían con frecuencia que fuera imposible que, en no pocos campos, lograran destacar los católicos estudiosos y con capacidad intelectual. -Era corriente que quienes dirigían asociaciones católicas -por falta de visión, o por ser víctimas en buena fe de una tentación fácil, la de hacer un apostolado más o menos ruidoso-, utilizaran constantemente en propagandas, cursillos, etc., a jóvenes de buena cabeza, que dedicaban con generosidad su tiempo a prepararse para esos apostolados, abandonando en cambio su labor profesional. Y, mientras tanto, aquellos grupos sectarios atraían con el espejuelo del renombre de algunas personas -que presentaban como santones de la ciencia- a otros muchos jóvenes, bien dotados intelectualmente; les daban todos los medios para adquirir una cierta formación profesional, incluso ayudándoles económicamente; y, con una labor constante y lenta, arrancaban la fe a los que la tenían. De esa manera, crearon un cáncer profundo, concretamente, en la universidad española. -Este fenómeno se daba y se da, fuera de España, en muchos sitios; porque, desde hace mucho tiempo, los enemigos de la Iglesia han pretendido en todo el mundo monopolizar la ciencia y luego los puestos de dirección de la sociedad, para descristianizarla. Ante esa realidad sangrante levantó el Padre su voz de alerta, e inició con la gracia de Dios la leva de hombres y de mujeres que deberían sobresalir en su propia profesión. -No se crea, sin embargo, que los consejos del Padre que ahora comentamos, eran como el fruto de una **reacción natural ante la labor anticatólica de la revolución española y aun de otras organizaciones más antiguas, españolas y extranjeras** (cfr. <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 19-III-1934, n.17): era la consecuencia de la esencia misma, teológica y ascética, del Opus Dei, que llevaba a los miembros de nuestra Familia a santificarse en el ejercicio de su profesión. Así como la Obra nació porque Dios quiso (<u id="bkmrk-instrucci%C3%B3n-1">Instrucción</u> citada, <u id="bkmrk-passim">passim</u>), su espíritu peculiar es también el que el Señor quiso imprimirle: y de ese espíritu determinado se derivan las características de nuestro modo de buscar la santificación y de ejercitar nuestro apostolado. Este modo, este <u id="bkmrk-ratio-essendi-et-age">ratio essendi et agendi</u>, es de Dios, querida por Dios, y está por encima de cualquier reacción o de cualquier estrategia humana. Es, por consecuencia, permanente, independiente de las circunstancias que ocurran a lo largo del tiempo en la humana sociedad.
+
+# 106
+
+Y ellos, ¡los de nuestro campo!, son unos vencidos que tocan en los cuarenta otoños sin haber podido hacer una preparación seria (77), base de la labor científica de apostolado, a fin de combatir las calumnias y errores de los seudosabios enemigos de Cristo, descarados o velados, y a fin también de sostener las asociaciones católicas e imponerse en las organizaciones oficiales, por sus conocimientos profesionales unidos a su rectitud de caballeros cristianos (78).  
+  
+**nota** (77): No hacía aquí el Padre una caricatura: retrataba lo que, desgraciadamente, en muchos casos era una realidad.  
+  
+**nota** (78): Detalla una vez más nuestro Fundador, indirectamente, el fundamento humano -**preparación seria**- y el modo de nuestro apostolado: dar doctrina, y ser luz y savia de la sociedad civil: dos facetas del único fin de la Obra, que es la santificación propia y ajena por medio del trabajo profesional, santificado y santificante. -Añade aquí el Padre: **sostener las asociaciones católicas**, refiriéndose, en primer lugar, a esos católicos que trabajan en organizaciones de apostolado, sin procurar ante todo formarse y sin lograr, por consiguiente, ser eficaces. Pero también hacía ver cuál había de ser el espíritu de nuestro muchachos de la obra de San Rafael, muchos de los cuales, formados personalmente por el Padre, llegaron a ser magníficos dirigentes -repito- de diversas asociaciones de fieles. En cuanto a la labor de los miembros de la Obra en estas asociaciones, cfr. <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 1-IV-1934, n. 88; y la Instrucción de San Gabriel.
+
+# 107
+
+4/ <u id="bkmrk-mandatum-novum-do-vo">Mandatum novum do vobis: ut diligatis invicem, sicut dilexi vos, ut et vos diligatis invicem. In hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis ad invicem</u>; un mandato nuevo os doy: que os améis los unos a los otros, como Yo os he amado para que vosotros os améis. En esto conocerán que sois mis discípulos: en que os amáis los unos a los otros (<u id="bkmrk-ioann">Ioann</u>. XIII, 34 y 35).
+
+# 108
+
+¡Aún es nuevo este precepto dominical! No quiero detenerme en detalles. Bien sabéis que no exagero. Se ha hecho corriente oír -y ver cómo desgraciadamente se practica, aun por gentes de una <u id="bkmrk-piedad-llamativa">piedad llamativa</u>- se ha hecho corriente oír esta pregunta: ¿Quién es tu enemigo? Y esta contestación: el de tu oficio. No hace mucho, con frase brutal, pero sincera, me decía un joven, activo militante de Acción Católica, a propósito de la falta de caridad entre sus compañeros de estudio: Mire, Padre: muchas cruces en la solapa, pero, si pueden, <u id="bkmrk-te-patean-los-h%C3%ADgado">te patean los hígados</u>. Y esto, ¡cuántas veces lo habéis experimentado y lo habéis lamentado, al comenzar el ejercicio de vuestras respectivas profesiones! (79).  
+  
+**nota** (79): Fustigaba el Padre las envidias, los celos, las zancadillas entre los que se llaman colegas, compañeros, porque ejercen la misma profesión. -quizá algunos años más tarde hubiese escrito también algo, en esta parte de la Instrucción -como lo ha hecho en algunas de las <u id="bkmrk-cartas">Cartas</u> que, por razones evidentes, prefirió demorar su publicación-, sobre la dolorosa falta de caridad, sobre los pecados contra la justicia que cometen algunos que se proclaman o se creen apóstoles, pero que aman con amor desordenado su propia institución, o tienen una **mentalidad de partido único**, que les lleva a pensar que **el bien no es bien, sino procede de sus manos**. Muchas veces hemos oído hablar a nuestro Fundador sobre el terrible mal, que esa mentalidad excluyente puede producir: y hemos visto cómo ha pedido a Dios que **nunca mis hijos pretendan ejercer un monopolio en ningún terreno, y menos aún en el campo eclesiástico**, porque nosotros **sólo vamos a hacer el apostolado de Cristo, nunca nuestro apostolado.** (<u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 19-III-1934, n.19).
+
+# 109
+
+Pues, bien: inculcad en nuestros chicos de San Rafael la necesidad de vivir el mandato de la caridad, con todas sus consecuencias: ayuda mutua en lo espiritual, en el terreno científico, en lo económico, y en la vida de relación social. De tal manera, que se hagan realidad las palabras del Apóstol, que en el lugar patente de nuestro oratorio se leen: <u id="bkmrk-alter-alterius-onera">alter alterius onera portate, et sic adimplebitis legem Christi</u>; llevad unos las cargas de los otros, y así cumpliréis la ley de Cristo (<u id="bkmrk-galat">Galat</u>. VI, 2) (80).  
+  
+**nota** (80): Procuraba el Padre, desde el principio, que esa **ayuda mutua**, consecuencia de la caridad que habían de vivir **nuestros chicos de San Rafael**, fuera práctica y constante. Cuando el Padre escribió esta Instrucción, ya hacía tiempo que había organizado, por ejemplo, la colaboración en el terreno científico, que formaba en el espíritu de caridad -de fraternidad- a los miembros jóvenes de la Obra y a los muchachos de San Rafael. En la Residencia de Ferraz, de Madrid, cada uno de nosotros y algunos de los más encajados de San Rafael habían recibido el encargo de orientar y ayudar en sus estudios, a los residentes y a otros muchachos que iban a estudiar a la residencia. Y así, semanalmente por lo menos, en días fijos, sin humillarles resolvíamos dudas, aclarábamos conceptos oscuros, animábamos los estudiantes de cursos más avanzados a los más jóvenes -cada uno o varios determinados, siempre los mismos-, pasando después fácilmente a incitarles a la confidencia y a ayudarles también en el terreno espiritual. -Esta labor, este aspecto de la Obra de San Rafael, forma a los residentes y a los muchachos que se acercan a nosotros, pero forma aún más en la caridad a los miembros de la Obra, a los recientes en la vocación, que son los que ejercitan normalmente este apostolado.
+
+# 110
+
+5/ <u id="bkmrk-%C2%A1dios-y-audacia%21">¡Dios y audacia!</u> No cortéis las alas a nuestros muchachos, con excusas excesivas de prudencia, que a última hora no es virtud de jóvenes: sin imprudencias, sin osadías, dejadles que sean audaces (81).  
+  
+**nota** (81): **¡Dios y audacia!** (cfr. esta Instrucción, n. 15). De las iniciales de estas palabras formó el Padre el nombre de la primera casa, y luego el de la primera residencia, la de la calle de Ferraz: DYA. Y no faltaban personas **perspicaces** que traducían el nombre por: Derecho y arquitectura. El Padre en muchas ocasiones sonreía y dejaba estar, mientras suavemente levantaba su corazón al Señor con esas palabras como jaculatoria: ¡Dios y audacia! -Y no fue poca audacia la apertura de aquella casa: pero esto constituye un capítulo de nuestra historia.
+
+# 111
+
+Audaces, para tratar a Dios, con confiada sencillez y piedad viril; audaces, por su empeño y perseverancia en el estudio, para dar cuanto rinda su talento, porque, al que pueda, no le perdonamos que no sea sabio.
+
+# 112
+
+Y, con este arranque de juventud sana, una discreta obediencia (82), una fraternidad bien sentida y un cierto sigilo o discreción (83), tenemos señaladas las notas que caracterizan a nuestros chicos de San Rafael (84), si añadimos en lo profesional: el estudio a fondo de un idioma extranjero, por lo menos; y el hábito de aprovechar el tiempo (85).  
+  
+**nota** (82): Docilidad, sobre todo en la dirección espiritual y en las indicaciones acerca del proselitismo: docilidad también en poner en práctica los consejos que a cada uno se den para que ayude a otros en el campo espiritual, en el terreno científico, en los problemas económicos y sociales, dentro de las propias posibilidades.  
+  
+**nota** (83): Una cierta discreción, que lleva a los muchachos a no hablar excesivamente de la Obra, por ser sobrenatural, **debe ser callada y modesta**, como ha establecido el Padre. Esa **cierta discreción** nunca ha sido ni será un secreto, que jamás lo hemos necesitado, y que desagrada profundamente al Padre. Muchas veces le hemos oído exclamar: **¡me molestan los secretos!** Si alguna persona le dice que le quiere <u id="bkmrk-confiar-un-secreto">confiar un secreto</u>, el Padre suele decir:  **está Ud. hablando con un caballero y, por lo tanto, no hace falta que me recomiende el secreto. Y bastantes veces**, cuando ha insistido, ha dicho: **póngase de rodillas y confiésese, porque ése es el único secreto que le admito**.  
+  
+**nota** (84): La obra de San Rafael es como el semillero de la Obra; así lo ha escrito y lo ha repetido siempre el Padre (cfr. notas 55 y 70 de esta Instrucción). Los muchachos de San Rafael son, por lo tanto, como candidatos en forma más o menos activa, más o menos próxima, a la vocación para la Obra: así fue expuesto a la Santa Sede desde la primera relación que fue presentada al Santo Padre el año 1943. Deben reunir, en consecuencia, las dotes que nuestro Fundador señala para los miembros del Opus Dei (<u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 1-IV-1934, nn. 63-68), y que aquí también detalla, aplicando <u id="bkmrk-congrua-congruis-ref">congrua congruis referendo</u> esas condiciones a las diversas modalidades de los distintos modos de seguir nuestra única vocación dentro de la Obra, en sus dos Secciones. -La Santa Sede recogió las indicaciones del Padre, sobre las condiciones que habían de reunir los candidatos -los miembros de la obra de San Rafael-, y las quiso consignar explícitamente en el Decreto de aprobación, 16-VI-1950 (p. 31): <u id="bkmrk-attenditur-sane-ad-p">Attenditur sane ad personae condicionem... ipsiusque qualitates et exigitur ingenium capax superioris formationis; quoad animi dotes, pro omnibus et singulis candidatis, necessarius reputatur character sincerus, rectus, sociabilis, virilis, ad actionem et apostolatum individualem exercendum idoenus et aptus. Candidati debent esse tenaces, dóciles, ad profundam formationem dispositi. Denique, pro Numerariis, studia in aliqua Universitate iam peracta vel cum fructu peragenda requiruntur</u>. -Teniendo en cuenta que la obra de San Rafael constituye, como se ha dicho, el **semillero** de las obras de San Miguel y de San Gabriel, se comprende que la selección que se hace, antes de invitar a alguien a asistir a los Círculos y a formar parte de la obra de San Rafael, ha de ser rigurosa.  
+  
+**nota** (85): Enseñar a los que se acercaban a él a aprovechar el tiempo, ha sido siempre objeto de muchos consejos del Padre. **Decir que el tiempo es oro es poco, porque vale mucho más; y hay que administrarlo bien, porque el tiempo es de Dios**, suele afirmar. Ese combate por no perder el tiempo, por aprovecharlo, ha sido siempre una de las armas de la lucha ascética recomendadas por el Padre (cfr. <u id="bkmrk-camino">Camino</u>). **-Hombres cumbres hay pocos: los de talento medio que no desperdician el tiempo, ésos son los que se imponen** (cfr. <u id="bkmrk-instrucci%C3%B3n-1">Instrucción</u>, 1-IV-1934, nn. 66-68). Y como a nuestro Padre le gusta **materializar** hasta lo más espiritual -**¡cómo comprendo**, afirma, **que Jesús hablase con parábolas**!-, mandó hacer un repostero que recordara a los muchachos de San Rafael la obligación de aprovechar el tiempo. En el repostero, estas dos palabras: <u id="bkmrk-hodie%2C-nunc">Hodie, nunc</u>, que algunos chicos traducían libremente, pero con una buena dosis de filosofía: ¡Hoy o nunca! -con frecuencia hemos oído decir a nuestro Fundador: si **a uno de mis hijos a lo largo de la jornada le sobra el tiempo, es señal de que le falta una buena dosis del espíritu de nuestro Opus Dei**.
+
+# 113
+
+6/ <u id="bkmrk-la-reuni%C3%B3n">La reunión</u> o clase semanal, en los Cursos de Formación, <u id="bkmrk-no-es-c%C3%ADrculo-de-est">no es círculo de estudios</u>.
+
+# 114
+
+Son los círculos de estudios, tal como se entienden, muy a propósito para la formación de gente <u id="bkmrk-m%C3%A1s-hecha">más hecha</u>. Pero tenemos experiencia de que a los jóvenes estudiantes les son frecuentemente perjudiciales:
+
+# 115
+
+a/ porque habrán de preparar, una o dos o más veces por curso, sus conferencias para el círculo. Y así pierden el plan ordinario de estudio, aunque la conferencia verse sobre un tema de la propia profesión del disertante (¡en cuántas ocasiones -lo he visto- les proponen, para sus trabajos del círculo, asuntos ajenos y aun diametralmente opuestos a la carrera que cursan!), retrasan la labor de las clases -no exagero- y dan lugar a un entorpecimiento (no digo nada, si el alumno es poco aventajado), que se traduce en la obtención de peores notas, al finalizar la tarea del centro superior oficial donde están matriculados (86).  
+  
+**nota** (86): Se ve claro que hablaba de las circunstancias de entonces. Pero la doctrina valdrá siempre.
+
+# 116
+
+b/ porque llegan a creer los muchachos -y éste sí que es un resultado negativo- que conocen a fondo los asuntos superficialmente tratados por el circulista conferenciante -no se le puede pedir más-, y apenas vistos o entrevistos por los otros compañeros de círculo, aunque discutan o charlen horas enteras, puesto que tienen menos preparación que el que disertó.
+
+# 117
+
+Y, en lugar de formar hombres de seguras doctrinas, se forman presuntuosos y cargantes seudoeruditos, que no conocen con profundidad ni sus temas profesionales.
+
+# 118
+
+7/ A las reuniones de San Rafael, vienen nuestros chicos, <u id="bkmrk-no-a-perder-el-tiemp">no a perder el tiempo</u>, sino a aprovecharlo.
+
+# 119
+
+Por eso, su papel es el de discípulos, que van a escuchar a un maestro. No se discute (87).  
+  
+**nota** (87): **Evitad la discusión** -dice con frecuencia nuestro Padre-: **en cambio, estudiad los asuntos con afán y sin nerviosismo, con serenidad; respetando al menos la opinión contraria, si no se llega a un acuerdo**.
+
+# 120
+
+Y, para no pasar el rato con aclaraciones, que generalmente interesan sólo a quien las pide, conviene que haya un buzón: y en el buzón, por escrito y con la fecha y su firma, puedan los estudiantes exponer sus dudas, que el Director recogerá otro día, o rogar que se trate de determinados temas que sean de interés para todos (88).  
+  
+**nota** (88): Conviene que no se pierda esta costumbre, y que se incite a los muchachos a utilizar ese buzón, porque se les contestará siempre. Es un medio de evitar las preguntas imprudentes o indiscretas, por una parte; por otra, sirve para que se les conozca más y se trabaje mejor con cada uno de los alumnos. Porque generalmente esos problemas o dudas serán de índole personal, y darán pie al Director del Círculo para llamar al interesado e iniciar o profundizar la labor de formación espiritual personal; o bien, harán comprender al Director que no ha sido suficientemente claro en la reunión, y -si es cosa que interesa a todos- explicará de nuevo los conceptos en el Círculo siguiente, al hacer la recapitulación.
+
+# 121
+
+Hemos hablado de aprovechar el tiempo: con este fin, la hora de las clases de los Cursos de Formación debe acomodarse a las circunstancias de los alumnos. En general, son las mejores las últimas de la tarde, cuando ya estudiaron, o, si no estudiaron, ya no estudiarán por aquel día. Además son, esas horas, las horas malas de los chicos buenos (89).  
+  
+**nota** (89): Habla el Padre de las últimas horas de la tarde, aclarando inmediatamente después su pensamiento: aprovechar -a la hora que sea, según las costumbres de cada país, de cada ciudad- **las horas malas de los chicos buenos**.
+
+# 122
+
+8/ <u id="bkmrk-el-gran-medio">El gran medio</u>, para sacar la Obra adelante, para conseguir la máxima eficacia en la formación de los alumnos cursillistas es la <u id="bkmrk-oraci%C3%B3n">oración</u> (90).  
+  
+**nota** (90): Es necesario ser consecuentes, dando siempre con valentía criterio desde el primer momento -aunque se piense que se va a chocar con el ambiente o con la falta de formación-, haciendo que quede clara una escala cristiana de valores: antes de nada, la oración empapada de nuestro espíritu de filiación divina. ¡Que se sientan hijos de Dios!
+
+# 123
+
+Los chicos, al considerar una afirmación tan absoluta, ven con nueva luz esta verdad, que habrán oído mil veces. Y se mueven a invocar a Santa María, Esperanza nuestra, <u id="bkmrk-sedes-sapientiae">Sedes Sapientiae</u> (91): y a San Rafael y a San Juan, Patronos suyos.  
+  
+**nota** (91): Viejo arraigo tiene en la Obra esa invocación a la Santísima Virgen: la hizo el Padre desde la primera clase o Círculo de San Rafael. También la advocación a Nuestra Señora con sus mismas palabras: <u id="bkmrk-ancilla-domini">Ancilla Domini</u>, para nuestras hermanas, se remonta a los primeros tiempos de la Sección femenina.
+
+# 124
+
+San Rafael -decidles- para que os lleve, como a Tobías hijo, hasta un matrimonio feliz -si es Voluntad de Dios- con una mujer buena y guapa y rica... ¡Cómo se ríen los pobres muchachos! Y San Juan, el Apóstol virgen, amadísimo de Cristo, para que os enseñe el camino de un celibato apostólico fecundo..., si es ésta la particular vocación que el Señor se digna daros (92). -Ahora suelen quedarse muy serios, con gravedad impropia de los años mozos; y los Angeles de la Guarda (93) ponen, en más de un corazón, la semilla de un ideal nuevo (94).  
+  
+**nota** (92): Sabemos que ya entonces -se lo indicó aquel ilustre vicario general de Madrid, don Francisco Morán, que tanto quería a nuestro Fundador- no faltaban quienes atacaban al Padre porque, según decían, <u id="bkmrk-pretend%C3%ADa-crear-un-n">pretendía crear un nuevo estado canónico en la Iglesia</u>, hablando de esa **particular vocación**. -No era ése el propósito del Padre que, cumpliendo la Voluntad de Dios, predicaba que **la santidad no es cosa para unos pocos privilegiados** (cfr., por ejemplo, <u id="bkmrk-consideraciones-espi">Consideraciones espirituales</u>, Cuenca, 1934), y que la Obra estaba abierta a todos los que recibieran la divina llamada, para santificarse, **cada uno en su propio estado y profesión** (<u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 19-III-1934, n.45), **sin la locura de salirse de su sitio** (Documentos del Padre, <u id="bkmrk-passim">passim</u>). Así se lo manifestó explícitamente a dons Francisco Morán en aquella ocasión, el año 1933.  
+  
+**nota** (93): Siempre nos enseñó el Padre -y así se ha vivido desde el principio en la Obra, con la gracia de dios- a utilizar a los Santos Angeles Custodios como nuestros **grandes cómplices**, para impetrar de Dios vocaciones (<u id="bkmrk-instrucci%C3%B3n-1">Instrucción</u>, 1-IV-1934, nn. 13 y 68).  
+  
+**nota** (94): Se ha dicho ya que la obra de San Rafael es, con las palabras del Padre, nuestro semillero de vocaciones (notas 55, 70, 84): de donde normalmente surgen los futuros Numerarios, Oblatos y Supernumerarios. Y véase cómo, ya desde el principio del Curso de San Rafael, el Padre hace entrever a los que asisten a los Cursos el gran momento, la disyuntiva que se abrirá ante sus ojos, si son fieles a una posible llamada del Señor. Comienza así esa lenta preparación, de la que habla la Santa Sede en el Decreto de aprobación, 16-IV-1940, pp. 31 y 32 (cfr. nota 51 de esta Instrucción).
+
+# 125
+
+9/ <u id="bkmrk-para-el-porvenir">Para el porvenir</u>: no perderse de vista, al terminar los estudios universitarios o superiores, logrado el título profesional.
+
+# 126
+
+Habrá entre ellos un vínculo de cultura y de cristiana fraternidad: la Sociedad de Colaboración Intelectual. Y se les habla de esta obra de San Gabriel lo que sea prudente, en cada caso (95).  
+  
+**nota** (95): La obra de San Gabriel necesitaba, en aquel ambiente persecutorio contra la Iglesia en España, una forma legal que supliera además la falta de un cauce canónico, que no se podía abrir porque no existía aún la legislación que la Santa Sede promulgaría más tarde, en 1947: legislación que sólo en parte colmó la laguna jurídica, pues nuestro Padre no quería que sus hijos fueran equiparados a los religiosos ni a los que se encuentran en estado de perfección, que no necesitamos, ni responde a la Voluntad de Dios para su Obra. Por eso creó el Padre aquella asociación civil, la So. Co. In., que fue abandonada algún tiempo después de terminar la guerra civil española, no sin que hubiera ya dado lugar a ataques de parte de gentes movidas por las sectas. -La sigla de la Sociedad de Colaboración Intelectual, So. Co. In., fue causa de muchos quebraderos de cabeza para algunos de los que nos atacaban, que llegaron a encontrar las raíces hebreas (!) que explicaban el significado de esa sigla.
+
+# 127
+
+10/ <u id="bkmrk-las-obras-de-celo">Las obras de celo</u>: catequesis, misiones y pobres de la Virgen. Hágase notar que no son un fin: son un medio, para formarse. Luego trataremos despacio de estos pequeños apostolados.
+
+# 128
+
+11/ Cada día, uno de los cursillistas apuntará en una cuartilla los nombres <u id="bkmrk-de-los-alumnos-que-n">de los alumnos que no asistan</u>, y entregará la nota al Director. Los alumnos cuidarán de indicar sus cambios de domicilio.
+
+# 129
+
+12/ Adviértase a los muchachos que <u id="bkmrk-no-saluden">no saluden</u> fuera de casa a los sacerdotes, a no ser que, por otra circunstancia que no sea la Obra, ya les conocieran y trataran (96).  
+  
+**nota** (96): Por naturalidad, por eficacia y por evitar la capillita: y por el espíritu propio de la Obra, de evitar toda suerte de clericalismo que pudiera convertir a los socios del Opus Dei en una especie de sacristanes. -El Padre, al hablar de sacerdotes, se refería a él y a aquel pequeño grupo de sacerdotes, del clero secular, que le <u id="bkmrk-ayudaban">ayudaban</u> (cfr. notas 45 y 116), que eran muy buenos, pero que tenían <u id="bkmrk-esp%C3%ADritu-clerical">espíritu clerical</u>, y fácilmente habrían caído en la tentación de dominar a los seglares. -Era muy prudente esa norma por otra razón: las circunstancias terribles por las que atravesaba España, con un anticlericalismo feroz fomentado por los gobernantes, aconsejaba esa actitud recomendada por el Padre. Nos solía decir: **si me veis por la calle, no me saludéis; encomendadme a mi Angel Custodio, y quedaos tranquilos**. -Pasadas aquellas circunstancias políticas en España, cuando el Padre escribió esta Instrucción, la naturalidad y la obligación de rehuir los secretos, que nunca han existido en la Obra, exigirán muchas veces una conducta diferente.
+
+# 130
+
+<u id="bkmrk-los-temas-de-otras-c">Los temas de otras charlas</u> pueden ser éstos, indicados con algún desorden. A mí me dieron resultado.
+
+# 131
+
+13/ Una obra sobrenatural no puede elaborarse con materiales puramente humanos. Por tanto, <u id="bkmrk-nisi-dominus-aedific">nisi Dominus aedificaverit domum, in vanum laboraverunt qui aedificant eam. Nisi Dominus custodierit civitatem, frustra vigilat qui custodit eam</u>; si el Señor no edifica la casa, en vano trabajan los que la edifican. Si el Señor no guarda la ciudad, por demás vigila el que la custodia (<u id="bkmrk-ps">Ps</u>. CXXVI, 1). Y para conseguir la ayuda de Dios, preciso es tratarle, mediante la vida interior.
+
+# 132
+
+14/ Qué es la vida sobrenatural. 15/ Director. 16/ El Espíritu Santo. 17/ Plan de vida. 18/ El orden. 19/ Presencia de Dios.
+
+# 133
+
+20/ Oración. Mucho sobre este tema, porque, si no hacéis de los chicos hombres de oración, habéis perdido el tiempo.
+
+# 134
+
+21/ Santa Pureza. Así con mayúscula. Quiera el Señor que algún día pueda escribir, sobre este asunto, un libro limpio, claro y vibrante, recogiendo todo lo que he dicho y todo lo que pienso que necesita que se le diga a un intelectual joven, que trata de llevar una conducta digna y cristiana.
+
+# 135
+
+<u id="bkmrk-y-se-les-habla%2C-en-c">Y se les habla, en clases sucesivas, de</u>: expiación; grandeza y hermosura del Dolor -con mayúscula, también-; mortificación exterior -la vista, principalmente-; mortificación interior -en especial, la curiosidad-; penitencia; acción; estudio; aprovechamiento del tiempo; el falso apostolado; la Sagrada Eucaristía; hacimiento de gracias; comunión espiritual; exámenes; el Amor -¡que ganas tengo de escribir un librico sobre el Amor!-; devociones; la Virgen; San José; el Angel Custodio; el Papa; las ánimas del purgatorio; la Voluntad de Dios; el abandono y la vida de infancia; el celo; el Apostolado; Dios es mi Padre; hijos de Dios; los primeros cristianos; la vocación matrimonial; la vocación religiosa; la vocación al celibato apostólico (97).  
+  
+**nota** (97): Véase cómo desde el primer momento distinguía el Padre entre la vocación religiosa y nuestra **vocación al celibato apostólico**: se trata de una llamada de Dios Diferente.
+
+# 136
+
+V.- <u id="bkmrk-examen">Examen</u>. El examen ha de leerlo el Director pausadamente, explicando siempre algún punto con frase cortada y precisa, para darle más tono sobrenatural y práctico. Nunca se deje el examen, por falta de tiempo (98).  
+  
+**nota** (98): Véase el guión del examen, en el Apéndice I.
+
+# 137
+
+VI.- <u id="bkmrk-advertencias-y-asunt">Advertencias y asuntos de la semana</u>. Tiene este punto de la reunión un tono agradabilísimo de confidencia. Es la hora de decir la palabrica, que anima, y la frase oportuna -picardía santa-, para que los chicos tomen como suyas las preocupaciones de la casa y de la Obra (99).  
+  
+**nota** (99): Una de las **santas picardías** que el Padre siempre nos ha enseñado a emplear, como fundamentales y extraordinariamente formativas, es la de hacer trabajar a los chicos de San Rafael en cosas materiales de la residencia, para que de este modo **no estén de visita** sino que consideren la casa como suya. Suele recordar, sonriendo, que cuando no había nada que hacer, **ningún clavo que clavar**, para colocar un grabado por ejemplo, hacía que los muchachos de San Rafael trasladaran todos los muebles de una habitación a otra, **para ver si quedaban ahí mejor**. Algunos de los miembros más antiguos de la Obra, al leer esta nota, pensará que la primera vez que el fue por la residencia de Ferraz -de luto riguroso por la muerte de su padre, pero como se decía entonces <u id="bkmrk-muy-pera">muy pera</u>, incluso con cuello duro, de los que todavía se usaban en aquella época, pero más bien sólo en las grandes ocasiones- vio que el Padre le rogaba que se quitara la chaqueta y se subiera en una escalera, para hacer unos arreglos en el techo. El resultado ha sido -siempre- que los muchachos empezarán a tomar cariño a la casa, y esto es un principio inmejorable y necesario (cfr. esta Instrucción, n. 229).
+
+# 138
+
+Se anuncia el próximo día de retiro espiritual (100). Se recuerda las horas de meditación, que cada día hay en nuestro oratorio (101).  
+  
+**nota** (100): Retiro espiritual que daba el Padre -y así lo hemos aprendido a hacer sus hijos-, aunque no acudiera más que una persona. No sería espíritu de nuestro Fundador dejar de dar cursos o días de retiro, porque el número de asistentes sea pequeñísimo. El Padre ha dirigido cursos de retiro, no pocas veces, para una o dos personas. Y el Señor, <u id="bkmrk-qui-videt-in-abscond">qui videt in abscondito</u> (<u id="bkmrk-matth">Matth</u>. VI, 6), hacía que el fruto se multiplicara. Así son siempre los comienzos, y así hemos de trabajar nosotros -siguiendo el ejemplo del Padre- sin cansancio y sin desánimo, cualesquiera que sean las circunstancias.  
+  
+**nota** (101): Tanto los ejercicios -ahora dice **cursos de retiro**, porque le parece más propio, y para hacer ver que no hay por qué sujetarse a un método determinado-, como los días de retiro y las meditaciones las dirigía siempre el Padre. En la primera mitad del año 1936, el Padre se encontraba enfermo. Le visitaron los médicos. Y vieron que lo único que tenía era un agotamiento extraordinario: llevaba años hablando todos los días siete u ochos horas, entre clases y meditaciones. Se comprende que haya podido decir y enseñar a sus hijos que **la gran pasión de los sacerdotes del Opus Dei es la predicación**: a la que siguen horas de dirección espiritual, siempre con la gran **complicidad** de sus hermanos laicos, que llevan las almas al sacerdote (<u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 1-IV-1934, nn. 69-73).
+
+# 139
+
+Y se trata de los muchachos, amigos o compañeros de los alumnos, que <u id="bkmrk-podr%C3%ADan-venir...">podrían venir...</u> El proselitismo: haced que pongan en práctica nuestro modo sobrenatural de proceder: Comuniones, mortificación, encomendar el negocio al Angel Custodio.
+
+# 140
+
+<u id="bkmrk-%C2%A1con-que-gusto-entra">¡Con que gusto entran en caja</u>, aprendiendo en la escuela de Cristo el valor de la oración y del sacrificio, y practicando nuestra bendita fraternidad!
+
+# 141
+
+Se les mueve a que discutan -a que estudien-, siempre con delicada caridad, las condiciones de piedad, talento, carácter, etc., del joven que intentan traer.
+
+# 142
+
+Se trata de los ausentes, de modo especial de los enfermos.
+
+# 143
+
+Y dan cuenta de catequesis, misiones y pobres de la Virgen.
+
+# 144
+
+VII.- <u id="bkmrk-lectura-espiritual">Lectura espiritual</u>. De ordinario, un capítulo del Kempis, o unos párrafos -breves- de otro libro piadoso. No se comente. Déjese a los chicos... y a Dios.
+
+# 145
+
+VIII.- <u id="bkmrk-preces-finales">Preces finales</u>. Dirigirá esta oración el mismo alumno que la dirigió al comenzar (102).  
+  
+**nota** (102): Véanse las preces en el Apéndice I de esta Instrucción.
+
+# 146
+
+<u id="bkmrk-acabada-la-clase">Acabada la clase</u>, convivid con los chicos, hablando un poquito con cada uno, animándoles: se procurará que vengan otro día, cada uno en particular, para contar en confidencia de hermanos más pequeños sus secretillos y preocupaciones de todo género (103).  
+  
+**nota** (103): Pequeñas confidencias, que serán ocasión para hablar de Dios, del apostolado, de la fidelidad a la gracia: servirán para dar consuelo y luz a las almas atribuladas, y terminarán siendo verdadera dirección espiritual. -Pero, para llegar a esto, hace falta -además de los medios sobrenaturales: oración, mortificación- una gran caridad, una gran comprensión... y una gran paciencia (cfr. nota 54). Que los muchachos se den cuenta de que les damos gustosamente nuestro tiempo, y de que participamos de todas sus alegrías y de sus penas: ¡cuántos retratos de novias y cuántas cartas, por ejemplo, ha tenido que ver nuestro Fundador!
+
+# 147
+
+Al principio, les cuesta. Después, lo necesitan. ¡Y cuánto bien se hace a las almas!
+
+# 148
+
+<u id="bkmrk-cursos-profesionales">Cursos profesionales</u>. Los alumnos, que llevaron completo el Curso Preparatorio, pasan a los Cursos Profesionales (104).  
+  
+**nota** (104): En una Carta sobre la Obra de San Rafael -<u id="bkmrk-carta">Carta</u>, 24-X-1942- vuelve el Padre a recoger este tema y, con la experiencia de la labor hecha desde el año 1935, da normas para los Cursos profesionales, y aconseja que los Supernumerarios tomen parte activa en este apostolado.
+
+# 149
+
+Hágase uno o más grupos con los estudiantes de la misma facultad o escuela, atendiendo a sus circunstancias de formación científica, para esa división en grupos.
+
+# 150
+
+Al frente de cada grupo (creo que no deberá haber más de veintisiete muchachos por grupo) estará un Director -nuestro-, que sea licenciado, doctor o titulado en aquella profesión de que se trate.
+
+# 151
+
+Y cuidará el Director de escoger tres estudiantes de su grupo, para que sean sus colaboradores y se preocupen -cada uno de ellos- de la tercera parte de los restantes muchachos.
+
+# 152
+
+<u id="bkmrk-el-orden-de-las-clas">El orden de las clases</u> podrá ser éste: 1.- Oración; 2.- Comentario; 3.- Charla profesional por el Director o por uno de los nuestro de la obra de San Gabriel. Habrá que procurar que el asunto no sea pesado e interese; 4.- Resolución de dudas o consultas; 5.- Noticias profesionales, del extranjero y de la Patria. Para esto, será preciso conocer revistas de las distintas especialidades; 6.- Asuntos de la semana e iniciativas. Habrá que tratar este punto con el mismo tono que el correspondiente -VI- del Curso Preparatorio; 7.- Examen; 8.- Lectura; y 9.- Oración final.
+
+# 153
+
+<u id="bkmrk-c%C3%ADrculo-general">Círculo General</u>: cuando lo acuerde el Director de la casa, oído el parecer del Consejo local -ordinariamente, cada trimestre- se hará una reunión general de todos los chicos de San Rafael, a no ser que el número u otra circunstancia aconseje reunirlos en dos o más días distintos. Será, desde luego, prudente hacer un Círculo General separado, con todos los que estén en el Curso Preparatorio (105).  
+  
+**nota** (105): Véase lo dicho en la nota 64 de esta Instrucción.
+
+# 154
+
+<u id="bkmrk-los-fines">Los fines</u> concretos del <u id="bkmrk-c%C3%ADrculo-general">Círculo General</u> son: 1, dar gracias al Señor, con una breve fiesta Eucarística; y 2, animar a los chicos, al conocerse y tratarse los que conviven en el mismo centro de enseñanza oficial.
+
+# 155
+
+Reunidos, con la presidencia del Director o de aquél a quien el Director designe, <u id="bkmrk-se-proceder%C3%A1-as%C3%AD">se procederá así</u>: 1.- Oración. La de costumbre, llevada por un muchacho; 2.- Comentario, por el Director o por el presidente; 3.- Charla. Charla de circunstancias: sin perder el punto de vista sobrenatural, interesarles por los asuntos -los apostolados- de la casa: y moverles a solicitar la asistencia a la clase de canto litúrgico -podremos organizarla este año- y al curso de Apologética, que nunca faltará en nuestras casas (106).  
+  
+**nota** (106): Responden estas palabras a las exigencias de entonces. Pero responden también a exigencias perennes de la Iglesia y de las almas: dignificar el culto, y santificarse con él; difundir y mejorar, en cada uno, la doctrina.
+
+# 156
+
+Luego, hecha la oración final, pasarán al Oratorio, donde uno de nuestros sacerdotes dará una plática, que no dure más de veinte minutos y seguidamente se expondrá a su Divina Majestad, se rezará o cantará la estación menor, se hará una comunión espiritual, y se dará la bendición y se reservará.
+
+# 157
+
+<u id="bkmrk-acabado-el-c%C3%ADrculo">Acabado el Círculo</u>, los muchachos se reparten, naturalmente, por toda la casa -por <u id="bkmrk-su">su</u> casa- y es magnífica ocasión de estudiarlos, conocerlos mejor y hacerles bien (107).  
+  
+**nota** (107): Como se dijo en la nota 64, el Padre sustituyó este Círculo General por el día de retiro mensual, organizando el número de retiros que fuera necesario, cada mes, para que los asistentes pudieran obtener el máximo fruto. -De la descripción que el Padre hace del Círculo General, se ve que toda la materia del Círculo se desarrolla perfectamente en el día de retiro, conservando y mejorando el espíritu de este Círculo General.
+
+# 158
+
+<u id="bkmrk-seminarios">Seminarios</u>: con los alumnos seleccionados de los Cursos Profesionales se hará por los socios de la Obra, ayudados por los de San Gabriel, labor de seminario, de investigación, de laboratorio (108). Se cuidará especialmente de formar hombres de cátedra; y hombres capaces de dirigir, en las actividades a que se dediquen.  
+  
+**nota** (108): Repito, como se advirtió en la nota 104, que nuestro Fundador habla en otro Documento de estos Cursos profesionales: pero ya se ve, desde el años 1935, el empeño del Padre en utilizar a los de San Gabriel para esta formación de los más jóvenes, haciendo colaborar activamente a los Supernumerarios y a los Cooperadores. -La distinción que el Padre hace -**los socios de la Obra**, ayudados por **los de San Gabriel**- se debe a que entonces nuestros hermanos Supernumerarios no eran miembros de la Obra, porque no había encontrado la solución jurídica que lo permitiera. -El Padre dice gráficamente que, **aun cuando la realidad histórica es ésta, se equivocaría quien afirmase que los Numerarios son el <u>cogollo</u> y los demás socios, las hojas de alrededor: porque todos los socios del Opus Dei -Numerarios, Oblatos y Supernumerarios- son el <u>cogollo</u>**.
+
+# 159
+
+Menester será darles un carácter recio y viril; y un criterio seguro, inconmovible.
+
+# 160
+
+Aunque, dado el espíritu de la Obra, con audacia, y con sencillez de paloma y prudencia de serpiente -<u id="bkmrk-estote-ergo-prudente">estote ergo prudentes sicut serpentes, et simplices sicut columbae</u>; sed prudentes como la serpiente, y simples como la paloma (<u id="bkmrk-matth">Matth</u>. X, 16)- muchas veces esta formación especial deberá darse, por gente de Casa a nuestros chicos de San Rafael, en edificios del Estado y con dinero del Estado: sin embargo, habremos de procurar tener, en nuestras casas, laboratorios, bibliotecas, etc.
+
+# 161
+
+Y siempre, para los alumnos de los seminarios, habrá una <u id="bkmrk-academia-de-oratoria">academia de oratoria</u> y una <u id="bkmrk-clase-de-redacci%C3%B3n">clase de redacción</u>, a fin de evitar -es frecuente- que hombres de talento extraordinario no sepan escribir, al menos con cierta corrección de lenguaje, o hablar en público (109).  
+  
+**nota** (109): Es patente la preocupación del Padre por emplear todos los medios aptos para dar doctrina, y para formar a quienes deberán darla: profesores universitarios, academias de oratoria, clases de redacción. Seguramente el Padre entreveía a tantos hijos suyos publicistas, catedráticos, periodistas, políticos, etc., que desde la prensa o el parlamento, la cátedra o la radio, utilizando todos los medios de formación y de información, llevaran el alimento de la palabra de Dios, de la buena doctrina, a todas las gentes: <u id="bkmrk-fides-ex-auditu">fides ex auditu</u> (<u id="bkmrk-rom">Rom</u>. X, 17). -Y desde entonces -desde el principio de la Obra- el Padre se propuso preparar personas capaces de hacer el **apostolado de la opinión pública**.
+
+# 162
+
+Aquí viene como anillo al dedo, recordar lo que os he dicho sobre la Biblioteca y los ficheros, en otro lugar, y añadir esta advertencia (110): <u id="bkmrk-nadie-en-la-obra-se-">nadie en la Obra se puede sentir solo</u>, ni en el trabajo profesional. Cada uno es eslabón de la cadena, <u id="bkmrk-que-llegar%C3%A1-hasta-el">que llegará hasta el fin</u> (111).  
+  
+**nota** (110): Entre los apuntes que escribió el Padre, para redactar esta Instrucción, hay la siguientes nota, que nos comentó muchas veces: **la biblioteca debe estar cerrada para el vulgo, que frecuenta nuestras academias. En cambio, será atracción para muchachos estudiosos, licenciados o no, que, no siendo alumnos nuestros, se propongan seriamente aprovechar el tiempo. Con este fin, se les proporcionará tarjeta de lector, a precio muy módico (apostolado de no dar). La sala de lectura debe ser cómoda, acogedora. No haya secciones circulantes, para evitar la pérdida de libros, y para tener así más trato con los jóvenes. Además de los libros de texto y de consulta, tenga revistas nacionales y extranjeras de especialización, de cultura. Mejor que almacenar libros -muchas veces, inútiles- hay que procurar hacerse con ficheros completos de bibliotecas públicas o particulares, donde, orientados desde Casa, puedan los nuestros fácilmente aprovechar**.  
+  
+**nota** (111): ¡Cuántas veces repite el Padre esta afirmación, a lo largo de sus charlas y de sus escritos! Afirmación que ha de robustecer en nosotros, que debemos dar la continuidad, un sentido de responsabilidad profundamente vivido.
+
+# 163
+
+Consiguientemente, al estudiar, hemos de tener un particular interés en facilitar el camino a los nuestros que vengan detrás. Y así, de todos los trabajos de seminario, se harán las fichas oportunas, que el día de mañana ahorrarán tiempo a nuestros hermanos y facilitarán su mejor formación.
+
+# 164
+
+de la obra de San Rafael (112). La residencia no es convento, ni colegio, ni cuartel, ni asilo, ni pensión: <u id="bkmrk-es-familia">es familia</u>.  
+  
+**nota** (112): **Es la residencia una parte de la labor de San Rafael, y no la más importante**, le hemos oído decir después muchas veces, sin que esta afirmación contradiga en absoluto las palabras de la Instrucción. Aunque la labor en las residencias de estudiantes sea a veces dura, no se debe abandonar nunca, cediendo a la fácil tentación de trabajar casi exclusivamente en otras tareas de San Rafael: una residencia bien llevada es, como nos indica el Padre, un verdadero **núcleo** de la obra de San Rafael, y un medio discreto y eficacísimo de formación personal para las vocaciones jóvenes, con el ejercicio del apostolado profesional y de todas nuestras normas en medio de los demás estudiantes.
+
+# 165
+
+Nuestras residencias no son tampoco <u id="bkmrk-reformatorios">reformatorios</u>, ni lugar de <u id="bkmrk-acogimiento-y-preser">acogimiento y preservación</u> de jóvenes estudiantes. Son <u id="bkmrk-seminarios">seminarios</u> de jóvenes selectos, por su vida cristiana y por su vida de trabajo intelectual.
+
+# 166
+
+Por amor de Dios, no me torzáis el apostolado de esta parte de San Rafael, con la falsa excusa de una aparente caridad. Por tanto, nunca admitáis residentes a título de corrigendos; y, pasado el tiempo, solamente sean admitidos aquellos que conozcan y amen a la Obra.
+
+# 167
+
+<u id="bkmrk-los-residentes-est%C3%A1n">Los residentes están en su casa</u>: si algo ven que merezca corrección, en lo material, en lo intelectual o moral, deberán callar de momento encubriendo con la capa de la caridad, como los hijos buenos de Noé. Y advertirlo, cuanto antes, al Director de la casa (113).  
+  
+**nota** (113): Es menester insistir mucho en estos conceptos, al hablar con los residentes: con caridad y con paciencia se logra que no hay nunca muchachos descontentos, desambientados. No se pueden permitir las críticas negativas y, mucho menos, las murmuraciones entre los residentes: y, para conseguir esto, es necesario que todos consideren la casa como suya, y que sepan que pueden tener la máxima confianza con el Director de la casa o con el Director de su Círculo.
+
+# 168
+
+Cuando sea necesario <u id="bkmrk-prescindir-de-alg%C3%BAn-">prescindir de algún residente</u>, se ha de procurar que se marche él, mejor que despedirlo, dejándole en postura airosa; a no se que, por esto, se perjudique a la casa (114).  
+  
+**nota** (114): Delicadeza máxima quiere nuestro Padre: que nadie nunca quede herido, ni resentido. No emplea el Padre la palabra expulsión. -**En postura airosa**: suele aconsejar el Padre que se diga al muchacho que escriba a sus familiares, para hacer ver que no encuentra a gusto en la residencia, que está desambientado, aduciendo motivos que puedan comprender los suyos, pero sin emplear ningún argumento -que sería injusto- peyorativo para la casa.
+
+# 169
+
+<u id="bkmrk-que-amen-el-silencio">Que amen el silencio</u>: habrá que aislar bien la parte de la casa destinada a habitaciones de estudio. Y nuestros estudiantes no olvidarán que su silencio es: la oración, el trabajo y el descanso de los demás. Después del comentario, a la noche, habrá silencio mayor hasta después de la misa del siguiente día (115)  
+  
+**nota** (115): Incúlquese a los muchachos la persuasión de que ese silencio es necesario, y nace de una caridad bien entendida para los demás residentes. -Con el tiempo, llegarán a comprender y a amar, por otros motivos sobrenaturales, esta costumbre. El Padre ha dicho que: **para un alma contemplativa, ese silencio de la noche se paladea, se hace indispensable**.
+
+# 170
+
+<u id="bkmrk-el-capell%C3%A1n-de-la-ca">El capellán de la casa</u> no deberá confesar a los residentes, aunque los dirija (116). Convendrá hacer que, en días determinados, vengan a nuestras casas de San Rafael, <u id="bkmrk-confesores">confesores</u>, hermanos nuestros o afectos a la Obra (117).  
+  
+**nota** (116): Estas palabras son consecuencia de la situación del Padre, en aquella época: era entonces, nuestro Fundador, el único sacerdote de la Obra. -Con esos otros sacerdotes, a los que el Padre, como a tantos otros, llamaba hermanos, y que llegaron a vincularse a la Obra por medio de una promesa, no podía contar para su apostolado (cfr. nota 45 de esta Instrucción). -Y de hecho tampoco había más Director de la casa que el mismo Padre, porque aunque uno de nuestros hermanos era oficialmente el Director, no podía dedicar a la residencia más que algún tiempo: y ese tiempo, en realidad era destinado por el Padre a formar a ese hermano nuestro, que agradecía al Señor tan extraordinaria oportunidad. -Por consiguiente, nuestro Fundador era no sólo el Padre, sino además el verdadero Director material de la residencia, ante los ojos de todos: y por consiguiente no confesaba a los residentes. -Hoy el capellán de la casa de San Rafael es el Director espiritual y el confesor habitual: aunque, cuando sea preciso, se puede llamar como capellán a otro sacerdote -así de hecho en no pocas ocasiones-, y el sacerdote Numerario, que por circunstancias especiales no puede sujetarse a las horas requeridas para cumplir con el oficio de capellán, queda exclusivamente como Director espiritual y confesor de la residencia de estudiantes.  
+  
+**nota** (117): Así se hará cuando el número de residentes y de miembros de la obra de San Rafael lo exija; y, siempre que sea posible, para facilitar a los muchachos la frecuencia de sacramentos dentro de la residencia, dándoles la oportunidad de elegir uno u otro confesor. -Si no hay suficientes sacerdotes, se acude -decía entonces el Padre- a los **afectos a la Obra**. Ahora, si es posible se acude a nuestros hermanos Oblatos y Supernumerarios; y también a los Asistentes Eclesiásticos, que ocupan el primer lugar entre los **afectos a la Obra**.
+
+# 171
+
+La casa podrá y deberá organizar <u id="bkmrk-excursiones">excursiones</u>, los domingos y días festivos. La obra de San Rafael, no (118).  
+  
+**nota** (118): La obra de San Rafael no actúa corporativamente. Esta labor con la juventud está puesta bajo la protección de San Rafael y de San Juan, y tiene sólo entraña apostólica: pero se lleva a cabo de modo no eclesiástico, sino secular.
+
+# 172
+
+Se aprovecharán las residencias, para dar ejercicios espirituales, durante las vacaciones escolares (119).  
+  
+**nota** (119): Después, para dar mayor libertad -para no obligar a nadie a utilizar un modo determinado-, dejó de llamar ejercicios espirituales a los que daba, y los denominó **cursos de retiro**. ¡Cuántos cursos de retiro organizaba y dirigía personalmente nuestro Padre, mientras le fue posible! No pocas veces, dos cursos contemporáneos, en diferentes sitios, con cinco meditaciones diarias en cada uno, y atendiendo personalmente a todos los asistentes. Cursos para poca gente, buscando la eficacia y el trato, la dirección espiritual de todos los que los hacían. -Nunca el trabajo puede asustar a nuestros sacerdotes: les asustaría, en cambio, la falta de tarea, porque sería un índice claro de la falta de espíritu, de celo por las almas. -En la organización de estos cursos de retiro -en el reclutamiento de asistentes- deben intervenir activamente los muchachos de San Rafael.
+
+# 173
+
+La Obra ha de pasar oculta (120). No así, algunas casa de la Obra. E, indudablemente, nuestras casas de San Rafael -residencias, academias, colegios universitarios, o como se llamen (121)- no tardarán en ser conocidos y en adquirir un <u id="bkmrk-prestigio">prestigio</u> sobresaliente.  
+  
+**nota** (120): Nunca ha habido secretos de ninguna clase; ni social, ni personal (cfr. en esta misma Instrucción, por ejemplo, los nn. 182-186). Pero, mientras no llegara la aprobación eclesiástica, aunque se contara siempre con el aliento lleno de cariño del Obispo del lugar, convenía por respeto a la Iglesia extremar la discreción, que siempre será conveniente por razones de eficacia, por humildad colectiva: el Padre temía que, si se hablaba demasiado de la Obra, nos llenásemos de un falso amor al Opus Dei -orgullo disfrazado con paños de amor sobrenatural-, que pusiera en un segundo lugar nuestra adhesión y nuestro amor filial a la Iglesia: **que la rama no dejara ver el bosque**. -Pasados los años y aprobado canónicamente el Opus Dei, no es ya oportuno ni posible hacer que la Obra pase oculta: pero el espíritu que motivaba este consejo del Padre ha de mantenerse siempre con santo vigor, y muchas casas de la Obra podrán y deberán pasar inadvertidas.  
+  
+**nota** (121): Habla nuestro Padre de las obras corporativas de las dos Secciones, para la tarea con la juventud. -Véase cómo ya entonces el Padre preveía la labor de enseñanza privada: esto explica cuanto se dijo en las notas 50 y 52.
+
+# 174
+
+Sucederá que serán muchos los buenos estudiantes que deseen venir a nuestros colegios universitarios, y luego tendrán a gala llamarse colegiales -de DYA o de donde sea- de nuestras casa. Este prestigio es medio seguro para lograr vocaciones selectas, y con él quedará patente en la Obra de Dios aquello de Isaías (XLI, 20): <u id="bkmrk-ut-videant%2C-et-scian">ut videant, et sciant, et recogitent, et intelligant..., quia manus Domini fecit hoc</u>; para que vean, para que sepan, para que piensen y entiendan... que la mano del Señor hizo su Obra (122).  
+  
+**nota** (122): ¡Qué seguridad tenía el Padre en la divinidad de sumisión! No le hacían mella las contradicciones, que ya eran abundantes. § 4. <u id="bkmrk-santas-industrias">SANTAS INDUSTRIAS</u>
+
+# 175
+
+Prometí acabar con unos <u id="bkmrk-avisos-de-humana-pru">avisos de humana prudencia</u>. Son pequeñeces de interés, que hay que decir. Y os las diré, con un inevitable desorden, dada la naturaleza de estas santas industrias. Aquí van:
+
+# 176
+
+Al tratar a los muchachos, no olvidéis que los peores no son los malos, sino los <u id="bkmrk-bondadosos">bondadosos</u>, necios, <u id="bkmrk-qui-nesciunt-quid-fa">qui nesciunt quid faciunt mali</u>, que no se dan cuenta del mal que hacen (<u id="bkmrk-eccles">Eccles</u>. IV, 17).
+
+# 177
+
+<u id="bkmrk-no-somos-frailes">No somos frailes</u>. No somos religiosos. Que, en nuestras casas, no haya nada, ni nadie, con aire conventual (123).  
+  
+**nota** (123): Bien visibles son el amor y la veneración que nuestro Fundador ha manifestado siempre por el estado religioso. Pero era necesaria esta afirmación, hecha de un modo tan gráfico y tan rotundo, de que ni teníamos ni deseábamos tener esa vocación, porque el Señor nos había dado otra diferente. -Y el Señor hizo que lo que entonces a unos parecía como una blasfemia, a algunos un dislate canónico y a otros una incongruencia ascética, llegara a ser el motivo por el que la Iglesia modificó su legislación por medio de la Const. Ap. <u id="bkmrk-provida-mater-eccles">Provida Mater Ecclesia</u>, en cuyo Art. II el Santo Padre Pío XII hace una afirmación análoga a la que comentamos, de nuestro Fundador. No ha quedado, ni siquiera con estas nuevas normas, asegurada nuestra naturaleza jurídica, pero ha sido un paso indispensable, que nos acerca al término del camino jurídico.
+
+# 178
+
+Ya lo dije: <u id="bkmrk-no-hacemos-sociedad">no hacemos sociedad</u> o asociación de ningún género, con los cursillistas. Es preciso señalar esto bien. ¡Cuánta guerra nos han dado! Son los chicos de San Rafael alumnos, que vienen a formarse. Y nosotros damos clases de formación, con el mismo derecho con que otros dan clases de ruso o de cocina. Así de claro es menester decirlo.
+
+# 179
+
+Por tanto, es ignorancia, idiotez o mala intención, que haya quien hable -los hay- de que somos una sociedad clandestina, una <u id="bkmrk-sociedad-secreta">sociedad secreta</u>.
+
+# 180
+
+¡Señor, cómo tratan a los que te sirven! Incluso llegaron a propalar que éramos masones. Con este cuento, vinieron al dueño de la casa, donde vivimos. Y hubo de responder, al fariseo, un hijo del casero: Pues, mire: no sabíamos que los masones rezan todos los días el rosario tan devotamente. -Les duele, a los hipócritas, la fraternidad que viven los nuestros (124).  
+  
+**nota** (124): Eran otros chispazos de la <u id="bkmrk-prehistoria">prehistoria</u> de la contradicción, que más tarde estallaría, virulenta, contra la Obra; se trataba entonces, como después, de la <u id="bkmrk-celotipia">celotipia</u> de algunos, que no comprendían la eficacia silenciosa del trabajo del Padre ni la fraternidad sobrenatural de los miembros de la Obra. La caridad mutua se convertía en masonería: y la discreta reserva -el bien suele hacer poco ruido, y el ruido poco bien- era interpretada como secreto. Esa celotipia provocaba ya entonces calumnias, que años después serían recogidas alegremente por los anticatólicos, y por los <u id="bkmrk-cat%C3%B3licos-oficiales">católicos oficiales</u> -es decir, católicos que, en vez de servir a la Iglesia, se sirven de la Iglesia para medrar-, como había previsto el Padre. -Tres años antes, ya nuestro Padre nos había dicho: **los eternos censores de toda obra buena, que se hallan en todas partes, estad seguros de que tampoco no nos faltarán**.
+
+# 181
+
+No es imposible que, a pesar de vuestros cuidados, se pongan en contacto con la Obra muchachos <u id="bkmrk-pueblerinos">pueblerinos</u> -pueblerinos, a veces nacidos en Madrid, y hasta con una corona heráldica-, que lo cuenten todo... Y ¡si contaran sencillamente lo que ven u oyen! Entonces, muy bien (125). Pero, puestos a contar, cuentan cuentos (126).  
+  
+**nota** (125): Hace algunos años un personaje Español, que antes -durante mucho tiempo- había militado en el campo adverso a la Iglesia, preguntaba a nuestro Fundador si se imponía secreto sobre la actuación de los miembros de la Obra. El Padre contestó: -¡**cree de verás que usted podría conservar algún secreto, si viviera constantemente entre estudiantes? Pues así vivo yo, desde hace muchos años, como en una casa de cristal: rodeado de muchachos, que ven a qué hora me levanto, lo que como, lo que duermo, lo que rezo, todo lo que hago: ésos son los secretos del Opus Dei**. -Su interlocutor insinuó: -¿pero no sería conveniente imponer una obligación de guardar secreto? Porque, si alguno no persevera, ¿qué pasará? -Y el Padre: -**Si alguno se fuera, sucedería una cosa terrible, y es ésta: si cuenta todo lo que ve en Casa, la gente honrada como usted, cuando vea pasar por la calle a algún miembro del Opus Dei, se pondrá de rodillas, porque yo soy un pecador que vive entre santos**.  
+  
+**nota** (126): Sobre todo cuando, como sucedió el año 1940, una de aquellas personas afectas de <u id="bkmrk-celotipia">celotipia</u> -más tarde, apóstata- enviaba a nuestra residencia de la calle de Jenner muchachos, para <u id="bkmrk-que-vieran-lo-malo">que vieran lo malo</u>. Su prevención -y su ignorancia- convirtieron en texto masónico las palabras del Espíritu Santo, recogidas en los Hechos de los Apóstoles: <u id="bkmrk-erant-autem-persever">Erant autem perseverantes in doctrina Apostolorum, et communicatione fractionis panis, et orationibus</u> (<u id="bkmrk-act">Act</u>. II, 42), que se había escrito en el friso del oratorio. Y los dibujos puestos entre palabra y palabra de esta inscripción -los clásicos signos cristianos de la cesta de panes, del pez, etc.- fueron, para esos pobres muchachos, <u id="bkmrk-signos-cabal%C3%ADsticos">signos cabalísticos</u>.
+
+# 182
+
+De ahí, la necesidad de recomendar a los chicos la <u id="bkmrk-discreci%C3%B3n">discreción</u>, diciéndoles: <u id="bkmrk-no-se-os-pide-secret">no se os pide secreto</u>, fijaos: se os pide discreción.
+
+# 183
+
+No hay secretos que guardar: pero, lo mismo que en nuestras casas, en nuestras familias, hay ciertas cosas sin importancia que no comunicamos a los extraños -y en esto seguimos el consejo de los Proverbios (XXV, 9): <u id="bkmrk-secretum-extraneo-ne">secretum extraneo ne reveles</u>, no manifestéis el secreto a los extraños- porque, siendo para nosotros muy queridas, para los demás iban a ser motivo de risas y burlas: aquí también, en esta casa de todos nosotros, hay cosas sin importancia, muy edificantes ordinariamente, que serían tomadas a broma por quienes no pertenecen a nuestra <u id="bkmrk-familia">Familia</u>.
+
+# 184
+
+Más. Suelo preguntarles: ¿a que no sabéis como me llamo de cuarto apellido? ¿Es que lo oculto? ¿Es que hay misterio? ¿Hay algo deshonroso? No. Es que no tiene interés ninguno deciros cuál sea mi cuarto apellido. Sin embargo, si mi lo preguntáis alguno de vosotros, como sois de mi familia, sois de la Obra, al momento habría de contestaros: me llamo Blanc. Pero, si me preguntara otra persona, es seguro que no tendrá respuesta, o -a lo más- se encontrará con esta interrogación: ¿Y a usted qué le importa? Os digo: ¿es que oculto un secreto? No: es que tengo discreción.
+
+# 185
+
+Hay otras razones de índole sobrenatural, para que seamos discretos: tenemos dentro del espíritu de la Obra el poner en práctica aquellas palabras que dice el Sacerdote, alzando la Hostia sobre el Cáliz, en el canon de la Misa: <u id="bkmrk-deo...-omnis-gloria">Deo... omnis gloria</u>, para Dios toda la gloria. No buscamos la gloria para la Obra, que pasa oculta. <u id="bkmrk-illum-oportet-cresce">Illum oportet crescere, me autem minui</u>, conviene que El crezca, y que yo mengüe (<u id="bkmrk-ioann">Ioann</u>. III, 30), decimos con nuestro modo de trabajar.
+
+# 186
+
+Y estamos seguros de agradar a Jesús, cuando esa gloria humana, que legítimamente nos pertenece, va derecha hasta el Señor, y, accidentalmente, a las distintas asociaciones, culturales, deportivas, etc., por medio de las cuales trabajan siempre los nuestros, quedando escondida la Obra que -<u id="bkmrk-deo-omnis-gloria%21">Deo omnis gloria!</u>- desaparece.
+
+# 187
+
+<u id="bkmrk-dos-inconvenientes-d">Dos inconvenientes de la indiscreción</u>: un muchacho <u id="bkmrk-entusiasta-e-indiscr">entusiasta e indiscreto</u>, sin saberlo remediar, a todas horas nombra la academia, la residencia, la casa, la obra... Y esto, con sus amigos, con sus compañeros de estudio, con sus padres. Sus padres y sus hermanos desayunan academia, almuerzan u comen residencia y casa y obra... Están hartos.
+
+# 188
+
+El muchacho indiscreto, con su entusiasmo imprudente, consiguió hacer odioso y antipático lo que él ama. Esto hay que evitarlo, advirtiéndolo a tiempo.
+
+# 189
+
+Otro chico <u id="bkmrk-indiscreto-y-desapre">indiscreto y desaprensivo</u>. Este es peor. Logró introducirse entre los de San Rafael. Pero no deja los amigotes <u id="bkmrk-bondadosos">bondadosos</u> (127), que antes tuvo. Y sucede que va al cine o a otro espectáculo y, en su casa, dice: voy a DYA (128). Llega tarde a cenar -estuvo paseando con los <u id="bkmrk-bondadosos-1">bondadosos</u>- y, es natural, la excusa sale sin esfuerzo: nos entretuvieron en la academia.  
+  
+**nota** (127): Cfr. esta Instrucción, n. 176. -Se trata de ésos que aparentan ser buenos, pero que no cumplen con sus obligaciones: que quizá no pequen por acción, pero sí lo hacen por omisión. El Padre, en <u id="bkmrk-camino">Camino</u>, dice así: **Frecuentas los Sacramentos, haces oración, eres casto... y no estudias... -No me digas que eres bueno: eres solamente bondadoso** (n. 337).  
+  
+**nota** (128): La única residencia que teníamos entonces en Madrid.
+
+# 190
+
+Esto tiene una sola sanción, porque se sabe pronto: de ordinario, es el padre del muchacho quien viene a preguntar y lo cuenta. La sanción única es eliminar al joven indiscreto y trapisondista.
+
+# 191
+
+Acostumbrad a los chicos, desde el principio, a ser <u id="bkmrk-disciplinados">disciplinados</u>. Que no quieran salirse de su sitio. Si no, poco provechosos serán más tarde en la <u id="bkmrk-organizaci%C3%B3n-familia">organización familiar</u> de la Obra (129).  
+  
+**nota** (129): Se ve el pensamiento del Padre de que los chicos de la obra de San Rafael son candidatos, en potencia, a la vocación para la Obra, con una entrega más o menos plena; por eso exige que se les forme en el espíritu de sinceridad y de obediencia, que les llevará a aceptar más fácilmente nuestra espiritualidad específica, llena de virtudes humanas, entre las que ocupa un lugar fundamental la sinceridad, y la renuncia que supone la vocación: o, por lo menos, a ser buenos Cooperadores activos (cfr. nn. 66 y 112; notas 70, 82 y 84 de esta Instrucción)
+
+# 192
+
+Procurad que se visite a los <u id="bkmrk-enfermos">enfermos</u> y a los remolones. A bastantes, les cuesta entrar en el camino -hay quien tiene miedo- y es preciso empujarles, con oración y sacrificios, y hasta con empujones casi materiales (130).  
+  
+**nota** (130): <u id="bkmrk-compelle-intrare">Compelle intrare</u>! (<u id="bkmrk-luc">Luc</u> XIV, 23), nos decía el Padre. Santa coacción que tiene por fin inmediato no la vocación, la entrega total, sino la vida cristiana. Cuando la vida sea fervorosa, reciamente cristiana -y, para obtener esto, la labor suele ser lenta-, se podrá pensar en que Dios bendiga y corone ese progreso espiritual, por medio de la vocación.
+
+# 193
+
+Si alguno de nuestros chicos va a cursar en <u id="bkmrk-otra-universidad">otra universidad</u>, recomiéndesele a los amigos de la obra que allí residan. Mejor, si logramos tener alguno de Casa, en todos los centros universitarios (131).  
+  
+**nota** (131): Los amigos de la obra -con minúscula- son los muchachos de San Rafael, y los que han sido formados por la Obra, sin recibir vocación para el Opus Dei. -Prefería, naturalmente, el Padre que hubiera alguno de nuestra Familia -de la Obra, con mayúscula, según su terminología- en todos los centros universitarios. Pasados los años, al ver cómo se van cumpliendo lo que alguno definía <u id="bkmrk-sue%C3%B1os">sueños</u> de nuestro Fundador -<u id="bkmrk-inter-medium-montium">inter medium montium pertransibunt aquae!</u>- (<u id="bkmrk-ps">Ps</u>. CIII, 10)-, no podemos dejar de levantar el corazón a Dios en acción de gracias, ni de formular sinceros propósitos de fidelidad a cuanto el Señor, por medio del Padre, pide de nosotros.
+
+# 194
+
+No dejéis de <u id="bkmrk-charlar-frecuentemen">charlar frecuentemente</u> con cada uno de los muchachos, para darles lugar a sus confidencias. Buscad vosotros la ocasión, sirviéndoos de sus compañeros más nuestros. No olvidéis que, como el Buen Pastor, es preciso que podáis decir: <u id="bkmrk-et-cognosco-meas%2C-et">et cognosco meas, et cognoscunt me meae</u>; conozco a mis ovejas, y ellas me conocen <u id="bkmrk-%28ioann">(Ioann</u>. X, 14).
+
+# 195
+
+Ya escribí, en otra parte de esta Instrucción (132), que la labor de <u id="bkmrk-catequesis">catequesis</u>, el trabajo en favor de las <u id="bkmrk-misiones">misiones</u> y la visita a los <u id="bkmrk-pobres-de-la-virgen">pobres de la Virgen</u> no son, para nosotros, un fin, sino un medio.  
+  
+**nota** (132): Cfr. n. 127.
+
+# 196
+
+<u id="bkmrk-la-catequesis">La catequesis</u> siempre ha sido, en la Obras, medio de proselitismo. Medio son, para formar a los jóvenes, las misiones, que agrandan el corazón de nuestros muchachos, al preocuparse de otros hijos de la Santa Iglesia, que viven geográficamente separados de nosotros; y los pobres de la Virgen, porque, por ellos, se honra a la Señora y se ejercita la caridad.
+
+# 197
+
+<u id="bkmrk-catecismo">Catecismo</u>: no tengamos catecismos nuestros. Hemos de limitarnos a proporcionar catequistas, <u id="bkmrk-solamente-para-las-m">solamente para las mañanas de los domingos</u>. Uno de los catequistas es jefe del grupo, y deberá dar cuenta a su Director de la marcha de la catequesis. No se consienta a los catequistas que tomen iniciativas, sin contar antes con el permiso del Director (133).  
+  
+**nota** (133): La catequesis suele ser -aparte de una labor de apostolado- un gran medio para seleccionar a los muchachos, antes de ponerles en contacto con la obra de San Rafael; para mejorar más rápidamente su formación, estimulando su generosidad, su caridad; y para indicarles una primera meta de proselitismo, en el apostolado que han de hacer con sus compañeros. -Se han solido elegir siempre parroquias de las barriadas más pobres, tanto para la catequesis como para las visitas a los pobres de la Virgen. -El Padre suele decir que **el apostolado de la Obra no es sino una catequesis, que se da con el ejemplo y con la doctrina**.
+
+# 198
+
+<u id="bkmrk-misiones">Misiones</u>: procúrese ayudar a un determinado centro de enseñanza -escuela, seminario, etc.- en tierra de misiones. Con las cartas, fotografías y objetos que se reciban de la misión, se podrá formar un pequeño museo misional.
+
+# 199
+
+No se haga, por los nuestros, asociación misionera estudiantil. La Obra nunca aparecerá: son los alumnos de DYA, por ejemplo, quienes hacen regalos a la misión (134).  
+  
+**nota** (134): Siempre nuestro Fundador ha inculcado, en sus hijos, el espíritu misionero: la Iglesia es misionera por exigencia de su misma naturaleza. Pero también siempre nos ha dicho y escrito el Padre que todos hemos de ser **misioneros con misión, sin llamarnos misioneros**. -Somos **misioneros**, por el mismo hecho de participar de los fines de la Iglesia, y de hacerlos nuestros: y porque llevamos este afán de cristianizar o de recristianizar el mundo a todos nuestros trabajos, lo mismo en medio de las grandes ciudades que en los sitios más alejados de la civilización, que están a veces más cerca de Dios, que las ciudades que se consideran cristianas. -**Con misión**, dice el Padre: no se trata, evidentemente, de la misión canónica, sino del mandato que recibimos de nuestros Directores. Y no podemos **llamarnos misioneros**, porque nuestra actividad no se lleva a cabo de modo eclesiástico, sino secular: es la tarea de ciudadanos corrientes, tanto si su quehacer -**realizado con alma sacerdotal y mentalidad laical**- es individual, como si se hace por medio de obras corporativas, que son siempre seculares. -Esta norma que aquí da el Padre, de ayudar a un determinado centro de tierra de misiones, fue poco después cambiado por nuestro Fundador, que había experimentado que era mejor que los chicos de San Rafael colaboraran en los apostolados de la Obra -que son siempre expresión de nuestro espíritu misionero-, en vez de ayudar a una labor concreta: el espíritu se hace más universal. En lugar del pequeño museo de misiones, que, por la razón dada, ya no se debe hacer, en muchas casas de San Rafael se conservan banderines, escuditos, folletos, etc., de otras obras corporativas. Se fomenta así un sano ambiente de familia, que lleva a encomendar esas otras labores.
+
+# 200
+
+<u id="bkmrk-pobres-de-la-virgen">Pobres de la Virgen</u>: todos los sábados y los días diecinueve de cada mes -en honor de San José- se hará una colecta secreta, para los pobres de la Virgen. Pasa uno cualquiera con una bolsa, y la limosna se entrega al tesorero de los fondos de caridad. Haya también un cepillo, para esto, en el oratorio.
+
+# 201
+
+Luego, en las fiestas de la Santísima Virgen, van dos de San Rafael a visitar a un pobre determinado, que suele ser conocido por las conferencias de San Vicente. Se consuela al pobrecito, se le da una limosna en metálico, alguna lectura buena, y unos dulces o algo de lo que comen los ricos.
+
+# 202
+
+Habrá quien no entienda esto último, pero lo hemos hecho así desde el principio y a la Virgen, Nuestra Señor, le agrada. A mí, me parece una fineza de caridad.
+
+# 203
+
+No se consienta que nuestros chicos den dinero de su bolsillo directamente a los pobres de la Virgen, ni que se paguen el tranvía o el metro -el vehículo que sea- para ir a la catequesis.
+
+# 204
+
+Mejor es que, anónimamente, echen la limosna en el cepillo del oratorio o en la colecta de los sábados y diecinueves (135).  
+  
+**nota** (135): Esta costumbre de visitar a los **pobres de la Virgen**, que está tan dentro del corazón de nuestro Fundador, comenzó a vivirse el año 1931, en Madrid, en la época en que aún no teníamos ninguna residencia y el Padre reunía a los muchachos en casa de la Abuela, o los llevaba al <u id="bkmrk-sotanillo">Sotanillo</u>, un tranquilo bar de la calle de Alcalá, muy cercano a la plaza de la Independencia. -Con frecuencia hacia que los chicos le acompañasen a visitar pobres de los barrios más populares y miserables, y a atender enfermos en los hospitales: les lavaban las manos y los pies, les cortaban las uñas, les limpiaban los vasos de noche, les cuidaban lo mejor que podían, mientras les consolaban con una conversación oportuna (cfr. nota 25 de esta Instrucción). Esta labor tiene hoy tantas manifestaciones diversas. Además de las visitas a los pobres de la Virgen, por ejemplo, los ambulatorios, promovidos por miembros de las dos Secciones, para gente que carece de medios económicos; y las escuelas de capacitación para obreros y para obreras, que se inician y se desarrollan en los barrios más necesitados de grandes ciudades. -Era el fundamento sobrenatural -el sacrificio ofrecido a Nuestro Señor por medio de la Santísima Virgen-, que el Padre iba poniendo esos años de **crecer hacia adentro**, después de aquel 2 de octubre de 1928 (cfr. <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 19-III-1934, n. 2). Por esto, el Padre dice con alegría que **la Obra ha nacido o -mejor- se ha consolidado en los hospitales y entre los pobres de Madrid**.
+
+# 205
+
+No es posible que termine sin <u id="bkmrk-otros-avisos">otros avisos</u> -expuestos desordenadamente también-, que podemos dividir, de alguna manera, en tres grupos: <u id="bkmrk-normas-generales%3B-pi">normas generales; piedad; vocación</u>.
+
+# 206
+
+<u id="bkmrk-normas-generales">Normas generales</u>: Es preciso adquirir los datos necesarios, para conocer las circunstancias de cada muchacho. a este fin, llévese un <u id="bkmrk-fichero-discreto">fichero discreto</u> en el que se anoten las condiciones de los chicos.
+
+# 207
+
+No olvidéis que es necesario también tener otro fichero pequeño exclusivamente dedicado a anotar los <u id="bkmrk-d%C3%ADas-del-santo">días del santo</u> de nuestros amigos: y nunca se deje de felicitarles, según lo venimos haciendo. ¡Cómo lo agradecen! (136).  
+  
+**nota** (136): En este segundo fichero se anota la fecha del cumpleaños, en lugar de la del santo, en los países en que la costumbre sea festejar aquella fecha, en vez de ésta.
+
+# 208
+
+Insistid en que vivan los chicos la <u id="bkmrk-fraternidad-cristian">fraternidad cristiana</u>. No olviden que <u id="bkmrk-frater-qui-adiuvatur">frater qui adiuvatur a fratre, quasi civitas firma</u>; el hermano, ayudado por su hermano, es como ciudad amurallada (<u id="bkmrk-prov">Prov</u>., XVIII, 19).
+
+# 209
+
+Que todos tengan empeño en que los demás sobresalgan. Que cada uno sea un ángel custodio de los otros.
+
+# 210
+
+A aquellos que den pruebas de practicar habitualmente esta virtud de la caridad, muévaseles a hacer la <u id="bkmrk-ofrenda-de-los-estud">ofrenda de los estudiantes</u> (137).  
+  
+**nota** (137): Hizo con este fin el Padre un pequeño ceremonial, que en la Instrucción de San Rafael figura como un segundo apéndice. Pero después vio que entonces no convenía hacer tal Ofrenda. -En ese ceremonial -hecho para estudiantes- está encerrado lo que el Padre llama **el quicio alrededor del que gira toda nuestra santificación: prometemos** -se lee- **hacer de nuestro estudio, una oración; de nuestra vida profesional, un apostolado...**
+
+# 211
+
+La perseverancia de nuestros chicos tiene un gran enemigo: <u id="bkmrk-el-verano">el verano</u> (138). Prevenidles, antes de que se marchen: sólo a quien persevera hasta el fin se le promete el cielo -<u id="bkmrk-qui...-perseveraveri">qui... perseveraverit usque in finem, hic salvus erit (Matth</u>. X, 22).  
+  
+**nota** (138): Durante el verano, en España, los estudiantes -muchos de ellos- suelen ir fuera de la población donde cursan sus estudios, para pasar las vacaciones. El Padre se refiere, evidentemente, a las épocas de vacaciones largas -las que sean en cada país- en las que es más fácil que los estudiantes pierdan el contacto con los miembros de la Obra, ya sea porque marchan fuera, o porque se dedican a otros tipos de trabajo intelectual o manual.
+
+# 212
+
+No olvidéis, en cada casa, que es precis sostener correspondencia con los chicos, durante las vacaciones, exigiéndoles que escriban una vez al mes.
+
+# 213
+
+Y, luego, es preciso enviar a todos ellos relación de las cartas recibidas -<u id="bkmrk-noticias">noticias</u> (139)-, acompañando estas noticias con unas líneas para cada uno.  
+  
+**nota** (139): Así se llamaban esas hojas íntimas, caseras, que el Padre quería que se enviaran desde la Residencia de Ferraz a los muchachos de San Rafael, durante las vacaciones, y que tanto bien hacían a todos, manteniéndoles unidos. -Pueden ser estas hojas algo parecido a nuestras actuales publicaciones internas, en cuanto al estilo familiar: pero constan de muy pocas páginas, que entonces iban tiradas a <u id="bkmrk-ciclostil">ciclostil</u> o copiadas a máquina, y se limitan a dar noticias sobre los chicos de San Rafael que dependen del Centro que las envía. Se encabezaban con garbo juvenil y sentido apostólico.
+
+# 214
+
+Es eficaz este apostolado postal, que tiene como complemento el <u id="bkmrk-negociado-de-gesti%C3%B3n">negociado de gestión</u>, por el que se atienden con diligencia todos los encargos que quieran hacer los muchachos que están de vacaciones: desde enviarles libros, proporcionarles programas y apuntes, preguntar datos en los centros docentes, etc., hasta comprarles una corbata. Claro, que los interesados han de pagar los gastos que se ocasionen: apostolado de no dar (140).  
+  
+**nota** (140): **De ordinario, se aprecia poco lo que cuesta poco**, nos ha dicho el Padre muchas veces, comentando ese **apostolado de no dar**.
+
+# 215
+
+Servíos de los otros chicos de San Rafael, que no se ausenten, para el trabajo de Noticias -siempre tiradas de modo casero- y de Gestión.
+
+# 216
+
+Habladles con llaneza y sin apasionamiento. No exageréis -insisto- y <u id="bkmrk-procurad-ser-muy-obj">procurad ser muy objetivos</u>. Así tendréis una autoridad indiscutible.
+
+# 217
+
+Yo suelo extremar esto, y les digo, sobre todo cuando hago afirmaciones de vida sobrenatural: no puedo afirmar cosa distinta de la que afirmo, aunque quiera: porque, si esto es una mesa -la mesa de la clase-, ¿cómo os voy a decir que es un piano de cola? Es una mesa, y no es posible que un hombre de conciencia os diga que es un piano. Y, con ésta y otras comparaciones quizá poco académicas, ¡cuánto se robustecen mis chicos en la Fe!
+
+# 218
+
+Fomentad en los muchachos todas sus <u id="bkmrk-ambiciones-nobles">ambiciones nobles</u>, sobrenaturalizándolas. Dejadles: tienen razón: hay que ser... sabios, audaces, santos. Repetidles muchas veces, en todos los tonos, que no pueden quedarse en el montón: porque han nacido para caudillos (141).  
+  
+**nota** (141): Estas palabras, escritas también en <u id="bkmrk-camino">Camino</u> (n. 16), fueron una y otra vez, incluso recientemente, interpretadas -por gentes que miraban nuestro trabajo con el prejuicio que proviene del error, del falso celo, o de la secta- como ambición, deseo de dominio, espíritu dictatorial. Y, sin embargo, sólo fomentando y sobrenaturalizando las **ambiciones nobles** se llega a hacer algo eficaz en el servicio de Dios.
+
+# 219
+
+La inexperiencia unida a esas ambiciones de cosas grandes, lleva a la gente joven al mal camino de despreciar <u id="bkmrk-las-cosas-peque%C3%B1as">las cosas pequeñas</u> (142): lo vulgar, lo de cada día, el detalle, el silencio..., el orden. Es preciso salir al paso de este error gravísimo, haciéndoles considerar aquella tan conocida frase del Eclesiástico (XIX, 1): <u id="bkmrk-qui-spernit-modica-p">qui spernit modica paulatim decidet</u>, el que desprecia las cosas pequeñas poco a poco cae en las grandes. Y aquel versículo de San Lucas: <u id="bkmrk-quien-es-fiel-en-lo-">quien es fiel en lo poco, también lo es en lo mucho: y quien es injusto en lo poco, también lo es en lo mucho</u> (XVI, 10).  
+  
+**nota** (142): **Las cosas pequeñas**: ahí está una de las características esenciales, uno de los fundamentos de la ascética propia del Opus Dei.
+
+# 220
+
+Que vean cómo se procede para levantar un edificio majestuoso: un día y otro día de trabajo monótono. Pequeñas cosas: un ladrillo y otro ladrillo y un sillar, que nada parece, a pesar de su tamaño extraordinario, comparado con el conjunto: y comenzar y acabar la jornada a la misma hora: y perseverar. Ninguna cosa grande se consigue de repente: la santidad, menos aún: ¡cuánto les podéis decir de la <u id="bkmrk-santidad-y-lo-peque%C3%B1">santidad y lo pequeño!</u>
+
+# 221
+
+¡Bendita perseverancia, llena de fecundidad, del pobre borrico de noria!: siempre lo mismo, monótonamente, escondido y despreciado, a su paso humilde..., sin querer saber que son sus sudores el aroma de la flor, la hermosura del fruto en sazón, la fresca sombra de los árboles en el estío: la lozanía toda del huerto, y todo el encanto del jardín (143).  
+  
+**nota** (143): Cfr. <u id="bkmrk-camino">Camino</u>, n. 998. -**Un borrico fue el trono de gloria de Jesús en Jerusalén**, nos repite el Padre: y, por eso -<u id="bkmrk-ut-iumentum-factus-s">ut iumentum factus sum apud te!</u> (<u id="bkmrk-ps">Ps</u>. LXXII, 23)-, nos enseña a trabajar con humildad y perseverancia, para que también nosotros podamos ser trono del Señor.
+
+# 222
+
+<u id="bkmrk-pero%2C-vamos-a-otro-p">Pero, vamos a otro punto</u>: evitad a los chicos la desilusión que les producen, como a muchos recién convertidos a vida más perfecta, las <u id="bkmrk-imperfecciones-de-lo">imperfecciones de los demás</u>. Que tengan mucha caridad: para esto, que midan a los otros por su propia flaqueza. Así perdonarán siempre.
+
+# 223
+
+Es necesario advertirles que viven entre hombres; no entre ángeles. Que no se escandalicen, si ven algo menos edificante entre los buenos (144).  
+  
+**nota** (144): Esa desilusión es una tentación corriente, entre los que empiezan la vida espiritual de entrega. Es bien sabido y repetido entre los directores de almas, que los que empiezan a querer seguir de cerca a Cristo son pecadores que parecen santos, y muchas veces las personas de edad, que llevan muchos años en su lucha ascética, son santos que parecen pecadores: y esto, porque los primeros ponen la santidad en prácticas externas y hasta en la rareza; y los segundos actúan y viven con naturalidad loas virtudes, la vida sobrenatural. -Para evitar este escollo, que puede hacer naufragar más de un propósito generoso, es necesario que los Directores y encargados de la labor de San Rafael tengan en cuanta siempre que el demonio se puede servir de cualquier pequeño detalle, con el fin de sembrar el desánimo o el escándalo en almas poco formadas. -Y es preciso también que se eduque a los muchachos en el espíritu de caridad y en una sincera humildad, porque quien se conoce a sí mismo y ama al prójimo por amor de Dios, es siempre comprensivo con los posibles defectos de los demás, y sabe descubrir las virtudes ocultas de los que le rodean; y así lo que a otros menos formados podría producir escándalo, se convierte en ocasión para aprender y para formarse mejor. -¡Cuánto nos habla el Padre sobre la necesidad de ser comprensivos! Por ejemplo, en la <u id="bkmrk-carta">Carta</u>, 16-VII-1933, n. 3, escribe: <u id="bkmrk-caritas-christi-urge">Caritas Christi urget nos</u> (cfr. II <u id="bkmrk-cor">Cor</u>. V, 14). **Con la luz siempre nueva de la caridad, con un generoso amor a Dios y al prójimo, renovaremos, a la vista del ejemplo que nos dio el Maestro, nuestras ansias de comprender, de disculpar... Con la caridad, seréis sembradores de paz y de alegría en el mundo, amando y defendiendo la libertad personal de las almas, la libertad que Cristo respeta y nos ganó** (<u id="bkmrk-galat">Galat</u>. IV, 31).
+
+# 224
+
+Y que no crean que es hipocresía lo que es pudor, conciencia de que se obra mal, que lleva a ocultar l que otros hacen o dicen con cinismo (145).  
+  
+**nota** (145): Dice el Padre que ese pudor, que lleva a ocultar las imperfecciones a los demás -no a los Directores-, es una **delicadeza de caridad** absolutamente imprescindible.
+
+# 225
+
+No perdáis ocasión de hacerles notar que <u id="bkmrk-dios-es-el-de-siempr">Dios es el de siempre</u>: que no se ha cortado las manos, suelo decir con frase gráfica (146).  
+  
+**nota** (146): <u id="bkmrk-numquid-manus-domini">Numquid manus Domini invalida est?</u> (<u id="bkmrk-num">Num</u>. XI, 23). <u id="bkmrk-ecce-non-est-abbrevi">Ecce non est abbreviata manus Domini</u> (<u id="bkmrk-isai">Isai</u>. LIX, 1).
+
+# 226
+
+Insistid en que el apostolado, que con ellos se hace, es de índole sobrenatural, sin buscar por este apostolado nada terreno.
+
+# 227
+
+Traed muchas veces a cuento -oportunamente- la <u id="bkmrk-presencia-de-dios">presencia de Dios</u>, en conversaciones particulares, en las charlas comunes y siempre: a ellos y a vosotros, os hará bien. En dos palabras: hacedles <u id="bkmrk-cat%C3%B3lico">católico</u> el corazón y el entendimiento (147).  
+  
+**nota** (147): Para lograr este fin recomienda nuestro Padre, como se ve, que los muchachos de San Rafael -y nosotros- vivamos **vida de fe**: es decir, que nos sepamos en la presencia de Dios, **que es el de siempre**: el Todopoderoso, que continúa siéndolo porque **no se ha cortado las manos**. -**Hacedles** católico **el corazón y el entendimiento**. Nos ha enseñado el Padre a ser **romanos**, a difundir es espíritu universal de la Santa Iglesia. Y aclara que: **cuando hablamos de la Iglesia Romana nos referimos necesariamente a la Iglesia Una, Santa, Apostólica, Católica, Universal.**
+
+# 228
+
+<u id="bkmrk-el-ambiente-de-nuest">El ambiente de nuestras casas</u> ha de ser muy acogedor: amable (148). Que tengan la seguridad los muchachos de que la residencia, la academia, la obra, son <u id="bkmrk-cosa-suya">cosa suya</u>. Que sepan y vivan que todo lo que hay en la casa es de ellos: y que, por tanto, realmente <u id="bkmrk-est%C3%A1n-en-su-casa">están en su casa</u>. Esto les lleva a usar de la libertad, que se les concede, con tino y delicadeza increíbles (149).  
+  
+**nota** (148): **Nuestras casas no son ni cuarteles ni conventos**, dice el Padre, **sino hogares de familia cristiana**. -Por eso, aborrece -para nosotros- las casas grandes, inmensas, que difícilmente dejan de ser como **cuerpos sin alma**: mejor que una residencia grande, varias pequeñas, con las partes generales -oratorio, biblioteca, comedor, etc.- comunes, distribuyendo adecuadamente el edificio en varios núcleos internos, que constituyen como residencias -familias- diferentes.  
+  
+**nota** (149): Y, de otra parte, si consideran la residencia como **su casa** empiezan ya a sentir la Obra como algo **suyo**. -De nuevo la insistencia del Padre: **enseñadles a emplear bien, a hacer buen uso de la libertad**, nos dice muchas veces. La misma recomendación da a los padres de familia, a los profesores, a todos los que deben educar a la juventud.
+
+# 229
+
+Hay <u id="bkmrk-que-contar-siempre-c">que contar siempre con los chicos</u> de San Rafael, para todo lo que suponga un cambio material en la casa: colocar muebles, ordenar libros, poner cuadros, etc. Es un detalle de interés, porque les une admirablemente con <u id="bkmrk-su">su</u> academia, que desde aquel día es más suya.
+
+# 230
+
+De otra parte -es preciso que rectifiquen, sobrenaturalizando- agrada y consuela a Dios ver a muchachos de buena posición, algunos con sus carreras y su prestigio profesional (San Gabriel) (150), haciendo trabajos humildes, que en sus casas particulares de ningún modo harían (151).  
+  
+**nota** (150): Eran los comienzos de la obra de San Gabriel.  
+  
+**nota** (151): Cfr. n.137 y nota 99, de esta Instrucción.
+
+# 231
+
+¿Otro género de ayuda? <u id="bkmrk-%C2%BFuna-cuota%3F-%C2%BFuna-col">¿Una cuota? ¿Una colecta?</u> La cuota, sin duda, rechazada (152). La colecta, quizá no. Hemos trabajado -¡gloria a Dios!- con tal delicadeza, que no tenemos experiencia en este asunto.  
+  
+**nota** (152): Para dejar bien claro que los chicos de San Rafael no constituyen una asociación, en las que de ordinario se paga una cuota mensual o anual. -Cfr. cuanto, siempre por el mismo motivo, prescribió más tarde nuestro Padre para los Supernumerarios: <u id="bkmrk-omnes-ad-expensas-su">Omnes ad expensas sustinendas ultro ac uniuscuisque oeconomicam capacitatem, concurrunt</u>; deben ayudar económicamente con espontaneidad, con generosidad, y en la mediad en que puedan. Para los Cooperadores, la norma es más general aún, como es lógico: <u id="bkmrk-cooperatores%2C-assidu">Cooperatores, assiduis precibus ad Deum effussi, eleemosynis, et quatenus possibile etiam proprio labore, collaborationem praestant...</u>
+
+# 232
+
+Puede introducirse la costumbre -iniciada el curso último- de pasar una bolsa, ellos mismos, los muchachos, al acabar la clase -Reunión de San Rafael-, haciendo una colecta secreta y nunca obligatoria (153).  
+  
+**nota** (153): El Padre escribió esta Instrucción a finales del año 1934. -La colecta es **secreta**, dice el Padre, y **nunca obligatoria**: el que pueda dar mucho, si es generoso, dará mucho: y el que no pueda dar nada, no se sentirá humillado, porque la colecta no es pública; y seguramente, nos dará en cambio la mejor de las limosnas, que es su oración (cfr. n.233: los que nos ayudan con verdadero sacrificio). -El Padre, en otros pasaje de esta Instrucción (nn. 200-204; cfr. nota 135), hablaba de otro tipo de colectas: las de los pobres de la Virgen. Pero, en repetidas ocasiones, nos ha hecho notar que esas colectas no tienen un fin exclusivo, sino que en primer lugar han de contribuir a sostener la casa: y, además, a hacer esa caridad delicada con los pobres, que no se debe abandonar nunca.
+
+# 233
+
+Sucede que alguno, con verdadero deseo de ayudar, viene y dice: <u id="bkmrk-yo-querr%C3%ADa-dar-una-l">yo querría dar una limosna para la Obra</u>. La respuesta es: dásela al Director de la casa. La dan, y es edificante ver que en los libros de contabilidad aparece una entrada de tres, de dos o de una peseta, que es el sacrificio de un capricho y hasta de una cosa necesaria: del tranvía, por ejemplo. ¡Qué sonrisas paternales habrá en el Cielo!
+
+# 234
+
+En este asunto, <u id="bkmrk-hablad-a-los-chicos-">hablad a los chicos para el día de mañana</u>: para cuando ocupen puestos en la sociedad, y sean cabezas de un hogar. Que sepan que es deber ineludible señalar un tanto por ciento del presupuesto familiar para la caridad: y que esta caridad deberán ejercitarla preferentemente con la Obra.
+
+# 235
+
+Con frecuencia, sé que hablan los muchachos entre sí y dicen: cuando nosotros ganemos, no hemos de consentir que el Padre tenga preocupaciones, por falta de dinero. Perdonadme. No puedo remediar el agradecimiento: Dios me bendiga a estos <u id="bkmrk-chicotes">chicotes</u> de San Rafael (154).  
+  
+**nota** (154): Suele comentar el Padre que el Señor le ha dado **corazón de padre y de madre**: ese corazón que se deja traslucir siempre -como en estas palabras de la Instrucción- y que, **en lo humano**, explica en parte la eficacia de su apostolado. **Donde no hay amor, pon amor y sacarás amor**, nos dice con frecuencia como aquel místico castellano.
+
+# 236
+
+Pobrecillos: <u id="bkmrk-%C2%A1cu%C3%A1nto-luchan%2C-algu">¡Cuánto luchan, algunos!</u> Es preciso darles ánimo. Si tan pequeños son, no es falta de gravedad, sino caridad grande, ponerse habitualmente en <u id="bkmrk-cuclillas">cuclillas</u>, para tratarles. No temáis al ridículo: no existe.
+
+# 237
+
+Hacedles ver el noble derrotero de un cristiano padre de familia; y cómo se precisan padres de familia virilmente piadosos; y cómo se necesita, sin duda, una especial vocación para ser padre de familia -muchos nunca habrán oído hablar así-; y cómo ellos parecen llevados por Dios por ese camino, si procuran luchar, y ennoblecer con esa lucha su conducta... (155).  
+  
+**nota** (155): **Una especial vocación**. Hace bastantes años, poco después de la guerra civil española, hubo algunos que, aunque parezca increíble, acusaron al Padre -que actuaba en consecuencia con estas palabras de la Instrucción- de llevar al matrimonio a personas de una vida extraordinariamente ejemplar. Y nuestro Padre, encarándose con uno de ésos, le dijo: yo sé que mis padres eran unos santos, antes y después de su matrimonio; y bendigo con mis dos manos de sacerdote su amor, puro y noble, que ha hecho posible que yo pueda servir a Dios. Veo que, por desgracia, usted no tiene el mismo concepto de los suyos. Si, es verdad: yo he llevado, y con la gracia de Dios seguiré llevando a ese <u id="bkmrk-sacramentum-magnum">sacramentum magnum</u> del matrimonio muchas almas santas, a las que Dios llama por ese camino. -**Muchos nunca habrán oído hablar así**: eran palabras realmente nuevas por lo menos en la España de entonces, las del Padre, cuando afirmaba que para el matrimonio se necesita una especial vocación divina.
+
+# 238
+
+El apostolado de los socios de la Obra, <u id="bkmrk-en-otras-asociacione">en otras asociaciones de juventud</u>, políticas, culturales, deportivas, confesionales, etc.: muy interesante es nuestra experiencia. Moved a los chicos a no inscribirse en ninguna asociación, sin consultar con el Director (156).  
+  
+**nota** (156): Forma parte, esta cautela, de esa dirección espiritual <u id="bkmrk-lato-sensu">lato sensu</u> que ejercitan los miembros de la Obra con los chicos de San Rafael: puesto que el hecho de inscribirse en asociaciones de ese tipo repercute directa o indirectamente, aunque no sea más que por el tiempo que se les deba dedicar, en la vida espiritual de los muchachos. -Con ese consejo del Director -que deja absolutamente libres a los que le consultan- se trata además de dar mayor eficacia al apostolado del testimonio, del ejemplo y de la doctrina entre la juventud.
+
+# 239
+
+De una parte, procurad que se vayan soltando de esas sociedades los jóvenes a quienes Jesús se digne dar vocación para la Obra (157).  
+  
+**nota** (157): En este pasaje se refiere el Padre exclusivamente a los que pedían la admisión en la Obra, y a las asociaciones piadosas, dirigidas por miembros de Ordenes y Congregaciones, que infundían en los muchachos una espiritualidad religiosa, no secular. Consejo absolutamente lógico y de realización imprescindible, que no dejó de provocar contradicciones, por parte de algunos. Tampoco puede extrañar que los miembros de la Obra busquen la dirección espiritual exclusivamente en los cauces que la Obra proporciona; en los Directores y en los sacerdotes que se designen para esa labor; ésta es la conducta habitual y lógica seguida por todas las asociaciones de fieles que tienen una espiritualidad propia y específica. -Se lamentaban algunos de que determinados antiguos dirigidos suyos se dirigían después habitualmente con el Padre: pero el Padre tenía siempre una dirección espiritual sin exclusivismo, porque hacía ver y hacía vivir a los chicos que gozaban de plena libertad para confesarse con quien quisieran; y porque no entraban en un noviciado, que hiciera imposible el trato con el exterior, sino que **estaban en la calle, y eran libres como pájaros**. -Decían también esas personas que los chicos se iban al Opus Dei sin <u id="bkmrk-consultar">consultar</u> con ellos. El Padre hubo de comentar: **no se molestan porque no les consultan, sino porque consultan a otros**. Y recordaba a este propósito la libertad de espíritu de una Teresa de Jesús -¡cuánto ama el Padre la libertad!- que consultaba sus cosas con quien creía oportuno, sabiendo distinguir entre la dirección espiritual y la obediencia religiosa. -El Padre, a los que acudían a su dirección espiritual, les enseñaba que una cosa era ser **director espiritual** y otra ser **director propietario**; y -**esto es un poco fuerte**, decía- que  **nadie puede coger un alma, como quien coge una cabra por los cuernos, para decir: ¡ésta es mía!: porque las almas son de Dios y deben formarse <u>in libertatem gloriae filiorum Dei</u>** (<u id="bkmrk-rom">Rom</u>. VIII, 21). -En consecuencia, les enviaba periódica y **frecuentemente**, a confesarse con otros sacerdotes, que el Padre no señalaba. -**Porque,** comentaba, **para un alma no dedicada a Dios, dirigirse espiritualmente no significa entregarse atados de pies y manos, negándose la libertad de acudir al consejo -a la guía- de otro que no sea el Directo espiritual o el confesor acostumbrado**. -Aunque todas esas objeciones de aquellos santos varones son cosa superada, es útil dejar consignados aquí, claramente, el pensamiento y la actitud del Padre, en temas tan fundamentales. - Y bueno será que no olvidemos -perdonando, siempre- los sufrimientos que todas estas contradicciones ocasionaron al Padre y a nuestros primeros hermanos, para no caer nunca en el mismo error.
+
+# 240
+
+De otra, sostened en todas esas asociaciones a algunos de los de Casa, para que trabajen allí con el mejor espíritu -siempre sin perder el tiempo-, incluso desde los puestos directivos, y hagan una eficaz labor de proselitismo (158).  
+  
+**nota** (158): Preferentemente en asociaciones que no sean religiosas, para evitar incomprensiones y celotipias, y porque la vocación nuestra nos lleva a trabajar en todas las asociaciones de fines profesionales, sociales, etc., que exigen una preparación específica adecuada y una dedicación constante.
+
+# 241
+
+Directores, hijos míos: para hacer un apostolado fecundo, necesitáis la <u id="bkmrk-santa-desverg%C3%BCenza">santa desvergüenza</u>. Aunque creo innecesario advertirlo, conste que está terminantemente prohibido que el Formador pida cuenta de conciencia, a los muchachos a quienes forma, ni puede de ningún modo obligarles a que le manifiesten lo que es de la exclusiva competencia del Director espiritual (159).  
+  
+**nota** (159): Respecto a la palabra **Formador**, véanse las notas 9 y 184. -Siempre nos ha dicho el Padre, en este punto, claridad en la doctrina y en la práctica. Una cosa es pedir cuenta de conciencia, y otra inducir con caridad a abrir plenamente el corazón, por lo menos al sacerdote: y, para los miembros de la Obra, al encargado de la Confidencia.
+
+# 242
+
+Pregunta a los chicos, siquiera semanalmente, uno por uno, sobre su vida interior. Son muchos los religiosos que, sin ser sacerdotes -algunos lo son más tarde; otros, nunca-, hacen una labor muy parecida con los jóvenes estudiantes (160).  
+  
+**nota** (160): Cuando preparaba nuestro Padre su trabajo sobre la jurisdicción de la Abadesa de las Huelgas (<u id="bkmrk-la-abadesa-de-las-hu">La abadesa de las Huelgas</u>, Madrid, 1944, pp. 150 y 151), permitía el Señor que algunos promovieran no pequeñas contradicciones, porque decían que nuestros seglares ejercían la dirección espiritual. Y, queriendo el Padre dar doctrina sobre este punto, lo tocó incidentalmente en esa obra, en la forma que a continuación transcribimos: **Ha sido achaque corriente, en aquéllos y en otros siglos, atribuir, con verdad o sin ella, a personas ajenas al sacerdocio estas intromisiones condenables: oír confesiones, dirigir conciencias. El Señor, en su Providencia, se sirve de esos sucesos para desenmascarar al demonio o para purificar a sus santos. -Entre otros casos de más bulto, que son muy conocidos -y sin querer recordar los que se refieren a varones-, léese en el proceso de la famosa beata de Piedrahita (la causa es de 1511), en la declaración de Fray Juan Hurtado de Mendoza, "que el testigo tenía noticias de que la dicha Sor María oía confesiones, pero sacramentales, y que también había predicado dos sermones, el uno en Viloria y el otro en Piedrahita"** ( LUNAS ALMEIDA, JESÚS: <u id="bkmrk-historia-del-se%C3%B1or%C3%ADo">Historia del Señorío de Valdecorneja, Avila</u>, 1930, pag 169). -**De Santa Teresa y de las primeras descalzas del Carmelo, que fueron denunciadas a la Inquisición hispalense diciendo que se confesaban unas con otras** ( DIEGO DE YEPES: <u id="bkmrk-vida%2C-virtudes-y-mil">Vida, virtudes y milagros de la bienaventurada Teresa de Jesús</u>, Madrid, 1776, tomo I, pág. 393). Como a la Abadesa de las Huelgas se le atribuían los mismos excesos que a esas primeras descalzas de Sevilla, el Padre comenta a continuación: **Mayor excusa podría darse al hecho de oír en confesión a sus súbditas, si se interpreta benignamente en el sentido de limitarse a escuchar las faltas como puede hacerlo incluso un laico, <u>in periculo mortis y deficiente sacerdote</u>, en desahogo de la conciencia y para ayudar a la contrición y como se admite desde tiempos antiguos en los institutos religiosos; o, si ni aun se tratara de manifestar faltas se ninguna clase, sino solamente de comunicarse mutuos afanes de perfección y de apostolado; o de ayudar a otra alma para sostenerla en sus luchas, acostumbrarla a las prácticas de la oración y de la penitencia y al cumplimiento de los deberes de su estado: como lo hace un padre bueno y una madre cristiana con sus hijos; un amigo noble, con sus compañeros o una joven cristiana con sus amigas**. -<u id="bkmrk-laici">Laici</u> -nos dice MERKELBACH-, <u id="bkmrk-in-periculo-mortis%2C-">in periculo mortis, deficiente sacerdote, durante medio aevo, aexcipiebant moribundorum confessionem, sed non absolvebant. Praxis autem utilis habita est, ad maiorem humilitatem et contritionem et maius desiderium confessionis; imo a magnis etiam theologis dicebatur necessaria, ad probandum scil. sinceritatem contritionis, quatenus homo saltem debet praestare quod est ex sua parte et facere quod in se est, confitendo quantum possit et erubescentia confessionis debitam satisfacionem incipiendo, ut ita fierit venia dignus ex sacerdotis desiderio et disponeretur ad contritionem perfectam. Et tunc summus sacerdos, Christus, defectum sacerdotis supplet et remisionem concedit</u> ( <u id="bkmrk-summa-theologiae-mor">Summa Theologiae Moralis</u>, editio quarta, III, Bruges, 1943, núm. 574, pág. 530). Vid. también FELIX M. CAPPELLO: <u id="bkmrk-tractatus-canonico-m">Tractatus canonico-moralis de sacramentis</u>, vol. II, <u id="bkmrk-de-poenitentia">De Poenitentia</u>, tercera ed., Romae, 1938, núm. 362, pág. 278; <u id="bkmrk-codex-iuris-canonici">Codex Iuris Canonici</u>, Can. 530, I 2. -Esos **casos de más bulto** a que se refier el Padre son, por ejemplo, los de San Ignacio de Loyola y los de San Felipe Neri, que, siendo aún laicos, dirigían conciencias de hombres e incluso de mujeres.
+
+# 243
+
+Concreta tu pregunta sobre aquella virtud determinada, que sabes le hace más falta. Entérate de sus estudios, por lo que él dice, por lo que dice el profesor -si es posible llegar a él-, y por lo que tú veas, examinando su trabajo, buceando en sus conocimientos profesionales.
+
+# 244
+
+Todo esto con extremada delicadeza, comenzando, si es preciso, por un <u id="bkmrk-perd%C3%B3name%3A-no-me-con">perdóname: no me contestes, si no quieres</u>. Y, luego, la pregunta que da en el clavo.
+
+# 245
+
+De modo especial, servíos, para este apostolado, de la complicidad o colaboración de los Santos Angeles Custodios (161).  
+  
+**nota** (161): ¡Cuánta insistencia del Padre! Indica bien a las claras su devoción -que siempre debemos hacer nuestra- a esos **colaboradores** y **cómplices**, los Santos Angeles Custodios, y su modo constante de vivir esa piadosa práctica.
+
+# 246
+
+<u id="bkmrk-piedad">Piedad</u>. Piedad ilustrada: a eso van los Cursos de Formación, lo mismo que las clases de Apologética, que se vienen dando y han de darse siempre en nuestras casas (162). Es verdad que, en los primeros, vamos derechos al corazón, aunque no exclusivamente (163); mientras se va a la inteligencia en el curso de Apologética.  
+  
+**nota** (162): Con la aprobación entusiasta del obispado de Madrid, ya se daban, en la primera casa que abrió el Padre, en la calle de Luchana. Porque el apostolado primordial de la Obra -y <u id="bkmrk-conditio-sine-qua-no">conditio sine qua non</u>- es el de **dar doctrina**, afirma siempre nuestro Fundador.  
+  
+**nota** (163): Con los Cursos de Formación se trata, como se ha visto, de hacer de los muchachos de San Rafael almas de oración, de vida interior, de modo que puedan germinar vocaciones al celibato apostólico, o de dedicación a Dios, dentro del matrimonio. Por eso dice el Padre que los Cursos van **derechos al corazón, aunque no exclusivamente**, ya que por medio de ellos se da, con el espíritu de la Obra, una **piedad ilustrada**.
+
+# 247
+
+<u id="bkmrk-%C2%A1el-coraz%C3%B3n%21">¡El corazón!</u> Leía, en la Santa Misa de la Domínica IV después de Pascua, la oración correspondiente, y me apresuré a hacer una ficha, con el fin de repetirla más de una vez. Aquí esta: ...<u id="bkmrk-da-populis-tuis-id-a">da populis tuis id amare quod praecipis, id desiderare quod promittis: ut, inter mundanas varietates, ibi nostra fixa sint corda, ubi vera sunt gaudia</u>; danos amar lo que mandas, desear lo que prometes: para que, en medio de las vicisitudes mundanas, allí estén fijos nuestros corazones donde están los verdaderos goces.
+
+# 248
+
+<u id="bkmrk-metamos-a-cristo-en-">Metamos a Cristo en nuestros corazones</u> y en los corazones de los chicos. ¡Lástima!: frecuentan los sacramentos, llevan una conducta limpia, estudian, pero... la Fe muerta. Jesús -no lo dicen son la boca, lo dicen con la falta de vibración de su proceder-, Jesús vivió hace XX siglos... -¿Vivió? <u id="bkmrk-iesus-christus-heri%2C">Iesus Christus heri, et hodie: ipse et in saecula</u>; Jesucristo el mismo que ayer es hoy; y lo será por los siglos (<u id="bkmrk-hebr">Hebr</u>. XIII, 8).
+
+# 249
+
+<u id="bkmrk-jesucristo-vive">Jesucristo vive</u>, con carne como la mía, pero gloriosa; con corazón de carne como el mío. <u id="bkmrk-scio-enim-quod-redem">Scio enim quod Redemptor meus vivit</u>, sé que mi Redentor vive (<u id="bkmrk-iob">Iob</u>. XIX, 25). Mi Redentor, mi Amigo, mi Padre, mi Rey, mi Dios, mi Amor, ¡vive! Se preocupa de mí. Me quiere más que la bendita mujer -mi madre- que me trajo a este mundo... (164). Es bastante: que saquen los chicos las consecuencias prácticas. ¡Cuántas veces esta consideración, tan sencilla y trillada, ha sido el origen de un devorador incendio de Fe y de Amor, en más de un corazón varonil (165).  
+  
+**nota** (164): Aunque el Padre habla aquí directamente del amor de Dios, es justo subrayar sus palabras sobre su Madre -¡la Abuela!-, a quien tanto debe la Obra, y de la que tanto hemos de escribir, para rendir un homenaje de cariño y de agradecimiento a los padres de nuestro Fundador. El Abuelo, que no llegamos a conocer, y a quien el Padre -se lo he oído repetir muchas veces- dice que debe la vocación: y la Abuela, que tanto se sacrificó por la Obra, contribuyendo de un modo decisivo -con la ayuda de Tía Carmen- a que su hijo, nuestro Padre, consiguiera dar al Opus Dei el aire, el tono de familia, que con tanta facilidad nos lleva a Dios y hace gratísima nuestra entrega, aun en lo humano.  
+  
+**nota** (165): Cfr. nota 147. Hay que cultivar en los muchachos la práctica contante -llena de Fe y de Amor, como dice el Padre- de la presencia de Dios, con esa modalidad tan propia del espíritu de la Obra, de **impregnar** la presencia de Dios con el espíritu de filiación divina. Véase cómo recogió la Santa Sede estas enseñanzas que nos ha dado y nos da siempre nuestro Padre: <u id="bkmrk-fundamentum-solidum-">Fundamentum solidum quo omnia in Opere Dei constant, radixque foecunda singula vivificans est sensus humilis ac sincerus filiationis divinae in Christo Iesu. Donum pietatis ad omnia utile</u> (I <u id="bkmrk-tim">Tim</u>. IV, 8), <u id="bkmrk-ex-quo-dulciter-cred">ex quo dulciter creditur charitatis paternae quam habet Deus in nobis</u> (I <u id="bkmrk-ioann">Ioann</u>. IV, 16), <u id="bkmrk-ex-quo-christus-domi">ex quo Christus Dominus, Deus homo, ut frater primogenitus ineffabili sua bonitate sentitur, omnes sodales fraterna veraque pietate adstringit. Sensus gustatus paternitatis divinae, adoptivae filiationis ac fraternitatis in Christo, naturalis veluti fructus in Opere Dei producit: amorem orationis et spiritum precum</u> (<u id="bkmrk-zach">Zach</u>. XII, 10), <u id="bkmrk-ardorem-et-sitim-int">ardorem et sitim interioris vitae, fiduciam filialem in paterna Dei Providentia atque deditionem serenam et iucundam divinae Voluntati</u> (Decreto de aprobación, 16-VI-1950, p. 26).
+
+# 250
+
+<u id="bkmrk-la-virilidad-del-esp">La virilidad del espíritu cristiano</u>: otro tema maravillosamente fecundo, para tratarlo sin engolamiento. <u id="bkmrk-viriliter-agite%21">Viriliter agite!</u>, obrad varonilmente (166). Mucho se repiten estas palabras en la Escritura. No es justo que las olvidemos, al tratar a Dios.  
+  
+**nota** (166): <u id="bkmrk-deut">Deut</u>. XXXI, 6: cfr., por ejemplo, <u id="bkmrk-deut-1">Deut</u>. XXXI, 23; <u id="bkmrk-iosue">Iosue</u> I, 6 y 7; X, 25; I <u id="bkmrk-par">Par</u>. XXII, 13; XXVIII, 20; I <u id="bkmrk-mac">Mac</u>. II, 64.
+
+# 251
+
+Han afeminado el culto: lo han hecho dulzón y suave. -Hablo en la presencia del Señor, y creo que mi Angel Custodio me mueve a escribir: quiero hacerlo con caridad y claridad. Permitidme, pues, esta disgresión.
+
+# 252
+
+Mucha luz eléctrica, en el retablo y hasta en el tabernáculo de la Exposición. Bambalinas y teloncillos de teatro provinciano. Floripondios de papel y trapo. Imágenes relamidas, de pastaflora. Puntillas y primores mujeriles, en las albas y en los manteles. Cacharros feísimos -la última moda: los vi hasta en una famosa catedral- sobre el altar, y aun sobre la misma ara. ¿Dónde está la cruz? Apenas se ve, entre la baraúnda de nubes de algodón y docenas de velas de procedencia química. Cánticos de opereta.
+
+# 253
+
+Esto, en lo material. No quiero hablar -no debo: faltaría a la caridad- del ambiente <u id="bkmrk-piadoso">piadoso</u> ordinario en esas <u id="bkmrk-funciones">funciones</u> (no, cultos) que llevan semejantes preparativos (167).  
+  
+**nota** (167): Estas quejas del Padre son profundamente sentidas, precisamente porque es muy grande su amor al culto público, que debe hacerse con toda la dignidad posible. Cuando no ve hacerlo así, sufre. -Querría recordar, a propósito de esto, dos anécdotas entre mil. El año 1951 hubimos de pasar por la pequeña ciudad de Marino, uno de los <u id="bkmrk-catelli">Catelli</u> romanos. Llegábamos allí mientras se celebraba la procesión del Corpus, que en Roma no se hacía. Nos bajamos del coche. Nos arrodillamos, al pasar el Santísimo Sacramento delante de nosotros. Después, subimos de nuevo al coche, y seguimos nuestro camino. Hasta ese momento, el Padre iba contándonos cosas, visiblemente contento. Pero de tal manera le impresionó y le entristeció ver que, en la procesión más grande del año, solamente acompañaban al Santísimo Sacramento algunas viejas mujeres y pocas niñas de alguna escuela, que el resto del día estuvo silencioso, reconcentrado, metido en Dios para hacer actos de amor y de desagravio. **¿Es posible** -decía- **que haya tanta falta de doctrina, que lleve a los hombres a desertar en masa de loa actos de culto público?** Durante varios días nos habló, todavía con mayor fuerza que la habitual, de la necesidad de **dar doctrina**, para que el pueblo comprenda la conveniencia de esas manifestaciones públicas de culto, y las ame. La otra anécdota es, en realidad, una línea de conducta y un modo de reaccionar constante. Muchas veces yendo en viaje por distintas naciones, al ver el lamentable estado en que se encuentran muchísimas iglesias donde celebrábamos la santa misa -suciedad y abandono por todas partes- el Padre ha comentado que comprende con facilidad cualquier clase de pecado, debido a la flaqueza humana. Pero que le es mucho más difícil entender la carencia de dignidad en las cosas y en los lugares de culto, porque esta falta denota la ausencia de la fe y del amor, de un modo vivísimo. **Pienso** -suele comentar- **que a las personas que ponen amor en todo lo que se refiere al culto, que hacen que las Iglesias estén digna y decorosamente conservadas y limpias, los altares resplandecientes, los ornamentos sagrados pulcros y cuidados, Dios las mirará con especial cariño, y les pasará más fácilmente por alto sus flaquezas, porque demuestran en esos detalles que creen y aman**. -Y, siempre que hemos visto ese triste abandono, esa falta de limpieza en catedrales y en iglesias, he comprobado que el Padre reaccionaba profundamente, adoptando la misma expresión que cuando vio pasar a Jesús Sacramentado, en aquella procesión del Corpus sin pueblo.
+
+# 254
+
+Hijos, volvamos a la sencillez de <u id="bkmrk-los-primeros-cristia">los primeros cristianos</u>: riqueza, cuanta podáis, pero jamás a costa de la liturgia. Arte serio, lleno de grave majestad. Nunca floripondios, ni luz eléctrica. El retablo, <u id="bkmrk-retro-tabulam">retro tabulam</u>: a su sitio, detrás del altar, como algo accidental. La Santa Cruz y el ara -completamente aislada la mesa de altar- ocupen el lugar sobresaliente (168).  
+  
+**nota** (168): Cfr. <u id="bkmrk-camino">Camino</u>, n. 543.
+
+# 255
+
+Que el canto gregoriano, pausado y solemne, sea expresión de vuestra piedad varonil.
+
+# 256
+
+Pero... ¿dónde voy? Perdonadme: acabo la disgresión, para volver al tema primitivo. Que nunca, con justicia, se os pueda llamar ñoños: no hagáis rarezas. Procurad que la piedad, que enseñéis a nuestros chicos de San Rafael, sea recia y honda.
+
+# 257
+
+Hacedles ver que <u id="bkmrk-orar-no-es-ocupaci%C3%B3n">orar no es ocupación de frailes</u> -es corriente este prejuicio-, sino cosa propia de hijos que hablan con su Padre-Dios (169).  
+  
+**nota** (169): Por desgracia, sigue siendo cosa incomprensible, para muchos que pasan por buenos católicos, hacer oración mental: <u id="bkmrk-ocupaci%C3%B3n-de-frailes">ocupación de frailes</u>, se sigue pensando. -Y así sucedía que eran muchos también los que iban al estado religioso sin que hicieran oración mental, ni practicaran la mortificación, ni supieran hacer el examen de conciencia, ni procuraran estar habitualmente en la presencia de Dios, etc. Sus directores espirituales -conozco bastantes casos concretos de aquel tiempo- se contentaban con muchísimo menos, quizá -en el subconsciente- porque de este modo, al llegar al retiro del noviciado, verían con más resalte esos jóvenes <u id="bkmrk-la-diferencia-entre-">la diferencia entre el convento y el siglo</u>; o quizá -más probablemente- porque, no concebía que se buscase la perfección cristiana en el mundo, cada uno en su estado y en su profesión, juzgaban innecesaria -y aun excesiva- un vida interior tan intensa para personas que todavía no formaban parte de su familia -orden, congregación- religiosa. -En treinta años, gracias al Señor, ha cambiado completamente el criterio general, gracias a los dones que ha derramado el Espíritu Santo sobre la Iglesia, sirviéndose también, de manera notable, del testimonio de los miembros de la Obra, para la promoción apostólica del laicado. -Dada la mentalidad de la época se comprende que la renovación de la piedad que predicaba y difundía nuestro Fundador produjera tales frutos que, ante el cambio de conducta que se observaba en tantos muchachos, que se hacían sinceramente piadosos pero que **seguían en el mundo**, hubiera alguno que dijera: ¡<u id="bkmrk-nos-quita-vocaciones">nos quita vocaciones</u>! -Recuerdo anécdotas como éstas: al oír a algunos chicos en confesión -lo contaban los mismos chicos-, aunque fuera la primera vez, contemplando aquella vida interior, había sacerdotes que les decían: <u id="bkmrk-tu-vocaci%C3%B3n-es-clara">tu vocación es clara, ¿por qué no te haces religioso?</u> O bien: <u id="bkmrk-%C2%BFpor-qu%C3%A9-no-entras-e">¿por qué no entras en el seminario para ser sacerdote?</u> Y los chicos huían de ese confesonario. -No es posible que haya institución, en la que se viva mejor la libertad de la vocación, que en el Opus Dei. **Difícil entrar, facilísimo salir**, dice el Padre. Y añade: **además de la gracia de Dios, es esa libertad para marcharse uno de los grandes motivos de la increíble perseverancia de mis hijos** (cfr. <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 1-IV-1934, n. 28, nota 31). -Muchas veces repite a todos nuestro Padre: **¡libres, para corresponder a la llamada de Dios!, porque en el Opus Dei nadie es necesario: ni yo, que soy el Fundador. Si rechazamos la gracia de la vocación -sería para nosotros una gran desdicha-, otras almas enamoradas de Jesucristo vendrán a llenar nuestros huecos**. -Véase cómo insiste el Padre, una y otra vez, sobre la idea fundamental de la filiación divina.
+
+# 258
+
+Tened especial interés en darles a conocer la vida de oración de los cristianos primeros: los Hechos son un arsenal encantador de noticias.
+
+# 259
+
+Que sepan cómo todo lo fiamos nostros a la oración, poniendo luego los medios humanos. Y que la oración es el pedestal absolutamente necesario para el apostolado de la inteligencia, que se viene abajo, a ras del suelo, y se envilece y pierde horizonte, al perder la base del trato con Dios.
+
+# 260
+
+Recomendadles que hagan la oración por la mañana y a hora fija. En caso de alterar el horario, que adelanten el tiempo de la oración, mejor que retrasarlo. Si no, fácilmente la dejarán (170).  
+  
+**nota** (170): Da alegría ver cómo se ha trabajado siempre en la Obra, para reclutar y formar las vocaciones. Y, a pesar de todo, había quien hablaba de **nuestros medios humanos**, para hacer el proselitismo. Cfr. esta Instrucción, <u id="bkmrk-passim">passim</u> y concretamente, los párrafos siguientes y nn. 282 y 283.
+
+# 261
+
+<u id="bkmrk-viriliter-agite%2C-et-">Viriliter agite, et confortetur cor vestrum</u>; obrad varonilmente, y confortad vuestros corazones (<u id="bkmrk-ps.">Ps.</u> XXX, 25). Para esto es <u id="bkmrk-la-mortificaci%C3%B3n">la mortificación</u>. ¡Cómo viriliza la voluntad! ¡Qué cambios! El dedo de Dios, su gracia, al encontrar correspondencia, hace maravillas. Orientadles, en los comienzos, moviéndoles a hacer pequeñas mortificaciones. después... dejad al Espíritu Santo (171).  
+  
+**nota** (171): Siempre el Padre nos ha enseñado a mostrar a los candidatos un camino duro: **el camino real de la Santa Cruz**. Cfr. nota 170; <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 19-III-1934, nn. 28 y 29, notas 29-31; e <u id="bkmrk-instrucci%C3%B3n-1">Instrucción</u>, 1-IV-1934, n. 17, nota 17.
+
+# 262
+
+<u id="bkmrk-al-ejercitar-aquel-a">Al ejercitar aquel apartado</u> -advertencias y asuntos de la semana- de las clases de Formación, tanto en el Curso Preparatorio como en los Profesionales (172), pedidles, con ocasión de necesidades de la casa o de la Obra, que hagan algunas pequeñas mortificaciones o que alarguen su oración, para conseguir del Señor el remedio.  
+  
+**nota** (172): Cfr. nn. 137-143, 152 y Apéndice I.
+
+# 263
+
+Gran eficacia tiene siempre este modo de proceder: forma las almas, las atrae e identifica con nuestro apostolado.
+
+# 264
+
+En casos concretos, es oportuno pedir cuenta detallada sobre mortificación a determinados muchachos (173).  
+  
+**nota** (173): Cfr. nn. 241-245 y notas 159-161.
+
+# 265
+
+A todos, movedles a la Comunión frecuente -diaria-, exámenes, rosario, visita al Santísimo, oración, presencia de Dios, retiro mensual y a que tengan confesor fijo. Es de interés proporcionar confesores en casa (174).  
+  
+**nota** (174): Se trata, en una palabra, de hacerles llevar una auténtica vida cristiana, con todas sus consecuencias. -**confesores en casa**: siempre ha insistido el Padre en la necesidad de que los miembros de la Obra y los chicos de San Rafael lleven las almas de sus compañeros a nuestros sacerdotes, siempre que sea posible, y respetando también siempre la conciencia de todos y la absoluta libertad, que tienen, de confesarse con quien quieran. Cfr. <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 1-IV-1934, nn. 69-73, y esta Instrucción, nn. 42, 170 y notas 31, 116 y 117.
+
+# 266
+
+Otras prácticas piadosas: contestar todos, con pausa y gravedad, al sacerdote que celebra la Santa Misa en nuestros oratorios; tener una imagen de la Señora y agua bendita en sus habitaciones (175).  
+  
+**nota** (175): Recuérdese lo que escribía el Padre, sobre el modo de hacer la oración vocal. Cfr. n. 180 de esta Instrucción, y <u id="bkmrk-camino">Camino</u>, nn. 84, 85, 86 y 553.
+
+# 267
+
+No olvidemos que <u id="bkmrk-el-domingo-es-para-l">el domingo es para la parroquia y para la familia</u>: no tengáis, en tales días, reuniones con los de fuera, ordinariamente. Sí, con los nuestros de San Miguel -porque su parroquia y su familia es la casa, la Obra- y con aquellos amigos nuestros que vivan lejos de su hogar (176).  
+  
+**nota** (176): La parroquia y la familia. Nos ha enseñado el Padre a tener gran amor a todas las actividades diocesanas: a rezar y a ofrecer mortificaciones por el Ordinario del lugar, a secundar -dentro de nuestras posibilidades, de nuestros fines y de la interna autonomía de la Obra- sus iniciativas, con un espíritu de cordial y constante colaboración. -Por eso **los de fuera** no deben abandonar las funciones y las actividades dominicales de la parroquia. **Sí, los nuestros de San Miguel**, dice el Padre: y alega una razón clarísima; **su parroquia y su familia es la casa, la Obra.** -**La familia**: muchas veces hemos oído al Padre lamentarse del modo de proceder de algunas asociaciones de caballeros, de otras para señoras y de otras, finalmente, para muchachos o para muchachas, que hacen que el domingo el padre, la madre, los hijos y las hijas, se vayan cada uno por su lado, imposibilitando la reunión de la familia para el cumplimiento de los deberes religiosos dominicales: como consecuencia lógica, tampoco en los demás días de la semana hay oración común -¡el santo Rosario!-, ni hogar cristiano.
+
+# 268
+
+<u id="bkmrk-si-pon%C3%A9is-en-pr%C3%A1ctic">Si ponéis en práctica</u> estas normas de piedad, dando vosotros el verdadero tono de la Obra, nuestros muchachos de San Rafael procederán también <u id="bkmrk-in-novitate-vitae">in novitate vitae</u> -como dice San Pablo (177)- con nuevo tenor de vida: con espíritu de rectitud y lealtad, de caridad, de energía, de sacrificio, de alegre sencillez y de sobrenatural confianza (178).  
+  
+**nota** (177): <u id="bkmrk-rom">Rom</u>. VI, 4.  
+  
+**nota** (178): Virtudes humanas, fundamento de las sobrenaturales. ¡Cuánta insistencia del Padre, que nos enseña a amar a Jesús, <u id="bkmrk-perfectus-deus%2C-perf">perfectus Deus, perfectus Homo!</u> Esas virtudes naturales, propias del hombre en cuanto criatura humana, son no sólo la base de la santidad, sino la <u id="bkmrk-conditio-sine-que-no">conditio sine que non</u> para poder ejercitar ese apostolado del ejemplo, de la amistad y de la confidencia que nos exige el espíritu del Opus Dei. Son, por consiguiente, el medio para alcanzar los dos aspectos del único fin de la Obra: la santificación propia y el apostolado. -Cfr. Decreto de aprobación, 16-VI-1950: <u id="bkmrk-ex-plena-magnanimita">Ex plena magnanimitate ac profunda vitae unificatione -Domino et Patri per Christum Dominum, cum unctione doni pietatis, totaliter consecratae et fratribus in communionem perpetuo traditae-, nascitur necessitas et veluti instinctus supernaturalis omnia purificandi, elevandi ad ordinem gratiae, sanctificandi et convertendi in instrumentum apostolatus. Hinc magna cura virtutum moralium, harmonica educatio humana, digna et nobilis socialis conversatio: "omnia enim vestra sunt, vos autem Christi"</u> (cfr. I <u id="bkmrk-cor">Cor</u>. III, 22-23; <u id="bkmrk-phil">Phil</u>. III, 8) (p. 27). <u id="bkmrk-quo-melius-ut-saecul">Quo melius ut saeculares atque ex saeculo apostolatum exerceant, Operis Dei sodales potius singillatim quam collegialiter agunt et operantur. Omnes es singuli, quin ullus ex alterius labore excusari possint, sive exemplo, quo semper et ubique inter cives, inter collegas, inter laboris socios, domi, in via, in officio, optimos sese exhibere conantur; sive actione personali; sive relationibus mentis animique contactibus omne genus, quibus fermentum in massa, sal in cibis, lux in tenebris</u> (<u id="bkmrk-matth">Matth</u>. XIII, 33; V, 13; V, 14, 16) <u id="bkmrk-apparent%2C-ecclesiae-">apparent, Ecclesiae regnique caelestis actuosi ac indefessi operarii sunt</u> (pp. 16-17).
+
+# 269
+
+<u id="bkmrk-vocaci%C3%B3n">Vocación</u>. Estudiad el carácter de cada muchacho: <u id="bkmrk-no-proced%C3%A1is-por-reg">no procedáis por reglas generales</u>. Este interés vuestro les hará comprender que dedicáis vuestra vida a su apostolado, que les tenéis un santo amor en Cristo, <u id="bkmrk-non...-verbo%2C-neque-">non... verbo, neque lingua, sed opere et veritate</u>; no, de palabras, ni con la lengua, sino con hechos y con verdad (( <u id="bkmrk-ioann.">Ioann.</u> III, 18).
+
+# 270
+
+<u id="bkmrk-serv%C3%ADos-de-nuestros-">Servíos de nuestros estudiantes</u>, que aparecen como alumnos en los Cursos de Formación: una amistad, un paseo, una invitación a almorzar en casa... Después, una confidencia: yo me he dado a Dios del todo. Y, seguidamente, presentar el espléndido campo apostólico de la Obra.
+
+# 271
+
+Otras veces, <u id="bkmrk-decidles-que-pregunt">decidles que pregunten lo que quieran</u>, aunque les parezca impertinente. ¡Y tanto como preguntan! Se les contesta lo que sea discreto, en cada caso. Y es, entonces, la hora de preguntar vosotros: tú... ¿pides por la Obra, quieres a la Obra?
+
+# 272
+
+Privadamente -no, en público- <u id="bkmrk-alabad">alabad</u> la virtud y el talento de alguno de los nuestros (de modo que el interesado no pueda enterarse), para animarles ante ese modelo.
+
+# 273
+
+<u id="bkmrk-facilitad-el-paso">Facilitad el paso</u>, sin brusquedades: a nuestros chicos de San Rafael, no queráis prohibirles absolutamente la asistencia a espectáculos (179).  
+  
+**nota** (179): El Padre se refiere a los chicos de San Rafael. Pero quizá sea oportuno recordar cuál ha sido la práctica constante de los Numerarios respecto a los espectáculos públicos. Por razones inherentes a nuestra total entrega y por motivos extrínsecos, que tampoco se pueden ignorar -el <u id="bkmrk-scandalum-pusillorum">scandalum pusillorum</u>; las posibles calumnias, levantadas incluso de buena fe-, nuestro comportamiento ha sido y debe ser tajante: los Numerarios no van a esa clase de espectáculos. -Por las mismas razones, deben ser un ejemplo de sobriedad, de ascetismo, cuando aceptan invitaciones a comer, etc. No se trata aquí de falta de naturalidad o de sencillez, sino de una pequeña mortificación hecha con rectitud -ofrecida a Dios-, para evitar también en esto esos posibles escándalos más o menos sinceros.
+
+# 274
+
+Comenzad porque os pidan consejo, antes de asistir a ninguno: que sepan cómo, sirviendo a Dios -es frase de ellos-, <u id="bkmrk-se-puede-uno-diverti">se puede uno divertir</u>.
+
+# 275
+
+No pasará mucho tiempo sin que, voluntariamente, busquen otras diversiones, dejando a un lado todo lo mundano (180).  
+  
+**nota** (180): Y entonces, cuando empiezan a **buscar otras diversiones, dejando a un lado todo lo mundano**, ha de aconsejárseles la prudencia, para que no se queden heridas las familias. ¡Cuántos rosarios se han rezado en el cine muchos chicos de San Rafael, que no podían dejar de ir de vez en cuando a algún espectáculo público; iban sacrificándose por la paz material de sus padres, de sus hermanos o parientes!
+
+# 276
+
+En este período de transición, <u id="bkmrk-sed-prudentes">sed prudentes</u> en imponer, un en manifestar, las obligaciones propias de los nuestros. Administrad el espíritu de la Obra en pequeñas dosis. Si no, alguno, más cobarde o menos entregado a Dios, fácilmente se asustará, perdiéndose su posible vocación (181).  
+  
+**nota** (181): Suele decir el Padre que de ordinario es preciso poner una especie de **plano inclinado muy largo**, que suba muy poco a poco, para facilitar estas ascensiones a la vida espiritual (cfr. Decreto de aprobación, 16-VI-1950, p. 32).
+
+# 277
+
+No llevéis la prudencia hasta el extremo de ocultar <u id="bkmrk-ese-algo-trascendent">ese algo trascendental</u>, que, como me decía con cierta preocupación un hijo mío, está en el ambiente de la Casa del Angel Custodio (182), y estará en el de todas nuestras casa. ¿Que este ambiente detiene, sobrecoge a algunos, que quizá volverán la cara atrás, apenas puesta la mano en el arado? Muy bien: que se vayan: ¡es mucha cobardía! Repetiremos las palabras del Maestro: <u id="bkmrk-nemo-mittens-manum-s">nemo mittens manum suam ad aratrum, et respiciens retro, aptus est regno Dei</u>; ninguno que después de haber puesto su mano en el arado vuelvo los ojos atrás, es apto para el reino de Dios (<u id="bkmrk-luc.">Luc.</u> IX, 62) (183).  
+  
+**nota** (182): El Padre llamaba así, internamente, a la Residencia de Ferraz, 50.  
+  
+**nota** (183): Ninguna coacción es posible, sino para los pusilánimes, o para los deficientes: y ésos no caben en la Obra. El Padre quiere la máxima libertad para todos. -Esto es perfectamente compatible con la obligación de vivir aquí también una ordenada caridad, dentro de nuestro espíritu de proselitismo. Y, por lo tanto, si debemos ser capaces de cualquier sacrificio por lograr de Dios una nueva vocación, ¡qué no habremos de hacer por ayudar a nuestros hermanos a ser fieles, a perseverar, a superar los trances difíciles, si el Señor los permite!
+
+# 278
+
+En cambio, evitad todo lo que tenga aires de <u id="bkmrk-misterio-y-concili%C3%A1b">misterio y conciliábulo</u>. No me habléis de reuniones: hablad de clases o de círculos de estudio.
+
+# 279
+
+El nombre Formador quédese para la nomenclatura oficial de la Obra. Corrientemente llámese profesores a los Formadores. Que haya la máxima sencillez y transparencia, en nuestro habitual modo de trabajar y de formar (184).  
+  
+**nota** (184): Inmediatamente casi quedó en desuso, por voluntad del Padre, ese nombre de Formadores. Cfr. notas 3, 5, 6 y 9. -La nomenclatura actual, como ya se ha dicho, es la de Directores de los Cursos o de las clases.
+
+# 280
+
+Cuando así convenga, en casos concretos, decid, a aquel <u id="bkmrk-joven-que-vacila">joven que vacila</u>, que el problema matrimonial para él, excesivamente joven, no es de actualidad. Que espere: que sea buen cristiano, que estudie mucho, y que ayude en la Obra, porque de todos modos cabe con nosotros en el <u id="bkmrk-tercer-grado">tercer grado</u> (185).  
+  
+**nota** (185): Los Supernumerarios, que entonces no estaban más que en la Voluntad de Dios, y en el alma y en los afanes de nuestro Padre: el **segundo grado** eran los Oblatos.
+
+# 281
+
+Ese consejo prudentísimo es el que daba San Pedro, en su segunda epístola (I, 10): ... <u id="bkmrk-fratres%2C-magis-satag">fratres, magis satagite, ut per bona opera certam vestram vocationem et electionem faciatis</u>; hermanos, esforzaos cuanto podáis, por medio de las obras buenas, para asegurar vuestra vocación y elección. Que sepan, éstos del tercer grado, que tenemos dentro de la Obra toda la gama del trabajo apostólico, en el que podrán ellos ocuparse, sin detrimento para sus hogares -al contrario- <u id="bkmrk-sicut-bonus-miles-ch">sicut bonus miles Christi</u>, como buenos soldados de Cristo (II <u id="bkmrk-tim.">Tim.</u> II, 3), según el deseo de San Pablo.
+
+# 282
+
+<u id="bkmrk-haced-presente">Haced presente</u> a todos los llamados que, para ser escogidos -<u id="bkmrk-multi-enim-sunt-voca">multi enim sunt vocati, pauci vero electi</u>; muchos son los llamados, pocos los escogidos (<u id="bkmrk-matth.">Matth.</u> XX, 16)- no deben perder de vista que en <u id="bkmrk-nuestro-estado-de-ce">nuestro estado de celibato apostólico</u>, lo mismo que en el estado religioso (186), deben buscar: en primer término la propia perfección; y, después, vivir aquel <u id="bkmrk-zelo-zelatus-sum-pro">zelo zelatus sum pro Domino Deo exercituum</u>, con celo estoy encelado por el Señor Dios de los ejércitos (III <u id="bkmrk-reg.">Reg.</u> XIX, 10), mientras trabajan en el apostolado de tono profesional e intelectual propio de la Obra de Dios, ejercitando las virtudes necesarias para adquirir la perfección cristiana en el mundo (187).  
+  
+**nota** (186): Otra vez distingue el Padre no sólo entre la vocación religiosa y la nuestra, sino entre el **estado religioso y nuestro estado de celibato apostólico**. Como ya se ha comentado anteriormente (notas 92, 97, 123), esa distinción, sancionada solemnemente por la Santa Sede por medio de la Cons. Ap. <u id="bkmrk-provida-mater-eccles">Provida Mater Ecclesia</u> (desde el título mismo de la Constitución Apostólica), también dio origen a críticas y murmuraciones: ¡<u id="bkmrk-quiere-crear-un-nuev">quiere crear un nuevo estado de perfección</u>!, decían. No era ése el propósito de nuestro Fundador, pero Dios puso la semilla y puso el incremento; y se sirvió de la Obra para crear un nuevo estado de perfección, que es providencial para otras Instituciones. Para el Opus Dei, la recete parece más sencilla: se trata de buscar la perfección cristiana, de modo apostólico, y cada uno en su propio estado. Para los célibes -Numerarios y Oblatos- su estado sigue siendo el celibato -el que tenían- pero se eleva a la categoría de un **celibato apostólico**. -La palabra **estado**, refiriéndose a la Obra, se emplea en la acepción corriente, recogida por el derecho <u id="bkmrk-civil">civil</u>, y no en el sentido de los estados de perfección, que el Padre venera, pero que no le interesan: lo que pide a sus hijos es **que busquen la perfección**, sin cambiar de estado. El celibato **apostólico** añade una nota <u id="bkmrk-espiritual">espiritual</u>, y nada más, porque la vinculación a la Obra **no hace estado**: cada uno de sus socios permanece en el que tenía, o en el que tenga según el <u id="bkmrk-derecho-com%C3%BAn">derecho común</u>; el laico, es laico, a no ser que reciba la ordenación sacerdotal. De tal forma están estos conceptos claros en nuestro <u id="bkmrk-derecho-peculiar">derecho peculiar</u> y en todos los Documentos del Padre, que se puede afirmar -también por este motivo- que la Obra difiere <u id="bkmrk-a-radice">a radice</u> de los Institutos Seculares aprobados por la Santa Sede.  
+  
+**nota** (187): **Apostolado de tono profesional e intelectual**: recuérdese que el Padre escribió esta Instrucción recogiendo sobre todo su experiencia con los estudiantes, aunque su apostolado se dirigía a todos; y había entre ellos muchos profesionales de todos los ambientes sociales. Pero esas palabras van dirigidas a todos los miembros de la Obra, de las dos Secciones. La ocupación, el oficio que les servirá para hacer el **apostolado profesional**, puede ser cualquiera, con tal de que sea compatible con la Ley de Dios. -Cfr. los Decretos de aprobación, 24-II 1947 (p. 11) y 16-VI-1950 (pp. 7, 8, 15-25).
+
+# 283
+
+<u id="bkmrk-es-importante">Es importante</u> decirles también con claridad que, al venir a la Obra, no van al Tabor: van al Calvario. Que -<u id="bkmrk-no-est-discipulus-su">no est discipulus super magistrum</u>, no es el discípulo más que el maestro (<u id="bkmrk-matth.">Matth.</u> X, 24)- serán objeto de críticas y murmuraciones: que es posible que la insidia babee sobre su conducta licmia: que quizá venga, contra la Obra, o contra ellos, o contra todos -ya vino alguna vez-, <u id="bkmrk-la-contradicci%C3%B3n-de-">la contradicción de los buenos</u> -la permite el Señor-, que con rectísima intención conciben y propalan falsedades (188).  
+  
+**nota** (188): Nos previene -con la experiencia que cita: y, sin duda, con luces de Dios- y nos prepara para esa **contradicción de los buenos**, repitiendo aquello de San Juan: <u id="bkmrk-haec-locutus-sum-vob">Haec locutus sum vobis, ut non scandalizemini. Absque synagogis facient vos. Sed venit hora, ut omnis qui interficit vos arbitretur obsequium se prestare Deo. Et haec facient vobis, quia non noverunt Patrem neque me. Sed haec locutus sum vobis, ut, cum venerit hora eorum, reminiscamini quia ego dixi vobis</u> (<u id="bkmrk-ioann">Ioann</u>. XVI, 1-4).
+
+# 284
+
+Prevenidles, a fin de que estén dispuestos a resistir <u id="bkmrk-la-tentaci%C3%B3n-contra-">la tentación contra la perseverancia</u>:
+
+# 285
+
+Unas veces es que el gran amigo que tuvimos en el mundo, luego hermano en la Obra, o el hermano que fue instrumento de Dios para traernos a su apostolado, flaquea, no corresponde a la gracia... <u id="bkmrk-y-se-queda-en-el-mun">y se queda en el mundo como mundano</u> (189).  
+  
+**nota** (189): **Se queda en el mundo como mundano**: emplea el Padre las palabras **se queda**, puesto que ninguno de la Obra **se aleja** del mundo, como los religiosos. Estamos en el mundo, somos del mundo -**hombres de la calle**, comenta con gran fuerza nuestro Padre-, pero **no somos mundanos**. -Nos ha dicho el Padre, cuando ha ocurrido esto, que esas personas han sido **la aguja para meter el hilo**; y que **les debemos afecto, comprensión y oraciones**. -Salvo dos ocasiones, todos los que han tenido la desgracia de perder la vocación han procurado mantener el contacto con la Obra, y nos han ayudado incluso económicamente. Y es que la Obra unida por el vínculo de la verdadera caridad, profundamente sentida: y, en los que se fueron, <u id="bkmrk-aquae-multae-non-pot">aquae multae non potuerunt extinguere caritatem</u> (<u id="bkmrk-cant">Cant</u>. VIII, 7).
+
+# 286
+
+No, vacilaciones: raíces profundísimas de humildad, que fortalezcan nuestra vocación, hemos de sacar ante casos tan lamentables. Ellos... quizá fueron mejores que nosotros: <u id="bkmrk-si-in-viridi-ligno-h">si in viridi ligno haec faciunt, in arido quid fiet?</u>; si esto pasa con el leño verde, ¿qué se hará con el seco? (<u id="bkmrk-luc.">Luc.</u> XXIII, 31).
+
+# 287
+
+Y, como hijos pequeñitos de nuestro Padre-Dios, estaremos siempre en su presencia -<u id="bkmrk-ut-iumentum...-ego-s">ut iumentum... ego semper tecum</u>, como un borrico... siempre contigo (<u id="bkmrk-ps.">Ps.</u> LXXII, 23)- con la humildad del borriquillo cumpliendo su Voluntad -<u id="bkmrk-et-in-voluntate-tua-">et in voluntate tua deduxisti me</u>, me llevaste a cumplir tu Voluntad (<u id="bkmrk-ps.-1">Ps.</u> LXXII, 24)-, perseverando hasta el fin.
+
+# 288
+
+Otras veces, <u id="bkmrk-la-concupiscencia">la concupiscencia</u>, vistiendo con coloridos de delicadeza, de poesía, y hasta de espiritualidad -conozco y lloré, no hace mucho, una <u id="bkmrk-espiritualidad">espiritualidad</u> de éstas: ¡pobre alma!-, se empeña en hacernos creer que nuestra entrega a Dios es un <u id="bkmrk-estado-de-%C3%A1nimo">estado de ánimo</u>, una situación de paso, que es demasiado alta para nosotros: ¡también la clase de tropa se va al cielo! (190). La realidad es que nuestra entrega -en la intimidad de la conciencia de cada uno- <u id="bkmrk-es-una-situaci%C3%B3n-def">es una situación definitiva, para buscar la perfección cristiana en el lugar que ocupamos en medio del mundo</u> (191).  
+  
+**nota** (190): Quien habló así con el Padre, debió aludir sin duda al punto de <u id="bkmrk-consideraciones-espi">Consideraciones espirituales</u> (p. 10), recogido por el Padre en el n. 28 de <u id="bkmrk-camino">Camino</u>. Y aprovecho la ocasión para decir, aunque esté patente, que esas palabras del Padre -**clase de tropa**- no encierran ninguna ofensa para los que van al matrimonio, porque recibieron del Señor esa **vocación**. Todos sabemos la veneración que tiene el Padre por el **gran sacramento** del matrimonio (cfr. <u id="bkmrk-camino-1">Camino</u>, n. 26), y el número considerable de almas santas que ha encauzado hacia la formación de un hogar cristiano. Pero es evidente que la vocación a la entrega total en el <u id="bkmrk-celibato-apost%C3%B3lico">celibato apostólico</u>, es <u id="bkmrk-objetivamente">objetivamente</u> superior a la del matrimonio.  
+  
+**nota** (191): Cfr. <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 19-III-1934, nn. 14 y 28; <u id="bkmrk-instrucci%C3%B3n-1">Instrucción</u>, 1-IV-1934, n. 20.
+
+# 289
+
+Aunque la carne se vista de seda, carne se queda (192). Ni ellos mismos se engañan: <u id="bkmrk-erraverunt-a-fide">erraverunt a fide</u> -les diré con el Apóstol- <u id="bkmrk-et-inseruerunt-se-do">et inseruerunt se doloribus multis. Tu autem, o homo Dei, haec fuge: sectare vero iustitiam, pietatem, fidem, charitatem, patientiam, mansuetudinem. Certa bonum certamen fidei, apprehende vitam aeternam</u>: os habéis desviado de la fe, y os habéis sujetado a multitud de dolores. Pero tú, ¡oh hombre de Dios!, huye de esas cosas: y sigue en todo la justicia, la piedad, la fe, la caridad, la paciencia, la mansedumbre. Pelea valerosamente, y arrebata la vida eterna (I <u id="bkmrk-tim.">Tim.</u> VI, 10-12).  
+  
+**nota** (192): **Aunque la carne se vista de seda... -Te diré, cuando te vea vacilar ante la tentación, que oculta su impureza con pretextos de arte, de ciencia..., ¡de caridad! -Te diré, con palabras de un viejo refrán español: aunque la carne se vista de seda, carne se queda** (<u id="bkmrk-camino">Camino</u>, n. 134).
+
+# 290
+
+<u id="bkmrk-la-indecisi%C3%B3n">La indecisión</u>: ¿Si será para mí esta vida apostólica o no será? -¿No me meteré donde no me llaman? ¡Donde no te llaman?: ya te han llamado: no lo dudes. Como tampoco has de dudar que tu indecisión es... falta de generosidad.
+
+# 291
+
+Dime: ¿qué será más agradable a Dios, tu completo entregamiento o las medias tintas de un apostolado mediatizado por tus preocupaciones terrenas de hogar, mujer, familia?... Pues, ¿a qué viene esa indecisión?
+
+# 292
+
+<u id="bkmrk-la-cobard%C3%ADa">La cobardía</u>: Soy flaco. Me conozco: es verdad que, por la misericordia del Señor, no le ofendo ordinariamente. Pero... ¡estas luchas de cada día!: siempre al borde del precipicio. Me da miedo entregarme... y caer. Yo no valgo, para darme a Dios del todo.
+
+# 293
+
+Tu humildad, hijo, no tiene de humildad más que las apariencias. Te crees un hombre excepcional: sólo tú tienes luchas o, por lo menos, las luchas de los demás no son como las tuyas.
+
+# 294
+
+¿Acaso has llegado a creer que los santos no tuvieron -no tienen- que vencer en peleas tan grandes, y más, que tus peleas diarias? Entonces, los santos son anormales: casos clínicos, para estudiarlos un doctor modernista o un psicólogo hambriento de deformidades.
+
+# 295
+
+Te pasa lo que pasa a todo el mundo. Y seguirás así hasta acabar tu vida mortal, para que no te envanezcas: para eso -lo dice San Pablo- <u id="bkmrk-datus-est-mihi-stimu">datus est mihi stimulus carnis meae, angelus satanae, qui me colaphizet</u>; se me ha puesto el estímulo de la carne, que es como un ángel de satanás que me da de bofetadas (II <u id="bkmrk-cor.">Cor.</u> XII, 7).
+
+# 296
+
+Decías -y decías bien- que, por la misericordia del Señor, no le ofendes. ¿Y no ves que, si desechas tu cobardía, y te das a El del todo, El tendrá contigo toda la misericordia que necesites? ¿No oyes que te dice Cristo, como al Apóstol, <u id="bkmrk-sufficit-tibi-gratia">sufficit tibi gratia mea</u>, te basta mi gracia? (II <u id="bkmrk-cor.">Cor.</u> XII, 9).
+
+# 297
+
+<u id="bkmrk-la-desconfianza">La desconfianza</u>. Parece que preguntan: <u id="bkmrk-numquid-poterit-deus">numquid poterit Deus parare mensam in deserto?</u>, ¿acaso podrá Dios alimentarme, fortalecerme, en las horas malas, ¡tantas!, de esta vida, que es destierro y desierto? (<u id="bkmrk-ps.">Ps.</u> LXXVII. 19).
+
+# 298
+
+Y paréceme también oír, en el silencio augusto de las catacumbas romanas, las voces varoniles de aquellos primitivos cristianos -predecesores nuestros, en el viejo y novísimo apostolado de la Obra- que dan la respuesta adecuada, a estos hermanos suyos desconfiados (193).  
+  
+**nota** (193): <u id="bkmrk-haec-nostra-suprema-">Haec nostra suprema ambitio esto, uti primaevi christiana vivere, sine discretione sanguinis, nationis et linguae</u>, nos enseñará el Padre más tarde. Siempre nos ha puesto como ejemplo a los primeros cristianos, y nos ha enseñado a amarles y a venerarles. Y, como entonces, se van fundando por todo el mundo pequeñas comunidades cristianas, dedicadas al servicio del Señor en medio del mundo: grupos de Numerarios, de Oblatos, de Supernumerarios, y hasta familias enteras -padres e hijos, con las personas de servicio- entregadas a Dios. Cfr. <u id="bkmrk-instrucci%C3%B3n-para-la-">Instrucción para la obra de San Gabriel</u>.
+
+# 299
+
+Oídla: es el secreto de su perseverancia, en medio de las persecuciones exteriores más crueles y continuas, y de las interiores tribulaciones permitidas, enviadas, por el Santificador: <u id="bkmrk-dominus-illuminatio-">Dominus illuminatio mea et salus mea: quem timebo?</u>; el Señor es mi luz y mi salud: ¿a quién temeré? <u id="bkmrk-dominus-protector-vi">Dominus protector vitae meae: a quo trepidabo?</u>; el Señor es el defensor de mi vida: ¿qué me amedrentará? (<u id="bkmrk-ps.">Ps.</u> XXVI, 1).
+
+# 300
+
+<u id="bkmrk-no-encajo">No encajo</u>. Esta es otra tentación frecuente e hipócrita: bien se ve que es hija de satanás, el gran falsario.
+
+# 301
+
+-<u id="bkmrk-no-encajo%3A-en-otro-s">No encajo: en otro sitio, donde me encontrara más a gusto, trabajaría más por el Señor</u> -¡Por el Señor!: no emplees el santo nombre de Dios, para encubrir tus egoísmos. ¡Por el Señor! ¡Si no te preocupas de El! Se te escapó la verdad, cuando has dicho: <u id="bkmrk-donde-me-encontrara-">donde me encontrara más a gusto</u>.
+
+# 302
+
+-¿Qué buscas? ¿Buscas a Jesús o te buscas a ti? Tu gusto: eso buscas, y no otra cosa. Si buscaras a Jesús, le bendecirías mil veces, y mil veces más amarías la Obra seguro de tu vocación, porque no hay señal más cierta de haber encontrado a Cristo que sentirse cargado con su bendita Cruz (194).  
+  
+**nota** (194): ¡Qué doctrina tan clara nos ha enseñado el Padre, sobre este punto! No hay falta de felicidad, de alegría, si se acepta con generosidad la Cruz, la que el Señor nos manda: basta con que realmente la envíe el Señor, y que no nos la inventemos nosotros, **porque entonces** -comenta el Padre- **no sería la Cruz de Cristo. ¡Os quiero también felices en la tierra!**, nos suele decir. Añade a continuación: **porque la felicidad eterna, el cielo, es para los que son felices aquí abajo, y aquí sólo se puede ser feliz amando la Voluntad de Dios.** Y también le hemos oído: **un consejo, que os he dado cien veces: estad alegres, siempre alegres. Que estén tristes los que no quieran ser hijos de Dios**.
+
+# 303
+
+¡Ah, que buscabas un sacrificio con espectáculo, y echas en falta unos hábitos pomposos, y un camino llamativo, y, en una palabra, unas virtudes sonoras? (195).  
+  
+**nota** (195): Cualquier hábito, para nosotros, sería llamativo y pomposo, además de inadecuado, porque nuestra vocación es <u id="bkmrk-secular">secular</u>, no <u id="bkmrk-religiosa">religiosa</u>. Pero bueno es dejar sentado, de pasada, que el Padre venera -y así, nosotros- los hábitos de todos los religiosos.
+
+# 304
+
+Pues, mira: yo digo, en la presencia de Dios, a esos hijos míos encendidos en el Amor de Cristo, que sueñan -por ejemplo- con ir a país de misiones y morir en martirio cruel: seguid soñando: será lo que Jesús quiera (196).  
+  
+**nota** (196): Y Jesús, que lo quería todo desde el primer momento, ha hecho que el Padre pudiera tener ya la alegría de ver hijos suyos en tierras donde todo estaba por hacer, para implantar o reimplantar el catolicismo. Alegría, por otra parte, idéntica a la que manifiesta cuando ve a los demás miembros de la Obra -**misioneros con misión, sin llamarse misioneros**: ya se han comentado en la nota 134 estas palabras del Padre- esparcidos por todo el mundo para realizar esta gran misión de dar doctrina a gentes de todas las clases sociales. -Véase lo que, a propósito de misioneros, ha escrito el Padre en la Instrucción de San Gabriel. Y, en cuanto al trabajo entre los no católicos, recuérdese el apostolado <u id="bkmrk-ad-fidem%3A-inter-pecu">ad fidem: inter peculiaria Operis Dei ministeria. hoc recenseri speciatim debet, quod iure meritoque Institutioni carissimum est, scilicet: apostolatus ad fidem, vitam christianam, immo et piam, illos omnes trahendi et adducendi qui "ignorant et errant", vel qui a domo paterna diversimode prodigi longe absunt, aut passionibus seu praeiudiciis hostes Ecclesiae sese exhibent, praeterquam aliis apostolatum rationibus, etiam ipsorum collaborationem sive professionalem sive oeconomicam sive socialem prudenter quaerendo ad illa Operis Dei incepta, quae omnibus patere possunt. Hac mente et hoc fine cooperatio petitur et ordinatur ut, ex ipsa, illi Dei gratiam ac misericordiam consequantur et ad fidem christianosque mores suaviter efficaciter trahantur</u> (Decreto de aprobación, 16-VI-1950, pp. 21 y 22).
+
+# 305
+
+Pero, sabed que agradáis más a nuestro Señor -y encajáis más en el espíritu de la Obra- cuando os abandonáis en sus brazos paternales, y estáis dispuestos a morir en vuestro lecho, como unos buenos burgueses... pero en tránsito de Amor.
+
+# 306
+
+<u id="bkmrk-voy-a-terminar">Voy a terminar</u>, hijos míos. <u id="bkmrk-ite-et-vos-in-vineam">Ite et vos in vineam meam!</u>; id a trabajar a la viña, decididos a soportar el <u id="bkmrk-pondus-diei-et-aestu">pondus diei et aestus</u>; el peso del día y del calor (<u id="bkmrk-matth.">Matth.</u> XX, 7 y 12), sin buscar premio para vosotros: buscando, para las almas que nuestro Dios envíe a su Obra, aquella fortaleza de espíritu que les haga llevar consigo nuestro ambiente, sin temor al ambiente del siglo, donde habrán de batallar la gran batalla de Cristo -frailes sin capucha, sin coro y sin sotana (197)-, consagrados a la labor intelectual, para renovar las formas del pensamiento cristiano, ocupando las cátedras de las Universidades sabias, y poniendo en ellas la almadraba, para ganar, del cogollo del espíritu universitario, los campeones de Dios (198).  
+  
+**nota** (197): **Sin temor al ambiente del siglo**. El Padre afirma que hemos de **llevar nuestro ambiente a todas partes, sin admitir que nos ahoguen otros climas, sin dejarnos dominar por el ambiente, porque el tono hemos de darlo nosotros, con la gracia de Dios, dondequiera que vayamos:** y que. además, **no podemos odiar ni temer al siglo, al mundo, porque el mundo lo ha creado Dios, y es bueno, aunque a veces los hombres procuren hacerlo malo**. **-Frailes sin capucha, sin coro y sin sotana**: en cuatro palabras -una pincelada- alude nuestro Fundador a la plena dedicación a Dios diferente a la de los religiosos, porque no somos religiosos. Emplea un modo gráfico, que era el único posible entonces. Cfr. <u id="bkmrk-instrucci%C3%B3n">Instrucción</u>, 19-III-1934, nn. 43-45.  
+  
+**nota** (198): Dedicaba el Padre esta Instrucción, especialmente, a los Numerarios: por eso hablaba de universitarios, de intelectuales. Pero claro está que siempre que esa llamada de nuestro Fundador se refiere desde entonces, y para siempre, al trabajo con toda clase de jóvenes, buscando siempre la selección que Dios quiere para los miembros de la Obra. Cfr. nn. 65, 66 y 67 de esta Instrucción; <u id="bkmrk-instrucci%C3%B3n-1">Instrucción</u>, 19-III-1934, n.33; <u id="bkmrk-instrucci%C3%B3n-2">Instrucción</u>, 1-IV-1934, nn. 63-68.  
+  
+Gaudium cum pace, emendationem vitae, spatium verae poenitentiae, gratiam et consolationem Sancti Spiritus atque in Opere Dei perseverantiam, tribuat vobis omnipotens et misericors Dominus.   
+ Mariano (199)  
+  
+**nota** (199): Cfr. nota 48 a la <u id="bkmrk-instrucci%C3%B3n-3">Instrucción</u>, 19-III-1934.  
+  
+Madrid, 9 de enero de 1935.  
+  
+**nota** (200): <u id="bkmrk-deo-omnis-gloria%21">Deo omnis gloria!</u> Era y es como el grito de batalla del Padre, dicho y escrito mil veces, en sus conversaciones, en sus pláticas, en sus apuntes: **nada para nosotros, todo para Dios**. Lema que se corresponde perfectamente con nuestro espíritu, y con la práctica de la humildad colectiva de la Obra.

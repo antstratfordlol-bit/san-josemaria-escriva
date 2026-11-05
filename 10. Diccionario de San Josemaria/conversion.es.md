@@ -1,0 +1,50 @@
+---
+id: dicsje.conversion.es
+work: diccionario-san-josemaria
+title: Conversión
+voz: CONVERSION
+author: María Ángeles VITORIA
+creator: collective — a signed dictionary; the voz's own author is in `author` above
+language: es
+original-language: yes
+authority-type: scholarly
+status: current
+supersedes: 01. Sources/_originals/Biblioteca/_markdown/DicSJE.md
+edition: Diccionario de San Josemaría Escrivá de Balaguer, Instituto Histórico San Josemaría Escrivá de Balaguer / Fundación Studium / Editorial Monte Carmelo, Burgos, 2ª edición, diciembre 2013; ISBN 978-84-8353-592-9 (the work's own copyright page)
+source-file: Diccionario de San Josemaria Escriva de Balaguer.epub
+source-sha256: 9bb99eafaf5d432f
+original: 01. Sources/_originals/San Josemaria/diccionario/Diccionario de San Josemaria Escriva de Balaguer.epub
+decode-witness: 01. Sources/_originals/Biblioteca/_markdown/DicSJE/ record 0008 — the decode-derived text this file carried until 2026-08-28 is in the store (01. Sources/_originals/San Josemaria/diccionario/decode-2026-08-26/) and in git history
+replaced: "2026-08-28 — the publisher's epub text replaced the decode-derived promotion of 2026-08-26 in place, on the same anchors (§17b: 'check both to see which is best; keep the best')"
+anchors: "{#dicsje.conversion} on the voz; {#dicsje.conversion.N} on the sections the work numbers — CARRIED from the 2026-08-26 promotion (99. Tools/promote/dicsje-registered-anchors.tsv), never recomputed"
+sections: 3
+extracted: 2026-08-28
+extracted-by: 99. Tools/promote/replace_dicsje_es.py
+---
+# Conversión {#dicsje.conversion}
+
+En sentido religioso, se entiende por conversión la transformación mediante la cual el sujeto pasa de una vida pecadora a otra virtuosa y justa. Significa también el paso de la incredulidad a la fe, y la vuelta a la fe después de un tiempo de distanciamiento. En su acepción teológica, consiste en la acogida libre por parte del hombre del don de Sí que hace Dios en Cristo por el Espíritu Santo.
+
+## 1. Enseñanzas bíblicas {#dicsje.conversion.1}
+
+La conversión implica un cambio profundo que el Nuevo Testamento describe como paso de las tinieblas a la luz (cfr. Jn 1, 4-9; Hch 26, 18; 1 P 2, 9; Ef 5, 8), de la vida según la carne a la vida según el espíritu (Rm 8, 1-13; Ga 5, 15-26), del poder y esclavitud de Satanás a la libertad de los hijos de Dios. Es, en definitiva, la muerte del "hombre viejo" y la aparición del "hombre nuevo" resucitado en Cristo (Ef 4, 22-24): un segundo nacimiento, una resurrección, una nueva creación.
+
+En el lenguaje bíblico, la idea de conversión se expresa mediante los verbos hebreos šûb y *nhm* (en griego, *stref*ô y *metánoia).* El primero significa dirigirse hacia una meta o ideal distinto del que se tenía hasta el momento, alejarse de, volver (aunque en sí mismo no posee un valor religioso, fue adquiriendo poco a poco el sentido de vuelta a Yahveh, a través de la fe, la obediencia y el rechazo de las obras malas, tanto del pueblo elegido como del individuo). El segundo, suspirar, sollozar, dolerse, arrepentirse, consolar, que expresa la idea de conversión moral o religiosa, de vuelta a Dios en su sentido más fuerte. Si en el Antiguo Testamento, convertirse era vivir según la ley de Yahveh, huyendo de lo que le desagrada, en el Nuevo Testamento, la conversión adquiere un marcado carácter cristocéntrico: consiste en escuchar y seguir a Jesucristo, es decir, creer en Él, vivir su vida (cfr. entre otros muchos textos Lc 9, 23 y Flp 1, 21).
+
+La Sagrada Escritura muestra claramente la primacía de la acción gratuita de Dios en la conversión: sale al encuentro, llama y se adelanta dando su gracia: "Ninguno puede venir a Mí, si mi Padre no lo atrae" (Jn 6, 44). En este sentido, el Magisterio de la Iglesia ha afirmado en varias ocasiones la necesidad de la gracia y de los auxilios del Espíritu Santo, y ha puesto de manifiesto también el papel de la libertad del hombre para acoger el Evangelio (cfr. CCE, nn. 1426-1429).
+
+## 2. Primera conversión y conversiones sucesivas {#dicsje.conversion.2}
+
+Es tradicional en teología espiritual referirse a una primera conversión, que acontece con el Bautismo, por el que el hombre es justificado y santificado, naciendo a la vida de la gracia; y a sucesivas conversiones, ya que el inicio es susceptible de perfeccionamiento, en la medida en que el creyente, con la gracia y sus buenas obras, se identifica más con Cristo. "La liturgia de la Iglesia propone a los cristianos unos tiempos especiales de conversión como son los de Adviento y Cuaresma. Sin embargo, la conversión personal ha de ser una actitud permanente del creyente, como respuesta a la llamada universal a la santidad (cfr. Mt 5, 48)" (ALONSO, 2006, p. 186). Por primera conversión se entiende también el momento de toma de conciencia de la propia vocación dentro de la común llamada a la santidad que Dios dirige a todos los hombres, o sea, la percepción de cómo, en un modo concreto, la vocación cristiana se determina dando cauce, a lo largo de la propia existencia, a la condición de hijos de Dios. En todo caso, puede afirmarse, por tanto, que la vida cristiana es conversión continua, es decir, vida que se va edificando a través de sucesivas conversiones o segundos nacimientos, en el encuentro con Dios por medio de Jesucristo en el Espíritu Santo, en la oración, en la Escritura y en los sacramentos.
+
+Esta doctrina común de la Iglesia encuentra una expresión clara y sintética en un texto de san Josemaría: "La conversión es cosa de un instante. -La santificación es obra de toda la vida" (C, 285). Aquí, san Josemaría usa el término "conversión" en un sentido muy próximo al de "justificación", es decir, como cambio de pecador a justo, pero también en el del cambio por el que una persona advierte que debe pasar de una existencia superficial a otra comprometida y coherente. Así entendida, la conversión acontece, efectivamente, en un instante, aunque pueda tener actos previos de preparación. El vocablo "santificación", en cambio, lo aplica al despliegue, posibilitado y guiado por la gracia de Dios, de la "santificación" radical producida en el instante de la justificación (cfr. CECH, p. 468). El mensaje transmitido por san Josemaría busca precisamente difundir entre los cristianos la pujanza de la primera conversión, y desplegar con la ayuda de la gracia, a través de sucesivas conversiones, toda la virtualidad de la primera: "La semilla divina de la caridad, que Dios ha puesto en nuestras almas, aspira a crecer, a manifestarse en obras, a dar frutos que respondan en cada momento a lo que es agradable al Señor. Es indispensable por eso estar dispuestos a recomenzar, a reencontrar -en las nuevas situaciones de nuestra vida- la luz, el impulso de la primera conversión" (ECP, 58).
+
+Y así en otro lugar menciona: "En la vida nuestra, en la vida de los cristianos, la conversión primera -ese momento único, que cada uno recuerda, en el que se advierte claramente todo lo que el Señor nos pide- es importante; pero más importantes aún, y más difíciles, son las sucesivas conversiones. Y para facilitar la labor de la gracia divina con estas conversiones sucesivas, hace falta mantener el alma joven, invocar al Señor, saber oír, haber descubierto lo que va mal, pedir perdón" (ECP, 57). En este sentido, las segundas conversiones vienen exigidas por la primera ya que, en realidad, no son sino momentos de una única y misma llamada de Dios al hombre, y del despliegue de la respuesta humana que busca una mayor proximidad a Dios: "Acercarse un poco más a Dios quiere decir estar dispuesto a una nueva conversión, a una nueva rectificación, a escuchar atentamente sus inspiraciones -los santos deseos que hace brotar en nuestras almas-, y a ponerlos por obra" (F, 32).
+
+## 3. Elementos de la doctrina de la conversión {#dicsje.conversion.3}
+
+La homilía *La conversión de los hijos de Dios*, recogida en *Es Cristo que pasa,* nos proporciona los principales elementos de la doctrina de san Josemaría sobre nuestro tema. Ya el mismo título relaciona la conversión con la filiación divina, característica esencial en la experiencia y doctrina espiritual de san Josemaría: "La conciencia de nuestra filiación divina da alegría a nuestra conversión: nos dice que estamos volviendo hacia la casa del Padre" (ECP, 64). La conversión implica "un examen hondo, pidiendo ayuda al Señor, para que podamos conocerle mejor y nos conozcamos mejor a nosotros mismos. No hay otro camino, si queremos convertirlos de nuevo" (ECP, 58). El humilde reconocimiento del pecado y la seguridad del perdón divino ("Dios no se cansa de nuestras infidelidades. Nuestro Padre del cielo perdona cualquier ofensa, cuando el hijo vuelve a Él, cuando se arrepiente y pide perdón": ECP, 64) desemboca en la contrición ("esa conversión del corazón que supone el deseo de cambiar, la decisión firme de mejorar nuestra vida, y que -por tanto-, se manifiesta en obras de sacrificio y entrega": ECP, 64), y se materializa en el sacramento de la Penitencia: "volver hacia la casa del Padre, por medio de ese sacramento del perdón en el que, al confesar nuestros pecados, nos revestimos de Cristo" (ECP, 64). Ese deseo de cambiar, el propósito de enmienda, se manifiesta en lucha ascética. Una constante de las enseñanzas de san Josemaría es presentar la vida del cristiano no como una acumulación de victorias, sino como un continuo comenzar y recomenzar: "La vida espiritual -lo repito machaconamente, de intento- un continuo comenzar y recomenzar. -Recomenzar? ¡Si!: cada vez que haces un acto de contrición -y a diario deberíamos hacer muchos-, recomienzas, porque das a Dios un nuevo amor" (F, 384).
+
+En el trasfondo teológico de las enseñanzas de san Josemaría sobre la conversión no falta el recurso filial a la intercesión de Santa María, que desde el Cielo continúa su función maternal ("Antes, solo, no podías... -Ahora, has acudido a la Señora, y, con Ella, ¡qué fácil!": C, 513), y "facilitando" la conversión: "A Jesús siempre se va y se "vuelve" por María" (C, 495).
+
+*María Ángeles VITORIA*

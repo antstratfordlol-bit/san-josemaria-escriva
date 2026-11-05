@@ -1,0 +1,966 @@
+fragment	minted	anchor	evidence	has_text	quotations	rules	translated	text_withheld	witnesses	attribution_best	dates	shared_with	witness_anchors
+0	no		withheld-damaged-digits	no	0				1	primary			03-josemaria-escriva-de-balaguer-en-los-anos-treinta-los.es.md
+4	yes	apuntes.4	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	6-julio-1930	21,32,38,72,73	vazquez-fundador.6.1
+5	yes	apuntes.5	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			vazquez-fundador.21.6; vida-cotidiana-y-santidad.capitulo-2.es.md
+8	yes	apuntes.8	vdp-apparatus	yes	1	vdp-cuerpo			3	primary			04 primera-parte-la-etapa-inicial.md; romana-020-bolla-pontificia-di-elevazione-alla-dignita-dell.it.md; vazquez-fundador.21.6
+9	yes	apuntes.9	vdp-apparatus	yes	2	vdp-cuerpo			3	primary	1-marzo-1931; 12-agosto-1932; 22-junio-1933; 5-enero-1933		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.21.6
+11	yes	apuntes.11	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.21.6
+12	yes	apuntes.12	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	13-III-1930; 13-marzo-1930		vazquez-fundador.21.6
+13	yes	apuntes.13	vdp-apparatus	yes	1	vdp-cuerpo			4	primary	5-diciembre-1930		04 primera-parte-la-etapa-inicial.md; 04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; 05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; vazquez-fundador.6.2
+14	yes	apuntes.14	vdp-apparatus	yes	7	q-nota,vdp-cuerpo			7	primary	13-III-1930; 19-III-1934; 2-octubre-1928; 28-VII-1930	77,527	04 primera-parte-la-etapa-inicial.md; romana-046-roma-10-iii-2008.es.md; vazquez-fundador.21.6; vazquez-fundador.6.2; vazquez-fundador.8.7
+15	yes	apuntes.15	vdp-apparatus	yes	1	vdp-cuerpo		yes	4	primary	20-febrero-1938; 25-febrero-1938		13-epistolario-entre-san-josemaria-escriva-de-balaguer-y-el-obispo.es.md; crt guiones y examenes.md; sm rt exams Jan - Dec even years.es.md; vazquez-fundador.6.2
+16	yes	apuntes.16	unverified-line-scan	no	0				1	primary	13-III-1930		04 primera-parte-la-etapa-inicial.md
+17	yes	apuntes.17	vdp-apparatus	no	0				1	primary	4-V-1745		vazquez-fundador.7.1
+19	yes	apuntes.19	unverified-line-scan	no	0				1	primary			12-san-josemaria-escriva-de-balaguer-palabras-del-nuevo-testamento.es.md
+21	yes	apuntes.21	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	6-julio-1930	4,32,38,72,73	vazquez-fundador.6.1
+22	yes	apuntes.22	unverified-line-scan	no	0				1	secondary			07-infanzia-e-prima-adolescenza-di-josemaria-escriva-barbastro.it.md
+23	yes	apuntes.23	vdp-apparatus	yes	2	vdp-cuerpo			2	primary			vazquez-fundador.15.4; vazquez-fundador.6.4
+27	yes	apuntes.27	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		742	vazquez-fundador.8.1
+28	yes	apuntes.28	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			2	primary	14-junio-1948		09-las-preces-del-opus-dei-comentario-historico-teologico.es.md; vazquez-fundador.6.4
+29	yes	apuntes.29	unverified-line-scan	no	0				1	primary			05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md
+30	yes	apuntes.30	unverified-line-scan	yes	1	q-cita			1	primary			04 primera-parte-la-etapa-inicial.md
+31	yes	apuntes.31	unverified-line-scan	no	0				1	secondary	2-marzo-1932		05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md
+32	yes	apuntes.32	vdp-apparatus	yes	4	q-nota,vdp-cuerpo			4	primary	28-IX-1938; 29-XI-1931; 6-julio-1930	4,21,38,72,73,206	04 primera-parte-la-etapa-inicial.md; 05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; romana-031-fe-cristiana-y-libertad-personal-en-la-actuacion.es.md; vazquez-fundador.6.1
+33	yes	apuntes.33	unverified-line-scan	no	0				1	primary			05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md
+35	yes	apuntes.35	vdp-apparatus	yes	8	q-nota,vdp-cuerpo,vdp-nota		yes	8	primary	17-V-1992; 19-V-1992; 27-XII-1930; 7-agosto-1931	42,140,217	04 primera-parte-la-etapa-inicial.md; 06 capitulo-tercero-iglesia-en-el-mundo-la.md; algo-grande-y-que-sea-amor.es.md; crt guiones y examenes.md; romana-027-contemplativos-en-medio-del-mundo.es.md; romana-031-fe-cristiana-y-libertad-personal-en-la-actuacion.es.md; vazquez-fundador.19.4
+37	no		withheld-damaged-digits	no	0				1	primary			05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md
+38	yes	apuntes.38	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	6-julio-1930	4,21,32,72,73	04 primera-parte-la-etapa-inicial.md; vazquez-fundador.6.1
+39	yes	apuntes.39	vdp-apparatus	yes	3	q-cita,q-nota,vdp-cuerpo			4	primary	15-VI-1930; 15-junio-1930; 18-XI-1972		04 capitulo-i-primeros-pasos-del-opus-dei.md; 04-la-predicacion-de-san-josemaria-fuentes-documentales-para-el.es.md; romana-063-meditaciones-mensuales-sobre-las-obras.es.md; vazquez-fundador.6.1
+41	yes	apuntes.41	unverified-line-scan	no	0				1	secondary			07-infanzia-e-prima-adolescenza-di-josemaria-escriva-barbastro.it.md
+42	yes	apuntes.42	vdp-apparatus	yes	7	q-nota,vdp-cuerpo,vdp-nota			4	primary	15-VI-1930; 27-XII-1930; 7-agosto-1931	35,140,217	04 capitulo-i-primeros-pasos-del-opus-dei.md; 04 primera-parte-la-etapa-inicial.md; vazquez-fundador.12.7; vazquez-fundador.19.4
+43	yes	apuntes.43	unverified-line-scan	no	0				1	primary			04 primera-parte-la-etapa-inicial.md
+44	yes	apuntes.44	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			04 primera-parte-la-etapa-inicial.md; vazquez-fundador.21.6
+45	no		withheld-damaged-digits	yes	1	q-nota			1	primary			03-josemaria-escriva-de-balaguer-en-los-anos-treinta-los.es.md
+46	yes	apuntes.46	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	15-VI-1930		vazquez-fundador.21.6
+47	yes	apuntes.47	unverified-line-scan	no	0				1	secondary	16-junio-1930		04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md
+48	yes	apuntes.48	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	16-VI-1930		vazquez-fundador.21.1
+51	yes	apuntes.51	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	16-VI-1930		vazquez-fundador.21.6
+52	yes	apuntes.52	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	16-VI-1930		vazquez-fundador.13.8
+53	yes	apuntes.53	vdp-apparatus	yes	2	vdp-cuerpo			3	primary	16-junio-1930; 17-septiembre-1931	54	06-los-anos-de-seminario-y-de-ordenacion-de-jose-maria-escriva.es.md; vazquez-fundador.2.6; vazquez-fundador.3.2
+54	yes	apuntes.54	vdp-apparatus	yes	1	vdp-cuerpo			3	primary		53	03-josemaria-escriva-de-balaguer-en-los-anos-treinta-los.es.md; vazquez-fundador.3.2
+55	yes	apuntes.55	vdp-apparatus	yes	1	vdp-nota			2	primary	16-VI-1930		vazquez-fundador.12.5; vazquez-fundador.3.3
+56	yes	apuntes.56	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	16-VI-1930		vazquez-fundador.21.6
+57	yes	apuntes.57	vdp-apparatus	no	0				1	primary	16-VI-1930; 24-noviembre-1939		vazquez-fundador.12.7
+60	yes	apuntes.60	vdp-apparatus	yes	5	vdp-cuerpo,vdp-nota			6	primary	16-VI-1930	61,1210	romana-040-san-josemaria-escriva-lector-de-la-sagrada.en.md; romana-040-san-josemaria-escriva-lector-de-la-sagrada.es.md; vazquez-fundador.14.4; vazquez-fundador.21.6; vazquez-fundador.8.4
+61	yes	apuntes.61	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			3	primary	16-VI-1930	60,1210	vazquez-fundador.21.6; vazquez-fundador.8.4
+65	yes	apuntes.65	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			4	primary	10-III-1931; 16-VI-1930; 28-VII-1930; 5-VII-1930	72,77,171,172	06-la-relacion-personal-entre-san-josemaria-escriva-de-balaguer-y.es.md; vazquez-fundador.12.7; vazquez-fundador.16.3; vazquez-fundador.21.6
+66	yes	apuntes.66	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	16-VI-1930		vazquez-fundador.21.6; vazquez-fundador.6.1
+67	yes	apuntes.67	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	16-VI-1930; 24-III-1931	71	vazquez-fundador.21.6; vazquez-fundador.6.1
+70	yes	apuntes.70	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	23-enero-1929	174,178,1594	vazquez-fundador.5.6
+71	yes	apuntes.71	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	16-VI-1930; 24-III-1931	67	vazquez-fundador.21.6
+72	yes	apuntes.72	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	10-III-1931; 16-VI-1930; 28-VII-1930; 5-VII-1930; 6-julio-1930	4,21,32,38,65,73,77,171,172	vazquez-fundador.16.3; vazquez-fundador.6.1
+73	yes	apuntes.73	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota-tras			4	primary	26-julio-1930; 6-julio-1930	4,21,32,38,72,1866	07-obra-escrita-y-predicacion-de-san-josemaria-escriva-de-balaguer.es.md; vazquez-fundador.6.1
+75	yes	apuntes.75	vdp-apparatus	yes	4	q-nota,vdp-cuerpo,vdp-nota	en		5	primary	28-VII-1930	111,129,154	echevarria-carta-20040701.es.md; portillo-carta-19761208.es.md; romana-055-carta-pastoral-con-ocasion-del-ano-de-la-fe-29-ix.en.md; romana-055-carta-pastoral-con-ocasion-del-ano-de-la-fe-29-ix.es.md; vazquez-fundador.6.4
+76	yes	apuntes.76	unverified-line-scan	no	0				2	primary	28-VII-1930		echevarria-carta-19970214.es.md; portillo-carta-19761208.es.md
+77	yes	apuntes.77	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			2	primary	10-III-1931; 13-III-1930; 16-VI-1930; 19-III-1934; 28-VII-1930; 5-VII-1930	14,65,72,171,172	vazquez-fundador.16.3; vazquez-fundador.21.6
+84	yes	apuntes.84	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.3
+86	yes	apuntes.86	vdp-apparatus	yes	1	vdp-nota			3	primary	25-VIII-1930; 25-agosto-1930		03-saint-josemaria-et-le-cure-d-ars.fr.md; 04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; vazquez-fundador.5.7
+87	yes	apuntes.87	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	25-VIII-1930		vazquez-fundador.21.6
+88	yes	apuntes.88	unverified-line-scan	no	0				1	primary	30-septiembre-1930		04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md
+89	yes	apuntes.89	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	2-X-1930	164,205	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.6.1
+92	yes	apuntes.92	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			7	primary	2-X-1930; 2-octubre-1930; 24-IV-1934; 7-IX-1931	134,273	05 capitulo-ii-la-academia-1933-1934.md; 05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; atencion-a-enfermos-y-visitas-a-hospitales.es.md; echevarria-carta-20040701.es.md; vazquez-fundador.6.4; vazquez-fundador.6.5
+93	yes	apuntes.93	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			07-obra-escrita-y-predicacion-de-san-josemaria-escriva-de-balaguer.es.md; vazquez-fundador.5.5
+95	yes	apuntes.95	unverified-line-scan	no	0				2	secondary			07-obra-escrita-y-predicacion-de-san-josemaria-escriva-de-balaguer.es.md
+96	yes	apuntes.96	unverified-line-scan	no	0				2	primary	25-octubre-1930		07-obra-escrita-y-predicacion-de-san-josemaria-escriva-de-balaguer.es.md; apuntes-intimos-obra-inedita.es.md
+97	yes	apuntes.97	vdp-apparatus	yes	2	vdp-nota			1	primary	25-X-1930; 3-XI-1930	102	vazquez-fundador.20.3
+98	yes	apuntes.98	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota-tras			2	primary		289	vazquez-fundador.2.4
+101	yes	apuntes.101	vdp-apparatus	yes	3	q-cita,vdp-cuerpo			4	primary	2-noviembre-1930; 26-XII-1930; 9-XI-1932	138,867	07-sacerdotes-en-el-opus-dei-1944-1949.es.md; portillo-carta-19930109.es.md; vazquez-fundador.14.4
+102	yes	apuntes.102	vdp-apparatus	yes	2	vdp-nota			1	primary	25-X-1930; 3-XI-1930	97	vazquez-fundador.20.3
+105	yes	apuntes.105	vdp-apparatus	yes	1	vdp-nota			1	primary	12-VIII-1907; 17-XI-1930; 8-julio-1915		vazquez-fundador.2.2
+110	yes	apuntes.110	vdp-apparatus	yes	4	q-cita,q-nota,vdp-cuerpo,vdp-nota-ref			7	primary	15-X-1991; 17-XI-1930; 19-III-1934		cn 12-95  (ENCOUNTER WITH GOD IN THE LITURGY).en.md; cn 3-13  (HABEMUS PAPAM).en.md; portillo-carta-19911015.es.md; romana-053-carta-del-2-de-octubre-de-2011.es.md; romano-pontifice.es.md; vazquez-fundador.17.1
+111	yes	apuntes.111	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary	18-XI-1930	75,129,154	05 capitulo-ii-la-academia-1933-1934.md; 09-las-preces-del-opus-dei-comentario-historico-teologico.es.md; vazquez-fundador.6.4
+112	yes	apuntes.112	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary	19-XI-1930; 20-marzo-1938		06 capitulo-iii-el-despegue-de-la-residenci.md; 13-epistolario-entre-san-josemaria-escriva-de-balaguer-y-el-obispo.es.md; vazquez-fundador.19.5
+114	yes	apuntes.114	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	10-VIII-1931; 21-XI-1930; 21-noviembre-1930; 26-VII-1931; 26-X-1931		vazquez-fundador.21.2; vazquez-fundador.6.3
+115	yes	apuntes.115	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.19.4
+116	yes	apuntes.116	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.2
+119	yes	apuntes.119	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			3	primary	6-diciembre-1930	120	04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; patronato-de-enfermos.es.md; vazquez-fundador.5.4
+120	yes	apuntes.120	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			3	primary	6-diciembre-1930	119	04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; patronato-de-enfermos.es.md; vazquez-fundador.5.4
+121	yes	apuntes.121	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	6-diciembre-1930		04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; vazquez-fundador.5.4
+122	yes	apuntes.122	vdp-apparatus	yes	5	q-cita,q-nota,vdp-cuerpo,vdp-nota			3	primary	1-VIII-1975; 8-XII-1930	1756	04 capitulo-i-primeros-pasos-del-opus-dei.md; 05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.1.1
+123	yes	apuntes.123	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	9-XII-1930		vazquez-fundador.14.6
+124	yes	apuntes.124	unverified-line-scan	no	0				1	primary	9-XII-1930		portillo-carta-19930109.es.md
+125	yes	apuntes.125	unverified-line-scan	yes	1	q-cita			1	secondary			apuntes-intimos-obra-inedita.es.md
+126	yes	apuntes.126	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			2	primary			sanchez-ruiz-valentin-maria.es.md; vazquez-fundador.6.1
+127	yes	apuntes.127	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.2.6
+128	yes	apuntes.128	vdp-apparatus	yes	4	q-cita,vdp-cuerpo,vdp-nota			6	primary	10-XII-1930; 10-diciembre-1930; 20-marzo-1938; 27-X-1931; 27-octubre-2021		04 capitulo-i-primeros-pasos-del-opus-dei.md; 08-preces.es.md; 09-las-preces-del-opus-dei-comentario-historico-teologico.es.md; 13-epistolario-entre-san-josemaria-escriva-de-balaguer-y-el-obispo.es.md; vazquez-fundador.6.4; vazquez-fundador.7.6
+129	yes	apuntes.129	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		75,111,154	vazquez-fundador.6.4
+134	yes	apuntes.134	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	7-IX-1931	92,273	vazquez-fundador.6.5
+137	yes	apuntes.137	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.1
+138	yes	apuntes.138	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	26-XII-1930; 9-XI-1932	101,867	vazquez-fundador.14.4
+139	yes	apuntes.139	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	26-XII-1930		vazquez-fundador.19.4
+140	yes	apuntes.140	vdp-apparatus	yes	12	q-nota,vdp-cuerpo,vdp-nota,vdp-nota-ref			6	primary	10-II-1931; 14-enero-1931; 27-XII-1930; 27-diciembre-1930; 6-octubre-1932; 7-agosto-1931; 8-mayo-1931	35,42,152,160,198,217,1642,1653	04 capitulo-i-primeros-pasos-del-opus-dei.md; 04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; vazquez-fundador.19.4; vazquez-fundador.6.4; vazquez-fundador.7.5
+144	yes	apuntes.144	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	27-XII-1930		04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.8.8
+147	yes	apuntes.147	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	27-XII-1930; 27-diciembre-1930		04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.8.8
+152	yes	apuntes.152	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			1	secondary	14-enero-1931; 27-diciembre-1930; 6-octubre-1932; 8-mayo-1931	140,198,1642,1653	vazquez-fundador.7.5
+153	yes	apuntes.153	unverified-line-scan	yes	1	q-nota			2	primary	10-VIII-1931; 2-II-1931; 29-XI-1931		04 primera-parte-la-etapa-inicial.md; romana-046-roma-10-iii-2008.es.md
+154	yes	apuntes.154	vdp-apparatus	yes	5	q-nota,vdp-cuerpo,vdp-nota			5	primary	2-II-1931	75,111,129	echevarria-carta-20040701.es.md; romana-027-contemplativos-en-medio-del-mundo.es.md; romana-046-roma-10-iii-2008.es.md; vazquez-fundador.5.5; vazquez-fundador.6.4
+155	yes	apuntes.155	unverified-line-scan	no	0				1	primary			04 primera-parte-la-etapa-inicial.md
+158	yes	apuntes.158	vdp-apparatus	yes	5	q-cita,q-nota,vdp-cuerpo	en		5	primary	15-VI-1930		04 capitulo-i-primeros-pasos-del-opus-dei.md; 04 primera-parte-la-etapa-inicial.md; romana-033-libertad-ganada-por-cristo-en-la-cruz.en.md; romana-033-libertad-ganada-por-cristo-en-la-cruz.es.md; vazquez-fundador.8.8
+160	yes	apuntes.160	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			3	primary	1-junio-1939; 10-II-1931; 27-XII-1930; 3-septiembre-1939; 4-enero-1940	140	02-el-doctorado-de-san-josemaria-en-la-universidad-de-madrid.es.md; oracion.es.md; vazquez-fundador.6.4
+163	yes	apuntes.163	vdp-apparatus	no	0				2	primary			maria-santisima.es.md; vazquez-fundador.6.1
+164	yes	apuntes.164	vdp-apparatus	yes	5	vdp-cuerpo,vdp-nota			5	primary	22-II-1931; 27-IV-1932; 27-VI-1932	89,205	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.16.6; vazquez-fundador.6.1; vazquez-fundador.6.3; vazquez-fundador.7.6
+167	yes	apuntes.167	vdp-apparatus	yes	4	q-cita,q-nota,vdp-cuerpo			4	primary	23-II-1931		apuntes-intimos-obra-inedita.es.md; en-torno-edicion-critica-camino.es.md; sanchez-ruiz-valentin-maria.es.md; vazquez-fundador.6.2
+171	yes	apuntes.171	vdp-apparatus	yes	4	q-cita,vdp-cuerpo,vdp-nota			7	primary	10-III-1931; 14-II-1974; 16-VI-1930; 19-III-1934; 28-VII-1930; 5-VII-1930	65,72,77,172	19-humildad.es.md; camino-al-centenario-2.es.md; gloria-de-dios.es.md; romano-pontifice.es.md; vazquez-fundador.16.3; vazquez-fundador.5.5; vida-cotidiana-y-santidad.parte-1.es.md
+172	yes	apuntes.172	vdp-apparatus	yes	1	vdp-nota			1	secondary	10-III-1931; 16-VI-1930; 28-VII-1930; 5-VII-1930	65,72,77,171	vazquez-fundador.16.3
+173	yes	apuntes.173	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	14-marzo-1931		vazquez-fundador.6.3
+174	yes	apuntes.174	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	23-enero-1929	70,178,1594	vazquez-fundador.5.6
+178	yes	apuntes.178	vdp-apparatus	yes	6	vdp-cuerpo,vdp-nota			10	primary	20-III-1931; 20-marzo-1931; 23-enero-1929; 28-III-1931; 31-julio-1929	70,174,1594	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; 11-las-relaciones-escritas-de-san-josemaria-sobre-sus-visitas-a.es.md; patronato-de-enfermos.es.md; vazquez-fundador.12.7; vazquez-fundador.5.1; vazquez-fundador.5.4; vazquez-fundador.5.6; vazquez-fundador.9.1
+179	yes	apuntes.179	vdp-apparatus	yes	10	q-cita,vdp-cuerpo,vdp-nota			12	primary	10-octubre-1931; 14-junio-1948; 19-III-1975; 19-marzo-1975; 2-enero-1932; 2-octubre-1928; 2-octubre-1931; 20-III-1931; 20-marzo-1931; 22-III-1931; 24-noviembre-1931; 27-marzo-1962		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 04 capitulo-i-primeros-pasos-del-opus-dei.md; 06-los-anos-de-seminario-y-de-ordenacion-de-jose-maria-escriva.es.md; fundacion-del-opus-dei.es.md; mujeres-en-el-opus-dei-inicio-del-apostolado.es.md; vazquez-fundador.2.4; vazquez-fundador.2.6; vazquez-fundador.21.6; vazquez-fundador.5.5; vazquez-fundador.5.7; vazquez-fundador.6.1
+180	yes	apuntes.180	unverified-line-scan	no	0				1	primary	20-octubre-1932; 23-marzo-1931		06-los-primeros-pasos-de-la-obra-de-san-gabriel-1928-1950.es.md
+181	yes	apuntes.181	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			5	primary	14-noviembre-1932; 25-III-1931	356,450,462,870	echevarria-carta-20161201.es.md; portillo-carta-19911201.es.md; romana-063-carta-pastoral-del-1-de-diciembre-de-2016.en.md; romana-063-carta-pastoral-del-1-de-diciembre-de-2016.es.md; vazquez-fundador.7.5
+184	yes	apuntes.184	vdp-apparatus	yes	3	q-nota,vdp-cuerpo			4	primary	19-III-1934; 25-III-1931		03-jose-maria-gonzalez-barredo-an-american-pioneer.en.md; 04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.7.6
+186	yes	apuntes.186	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota,vdp-nota-ref			4	primary	13-I-1934; 13-enero-1934; 27-III-1931; 5-IV-1931	190,224	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.7.3; vazquez-fundador.8.2
+187	yes	apuntes.187	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	5-IV-1931		vazquez-fundador.11.3; vazquez-fundador.7.3
+190	yes	apuntes.190	vdp-apparatus	yes	3	q-cita,vdp-cuerpo,vdp-nota			4	primary	13-I-1934; 13-enero-1934; 27-III-1931; 5-IV-1931	186,224	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.7.3; vazquez-fundador.8.2; vazquez-fundador.8.7
+191	yes	apuntes.191	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	20-abril-1931		vazquez-fundador.6.3
+192	yes	apuntes.192	vdp-apparatus	yes	1	vdp-nota-tras			3	primary	17-IV-1931; 20-IV-1931		vazquez-fundador.11.1; vazquez-fundador.6.1
+193	yes	apuntes.193	vdp-apparatus	yes	2	vdp-cuerpo			2	primary			vazquez-fundador.4.4
+194	yes	apuntes.194	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	secondary	30-Abril-1936	707,989,1180,1332	vazquez-fundador.1.3
+195	yes	apuntes.195	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			romana-020-bolla-pontificia-di-elevazione-alla-dignita-dell.it.md; vazquez-fundador.5.6
+197	yes	apuntes.197	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	10-mayo-1931; 11-octubre-1964; 13-octubre-1964; 6-mayo-1931; 8-V-1931; 8-mayo-1931		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.7.3
+198	yes	apuntes.198	vdp-apparatus	yes	5	vdp-cuerpo,vdp-nota			2	primary	14-enero-1931; 27-diciembre-1930; 6-octubre-1932; 8-mayo-1931	140,152,1642,1653	vazquez-fundador.7.3; vazquez-fundador.7.5
+200	yes	apuntes.200	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	10-mayo-1931; 11-octubre-1964; 13-octubre-1964; 6-mayo-1931; 8-mayo-1931		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.6.1
+201	yes	apuntes.201	vdp-apparatus	yes	2	vdp-cuerpo			2	primary			vazquez-fundador.15.1
+202	yes	apuntes.202	vdp-apparatus	yes	2	vdp-cuerpo			5	primary	18-V-1931; 20-mayo-1931		04 capitulo-i-primeros-pasos-del-opus-dei.md; 04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; vazquez-fundador.6.3
+205	yes	apuntes.205	vdp-apparatus	yes	6	vdp-cuerpo,vdp-nota			4	primary	15-VII-1931; 15-julio-1931	89,164,206	vazquez-fundador.19.4; vazquez-fundador.21.6; vazquez-fundador.6.1; vazquez-fundador.6.4
+206	yes	apuntes.206	vdp-apparatus	yes	9	q-cita,q-nota,vdp-cuerpo,vdp-nota	en		23	primary	10-marzo-1931; 15-VII-1931; 19-III-1934; 20-octubre-1932; 23-marzo-1931	32,205	04 primera-parte-la-etapa-inicial.md; 06-los-primeros-pasos-de-la-obra-de-san-gabriel-1928-1950.es.md; 09-las-preces-del-opus-dei-comentario-historico-teologico.es.md; camino-al-centenario-2.es.md; cn 1-03  (LOVING AND SERVING THE CHURCH).en.md; cn 9-91  (OMNES CUM PETRO AD IESUM PER MARIAM!).en.md; cn 9-94  (TRUE PLURALISM).en.md; portillo-carta-19910801.es.md; romana-033-libertad-ganada-por-cristo-en-la-cruz.en.md; romana-033-libertad-ganada-por-cristo-en-la-cruz.es.md; vazquez-fundador.17.4; vazquez-fundador.21.3; vazquez-fundador.21.6; vida-cotidiana-y-santidad.capitulo-2.en.md; vida-cotidiana-y-santidad.capitulo-2.es.md; vida-cotidiana-y-santidad.capitulo-3.en.md; vida-cotidiana-y-santidad.capitulo-3.es.md; vida-cotidiana-y-santidad.parte-1.es.md
+207	yes	apuntes.207	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	15-VII-1931; 15-julio-1931		04 capitulo-i-primeros-pasos-del-opus-dei.md; 04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; vazquez-fundador.6.4
+208	yes	apuntes.208	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	23-junio-1931; 28-octubre-1931	209	vazquez-fundador.6.4
+209	yes	apuntes.209	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	23-junio-1931; 28-octubre-1931	208	vazquez-fundador.6.4
+210	yes	apuntes.210	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.3
+211	yes	apuntes.211	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	10-VIII-1931; 21-XI-1930; 26-VII-1931; 26-X-1931		vazquez-fundador.21.2; vazquez-fundador.6.3
+212	yes	apuntes.212	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	26-VII-1931		vazquez-fundador.6.3; vazquez-fundador.9.1
+214	yes	apuntes.214	unverified-line-scan	no	0				1	primary	14-junio-1924; 24-marzo-1925; 5-agosto-1931; 5-diciembre-1924; 6-junio-1924		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+215	yes	apuntes.215	unverified-line-scan	no	0				1	secondary	14-II-1974		gloria-de-dios.es.md
+217	yes	apuntes.217	vdp-apparatus	yes	26	q-cita,q-nota,vdp-cuerpo,vdp-nota	en,it		35	primary	14-II-1966; 14-II-1996; 14-febrero-1930; 14-febrero-1943; 16-octubre-1931; 2-octubre-1928; 22-septiembre-1931; 27-X-1963; 27-XII-1930; 29-XII-1940; 29-XII-1947; 7-VII-1931; 7-VIII-1931; 7-agosto-1931	35,42,140,218,347,432,1029,1380	04 capitulo-i-primeros-pasos-del-opus-dei.md; 04 primera-parte-la-etapa-inicial.md; 05-colaborar-con-cristo-en-la-redencion-del-mundo.es.md; 05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; 07-el-libro-menos-conocido-de-san-josemaria-la-abadesa-de-las.es.md; 10-el-sentido-de-la-filiacion-divina-reflexiones-siguiendo-la.es.md; Deseando-amar.es.md; carismas.es.md; cn 3-91  (SI EXALTATUS FUERO A TERRA, OMNIA TRAHAM AD MEIPSUM).en.md; cn 8-11  (SI EXALTATUS FUERO . . .).en.md; cristianos-en-la-sociedad-del-siglo-xxi.es.md; cruz.es.md; echevarria-carta-20001001.es.md; echevarria-carta-20010901.es.md; echevarria-carta-20050601.es.md; fundacion-del-opus-dei.es.md; meditaciones-6.es.md; portillo-carta-19780924.es.md; portillo-carta-19910301.es.md; romana-013-omnia-traham-ad-meipsum.it.md; romana-025-21-de-septiembre-el-obispo-prelado-del-opus-dei.es.md; romana-033-libertad-ganada-por-cristo-en-la-cruz.es.md; romana-047-divinas-inspiraciones-en-el-80-aniversario.es.md; romana-047-roma-7-viii-2008.en.md; romana-047-roma-7-viii-2008.es.md; romana-054-en-la-misa-con-ocasion-del-50-aniversario.en.md; romana-054-en-la-misa-con-ocasion-del-50-aniversario.es.md; vazquez-fundador.14.5; vazquez-fundador.19.4; vazquez-fundador.22.4; vazquez-fundador.6.5; vazquez-fundador.6.7; vida-cotidiana-y-santidad.capitulo-2.es.md
+218	yes	apuntes.218	vdp-apparatus	yes	10	q-cita,q-nota,vdp-cuerpo			15	primary	14-II-1966; 14-febrero-1930; 14-febrero-1943; 15-julio-1975; 16-octubre-1931; 27-X-1963; 29-XII-1940; 7-VII-1931; 7-VIII-1931; 7-agosto-1931	217	04 capitulo-i-primeros-pasos-del-opus-dei.md; 04 primera-parte-la-etapa-inicial.md; 08-la-editorial-minerva-1943-1946-un-ensayo-de-cultura-popular-y.es.md; carismas.es.md; cruz.es.md; cuadernos-11-familia-y-milicia.es.md; madrid-1939-1946.es.md; portillo-carta-19780924.es.md; romana-033-libertad-ganada-por-cristo-en-la-cruz.es.md; romana-047-divinas-inspiraciones-en-el-80-aniversario.es.md; vazquez-fundador.12.2; vazquez-fundador.21.5; vazquez-fundador.6.5; vida-cotidiana-y-santidad.capitulo-2.es.md
+220	yes	apuntes.220	vdp-apparatus	yes	4	q-nota,vdp-cuerpo			8	primary	10-VIII-1931; 10-agosto-1931; 2-II-1931; 29-XI-1931		06-san-josemaria-ante-el-vaticano-encuentros-y-trabajos-durante-el.es.md; madrid-1939-1946.es.md; romana-046-roma-10-iii-2008.es.md; romana-049-en-el-xxv-aniversario-de-la-pontificia-universidad.en.md; romana-049-en-el-xxv-aniversario-de-la-pontificia-universidad.es.md; vazquez-fundador.12.1; vazquez-fundador.16.4; vazquez-fundador.17.1
+221	yes	apuntes.221	unverified-line-scan	no	0				1	primary	10-VIII-1931		05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md
+222	yes	apuntes.222	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	10-VIII-1931; 21-XI-1930; 26-VII-1931; 26-X-1931		vazquez-fundador.21.2; vazquez-fundador.6.3
+224	yes	apuntes.224	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	13-I-1934; 13-enero-1934; 27-III-1931	186,190	vazquez-fundador.7.3; vazquez-fundador.8.2
+225	yes	apuntes.225	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	13-VIII-1931		vazquez-fundador.6.4
+226	yes	apuntes.226	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			2	primary	19-III-1968	239,325,488,701,702	camino-al-centenario-3.es.md; vazquez-fundador.6.7
+228	yes	apuntes.228	vdp-apparatus	yes	4	q-cita,vdp-cuerpo,vdp-nota			3	primary	15-agosto-1931; 19-septiembre-1898	229	barbastro.es.md; vazquez-fundador.1.2; vazquez-fundador.6.7
+229	yes	apuntes.229	vdp-apparatus	yes	3	q-cita,vdp-cuerpo			4	primary	19-septiembre-1898	228	05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; barbastro.es.md; vazquez-fundador.1.1; vazquez-fundador.1.2
+230	yes	apuntes.230	unverified-line-scan	yes	1	q-cita			2	secondary	15-VIII-1931; 22-II-1985; 9-VIII-1934		06 capitulo-iii-el-despegue-de-la-residenci.md; apuntes-intimos-obra-inedita.es.md
+231	yes	apuntes.231	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	14-agosto-1931; 26-VIII-1931; 26-agosto-1931	407,751,959,1344,1357	vazquez-fundador.4.3; vazquez-fundador.7.3
+234	yes	apuntes.234	vdp-apparatus	yes	1	vdp-nota			2	primary	19-VIII-1931	329	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.7
+239	yes	apuntes.239	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		226,325,488,701,702	vazquez-fundador.6.7
+240	yes	apuntes.240	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.5.5
+242	yes	apuntes.242	unverified-line-scan	no	0				1	primary	24-VIII-1931		portillo-carta-19930109.es.md
+244	yes	apuntes.244	vdp-apparatus	yes	4	vdp-cuerpo			4	primary	31-VIII-1931		vazquez-fundador.11.3; vazquez-fundador.6.4; vazquez-fundador.9.6; vazquez-fundador.presentacion
+245	yes	apuntes.245	unverified-line-scan	no	0				1	secondary	26-noviembre-1935; 31-agosto-1931		10-salir-de-espana-entre-la-guerra-mundial-y-la-guerra-fria-la.es.md
+251	yes	apuntes.251	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.1
+259	yes	apuntes.259	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	secondary	2-IX-1931; 24-X-1965		vazquez-fundador.2.3
+263	yes	apuntes.263	vdp-apparatus	yes	3	q-cita,q-nota,vdp-cuerpo			3	primary			04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; apuntes-intimos-obra-inedita.es.md; vazquez-fundador.6.2
+270	yes	apuntes.270	unverified-line-scan	no	0				1	primary	7-IX-1931		05 capitulo-ii-la-academia-1933-1934.md
+273	yes	apuntes.273	vdp-apparatus	yes	4	q-cita,q-nota,vdp-cuerpo,vdp-nota		yes	10	primary	7-IX-1931; 8-IX-1931	92,134	12-san-josemaria-escriva-de-balaguer-palabras-del-nuevo-testamento.es.md; Deseando-amar.es.md; apuntes-intimos-obra-inedita.es.md; cn 11-90  (THE PRECES 2).en.md; cn 9-11  (WITH HIM, EVERYWHERE).en.md; echevarria-carta-20010901.es.md; echevarria-carta-20110901.es.md; romana-010-relazione-svolta-da-mons-alvaro-del-portillo-gran.it.md; vazquez-fundador.6.5
+274	yes	apuntes.274	vdp-apparatus	yes	3	vdp-cuerpo			8	primary	9-IX-1931		cn 11-11  (THE MOST ELEVATED PRAYER).en.md; cn 2-91  (ABBA, PATER).en.md; cn 7-91  (FIAT, ADIMPLEATUR).en.md; portillo-carta-19910201.es.md; portillo-carta-19910601.es.md; vazquez-fundador.11.3; vazquez-fundador.6.6; vazquez-fundador.9.6
+277	yes	apuntes.277	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	10-septiembre-1931	284	vazquez-fundador.6.5
+284	yes	apuntes.284	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			3	primary	10-septiembre-1931; 14-IX-1931; 2-octubre-1928	277	cruz.es.md; echevarria-carta-20010901.es.md; vazquez-fundador.6.5
+289	yes	apuntes.289	vdp-apparatus	yes	3	q-cita,vdp-cuerpo			7	primary	16-junio-1930; 17-IX-1931; 17-septiembre-1931; 19-III-1975; 19-marzo-1975; 9-enero-1974	98	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 06-los-anos-de-seminario-y-de-ordenacion-de-jose-maria-escriva.es.md; romana-030-vocacion-acogida-y-vivida-con-fidelidad.es.md; romana-040-san-josemaria-escriva-lector-de-la-sagrada.en.md; romana-040-san-josemaria-escriva-lector-de-la-sagrada.es.md; vazquez-fundador.2.4; vocacion-de-san-josemaria.es.md
+290	yes	apuntes.290	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary			cn 2-05  (A RAY OF THAT LIGHT).en.md; vazquez-fundador.2.4; vazquez-fundador.5.5
+291	yes	apuntes.291	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			2	primary	18-IX-1931; 26-X-1931	348	vazquez-fundador.6.3; vazquez-fundador.9.1
+294	yes	apuntes.294	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.4
+295	yes	apuntes.295	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.1
+296	yes	apuntes.296	vdp-apparatus	yes	6	q-cita,q-nota,vdp-cuerpo			13	primary	17-V-1992; 17-octubre-1931; 22-IX-1931; 22-septiembre-1931		04 capitulo-primero-el-opus-dei-como-realid.md; 04 primera-parte-la-etapa-inicial.md; 05 notas.md; 10-el-sentido-de-la-filiacion-divina-reflexiones-siguiendo-la.es.md; algo-grande-y-que-sea-amor.es.md; carvajal-hijos.es.md; cn 11-11  (THE MOST ELEVATED PRAYER).en.md; cn 8-95  (SENSING OUR DIVINE FILIATION).en.md; echevarria-carta-20010901.es.md; filiacion-divina.es.md; vazquez-fundador.6.5; vida-cotidiana-y-santidad.capitulo-4.en.md; vida-cotidiana-y-santidad.capitulo-4.es.md
+300	yes	apuntes.300	unverified-line-scan	no	0				1	primary			05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md
+301	yes	apuntes.301	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	30-IX-1931		cn 4-01  (BLESSED ARE THE POOR IN SPIRIT).en.md; vazquez-fundador.6.6
+302	yes	apuntes.302	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			2	primary	14-II-1966; 29-XII-1947	569	vazquez-fundador.5.6; vazquez-fundador.6.4
+304	yes	apuntes.304	vdp-apparatus	yes	2	vdp-cuerpo			1	primary			vazquez-fundador.8.7
+306	yes	apuntes.306	vdp-apparatus	yes	27	q-cita,q-nota,vdp-cuerpo,vdp-nota	en		47	primary	11-III-1932; 14-II-1950; 14-II-1964; 16-abril-1954; 19-III-1934; 19-marzo-1934; 19-marzo-1975; 2-X-1931; 2-octubre-1928; 2-octubre-1931; 20-marzo-1931; 24-noviembre-1931; 25-febrero-1963; 27-marzo-1962; 28-XI-1982; 28-octubre-2020; 6-X-1932; 6-julio-1930	1055	02-los-comienzos-del-apostolado-del-opus-dei-entre-mujeres-1930.es.md; 02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 03-fuentes-para-la-historia-de-la-academia-y-de-la-residencia-dya.es.md; 04 capitulo-i-primeros-pasos-del-opus-dei.md; 04 capitulo-primero-el-opus-dei-como-realid.md; 04 primera-parte-la-etapa-inicial.md; 04-los-agregados-del-opus-dei-historia-de-los-comienzos.es.md; 06-los-anos-de-seminario-y-de-ordenacion-de-jose-maria-escriva.es.md; 09-las-preces-del-opus-dei-comentario-historico-teologico.es.md; 10-resumenes-de-los-primeros-circulos-de-la-obra-de-san-rafael.es.md; Deseando-amar.es.md; apuntes-intimos-obra-inedita.es.md; camino-al-centenario-1.es.md; camino-al-centenario-2.es.md; carismas.es.md; cn 10-08  (DIVINE INSPIRATIONS [On the 80th Anni. of the Work]).en.md; cn 10-98  (ON THE 70th ANNIVERSARY).en.md; cn 11-91  (NUNC COEPI).en.md; cn 2-10  (REFLECTIONS OF DIVINE SPLENDOR [on the 80th  Annivasary of Feb 14 1930]).en.md; echevarria-carta-19951128.es.md; echevarria-carta-20111001.es.md; fieles-del-opus-dei.es.md; fundacion-del-opus-dei.es.md; itinerario-juridico-del-opus-dei.es.md; mujeres-en-el-opus-dei-inicio-del-apostolado.es.md; ocariz-carta-20181001.es.md; portillo-carta-19911001.es.md; romana-046-roma-10-iii-2008.es.md; romana-047-divinas-inspiraciones-en-el-80-aniversario.en.md; romana-047-divinas-inspiraciones-en-el-80-aniversario.es.md; romana-067-carta-con-ocasion-del-90-aniversario.es.md; sm rt outlines.es.md; vazquez-fundador.21.6; vazquez-fundador.5.5; vazquez-fundador.5.7; vida-cotidiana-y-santidad.introduccion.en.md; vida-cotidiana-y-santidad.introduccion.es.md
+307	yes	apuntes.307	vdp-apparatus	yes	2	vdp-cuerpo			4	primary	14-II-1964; 2-X-1931; 2-octubre-1931		05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; vazquez-fundador.6.6; vazquez-fundador.6.7; vida-cotidiana-y-santidad.capitulo-9.es.md
+311	yes	apuntes.311	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary			05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; vazquez-fundador.6.2
+313	yes	apuntes.313	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.2
+316	yes	apuntes.316	unverified-line-scan	no	0				1	primary	10-octubre-1931; 14-junio-1948; 2-enero-1932; 20-marzo-1931		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+317	yes	apuntes.317	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	11-X-1931	326	portillo-carta-19930109.es.md; vazquez-fundador.6.5
+318	yes	apuntes.318	unverified-line-scan	yes	1	q-nota			1	primary			05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md
+323	yes	apuntes.323	unverified-line-scan	yes	1	q-nota			1	primary			05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md
+325	yes	apuntes.325	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		226,239,488,701,702	vazquez-fundador.6.7
+326	yes	apuntes.326	vdp-apparatus	yes	1	vdp-cuerpo			2	primary		317	cn 11-11  (THE MOST ELEVATED PRAYER).en.md; vazquez-fundador.6.5
+327	yes	apuntes.327	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	15-X-1931		vazquez-fundador.6.3
+328	yes	apuntes.328	vdp-apparatus	yes	3	q-nota,vdp-cuerpo			3	primary	14-octubre-1931; 24-enero-1932		05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; vazquez-fundador.6.7
+329	yes	apuntes.329	vdp-apparatus	yes	1	vdp-nota			1	primary		234	vazquez-fundador.8.7
+331	yes	apuntes.331	vdp-apparatus	yes	1	vdp-nota			1	primary			vazquez-fundador.6.3
+334	yes	apuntes.334	vdp-apparatus	yes	3	q-cita,q-nota,vdp-cuerpo			10	primary	16-octubre-1931; 17-X-1931; 17-octubre-1931; 28-IV-1963; 28-abril-1963; 9-I-1959		04 capitulo-primero-el-opus-dei-como-realid.md; 10-el-sentido-de-la-filiacion-divina-reflexiones-siguiendo-la.es.md; Deseando-amar.es.md; carvajal-hijos.es.md; cn 11-11  (THE MOST ELEVATED PRAYER).en.md; cn 2-91  (ABBA, PATER).en.md; portillo-carta-19910201.es.md; romana-027-contemplativos-en-medio-del-mundo.es.md; vazquez-fundador.6.5
+335	yes	apuntes.335	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.6
+336	yes	apuntes.336	vdp-apparatus	yes	1	vdp-nota			1	secondary	17-octubre-1931		vazquez-fundador.3.8
+339	yes	apuntes.339	unverified-line-scan	no	0				1	primary	20-X-1931		04 primera-parte-la-etapa-inicial.md
+340	yes	apuntes.340	unverified-line-scan	yes	1	q-cita			1	primary			20220521-lettori-famiglia-cristiana.es.md
+341	yes	apuntes.341	unverified-line-scan	yes	1	q-cita			1	secondary	20-X-1931; 3-XII-1931		05 capitulo-ii-la-academia-1933-1934.md
+342	yes	apuntes.342	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	20-X-1931		vazquez-fundador.21.1; vazquez-fundador.6.2
+343	yes	apuntes.343	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.2
+347	yes	apuntes.347	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		217,432,1029,1380	vazquez-fundador.6.7
+348	yes	apuntes.348	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	10-VIII-1931; 21-XI-1930; 26-VII-1931; 26-X-1931	291	vazquez-fundador.21.2; vazquez-fundador.6.3
+349	yes	apuntes.349	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.2
+350	yes	apuntes.350	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			2	primary			09-las-preces-del-opus-dei-comentario-historico-teologico.es.md; vazquez-fundador.6.6
+351	yes	apuntes.351	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	26-X-1931		portillo-carta-19920319.es.md; vazquez-fundador.6.6
+352	yes	apuntes.352	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.7
+354	yes	apuntes.354	vdp-apparatus	yes	2	vdp-cuerpo			5	primary	14-febrero-1930; 16-agosto-1936; 26-X-1931		04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.6.4; vazquez-fundador.7.3
+355	yes	apuntes.355	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.6
+356	yes	apuntes.356	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			3	primary	14-noviembre-1932	181,363,450,462,870	vazquez-fundador.6.4; vazquez-fundador.6.6; vazquez-fundador.7.5
+357	yes	apuntes.357	vdp-apparatus	yes	3	q-cita,vdp-cuerpo	en		3	primary	28-X-1931		romana-052-san-josemaria-escriva-maestro-del-perdon.en.md; romana-052-san-josemaria-escriva-maestro-del-perdon.es.md; vazquez-fundador.6.5
+358	yes	apuntes.358	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	29-octubre-1931	359	04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; vazquez-fundador.6.5
+359	yes	apuntes.359	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	29-octubre-1931	358	04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; vazquez-fundador.6.5
+360	yes	apuntes.360	vdp-apparatus	yes	7	q-cita,q-nota,vdp-cuerpo	en		11	primary	1-X-1975; 16-febrero-1932; 28-X-1931; 28-octubre-1931; 29-X-1931; 29-octubre-1931		04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; atencion-a-enfermos-y-visitas-a-hospitales.es.md; echevarria-carta-20061101.es.md; romana-043-carta-de-noviembre-de-2006.es.md; romana-054-en-la-misa-con-ocasion-del-50-aniversario.en.md; romana-054-en-la-misa-con-ocasion-del-50-aniversario.es.md; romana-081-acompanamiento-y-cuidado-de-enfermos.es.md; vazquez-fundador.7.1
+361	yes	apuntes.361	unverified-line-scan	no	0				1	primary	29-octubre-1931		04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md
+362	yes	apuntes.362	vdp-apparatus	no	0				3	primary	14-agosto-1931; 26-VIII-1931; 26-agosto-1931; 27-julio-1928; 28-I-1932; 29-octubre-1931		04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; vazquez-fundador.5.3; vazquez-fundador.7.3
+363	yes	apuntes.363	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary	29-octubre-1931	356	04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; vazquez-fundador.6.4; vazquez-fundador.6.6
+364	yes	apuntes.364	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.5
+365	yes	apuntes.365	vdp-apparatus	no	0				1	secondary	14-agosto-1931; 26-VIII-1931; 26-agosto-1931		vazquez-fundador.7.3
+368	yes	apuntes.368	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	30-octubre-1931		vazquez-fundador.8.7
+373	yes	apuntes.373	vdp-apparatus	yes	1	vdp-cuerpo			2	secondary	12-octubre-1931; 3-XI-1931; 4-abril-1938; 9-I-1932		09-la-carta-n-29-de-san-josemaria-escriva-sobre-la-obra-de-san.es.md; vazquez-fundador.5.7
+379	yes	apuntes.379	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota,vdp-nota-ref			3	primary		1757	vazquez-fundador.6.2; vazquez-fundador.7.4
+381	yes	apuntes.381	vdp-apparatus	yes	7	q-cita,q-nota,vdp-cuerpo,vdp-nota			9	primary	25-febrero-1895; 28-julio-1996; 4-V-1745; 8-XI-1931; 8-noviembre-1931; 9-abril-1932	1872	02-los-comienzos-del-apostolado-del-opus-dei-entre-mujeres-1930.es.md; 04 capitulo-i-primeros-pasos-del-opus-dei.md; mujeres-en-el-opus-dei-inicio-del-apostolado.es.md; vazquez-fundador.13.1; vazquez-fundador.7.1; vazquez-fundador.7.3
+383	yes	apuntes.383	vdp-apparatus	yes	3	vdp-cuerpo			3	primary	4-V-1745; 9-noviembre-1931	433	05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; vazquez-fundador.7.1
+385	yes	apuntes.385	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary			05 capitulo-ii-la-academia-1933-1934.md; cn 3-11  (WITH OUR FATHER AND THE FATHER).en.md; vazquez-fundador.8.5
+387	yes	apuntes.387	vdp-apparatus	yes	3	vdp-cuerpo			3	primary			vazquez-fundador.4.4; vazquez-fundador.6.4; vazquez-fundador.6.6
+388	yes	apuntes.388	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	11-II-1934; 12-XI-1931; 30-VI-1936	1128,1371	vazquez-fundador.6.6; vazquez-fundador.9.3
+389	yes	apuntes.389	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			2	primary	14-noviembre-1931; 28-noviembre-1982	1234,1237,1245,1246,1247,1266	fundacion-del-opus-dei.es.md; vazquez-fundador.8.4
+390	yes	apuntes.390	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.4
+391	yes	apuntes.391	unverified-line-scan	yes	1	q-cita			3	primary	14-XI-1931		04 primera-parte-la-etapa-inicial.md; 06 capitulo-iii-el-despegue-de-la-residenci.md; portillo-carta-19910401.es.md
+393	yes	apuntes.393	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.7
+396	yes	apuntes.396	unverified-line-scan	no	0				2	primary	17-noviembre-1931; 22-noviembre-1932		carta-02-19310324.es.md; cn 10-11  (THE BEAUTY AND PEACE OF OBEDIENCE).en.md
+400	yes	apuntes.400	unverified-line-scan	no	0				1	primary			cn 12-10  (THE FIRST IN LOVE).en.md
+402	yes	apuntes.402	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.4
+403	yes	apuntes.403	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	20-XI-1931		04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.6.4
+407	yes	apuntes.407	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		231,751,959,1344,1357	vazquez-fundador.4.3
+409	yes	apuntes.409	vdp-apparatus	yes	5	q-cita,vdp-cuerpo,vdp-nota			4	primary	15-X-1932; 22-XI-1931; 22-noviembre-1931		05 capitulo-ii-la-academia-1933-1934.md; apuntes-intimos-obra-inedita.es.md; vazquez-fundador.8.5; vazquez-fundador.8.8
+410	yes	apuntes.410	vdp-apparatus	no	0				2	primary	23-XI-1931		04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.5.6
+411	yes	apuntes.411	unverified-line-scan	no	0				1	primary			cn 4-11  (BEING BORN ANEW).en.md
+412	yes	apuntes.412	vdp-apparatus	no	0				1	primary	16-agosto-1936		vazquez-fundador.7.3
+413	yes	apuntes.413	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			1	primary		432,1014,1372,1380,1732	vazquez-fundador.5.6
+414	yes	apuntes.414	vdp-apparatus	yes	2	vdp-cuerpo			3	primary	19-marzo-1975; 2-octubre-1931; 20-marzo-1931; 24-noviembre-1931; 27-marzo-1962		06-los-anos-de-seminario-y-de-ordenacion-de-jose-maria-escriva.es.md; vazquez-fundador.4.5; vazquez-fundador.5.5
+415	yes	apuntes.415	vdp-apparatus	yes	3	q-cita,vdp-cuerpo,vdp-nota			3	primary	26-XI-1931; 26-noviembre-1931	1115	liturgia-vision-general.es.md; vazquez-fundador.6.2; vazquez-fundador.6.6
+416	yes	apuntes.416	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			2	primary			abandono.es.md; vazquez-fundador.6.6
+420	yes	apuntes.420	vdp-apparatus	no	0				1	secondary	27-julio-1928; 28-I-1932		vazquez-fundador.5.3
+421	yes	apuntes.421	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary			vazquez-fundador.6.6; vazquez-fundador.6.7
+422	yes	apuntes.422	vdp-apparatus	no	0				2	primary	10-VIII-1931; 2-II-1931; 29-XI-1931		romana-046-roma-10-iii-2008.es.md; vazquez-fundador.17.1
+423	yes	apuntes.423	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.2
+424	yes	apuntes.424	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.3
+426	yes	apuntes.426	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.6
+429	yes	apuntes.429	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			2	primary			abandono.es.md; vazquez-fundador.6.6
+430	yes	apuntes.430	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	29-XI-1931		vazquez-fundador.6.4; vazquez-fundador.6.7
+431	yes	apuntes.431	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	29-XI-1931		vazquez-fundador.9.1
+432	yes	apuntes.432	vdp-apparatus	yes	6	vdp-cuerpo,vdp-nota			4	primary	10-octubre-1931; 11-agosto-1929; 14-junio-1948; 2-enero-1932; 20-marzo-1931	217,347,413,1014,1029,1372,1380,1732	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.5.6; vazquez-fundador.6.7; vazquez-fundador.8.8
+433	yes	apuntes.433	vdp-apparatus	yes	4	vdp-cuerpo			2	primary		383	vazquez-fundador.7.1
+434	yes	apuntes.434	vdp-apparatus	no	0				1	primary			vazquez-fundador.7.3
+435	yes	apuntes.435	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			3	primary		438	cn 12-11  (LED BY MARY'S HAND).en.md; vazquez-fundador.6.7
+437	yes	apuntes.437	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			cn 12-11  (LED BY MARY'S HAND).en.md; vazquez-fundador.6.7
+438	yes	apuntes.438	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		435	vazquez-fundador.6.7
+441	yes	apuntes.441	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	2-diciembre-1931		09-actividad-docente-de-san-josemaria-el-instituto-amado-y-la.es.md; vazquez-fundador.4.4
+444	yes	apuntes.444	vdp-apparatus	no	0				1	primary			vazquez-fundador.6.1
+446	yes	apuntes.446	vdp-apparatus	yes	4	q-nota,vdp-cuerpo	en		6	primary	3-XII-1931		apuntes-intimos-obra-inedita.es.md; echevarria-carta-20100801.es.md; maria-santisima.es.md; romana-051-carta-de-agosto-de-2010.en.md; romana-051-carta-de-agosto-de-2010.es.md; vazquez-fundador.6.2
+447	yes	apuntes.447	unverified-line-scan	no	0				1	primary			cn 12-10  (THE FIRST IN LOVE).en.md
+449	yes	apuntes.449	unverified-line-scan	no	0				1	primary	20-X-1931; 3-XII-1931		05 capitulo-ii-la-academia-1933-1934.md
+450	yes	apuntes.450	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	14-noviembre-1932	181,356,462,870	vazquez-fundador.7.5
+454	yes	apuntes.454	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	1-enero-1932; 2-X-1939	529	07-obra-escrita-y-predicacion-de-san-josemaria-escriva-de-balaguer.es.md; vazquez-fundador.6.7
+457	yes	apuntes.457	unverified-line-scan	no	0				1	secondary			cn 12-10  (THE FIRST IN LOVE).en.md
+458	yes	apuntes.458	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		459	vazquez-fundador.6.2
+459	yes	apuntes.459	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		458	vazquez-fundador.6.2
+460	yes	apuntes.460	unverified-line-scan	yes	1	q-cita			1	secondary			04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md
+462	yes	apuntes.462	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	14-noviembre-1932	181,356,450,870	vazquez-fundador.7.5
+465	yes	apuntes.465	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary			vazquez-fundador.8.5
+467	yes	apuntes.467	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.6
+470	yes	apuntes.470	vdp-apparatus	yes	5	vdp-cuerpo,vdp-nota,vdp-nota-ref			2	primary	11-diciembre-1931; 14-octubre-1932; 24-V-1932	474,713,735,839,1701	vazquez-fundador.6.2
+471	yes	apuntes.471	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.2
+472	yes	apuntes.472	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		477	vazquez-fundador.6.2
+473	yes	apuntes.473	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		619	vazquez-fundador.6.2
+474	yes	apuntes.474	vdp-apparatus	yes	5	vdp-cuerpo,vdp-nota			2	primary	11-XII-1931; 11-diciembre-1931; 14-octubre-1932; 24-V-1932	470,713,735,839,1701	vazquez-fundador.21.6; vazquez-fundador.6.2
+475	yes	apuntes.475	vdp-apparatus	yes	4	vdp-cuerpo			6	primary	12-XII-1931; 2-octubre-1928; 9-I-1932		cn 1-12  (IT'S A QUESTION OF FAITH!).en.md; cn 2-10  (REFLECTIONS OF DIVINE SPLENDOR [on the 80th  Annivasary of Feb 14 1930]).en.md; vazquez-fundador.21.6; vazquez-fundador.5.7; vazquez-fundador.6.2
+476	yes	apuntes.476	vdp-apparatus	yes	2	vdp-cuerpo			4	primary	12-diciembre-1931; 13-XII-1931		04 capitulo-i-primeros-pasos-del-opus-dei.md; cn 1-12  (IT'S A QUESTION OF FAITH!).en.md; vazquez-fundador.12.2; vazquez-fundador.6.5
+477	yes	apuntes.477	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		472	vazquez-fundador.6.2
+479	yes	apuntes.479	vdp-apparatus	no	0				2	primary	14-XII-1931		04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.5.6
+482	yes	apuntes.482	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.7
+484	yes	apuntes.484	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.7
+485	yes	apuntes.485	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.7
+486	yes	apuntes.486	vdp-apparatus	yes	1	vdp-cuerpo			1	secondary	10-I-1935; 16-XII-1931; 24-V-1932; 5-VIII-1932	734,799,1216	vazquez-fundador.12.8
+488	yes	apuntes.488	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		226,239,325,701,702	vazquez-fundador.6.7
+492	yes	apuntes.492	vdp-apparatus	no	0				1	secondary	27-julio-1928; 28-I-1932		vazquez-fundador.5.3
+493	yes	apuntes.493	vdp-apparatus	yes	2	vdp-cuerpo			2	primary			vazquez-fundador.6.6
+496	yes	apuntes.496	unverified-line-scan	yes	1	q-nota			1	primary	23-XII-1931		romana-063-aprender-en-la-misa-a-tratar-a-dios.es.md
+497	yes	apuntes.497	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.4
+500	yes	apuntes.500	vdp-apparatus	yes	1	vdp-nota			1	primary			vazquez-fundador.6.6
+503	yes	apuntes.503	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	13-IV-1973; 24-XII-1931; 25-XII-1931		vazquez-fundador.8.7; vida-cotidiana-y-santidad.capitulo-4.en.md; vida-cotidiana-y-santidad.capitulo-4.es.md
+505	yes	apuntes.505	unverified-line-scan	no	0				1	secondary			cn 12-10  (THE FIRST IN LOVE).en.md
+506	yes	apuntes.506	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			1	primary	6-XI-1933	1073,1720	vazquez-fundador.8.5
+510	yes	apuntes.510	unverified-line-scan	yes	5	q-cita,q-nota			5	primary	25-XII-1931		05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; amor-misericordioso-obra-del.es.md; romana-062-misericordia-de-dios-inspiro-su-obra-textos-de-san.es.md
+511	yes	apuntes.511	unverified-line-scan	yes	1	q-cita			4	primary	13-IV-1973; 24-XII-1931; 25-XII-1931		04 primera-parte-la-etapa-inicial.md; cn 9-94  (TRUE PLURALISM).en.md; vida-cotidiana-y-santidad.capitulo-4.en.md; vida-cotidiana-y-santidad.capitulo-4.es.md
+516	yes	apuntes.516	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		517,518	vazquez-fundador.6.7
+517	yes	apuntes.517	vdp-apparatus	yes	4	q-nota,vdp-cuerpo	en		5	primary	28-XII-1931	516,518	echevarria-carta-20110501.es.md; portillo-carta-19920319.es.md; romana-052-carta-de-mayo-de-2011.en.md; romana-052-carta-de-mayo-de-2011.es.md; vazquez-fundador.6.7
+518	yes	apuntes.518	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		516,517	vazquez-fundador.6.7
+521	yes	apuntes.521	unverified-line-scan	no	0				1	primary			cn 2-14  (THIS MAN READS THE LIFE OF JESUS CHRIST).en.md
+522	yes	apuntes.522	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	7-X-1950		vazquez-fundador.6.4
+523	yes	apuntes.523	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.6
+527	yes	apuntes.527	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		14	vazquez-fundador.8.7
+528	yes	apuntes.528	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.7
+529	yes	apuntes.529	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota,vdp-nota-ref			2	primary	1-enero-1932; 2-X-1939	454	vazquez-fundador.6.7
+530	yes	apuntes.530	vdp-apparatus	no	0				1	primary	12-VIII-1932; 3-XII-1931		vazquez-fundador.8.7
+535	yes	apuntes.535	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	2-I-1932; 8-XII-1949	562	cn 4-11  (BEING BORN ANEW).en.md; vazquez-fundador.6.7
+536	yes	apuntes.536	vdp-apparatus	yes	1	vdp-nota			4	primary	10-octubre-1931; 12-marzo-1929; 14-junio-1948; 2-I-1932; 2-enero-1932; 20-III-1930; 20-marzo-1931		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; camino-edicion-critico-historica.capitulo-41.es.md; vazquez-fundador.5.6
+541	yes	apuntes.541	vdp-apparatus	yes	2	vdp-cuerpo			3	primary	2-enero-1932		somoano-berdasco-jose-maria.es.md; vazquez-fundador.7.2; vazquez-fundador.7.3
+542	yes	apuntes.542	unverified-line-scan	no	0				1	primary	13-enero-1932; 24-enero-1932; 26-enero-1932; 4-enero-1932		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+543	yes	apuntes.543	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	13-enero-1932; 24-enero-1932; 26-enero-1932; 4-I-1932; 4-enero-1932		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.6.7; vida-cotidiana-y-santidad.capitulo-7.es.md
+544	yes	apuntes.544	unverified-line-scan	no	0				1	primary	13-enero-1932		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+545	yes	apuntes.545	vdp-apparatus	yes	3	q-cita,vdp-cuerpo,vdp-nota			3	primary	22-febrero-1932	552	03-josemaria-escriva-de-balaguer-en-los-anos-treinta-los.es.md; somoano-berdasco-jose-maria.es.md; vazquez-fundador.7.2
+547	yes	apuntes.547	unverified-line-scan	no	0				1	primary	6-I-1932		portillo-carta-19920319.es.md
+548	yes	apuntes.548	unverified-line-scan	yes	4	q-cita,q-nota			4	primary	6-I-1932; 6-enero-1932		04 primera-parte-la-etapa-inicial.md; 06 capitulo-tercero-iglesia-en-el-mundo-la.md; 06 tercera-parte-las-aprobaciones-pontifici.md; 09-las-preces-del-opus-dei-comentario-historico-teologico.es.md
+551	yes	apuntes.551	unverified-line-scan	yes	1	q-nota			1	primary			04 primera-parte-la-etapa-inicial.md
+552	yes	apuntes.552	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		545	vazquez-fundador.7.2
+556	yes	apuntes.556	vdp-apparatus	yes	2	vdp-cuerpo			2	primary		636,719,886,963	vazquez-fundador.6.7; vazquez-fundador.8.1
+559	yes	apuntes.559	unverified-line-scan	no	0				1	secondary	13-enero-1932; 24-enero-1932; 26-enero-1932; 4-enero-1932		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+560	yes	apuntes.560	vdp-apparatus	yes	5	vdp-cuerpo,vdp-nota			8	primary	12-mayo-1932; 13-I-1932; 13-enero-1932	719,744	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 07-san-josemaria-predicador-de-ejercicios-espirituales-a.es.md; vazquez-fundador.6.6; vazquez-fundador.6.7; vazquez-fundador.7.4; vida-cotidiana-y-santidad.capitulo-4.en.md; vida-cotidiana-y-santidad.capitulo-4.es.md; vida-cotidiana-y-santidad.capitulo-9.es.md
+562	yes	apuntes.562	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			4	primary	14-I-1932; 2-I-1932; 8-XII-1949	535	cronica.indice-1954-2004.es.md; vazquez-fundador.6.7; vida-cotidiana-y-santidad.capitulo-9.es.md
+563	yes	apuntes.563	vdp-apparatus	yes	4	q-cita,vdp-cuerpo			4	primary	14-I-1932; 14-enero-1932; 2-octubre-1928		atencion-a-enfermos-y-visitas-a-hospitales.es.md; cruz.es.md; vazquez-fundador.6.7; vazquez-fundador.7.2
+564	yes	apuntes.564	vdp-apparatus	no	0				1	primary			vazquez-fundador.6.6
+565	yes	apuntes.565	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			1	primary	14-II-1966; 29-XII-1947	784	vazquez-fundador.7.4
+568	yes	apuntes.568	vdp-apparatus	yes	3	q-cita,vdp-cuerpo,vdp-nota			2	primary	18-I-1932; 26-II-1932	618	devocion-devociones.es.md; vazquez-fundador.6.7
+569	yes	apuntes.569	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			3	primary	14-II-1966; 27-marzo-1939; 29-XII-1947; 4-abril-1938; 8-enero-1937	302	13-sirviendo-a-la-iglesia-desde-posiciones-diversas-el-epistolario.es.md; vazquez-fundador.5.6
+570	yes	apuntes.570	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.7
+571	yes	apuntes.571	unverified-line-scan	no	0				1	primary	18-I-1932		06 capitulo-iii-el-despegue-de-la-residenci.md
+573	yes	apuntes.573	vdp-apparatus	yes	2	vdp-cuerpo			1	primary		724	vazquez-fundador.6.3
+574	yes	apuntes.574	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.7
+580	yes	apuntes.580	vdp-apparatus	no	0				2	primary	12-VIII-1932; 24-I-1932; 3-XII-1931		portillo-carta-19920319.es.md; vazquez-fundador.8.7
+581	yes	apuntes.581	vdp-apparatus	yes	4	q-cita,vdp-cuerpo,vdp-nota			4	primary	14-febrero-1932; 19-III-1934; 19-marzo-1933; 24-III-1930	603,835,956	11-las-relaciones-escritas-de-san-josemaria-sobre-sus-visitas-a.es.md; gloria-de-dios.es.md; vazquez-fundador.6.2; vazquez-fundador.7.6
+582	yes	apuntes.582	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			5	primary	24-I-1932		cn 10-91  (OMNIA IN BONUM).en.md; cn 12-98  (IN THE PAGES OF THE DECENARIO ).en.md; cn 9-93  (THE FORGE OF THE CROSS).en.md; portillo-carta-19910901.es.md; vazquez-fundador.6.7
+583	yes	apuntes.583	vdp-apparatus	yes	1	vdp-nota			2	primary			vazquez-fundador.3.7; vazquez-fundador.4.5
+585	yes	apuntes.585	unverified-line-scan	no	0				1	secondary	13-enero-1932; 24-enero-1932; 26-enero-1932; 4-enero-1932		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+586	yes	apuntes.586	unverified-line-scan	no	0				1	primary	26-I-1932		en-torno-edicion-critica-camino.es.md
+587	yes	apuntes.587	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.6
+590	yes	apuntes.590	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			cn 4-02  (THE CERTAINTY OF OUR VOCATION).en.md; vazquez-fundador.6.3
+591	yes	apuntes.591	vdp-apparatus	no	0				3	primary	14-agosto-1931; 26-VIII-1931; 26-agosto-1931; 27-julio-1928; 28-I-1932; 28-enero-1932		09-actividad-docente-de-san-josemaria-el-instituto-amado-y-la.es.md; vazquez-fundador.5.3; vazquez-fundador.7.3
+596	yes	apuntes.596	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.6
+597	yes	apuntes.597	vdp-apparatus	no	0				1	primary			vazquez-fundador.6.6
+598	yes	apuntes.598	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	1-II-1950; 15-X-1948; 27-II-1938; 7-III-1930		vazquez-fundador.1.1; vazquez-fundador.6.6
+599	yes	apuntes.599	vdp-apparatus	yes	2	vdp-cuerpo			3	primary	15-II-1932; 15-febrero-1932		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.6.6; vazquez-fundador.8.1
+602	yes	apuntes.602	vdp-apparatus	yes	3	q-cita,q-nota,vdp-cuerpo			4	primary	15-II-1932; 8-noviembre-1931; 9-abril-1932	1872	02-los-comienzos-del-apostolado-del-opus-dei-entre-mujeres-1930.es.md; 04 capitulo-i-primeros-pasos-del-opus-dei.md; mujeres-en-el-opus-dei-inicio-del-apostolado.es.md; vazquez-fundador.7.3
+603	yes	apuntes.603	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	14-febrero-1932; 19-marzo-1933	581,835,956	vazquez-fundador.7.6
+606	yes	apuntes.606	vdp-apparatus	yes	4	q-cita,vdp-cuerpo			8	primary	16-II-1932; 16-febrero-1933	912	amor-a-dios.es.md; cn 12-10  (THE FIRST IN LOVE).en.md; cn 2-97  (THE LOVE OF GOD'S CHILDREN).en.md; echevarria-carta-20070201.es.md; vazquez-fundador.6.7; vazquez-fundador.7.6; vida-cotidiana-y-santidad.capitulo-1.en.md; vida-cotidiana-y-santidad.capitulo-1.es.md
+608	yes	apuntes.608	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			2	primary	16-febrero-1932; 28-octubre-1931		atencion-a-enfermos-y-visitas-a-hospitales.es.md; vazquez-fundador.7.1
+609	yes	apuntes.609	vdp-apparatus	yes	2	vdp-cuerpo			2	primary			vazquez-fundador.7.1
+613	yes	apuntes.613	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.7.3
+615	yes	apuntes.615	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	25-II-1932		vazquez-fundador.7.3
+618	yes	apuntes.618	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			4	primary	18-I-1932; 26-II-1932	568	cn 7-02  (CONTEMPLATIVE LIFE, A HEART IN LOVE).en.md; vazquez-fundador.6.2; vazquez-fundador.6.7
+619	yes	apuntes.619	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	29-II-1932	473	romana-027-contemplativos-en-medio-del-mundo.es.md; vazquez-fundador.6.2
+620	yes	apuntes.620	vdp-apparatus	yes	1	vdp-nota			1	primary	8-IV-1932	656	vazquez-fundador.6.1
+622	yes	apuntes.622	vdp-apparatus	yes	1	vdp-nota			1	primary	5-abril-1932	685	vazquez-fundador.7.1
+624	yes	apuntes.624	unverified-line-scan	no	0				1	secondary	1-marzo-1931; 12-agosto-1932; 22-junio-1933; 5-enero-1933		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+629	yes	apuntes.629	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.5
+636	yes	apuntes.636	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		556,719,886,963	vazquez-fundador.8.1
+640	yes	apuntes.640	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota-ref			3	primary	1-IV-1925; 28-II-1927; 7-marzo-1932; 9-V-1927		vazquez-fundador.4.5; vazquez-fundador.7.2
+642	yes	apuntes.642	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	9-III-1932		vazquez-fundador.21.1
+647	yes	apuntes.647	vdp-apparatus	yes	4	q-cita,q-nota,vdp-cuerpo			5	primary	11-III-1932; 2-octubre-1931; 6-X-1932		04 capitulo-i-primeros-pasos-del-opus-dei.md; 10-resumenes-de-los-primeros-circulos-de-la-obra-de-san-rafael.es.md; romana-020-bolla-pontificia-di-elevazione-alla-dignita-dell.it.md; vazquez-fundador.21.3; vazquez-fundador.7.1
+653	yes	apuntes.653	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	11-III-1932		vazquez-fundador.6.7
+656	yes	apuntes.656	vdp-apparatus	yes	1	vdp-nota			1	primary	8-IV-1932	620	vazquez-fundador.6.1
+659	yes	apuntes.659	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	13-III-1932		vazquez-fundador.6.7
+671	yes	apuntes.671	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	23-III-1932		vazquez-fundador.6.7
+672	yes	apuntes.672	unverified-line-scan	no	0				1	primary	26-III-1932		portillo-carta-19930109.es.md
+673	yes	apuntes.673	vdp-apparatus	yes	3	q-cita,q-nota,vdp-cuerpo	it		10	primary	26-I-1932; 26-III-1932		06 capitulo-iii-el-despegue-de-la-residenci.md; cn 9-95  (CONTEMPLATION AND PRESENCE OF GOD).en.md; meditaciones-7.es.md; oracion.es.md; portillo-carta-19911101.es.md; romana-014-18-maggio-solenne-messa-in-onore-del-beato.it.md; romana-034-conferencia-inaugural-del-congreso-la-grandeza.es.md; vazquez-fundador.6.7; vida-cotidiana-y-santidad.capitulo-1.en.md; vida-cotidiana-y-santidad.capitulo-1.es.md
+674	yes	apuntes.674	vdp-apparatus	no	0				1	primary	12-VIII-1932; 3-XII-1931		vazquez-fundador.8.7
+675	yes	apuntes.675	unverified-line-scan	no	0				1	primary	29-III-1932		12-san-josemaria-escriva-de-balaguer-palabras-del-nuevo-testamento.es.md
+678	yes	apuntes.678	vdp-apparatus	yes	3	q-cita,vdp-cuerpo			4	primary	24-II-1934; 3-IV-1932	1078,1080	05 capitulo-ii-la-academia-1933-1934.md; portillo-carta-19910601.es.md; portillo-carta-19920319.es.md; vazquez-fundador.8.5
+681	yes	apuntes.681	unverified-line-scan	yes	2	q-cita			2	primary	3-IV-1932		liturgia-de-las-horas.es.md; liturgia-vision-general.es.md
+685	yes	apuntes.685	vdp-apparatus	yes	4	q-cita,q-nota,vdp-cuerpo,vdp-nota			4	primary	5-abril-1932; 9-abril-1932	622	02-los-comienzos-del-apostolado-del-opus-dei-entre-mujeres-1930.es.md; garcia-escobar-maria-ignacia.es.md; vazquez-fundador.7.1; vazquez-fundador.7.2
+688	yes	apuntes.688	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.7
+689	yes	apuntes.689	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.4
+690	yes	apuntes.690	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	7-IV-1932		vazquez-fundador.6.7
+691	yes	apuntes.691	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			3	primary	10-IV-1932		cn 12-10  (THE FIRST IN LOVE).en.md; vazquez-fundador.6.2; vazquez-fundador.7.4
+693	yes	apuntes.693	vdp-apparatus	yes	3	q-nota,vdp-cuerpo,vdp-nota-tras			4	primary	10-abril-1932; 11-IV-1932; 11-abril-1932		02-los-comienzos-del-apostolado-del-opus-dei-entre-mujeres-1930.es.md; vazquez-fundador.6.7; vazquez-fundador.7.3
+695	yes	apuntes.695	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.7
+696	yes	apuntes.696	unverified-line-scan	no	0				1	primary	15-IV-1932		portillo-carta-19930109.es.md
+699	yes	apuntes.699	unverified-line-scan	no	0				1	primary	15-IV-1932		portillo-carta-19911201.es.md
+701	yes	apuntes.701	vdp-apparatus	yes	2	vdp-cuerpo			3	primary		226,239,325,488,702	para-mi-vivir-es-cristo.es.md; vazquez-fundador.6.7; vazquez-fundador.7.4
+702	yes	apuntes.702	vdp-apparatus	yes	3	vdp-cuerpo			3	primary		226,239,325,488,701	vazquez-fundador.6.7; vazquez-fundador.7.4
+703	yes	apuntes.703	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	22-IV-1932; 9-I-1935	704	vazquez-fundador.12.2
+704	yes	apuntes.704	vdp-apparatus	yes	2	vdp-cuerpo			3	primary	22-IV-1932; 9-I-1935	703	vazquez-fundador.12.2; vazquez-fundador.4.5
+707	yes	apuntes.707	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota,vdp-nota-ref			2	secondary	30-Abril-1936	194,989,1180,1332	vazquez-fundador.1.3
+708	yes	apuntes.708	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.4
+710	yes	apuntes.710	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.4
+711	yes	apuntes.711	vdp-apparatus	yes	2	q-cita,vdp-cuerpo		yes	4	primary	28-IV-1932		cn 7-91  (FIAT, ADIMPLEATUR).en.md; obediencia.es.md; portillo-carta-19910601.es.md; vazquez-fundador.13.7
+713	yes	apuntes.713	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			1	primary	11-diciembre-1931; 14-octubre-1932; 24-V-1932	470,474,735,839,1701	vazquez-fundador.6.2
+716	yes	apuntes.716	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	1-IV-1932; 10-V-1932; 12-VIII-1932; 2-octubre-1928; 21-VII-1930; 4-II-1932; 7-XII-1932	769,808,1872	vazquez-fundador.5.7
+719	yes	apuntes.719	vdp-apparatus	yes	7	vdp-cuerpo,vdp-nota,vdp-nota-ref			5	primary	12-mayo-1932	556,560,636,720,721,739,743,744,886,963,1665	vazquez-fundador.7.4; vazquez-fundador.8.1
+720	yes	apuntes.720	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		719,721,739,743,1665	vazquez-fundador.7.4
+721	yes	apuntes.721	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		719,720,739,743,1665	vazquez-fundador.7.4
+723	no		withheld-damaged-digits	yes	1	q-nota			1	primary		735	07-obra-escrita-y-predicacion-de-san-josemaria-escriva-de-balaguer.es.md
+724	yes	apuntes.724	vdp-apparatus	yes	2	vdp-cuerpo			1	primary		573	vazquez-fundador.6.3
+728	yes	apuntes.728	unverified-line-scan	yes	1	q-nota	it		1	primary			romana-010-relazione-svolta-da-mons-alvaro-del-portillo-gran.it.md
+731	yes	apuntes.731	vdp-apparatus	yes	6	q-cita,q-nota,vdp-cuerpo	en		9	primary	13-junio-1960; 18-octubre-1932; 20-V-1932; 22-noviembre-1933; 24-diciembre-1932; 25-mayo-1932; 5-febrero-1933		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 04 capitulo-i-primeros-pasos-del-opus-dei.md; 04-san-josemaria-entre-los-enfermos-de-madrid-1927-1931.es.md; patronato-de-enfermos.es.md; romana-077-dimension-social-de-la-caridad-integracion.en.md; romana-077-dimension-social-de-la-caridad-integracion.es.md; romana-081-acompanamiento-y-cuidado-de-enfermos.es.md; vazquez-fundador.7.1; vazquez-fundador.8.1
+733	yes	apuntes.733	unverified-line-scan	no	0				1	primary			portillo-carta-19920319.es.md
+734	yes	apuntes.734	vdp-apparatus	yes	1	vdp-cuerpo			1	secondary	10-I-1935; 16-XII-1931; 24-V-1932; 5-VIII-1932	486,799,1216	vazquez-fundador.12.8
+735	yes	apuntes.735	vdp-apparatus	yes	5	q-nota,vdp-cuerpo,vdp-nota			3	primary	11-diciembre-1931; 12-VIII-1932; 14-octubre-1932; 24-V-1932; 3-XII-1931	470,474,713,723,839,1701	07-obra-escrita-y-predicacion-de-san-josemaria-escriva-de-balaguer.es.md; vazquez-fundador.6.2; vazquez-fundador.8.7
+739	yes	apuntes.739	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		719,720,721,743,1665	vazquez-fundador.7.4
+742	yes	apuntes.742	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		27	vazquez-fundador.8.1
+743	yes	apuntes.743	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	30-V-1932	719,720,721,739,1665	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.7.4
+744	yes	apuntes.744	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			1	primary	12-mayo-1932	560,719	vazquez-fundador.7.4
+745	yes	apuntes.745	vdp-apparatus	no	0				2	primary	1-junio-1932; 29-septiembre-1932		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.8.1
+746	yes	apuntes.746	vdp-apparatus	yes	3	q-cita,q-nota,vdp-cuerpo		yes	4	primary	1-VI-1932; 2-octubre-1928		04 capitulo-i-primeros-pasos-del-opus-dei.md; crt guiones y examenes.md; retiro-espiritual.es.md; vazquez-fundador.7.4
+748	yes	apuntes.748	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.4
+751	yes	apuntes.751	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	10-III-1935; 14-X-1935; 15-VI-1932; 28-X-1935; 7-V-1935	231,407,959,1344,1357	vazquez-fundador.12.8; vazquez-fundador.4.3
+756	yes	apuntes.756	vdp-apparatus	no	0				2	primary			05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.4
+759	yes	apuntes.759	unverified-line-scan	yes	1	q-cita			1	primary	23-VI-1932		06 capitulo-iii-el-despegue-de-la-residenci.md
+766	yes	apuntes.766	unverified-line-scan	yes	1	q-nota			2	primary	30-VI-1932		04 capitulo-i-primeros-pasos-del-opus-dei.md
+768	yes	apuntes.768	vdp-apparatus	no	0				1	primary			vazquez-fundador.7.6
+769	yes	apuntes.769	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary	1-IV-1932; 10-V-1932; 12-VIII-1932; 2-octubre-1928; 21-VII-1930; 29-septiembre-1932; 4-II-1932; 7-XII-1932	716,808,837,1872	apuntes-intimos-obra-inedita.es.md; vazquez-fundador.5.7; vazquez-fundador.7.5
+770	yes	apuntes.770	unverified-line-scan	yes	1	q-cita			1	primary	11-VII-1932		04 capitulo-i-primeros-pasos-del-opus-dei.md
+773	yes	apuntes.773	vdp-apparatus	no	0				1	primary			vazquez-fundador.7.6
+775	yes	apuntes.775	unverified-line-scan	no	0				1	primary	12-VII-1932		05 capitulo-ii-la-academia-1933-1934.md
+778	yes	apuntes.778	unverified-line-scan	no	0				1	primary	12-noviembre-1977; 13-julio-1932		06-los-primeros-pasos-de-la-obra-de-san-gabriel-1928-1950.es.md
+780	yes	apuntes.780	vdp-apparatus	yes	1	vdp-cuerpo			2	primary		1676	romana-020-bolla-pontificia-di-elevazione-alla-dignita-dell.it.md; vazquez-fundador.7.4
+784	yes	apuntes.784	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			1	primary	14-II-1966; 29-XII-1947	565	vazquez-fundador.7.4
+785	yes	apuntes.785	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	18-julio-1932		vazquez-fundador.7.2
+787	yes	apuntes.787	vdp-apparatus	yes	1	vdp-nota			1	secondary	18-julio-1932		vazquez-fundador.7.5
+789	yes	apuntes.789	vdp-apparatus	no	0				1	primary			vazquez-fundador.7.2
+793	yes	apuntes.793	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.2
+799	yes	apuntes.799	vdp-apparatus	yes	1	vdp-cuerpo			1	secondary	10-I-1935; 16-XII-1931; 24-V-1932; 5-VIII-1932	486,734,1216	vazquez-fundador.12.8
+800	yes	apuntes.800	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.4
+801	yes	apuntes.801	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			1	secondary		1677	vazquez-fundador.8.7
+805	yes	apuntes.805	unverified-line-scan	yes	1	q-cita			1	primary			apuntes-intimos-obra-inedita.es.md
+808	yes	apuntes.808	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			3	primary	1-IV-1932; 1-marzo-1931; 10-V-1932; 12-VIII-1932; 12-agosto-1932; 2-octubre-1928; 21-VII-1930; 22-junio-1933; 4-II-1932; 5-enero-1933; 7-XII-1932	716,769,1872	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.5.7
+813	yes	apuntes.813	unverified-line-scan	no	0				1	secondary			vida-cotidiana-y-santidad.capitulo-7.es.md
+814	yes	apuntes.814	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			3	primary	23-VIII-1932		06 capitulo-iii-el-despegue-de-la-residenci.md; liturgia-vision-general.es.md; vazquez-fundador.7.4
+815	yes	apuntes.815	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	23-VIII-1932; 23-agosto-1932; 24-X-1942		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.12.1; vazquez-fundador.7.6
+820	yes	apuntes.820	unverified-line-scan	no	0				1	primary	5-IX-1932		nuevos-mediterraneos.es.md
+823	yes	apuntes.823	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	12-septiembre-1932; 2-octubre-1932	838	sm rt exams Jan - Dec odd years.es.md; vazquez-fundador.7.4
+829	yes	apuntes.829	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	secondary	14-II-1964; 27-noviembre-1932; 28-septiembre-1932	880	vazquez-fundador.3.7
+834	yes	apuntes.834	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	28-IX-1932		04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.7.3
+835	yes	apuntes.835	vdp-apparatus	yes	3	q-nota,vdp-cuerpo,vdp-nota			2	primary	14-febrero-1932; 19-marzo-1933; 28-IX-1932	581,603,956	04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.7.6
+837	yes	apuntes.837	vdp-apparatus	yes	2	q-nota,vdp-nota			5	primary	1-junio-1932; 29-IX-1932; 29-septiembre-1932	769	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 03-fuentes-para-la-historia-de-la-academia-y-de-la-residencia-dya.es.md; 04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.7.5; vazquez-fundador.7.6
+838	yes	apuntes.838	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	12-septiembre-1932; 2-octubre-1932	823	vazquez-fundador.7.4
+839	yes	apuntes.839	vdp-apparatus	yes	5	vdp-cuerpo,vdp-nota			2	primary	11-diciembre-1931; 14-octubre-1932; 24-V-1932	470,474,713,735,1701	vazquez-fundador.5.7; vazquez-fundador.6.2
+845	yes	apuntes.845	unverified-line-scan	yes	1	q-cita			1	secondary	15-X-1932; 22-XI-1931		05 capitulo-ii-la-academia-1933-1934.md
+847	yes	apuntes.847	unverified-line-scan	no	0				1	secondary	13-junio-1960; 18-octubre-1932; 22-noviembre-1933; 24-diciembre-1932; 25-mayo-1932; 5-febrero-1933		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+850	yes	apuntes.850	unverified-line-scan	no	0				1	secondary	20-octubre-1932; 23-marzo-1931		06-los-primeros-pasos-de-la-obra-de-san-gabriel-1928-1950.es.md
+851	yes	apuntes.851	unverified-line-scan	yes	1	q-cita			1	primary	24-X-1932		04 capitulo-i-primeros-pasos-del-opus-dei.md
+853	yes	apuntes.853	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	secondary	27-X-1932		vazquez-fundador.12.2
+854	yes	apuntes.854	unverified-line-scan	yes	1	q-nota			1	secondary			04 primera-parte-la-etapa-inicial.md
+863	yes	apuntes.863	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	6-XI-1932		04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.7.5
+864	yes	apuntes.864	unverified-line-scan	yes	1	q-nota		yes	16	primary	8-XI-1932		cn 12-98  (IN THE PAGES OF THE DECENARIO ).en.md; cn 3-98  (ENLIGHTEN, STRENGTHEN, ENKINDLE).en.md; cn 6-91  (VENI, SANCTE SPIRITUS).en.md; echevarria-carta-19980401.es.md; nuevos-mediterraneos.es.md; portillo-carta-19910501.es.md; portillo-carta-19910701.es.md; romana-026-en-la-solemne-celebracion-eucaristica-en-la-fiesta.es.md; sm rt outlines.es.md; vida-cotidiana-y-santidad.capitulo-4.en.md; vida-cotidiana-y-santidad.capitulo-4.es.md; vida-cotidiana-y-santidad.capitulo-6.en.md; vida-cotidiana-y-santidad.capitulo-6.es.md
+867	yes	apuntes.867	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary	26-XII-1930; 9-XI-1932; 9-noviembre-1932	101,138	03-josemaria-escriva-de-balaguer-en-los-anos-treinta-los.es.md; vazquez-fundador.14.4
+870	yes	apuntes.870	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	14-noviembre-1932	181,356,450,462	vazquez-fundador.7.5
+871	yes	apuntes.871	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			3	primary	10-VI-1934; 10-junio-1934; 14-V-1967; 17-abril-1948; 21-XI-1932; 9-XII-1934	948	vazquez-fundador.15.4; vazquez-fundador.7.1
+875	yes	apuntes.875	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			2	primary	22-VI-1933; 24-XI-1932; 24-noviembre-1932	1710	vazquez-fundador.15.4; vazquez-fundador.6.2
+877	yes	apuntes.877	vdp-apparatus	yes	2	vdp-cuerpo			5	primary	24-XI-1932		04 capitulo-i-primeros-pasos-del-opus-dei.md; portillo-carta-19920319.es.md; vazquez-fundador.11.3; vazquez-fundador.7.6
+880	yes	apuntes.880	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	secondary	14-II-1964; 27-noviembre-1932; 28-septiembre-1932	829	vazquez-fundador.3.7
+883	yes	apuntes.883	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			3	primary	10-X-1932; 25-I-1932; 28-XI-1932		04 capitulo-i-primeros-pasos-del-opus-dei.md; 10-resumenes-de-los-primeros-circulos-de-la-obra-de-san-rafael.es.md; vazquez-fundador.7.5
+884	yes	apuntes.884	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	2-XII-1932; 25-V-1976		04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.7.5
+886	yes	apuntes.886	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		556,636,719,963	vazquez-fundador.8.1
+890	yes	apuntes.890	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	9-diciembre-1932		vazquez-fundador.7.5
+892	yes	apuntes.892	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			2	primary			angeles.es.md; vazquez-fundador.7.5
+893	yes	apuntes.893	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.5
+895	yes	apuntes.895	unverified-line-scan	yes	1	q-cita			1	secondary	13-junio-1960; 18-octubre-1932; 22-noviembre-1933; 24-diciembre-1932; 25-mayo-1932; 5-febrero-1933		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+900	yes	apuntes.900	unverified-line-scan	no	0				1	secondary	1-marzo-1931; 12-agosto-1932; 22-junio-1933; 5-enero-1933		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+901	yes	apuntes.901	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.7
+903	yes	apuntes.903	unverified-line-scan	no	0				1	primary			portillo-carta-19920319.es.md
+907	yes	apuntes.907	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	19-I-1933; 19-enero-1933		04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.7.5
+912	yes	apuntes.912	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			2	primary	16-febrero-1933	606	amor-a-dios.es.md; vazquez-fundador.7.6
+913	yes	apuntes.913	vdp-apparatus	yes	4	q-cita,vdp-cuerpo,vdp-nota			6	primary	11-noviembre-1916; 19-diciembre-1914; 20-IV-1933; 21-enero-1933; 25-I-1933; 25-enero-1933; 4-enero-1933; 8-mayo-2001; 9-I-1935		03-fuentes-para-la-historia-de-la-academia-y-de-la-residencia-dya.es.md; 04 capitulo-i-primeros-pasos-del-opus-dei.md; 10-los-inicios-de-la-obra-de-san-rafael-un-documento-de-1935.es.md; 10-resumenes-de-los-primeros-circulos-de-la-obra-de-san-rafael.es.md; vazquez-fundador.7.5
+916	yes	apuntes.916	unverified-line-scan	no	0				1	secondary	13-junio-1960; 18-octubre-1932; 22-noviembre-1933; 24-diciembre-1932; 25-mayo-1932; 5-febrero-1933		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+918	yes	apuntes.918	unverified-line-scan	no	0				1	primary	5-II-1933		05 capitulo-ii-la-academia-1933-1934.md
+921	yes	apuntes.921	vdp-apparatus	yes	2	vdp-nota			2	primary		1697	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.7.5
+923	yes	apuntes.923	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary		925,926,927,933,934	06-conviene-que-me-relacione-con-los-propagandistas-de-herrera-y.es.md; vazquez-fundador.7.6
+925	yes	apuntes.925	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			3	primary		923,926,927,933,934	06-conviene-que-me-relacione-con-los-propagandistas-de-herrera-y.es.md; vazquez-fundador.7.6
+926	yes	apuntes.926	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		923,925,927,933,934	vazquez-fundador.7.6
+927	yes	apuntes.927	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary		923,925,926,933,934	vazquez-fundador.7.6
+931	yes	apuntes.931	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			07-14-de-febrero-de-1930-la-transmision-de-un-acontecimiento-y-un.es.md; vazquez-fundador.7.3
+933	yes	apuntes.933	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		923,925,926,927,934	vazquez-fundador.7.6
+934	yes	apuntes.934	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		923,925,926,927,933	vazquez-fundador.7.6
+935	yes	apuntes.935	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.6
+937	yes	apuntes.937	unverified-line-scan	yes	1	q-nota			1	primary	19-II-1933		12-san-josemaria-escriva-de-balaguer-palabras-del-nuevo-testamento.es.md
+938	yes	apuntes.938	vdp-apparatus	no	0				2	primary	11-febrero-1934; 25-enero-1936; 30-mayo-1934; 4-marzo-1933		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.8.1
+939	yes	apuntes.939	vdp-apparatus	no	0				1	primary	24-III-1933		vazquez-fundador.7.6
+941	yes	apuntes.941	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.7
+943	yes	apuntes.943	unverified-line-scan	no	0				1	secondary	9-III-1933		10-resumenes-de-los-primeros-circulos-de-la-obra-de-san-rafael.es.md
+945	yes	apuntes.945	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.1
+948	yes	apuntes.948	vdp-apparatus	yes	2	vdp-nota			1	secondary	10-VI-1934; 10-junio-1934; 14-V-1967; 9-XII-1934	871	vazquez-fundador.7.1
+952	yes	apuntes.952	vdp-apparatus	no	0				3	primary	10-II-1979; 19-III-1933; 19-marzo-1933; 22-II-1985; 25-V-1976		04 capitulo-i-primeros-pasos-del-opus-dei.md; 10-resumenes-de-los-primeros-circulos-de-la-obra-de-san-rafael.es.md; vazquez-fundador.7.6
+955	yes	apuntes.955	vdp-apparatus	no	0				2	primary	19-marzo-1933; 20-enero-1934; 9-enero-1932		04 primera-parte-la-etapa-inicial.md; vazquez-fundador.8.1
+956	yes	apuntes.956	vdp-apparatus	yes	4	q-nota,vdp-cuerpo,vdp-nota,vdp-nota-ref			3	primary	14-febrero-1932; 19-marzo-1933	581,603,835	04 primera-parte-la-etapa-inicial.md; vazquez-fundador.7.6
+957	yes	apuntes.957	vdp-apparatus	yes	4	q-cita,vdp-cuerpo,vdp-nota			3	primary		993	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.1
+959	yes	apuntes.959	vdp-apparatus	yes	6	q-nota,vdp-cuerpo,vdp-nota-ref			15	primary	14-noviembre-1975; 17-julio-1934; 17-junio-1978; 19-marzo-1933; 22-marzo-1933; 24-febrero-1947; 25-marzo-1936; 30-agosto-1924; 6-junio-1924; 6-marzo-1934; 9-diciembre-1975	231,407,751,1344,1357	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 06-los-anos-de-seminario-y-de-ordenacion-de-jose-maria-escriva.es.md; romana-069-amigos-de-san-josemaria-anos-1902-1927.es.md; vazquez-fundador.2.4; vazquez-fundador.2.6; vazquez-fundador.3.2; vazquez-fundador.4.3
+963	yes	apuntes.963	vdp-apparatus	yes	2	vdp-cuerpo			3	primary	1-noviembre-1934; 13-junio-1960; 13-marzo-1934; 23-III-1933; 23-marzo-1933	556,636,719,886	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.7.3; vazquez-fundador.8.1
+966	yes	apuntes.966	vdp-apparatus	no	0				2	primary	24-III-1933		04 capitulo-i-primeros-pasos-del-opus-dei.md; vazquez-fundador.7.6
+968	yes	apuntes.968	unverified-line-scan	no	0				1	primary	25-III-1933		12-san-josemaria-escriva-de-balaguer-palabras-del-nuevo-testamento.es.md
+970	yes	apuntes.970	unverified-line-scan	no	0				1	primary			05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md
+971	yes	apuntes.971	unverified-line-scan	no	0				1	primary	28-III-1933		vida-cotidiana-y-santidad.capitulo-7.es.md
+974	yes	apuntes.974	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.1
+976	yes	apuntes.976	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.1
+981	yes	apuntes.981	unverified-line-scan	yes	2	q-cita,q-nota	it		1	primary			03-gli-studi-di-teologia-di-san-josemaria-escriva.it.md
+986	yes	apuntes.986	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.1
+989	yes	apuntes.989	vdp-apparatus	yes	5	q-nota,vdp-cuerpo,vdp-nota,vdp-nota-ref			5	primary	24-IV-1933; 24-marzo-1933; 30-Abril-1936	194,707,1180,1332	02-las-cartas-de-san-josemaria-estudio-para-una-cronologia.es.md; 05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.1.3; vazquez-fundador.8.2
+992	yes	apuntes.992	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.1
+993	yes	apuntes.993	vdp-apparatus	yes	4	q-cita,vdp-cuerpo,vdp-nota			4	primary	12-IV-1934; 30-IV-1933; 8-VII-1933	957	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.5.5; vazquez-fundador.8.1
+994	yes	apuntes.994	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	13-enero-1931; 19-VI-1933	995,1025	vazquez-fundador.8.1
+995	yes	apuntes.995	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			2	primary	1-mayo-1933; 13-enero-1931; 19-VI-1933	994,1025,1709	vazquez-fundador.8.1
+996	yes	apuntes.996	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.2
+997	yes	apuntes.997	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.3
+1002	yes	apuntes.1002	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary			02-los-comienzos-del-apostolado-del-opus-dei-entre-mujeres-1930.es.md; vazquez-fundador.7.2
+1003	yes	apuntes.1003	vdp-apparatus	no	0				2	primary	19-I-1933; 29-VIII-1975; 8-V-1933		10-resumenes-de-los-primeros-circulos-de-la-obra-de-san-rafael.es.md; vazquez-fundador.7.2
+1005	yes	apuntes.1005	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	11-V-1933		vazquez-fundador.8.1
+1006	yes	apuntes.1006	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			3	primary			02-los-comienzos-del-apostolado-del-opus-dei-entre-mujeres-1930.es.md; enfermedad.es.md; vazquez-fundador.7.2
+1007	yes	apuntes.1007	unverified-line-scan	yes	1	q-cita			1	primary	15-V-1933		05 capitulo-ii-la-academia-1933-1934.md
+1014	yes	apuntes.1014	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			2	primary	15-mayo-1992; 16-octubre-2016; 26-mayo-1933; 3-marzo-1931	413,432,1372,1380,1732	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.5.6
+1016	yes	apuntes.1016	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	1-VI-1933	1018	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.1
+1017	yes	apuntes.1017	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		1273	vazquez-fundador.1.1
+1018	yes	apuntes.1018	vdp-apparatus	yes	1	vdp-cuerpo			2	primary		1016	cn 12-98  (IN THE PAGES OF THE DECENARIO ).en.md; vazquez-fundador.8.1
+1021	yes	apuntes.1021	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	3-VI-1933	1024	vazquez-fundador.8.1
+1024	yes	apuntes.1024	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	3-VI-1933	1021	vazquez-fundador.8.1
+1025	yes	apuntes.1025	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	13-enero-1931; 19-VI-1933	994,995	vazquez-fundador.8.1
+1027	yes	apuntes.1027	vdp-apparatus	yes	1	vdp-nota			1	secondary			vazquez-fundador.8.1
+1029	yes	apuntes.1029	vdp-apparatus	yes	4	q-nota,vdp-cuerpo,vdp-nota			4	primary	17-VI-1940; 4-VII-1933	217,347,432,1380	04 capitulo-i-primeros-pasos-del-opus-dei.md; 05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; 10-resumenes-de-los-primeros-circulos-de-la-obra-de-san-rafael.es.md; vazquez-fundador.6.7
+1032	yes	apuntes.1032	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	11-marzo-1934	1152	vazquez-fundador.8.5
+1035	yes	apuntes.1035	unverified-line-scan	yes	1	q-nota			2	primary	22-VII-1933; 25-VIII-1975; 29-VIII-1975		04 capitulo-i-primeros-pasos-del-opus-dei.md; 10-resumenes-de-los-primeros-circulos-de-la-obra-de-san-rafael.es.md
+1037	yes	apuntes.1037	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	2-febrero-1934	1127	vazquez-fundador.8.4
+1040	yes	apuntes.1040	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.2
+1049	yes	apuntes.1049	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			4	primary	12-VIII-1933; 13-III-1931; 26-X-1933	1733	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.1; vazquez-fundador.8.8
+1050	yes	apuntes.1050	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.1
+1053	yes	apuntes.1053	unverified-line-scan	no	0				1	primary	18-VIII-1933		05 capitulo-ii-la-academia-1933-1934.md
+1055	yes	apuntes.1055	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			2	primary	1-X-1933; 2-octubre-1928	306	vazquez-fundador.5.5; vazquez-fundador.8.1
+1057	yes	apuntes.1057	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	6-X-1933		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.1
+1063	yes	apuntes.1063	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.2
+1065	yes	apuntes.1065	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	18-X-1933	1067	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.1
+1066	yes	apuntes.1066	unverified-line-scan	no	0				1	primary	21-X-1933		05 capitulo-ii-la-academia-1933-1934.md
+1067	yes	apuntes.1067	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	18-X-1933; 21-X-1933	1065	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.1
+1070	yes	apuntes.1070	unverified-line-scan	yes	2	q-nota	en		2	primary	31-X-1933		romana-049-en-el-xxv-aniversario-de-la-pontificia-universidad.en.md; romana-049-en-el-xxv-aniversario-de-la-pontificia-universidad.es.md
+1071	yes	apuntes.1071	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			2	primary	31-X-1933		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.2
+1072	yes	apuntes.1072	vdp-apparatus	yes	2	vdp-cuerpo			3	primary	31-X-1933		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.7.3; vazquez-fundador.8.1
+1073	yes	apuntes.1073	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			1	primary	6-XI-1933	506,1720	vazquez-fundador.8.5
+1074	yes	apuntes.1074	unverified-line-scan	no	0				2	primary	6-XI-1933		05 capitulo-ii-la-academia-1933-1934.md; portillo-carta-19920319.es.md
+1077	yes	apuntes.1077	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	10-XI-1933; 13-XI-1933; 13-noviembre-1933; 24-XI-1933; 4-XI-1933		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.1
+1078	yes	apuntes.1078	vdp-apparatus	yes	3	q-cita,vdp-cuerpo			2	primary	13-junio-1960; 18-octubre-1932; 22-noviembre-1933; 24-diciembre-1932; 25-mayo-1932; 5-febrero-1933	678,1080	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.8.5
+1080	yes	apuntes.1080	vdp-apparatus	yes	2	vdp-cuerpo			1	primary		678,1078	vazquez-fundador.8.5
+1081	yes	apuntes.1081	unverified-line-scan	no	0				2	primary	30-XI-1933		05 capitulo-ii-la-academia-1933-1934.md
+1083	yes	apuntes.1083	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	8-XII-1933	1106	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.2
+1086	yes	apuntes.1086	unverified-line-scan	no	0				1	primary	14-XII-1933		05 capitulo-ii-la-academia-1933-1934.md
+1088	yes	apuntes.1088	unverified-line-scan	no	0				1	primary	19-XII-1933		05 capitulo-ii-la-academia-1933-1934.md
+1090	yes	apuntes.1090	vdp-apparatus	yes	2	q-nota,vdp-cuerpo	it		3	primary			03-gli-studi-di-teologia-di-san-josemaria-escriva.it.md; vazquez-fundador.4.5
+1091	yes	apuntes.1091	vdp-apparatus	no	0				2	primary	19-XII-1933		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.2
+1093	yes	apuntes.1093	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			4	primary	12-noviembre-1977; 29-mayo-1934		02-los-comienzos-del-apostolado-del-opus-dei-entre-mujeres-1930.es.md; 05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.6
+1094	yes	apuntes.1094	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.2
+1095	yes	apuntes.1095	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.5
+1097	yes	apuntes.1097	unverified-line-scan	yes	1	q-nota			3	primary	30-XII-1933		03 presentacion.md; 05 capitulo-ii-la-academia-1933-1934.md
+1102	yes	apuntes.1102	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			3	primary	27-II-1934; 5-I-1934		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.2
+1105	yes	apuntes.1105	unverified-line-scan	yes	1	q-cita			1	primary	7-I-1934		05 capitulo-ii-la-academia-1933-1934.md
+1106	yes	apuntes.1106	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary	7-I-1934; 8-I-1934; 9-enero-1934	1083,1109	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.2
+1108	yes	apuntes.1108	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	7-I-1934		vazquez-fundador.15.4
+1109	yes	apuntes.1109	vdp-apparatus	yes	1	vdp-nota			2	primary	9-I-1934; 9-enero-1934	1106	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.2
+1115	yes	apuntes.1115	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	26-XI-1931	415	vazquez-fundador.6.2
+1119	yes	apuntes.1119	unverified-line-scan	no	0				1	secondary	19-marzo-1933; 20-enero-1934; 9-enero-1932		04 primera-parte-la-etapa-inicial.md
+1120	yes	apuntes.1120	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.2
+1124	yes	apuntes.1124	vdp-apparatus	no	0				1	primary	27-I-1934		vazquez-fundador.8.2
+1125	yes	apuntes.1125	vdp-apparatus	no	0				2	primary	26-enero-1934; 27-I-1934		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.2
+1126	yes	apuntes.1126	vdp-apparatus	yes	1	vdp-nota			5	primary	26-enero-1934; 27-I-1934		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.2
+1127	yes	apuntes.1127	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	2-II-1934; 2-febrero-1934	1037	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.4
+1128	yes	apuntes.1128	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			5	primary	11-II-1934; 12-XI-1931; 3-II-1934; 30-VI-1936	388,1371	05 capitulo-ii-la-academia-1933-1934.md; 06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.2; vazquez-fundador.9.3
+1129	yes	apuntes.1129	unverified-line-scan	no	0				1	primary	3-II-1934		05 capitulo-ii-la-academia-1933-1934.md
+1130	yes	apuntes.1130	unverified-line-scan	yes	1	q-nota	it		1	primary			romana-010-relazione-svolta-da-mons-alvaro-del-portillo-gran.it.md
+1131	yes	apuntes.1131	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.2
+1133	yes	apuntes.1133	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	11-II-1934		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.2
+1135	yes	apuntes.1135	unverified-line-scan	no	0				2	primary	11-II-1934; 11-febrero-1934; 25-enero-1936; 30-mayo-1934; 4-marzo-1933		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 05 capitulo-ii-la-academia-1933-1934.md
+1136	yes	apuntes.1136	vdp-apparatus	yes	2	vdp-cuerpo			4	primary	14-II-1934; 14-febrero-1934		05 capitulo-ii-la-academia-1933-1934.md; mujeres-en-el-opus-dei-inicio-del-apostolado.es.md; vazquez-fundador.7.2; vazquez-fundador.7.3
+1140	yes	apuntes.1140	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	24-II-1934; 3-IV-1932		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.2
+1141	yes	apuntes.1141	vdp-apparatus	yes	1	vdp-cuerpo			1	secondary	12-XII-1935; 13-IV-1939; 16-III-1934; 24-II-1934	1160,1304,1596	vazquez-fundador.12.2
+1146	yes	apuntes.1146	vdp-apparatus	no	0				2	primary	1-II-1950; 15-X-1948; 27-II-1938; 7-III-1930		vazquez-fundador.1.1; vazquez-fundador.8.2
+1150	yes	apuntes.1150	unverified-line-scan	yes	2	q-cita,q-nota			4	primary	14-agosto-1911; 14-diciembre-1906; 15-septiembre-1977; 22-marzo-1933; 24-junio-1913; 25-marzo-1936; 6-marzo-1934		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 04 primera-parte-la-etapa-inicial.md; 05 capitulo-ii-la-academia-1933-1934.md; 10-anotaciones-de-ricardo-fernandez-vallespin-en-la-academia-dya.es.md
+1152	yes	apuntes.1152	vdp-apparatus	yes	2	vdp-cuerpo			3	primary	11-III-1934; 11-marzo-1934; 22-VI-1933	1032,1725	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.21.1; vazquez-fundador.8.5
+1155	yes	apuntes.1155	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	11-marzo-1934	1795,1796,1800,1801,1804	vazquez-fundador.8.4
+1156	yes	apuntes.1156	unverified-line-scan	no	0				1	primary	1-noviembre-1934; 13-junio-1960; 13-marzo-1934; 23-marzo-1933		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+1157	yes	apuntes.1157	unverified-line-scan	no	0				1	primary	13-III-1934		05 capitulo-ii-la-academia-1933-1934.md
+1160	yes	apuntes.1160	vdp-apparatus	yes	3	q-nota,vdp-cuerpo			3	primary	12-XII-1935; 13-IV-1939; 16-III-1934; 24-II-1934	1141,1304,1596	08 capitulo-v-la-residencia-de-ferraz-16-19.md; vazquez-fundador.12.2; vazquez-fundador.8.5
+1162	yes	apuntes.1162	unverified-line-scan	no	0				3	primary	12-abril-1938; 16-VII-1934; 16-marzo-1934		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 05 capitulo-ii-la-academia-1933-1934.md
+1163	yes	apuntes.1163	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1165,1167	vazquez-fundador.8.5
+1165	yes	apuntes.1165	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1163,1167	vazquez-fundador.8.5
+1166	yes	apuntes.1166	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.2
+1167	yes	apuntes.1167	vdp-apparatus	yes	4	q-cita,vdp-cuerpo,vdp-nota			4	primary	18-III-1934; 18-marzo-1934; 22-III-1934	1163,1165,1798	05 capitulo-ii-la-academia-1933-1934.md; 10-anotaciones-de-ricardo-fernandez-vallespin-en-la-academia-dya.es.md; vazquez-fundador.8.2; vazquez-fundador.8.5
+1169	yes	apuntes.1169	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.6
+1171	yes	apuntes.1171	unverified-line-scan	no	0				1	primary	24-III-1934		05 capitulo-ii-la-academia-1933-1934.md
+1180	yes	apuntes.1180	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota,vdp-nota-ref			2	secondary	30-Abril-1936	194,707,989,1332	vazquez-fundador.1.3
+1181	yes	apuntes.1181	vdp-apparatus	no	0				2	primary	28-abril-1934		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.6
+1182	yes	apuntes.1182	unverified-line-scan	no	0				1	primary	3-V-1934		05 capitulo-ii-la-academia-1933-1934.md
+1183	yes	apuntes.1183	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.7
+1184	yes	apuntes.1184	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.3
+1187	yes	apuntes.1187	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1188	vazquez-fundador.8.2
+1188	yes	apuntes.1188	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary		1187	11-un-informe-del-arzobispo-de-valencia-sobre-el-opus-dei-para-la.es.md; vazquez-fundador.8.2
+1191	yes	apuntes.1191	vdp-apparatus	yes	1	vdp-cuerpo			5	primary	1-octubre-1933; 29-V-1931; 29-V-1934; 29-mayo-1934; 31-agosto-1934		05 capitulo-ii-la-academia-1933-1934.md; 06 capitulo-iii-el-despegue-de-la-residenci.md; 10-anotaciones-de-ricardo-fernandez-vallespin-en-la-academia-dya.es.md; 11-las-relaciones-escritas-de-san-josemaria-sobre-sus-visitas-a.es.md; vazquez-fundador.8.2
+1192	yes	apuntes.1192	vdp-apparatus	yes	3	q-cita,q-nota,vdp-cuerpo			6	primary	11-febrero-1934; 25-enero-1936; 29-V-1934; 29-mayo-1934; 30-mayo-1934; 4-marzo-1933; 8-V-1936		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 05 capitulo-ii-la-academia-1933-1934.md; 05 segunda-parte-las-aprobaciones-diocesana.md; 11-un-informe-del-arzobispo-de-valencia-sobre-el-opus-dei-para-la.es.md; carta-03-19320109.es.md; vazquez-fundador.8.2
+1193	yes	apuntes.1193	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	29-V-1934		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.2
+1196	yes	apuntes.1196	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.6
+1197	yes	apuntes.1197	unverified-line-scan	yes	1	q-nota			1	primary	10-enero-1938		05 capitulo-ii-la-academia-1933-1934.md
+1198	yes	apuntes.1198	unverified-line-scan	yes	1	q-nota			1	primary	30-VIII-1934		05 capitulo-ii-la-academia-1933-1934.md
+1199	yes	apuntes.1199	vdp-apparatus	yes	3	q-nota,vdp-cuerpo,vdp-nota			3	primary	28-X-1935; 30-VIII-1934	1200,1293	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.3; vazquez-fundador.8.5
+1200	yes	apuntes.1200	vdp-apparatus	yes	4	q-nota,vdp-cuerpo,vdp-nota		yes	5	primary	28-X-1935; 8-IX-1934	1199,1293	05 capitulo-ii-la-academia-1933-1934.md; crt guiones y examenes.md; vazquez-fundador.8.5; vazquez-fundador.8.6
+1202	yes	apuntes.1202	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.3
+1203	yes	apuntes.1203	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	20-noviembre-1934		vazquez-fundador.8.3
+1204	yes	apuntes.1204	unverified-line-scan	no	0				1	primary	22-XI-1934		06 capitulo-iii-el-despegue-de-la-residenci.md
+1205	yes	apuntes.1205	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.3
+1206	yes	apuntes.1206	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			5	primary	20-XII-1934; 6-diciembre-1934		02-san-nicolas-de-bari-intercesor-en-las-necesidades-economicas.es.md; 06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.3; vazquez-fundador.8.4
+1210	yes	apuntes.1210	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary		60,61	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1211	yes	apuntes.1211	unverified-line-scan	no	0				1	primary			06 capitulo-iii-el-despegue-de-la-residenci.md
+1213	yes	apuntes.1213	unverified-line-scan	yes	1	q-nota			2	primary	3-I-1935		05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; 06 capitulo-iii-el-despegue-de-la-residenci.md
+1214	yes	apuntes.1214	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	30-XII-1934; 6-V-1935		05 capitulo-ii-la-academia-1933-1934.md; 06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.3
+1216	yes	apuntes.1216	vdp-apparatus	yes	1	vdp-cuerpo			1	secondary	10-I-1935; 16-XII-1931; 24-V-1932; 5-VIII-1932	486,734,799	vazquez-fundador.12.8
+1217	yes	apuntes.1217	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			3	primary	28-I-1935	1232,1233,1235,1435	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1218	yes	apuntes.1218	unverified-line-scan	no	0				1	secondary	15-agosto-1935; 25-junio-1934; 28-enero-1935; 29-mayo-1934		03-el-gobierno-del-opus-dei-en-la-decada-1940-1950.es.md
+1219	yes	apuntes.1219	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		1221	vazquez-fundador.8.4
+1220	yes	apuntes.1220	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.4
+1221	yes	apuntes.1221	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	19-II-1935	1219	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1222	yes	apuntes.1222	vdp-apparatus	yes	1	vdp-cuerpo			4	primary	19-II-1935		06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1225	yes	apuntes.1225	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			3	primary	19-II-1935		04 primera-parte-la-etapa-inicial.md; 06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1227	yes	apuntes.1227	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1229	yes	apuntes.1229	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.4
+1232	yes	apuntes.1232	vdp-apparatus	yes	3	vdp-cuerpo			3	primary		1217,1233,1235	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1233	yes	apuntes.1233	vdp-apparatus	yes	3	vdp-cuerpo			3	primary		1217,1232,1235	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4; vazquez-fundador.8.7
+1234	yes	apuntes.1234	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	21-II-1935; 22-II-1935	389,1237,1245,1246,1247,1266	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1235	yes	apuntes.1235	vdp-apparatus	yes	2	vdp-cuerpo			1	primary		1217,1232,1233	vazquez-fundador.8.4
+1237	yes	apuntes.1237	vdp-apparatus	yes	2	vdp-cuerpo			3	primary		389,1234,1245,1246,1247,1266	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1238	yes	apuntes.1238	unverified-line-scan	no	0				1	secondary	10-marzo-1935; 29-diciembre-1938; 7-diciembre-1941		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+1240	yes	apuntes.1240	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			5	primary	10-III-1935; 11-marzo-1935; 14-X-1935; 15-VI-1932; 28-X-1935; 31-X-1935; 6-IX-1985; 7-V-1935	1295	06 capitulo-iii-el-despegue-de-la-residenci.md; 08-la-formacion-de-un-gran-relato-sobre-el-opus-dei.es.md; vazquez-fundador.12.8; vazquez-fundador.8.4
+1243	yes	apuntes.1243	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	10-III-1935		06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1244	yes	apuntes.1244	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1245	yes	apuntes.1245	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		389,1234,1237,1246,1247,1266	vazquez-fundador.8.4
+1246	yes	apuntes.1246	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	20-III-1935	389,1234,1237,1245,1247,1266	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1247	yes	apuntes.1247	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		389,1234,1237,1245,1246,1266	vazquez-fundador.8.4
+1248	yes	apuntes.1248	unverified-line-scan	no	0				1	primary			06 capitulo-iii-el-despegue-de-la-residenci.md
+1258	yes	apuntes.1258	vdp-apparatus	yes	2	vdp-cuerpo			3	primary	22-III-1935; 26-III-1935		06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.13.6; vazquez-fundador.8.4
+1265	yes	apuntes.1265	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary	10-XI-1977; 11-mayo-1936; 22-octubre-1934; 26-IV-1935; 26-abril-1935; 7-mayo-1935		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.6
+1266	yes	apuntes.1266	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		389,1234,1237,1245,1246,1247	vazquez-fundador.8.4
+1267	yes	apuntes.1267	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	10-III-1935; 14-X-1935; 15-VI-1932; 25-IV-1935; 28-X-1935; 7-V-1935		06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.12.8; vazquez-fundador.8.4
+1268	yes	apuntes.1268	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.6
+1270	yes	apuntes.1270	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	7-V-1935		vazquez-fundador.8.4
+1273	yes	apuntes.1273	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	21-julio-1929; 23-marzo-1908; 26-abril-1934; 7-mayo-1935	1017	11-los-nombres-y-apellidos-del-fundador-del-opus-dei.es.md; vazquez-fundador.1.1
+1274	yes	apuntes.1274	unverified-line-scan	no	0				1	primary	11-mayo-1936; 22-octubre-1934; 26-abril-1935; 7-mayo-1935		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+1277	yes	apuntes.1277	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.4
+1278	yes	apuntes.1278	unverified-line-scan	no	0				1	primary	30-VIII-1935		06 capitulo-iii-el-despegue-de-la-residenci.md
+1282	yes	apuntes.1282	vdp-apparatus	yes	1	vdp-nota			1	secondary		1371	vazquez-fundador.1.1
+1283	yes	apuntes.1283	vdp-apparatus	yes	3	q-nota,vdp-cuerpo	en		3	primary	2-octubre-1928		romana-062-misericordia-de-dios-inspiro-su-obra-textos-de-san.en.md; romana-062-misericordia-de-dios-inspiro-su-obra-textos-de-san.es.md; vazquez-fundador.8.5
+1285	yes	apuntes.1285	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			4	primary	15-IX-1935; 28-VIII-1935; 3-X-1935		05 capitulo-ii-la-academia-1933-1934.md; 06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.4
+1286	yes	apuntes.1286	unverified-line-scan	no	0				1	primary	15-IX-1935; 28-VIII-1935; 3-X-1935		06 capitulo-iii-el-despegue-de-la-residenci.md
+1287	yes	apuntes.1287	vdp-apparatus	yes	4	q-nota,vdp-cuerpo			7	primary	19-III-1934; 26-VI-1976; 3-X-1935		07 capitulo-iv-la-plenitud-de-dya-1935-1936.md; cn 8-94  (A SENSE OF COMMITMENT).en.md; portillo-carta-19920319.es.md; vazquez-fundador.21.1; vazquez-fundador.8.4; vazquez-fundador.9.1
+1288	yes	apuntes.1288	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	5-X-1935		07 capitulo-iv-la-plenitud-de-dya-1935-1936.md; vazquez-fundador.8.6
+1289	yes	apuntes.1289	unverified-line-scan	yes	2	q-nota			3	primary	5-X-1935		07 capitulo-iv-la-plenitud-de-dya-1935-1936.md; ocariz-meditacion-20200626.es.md; romana-070-meditaciones.es.md
+1290	yes	apuntes.1290	vdp-apparatus	yes	2	vdp-cuerpo			5	primary	10-III-1935; 14-X-1935; 15-VI-1932; 25-I-1936; 28-X-1935; 7-V-1935	1307	07 capitulo-iv-la-plenitud-de-dya-1935-1936.md; 08 capitulo-v-la-residencia-de-ferraz-16-19.md; vazquez-fundador.12.7; vazquez-fundador.12.8; vazquez-fundador.8.8
+1292	yes	apuntes.1292	vdp-apparatus	no	0				2	primary	10-III-1935; 14-X-1935; 15-VI-1932; 28-X-1935; 7-V-1935		06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.12.8
+1293	yes	apuntes.1293	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			4	primary	19-VI-1978; 28-X-1935	1199,1200	05 capitulo-ii-la-academia-1933-1934.md; 07 capitulo-iv-la-plenitud-de-dya-1935-1936.md; cn 3-11  (WITH OUR FATHER AND THE FATHER).en.md; vazquez-fundador.8.5
+1295	yes	apuntes.1295	vdp-apparatus	yes	4	q-cita,q-nota,vdp-cuerpo			4	primary	10-octubre-1935; 2-XI-1935	1240	07 capitulo-iv-la-plenitud-de-dya-1935-1936.md; 10-relacion-del-viaje-de-san-josemaria-a-valencia-1936.es.md; vazquez-fundador.8.4; vazquez-fundador.8.8
+1296	yes	apuntes.1296	unverified-line-scan	yes	1	q-cita			1	secondary	1-XI-1935; 2-XI-1935		07 capitulo-iv-la-plenitud-de-dya-1935-1936.md
+1297	yes	apuntes.1297	unverified-line-scan	no	0				1	primary	9-XI-1935		07 capitulo-iv-la-plenitud-de-dya-1935-1936.md
+1298	yes	apuntes.1298	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	26-X-1935; 9-XI-1935		07 capitulo-iv-la-plenitud-de-dya-1935-1936.md; vazquez-fundador.8.5; vazquez-fundador.8.7
+1301	yes	apuntes.1301	unverified-line-scan	no	0				1	secondary	15-XI-1935; 17-XI-1935		07 capitulo-iv-la-plenitud-de-dya-1935-1936.md
+1302	yes	apuntes.1302	unverified-line-scan	no	0				1	primary	19-III-1934; 25-noviembre-1935		06-conviene-que-me-relacione-con-los-propagandistas-de-herrera-y.es.md
+1303	yes	apuntes.1303	unverified-line-scan	yes	1	q-nota			1	primary			05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md
+1304	yes	apuntes.1304	vdp-apparatus	yes	6	vdp-cuerpo,vdp-nota			4	primary	12-XII-1935; 12-diciembre-1935; 13-IV-1939; 16-III-1934; 17-VII-1939; 24-II-1934; 24-VIII-1940	1141,1160,1596,1598,1600,1620	vazquez-fundador.11.5; vazquez-fundador.12.2; vazquez-fundador.8.6; vazquez-fundador.8.8
+1306	yes	apuntes.1306	unverified-line-scan	no	0			yes	2	primary	10-I-1935; 10-I-1936		06 capitulo-iii-el-despegue-de-la-residenci.md; crt guiones y examenes.md
+1307	yes	apuntes.1307	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	14-X-1935; 25-I-1936	1290	vazquez-fundador.12.7; vazquez-fundador.8.8
+1309	yes	apuntes.1309	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			4	primary	11-III-1940; 11-febrero-1934; 14-II-1966; 2-octubre-1928; 25-I-1936; 25-enero-1936; 29-XII-1947; 30-mayo-1934; 4-marzo-1933; 8-V-1936		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 07 capitulo-iv-la-plenitud-de-dya-1935-1936.md; itinerario-juridico-del-opus-dei.es.md; vazquez-fundador.12.7
+1310	yes	apuntes.1310	vdp-apparatus	no	0				1	primary			vazquez-fundador.6.1
+1312	yes	apuntes.1312	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		1313	vazquez-fundador.8.8
+1313	yes	apuntes.1313	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary		1312	vazquez-fundador.8.8
+1315	yes	apuntes.1315	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	13-II-1936; 26-XI-1935	1318	08 capitulo-v-la-residencia-de-ferraz-16-19.md; vazquez-fundador.8.8
+1317	yes	apuntes.1317	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			08 capitulo-v-la-residencia-de-ferraz-16-19.md; vazquez-fundador.8.8
+1318	yes	apuntes.1318	vdp-apparatus	yes	3	q-cita,q-nota,vdp-cuerpo			3	primary	10-marzo-1936; 28-II-1936	1315	08 capitulo-v-la-residencia-de-ferraz-16-19.md; 10-salir-de-espana-entre-la-guerra-mundial-y-la-guerra-fria-la.es.md; vazquez-fundador.8.8
+1319	yes	apuntes.1319	vdp-apparatus	yes	1	vdp-cuerpo			1	secondary	1-II-1938; 18-IV-1936; 25-III-1936; 28-II-1936; 31-I-1938	1326,1330,1519,1520	vazquez-fundador.13.4
+1320	yes	apuntes.1320	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	10-marzo-1936		10-relacion-del-viaje-de-san-josemaria-a-valencia-1936.es.md; vazquez-fundador.8.8
+1321	yes	apuntes.1321	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			4	primary	10-marzo-1936; 11-III-1936; 11-marzo-1936; 7-abril-1938; 8-mayo-1936		08 capitulo-v-la-residencia-de-ferraz-16-19.md; 10-relacion-del-viaje-de-san-josemaria-a-valencia-1936.es.md; 10-salir-de-espana-entre-la-guerra-mundial-y-la-guerra-fria-la.es.md; vazquez-fundador.8.8
+1322	yes	apuntes.1322	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary			08 capitulo-v-la-residencia-de-ferraz-16-19.md; vazquez-fundador.8.8
+1323	yes	apuntes.1323	vdp-apparatus	yes	1	vdp-cuerpo			2	primary		1331,1332,1347,1351,1357	vazquez-fundador.8.8
+1324	yes	apuntes.1324	vdp-apparatus	yes	1	vdp-cuerpo			3	primary	10-marzo-1936; 25-III-1936	1325	08 capitulo-v-la-residencia-de-ferraz-16-19.md; 10-relacion-del-viaje-de-san-josemaria-a-valencia-1936.es.md; vazquez-fundador.8.8
+1325	yes	apuntes.1325	vdp-apparatus	yes	4	q-nota,vdp-cuerpo			4	primary	25-III-1936	1324	08 capitulo-v-la-residencia-de-ferraz-16-19.md; 10-relacion-del-viaje-de-san-josemaria-a-valencia-1936.es.md; vazquez-fundador.8.8; vazquez-fundador.9.1
+1326	yes	apuntes.1326	vdp-apparatus	yes	1	vdp-cuerpo			2	secondary	1-II-1938; 18-IV-1936; 22-marzo-1933; 25-III-1936; 25-marzo-1936; 28-II-1936; 31-I-1938; 6-marzo-1934	1319,1330,1519,1520	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.13.4
+1330	yes	apuntes.1330	vdp-apparatus	yes	1	vdp-cuerpo			1	secondary	1-II-1938; 18-IV-1936; 25-III-1936; 28-II-1936; 31-I-1938	1319,1326,1519,1520	vazquez-fundador.13.4
+1331	yes	apuntes.1331	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1323,1332,1347,1351,1357	vazquez-fundador.8.8
+1332	yes	apuntes.1332	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota,vdp-nota-ref		yes	5	primary	30-Abril-1936; 30-IV-1936	194,707,989,1180,1323,1331,1347,1351,1357	cn 4-12  (A CONTEMPLATIVE OF THE EUCHARIST).en.md; crt guiones y examenes.md; vazquez-fundador.1.3; vazquez-fundador.8.8
+1333	yes	apuntes.1333	unverified-line-scan	yes	1	q-nota			1	primary	30-IV-1936		08 capitulo-v-la-residencia-de-ferraz-16-19.md
+1334	yes	apuntes.1334	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			5	primary	11-V-1936; 11-mayo-1936; 22-octubre-1934; 26-abril-1935; 31-V-1936; 7-mayo-1935	1335,1336,1337,1342,1344,1345,1346	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 08 capitulo-v-la-residencia-de-ferraz-16-19.md; 11-las-relaciones-escritas-de-san-josemaria-sobre-sus-visitas-a.es.md; vazquez-fundador.8.8
+1335	yes	apuntes.1335	vdp-apparatus	yes	1	vdp-nota			1	primary	31-V-1936	1334,1336,1337,1342,1344,1345,1346	vazquez-fundador.8.8
+1336	yes	apuntes.1336	vdp-apparatus	yes	1	vdp-nota			1	primary	31-V-1936	1334,1335,1337,1342,1344,1345,1346	vazquez-fundador.8.8
+1337	yes	apuntes.1337	vdp-apparatus	yes	1	vdp-nota			1	primary	31-V-1936	1334,1335,1336,1342,1344,1345,1346	vazquez-fundador.8.8
+1342	yes	apuntes.1342	vdp-apparatus	yes	1	vdp-nota			1	primary	31-V-1936	1334,1335,1336,1337,1344,1345,1346	vazquez-fundador.8.8
+1343	yes	apuntes.1343	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	30-Mayo-1936		vazquez-fundador.8.8
+1344	yes	apuntes.1344	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			4	primary	10-VI-1931; 31-V-1936; 8-VI-1936; 8-VII-1927	231,407,751,959,1334,1335,1336,1337,1342,1345,1346,1357	08 capitulo-v-la-residencia-de-ferraz-16-19.md; vazquez-fundador.4.3; vazquez-fundador.5.1; vazquez-fundador.8.8
+1345	yes	apuntes.1345	vdp-apparatus	yes	1	vdp-nota			1	primary	31-V-1936	1334,1335,1336,1337,1342,1344,1346	vazquez-fundador.8.8
+1346	yes	apuntes.1346	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary	2-VI-1936; 31-V-1936	1334,1335,1336,1337,1342,1344,1345	07 capitulo-iv-la-plenitud-de-dya-1935-1936.md; vazquez-fundador.13.7; vazquez-fundador.8.8
+1347	yes	apuntes.1347	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1323,1331,1332,1351,1357	vazquez-fundador.8.8
+1350	yes	apuntes.1350	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary			08 capitulo-v-la-residencia-de-ferraz-16-19.md; vazquez-fundador.8.8
+1351	yes	apuntes.1351	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1323,1331,1332,1347,1357	vazquez-fundador.8.8
+1352	yes	apuntes.1352	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			sm rt exams Jan - Dec odd years.es.md; vazquez-fundador.8.8
+1356	yes	apuntes.1356	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.8
+1357	yes	apuntes.1357	vdp-apparatus	yes	2	vdp-cuerpo			2	primary		231,407,751,959,1323,1331,1332,1344,1347,1351	vazquez-fundador.4.3; vazquez-fundador.8.8
+1361	yes	apuntes.1361	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	17-VI-1936; 24-VII-1936; 30-VI-1936		08 capitulo-v-la-residencia-de-ferraz-16-19.md; vazquez-fundador.8.8
+1365	yes	apuntes.1365	vdp-apparatus	yes	3	q-nota,vdp-cuerpo			2	primary			08 capitulo-v-la-residencia-de-ferraz-16-19.md; vazquez-fundador.8.8
+1369	yes	apuntes.1369	vdp-apparatus	yes	3	q-nota,vdp-cuerpo			3	primary	28-VI-1936		08 capitulo-v-la-residencia-de-ferraz-16-19.md; vazquez-fundador.8.8
+1371	yes	apuntes.1371	vdp-apparatus	yes	6	q-cita,q-nota,vdp-cuerpo,vdp-nota			5	primary	11-II-1934; 12-XI-1931; 17-VI-1936; 24-VII-1936; 30-VI-1936	388,1128,1282	08 capitulo-v-la-residencia-de-ferraz-16-19.md; vazquez-fundador.1.1; vazquez-fundador.8.8; vazquez-fundador.9.3
+1372	yes	apuntes.1372	vdp-apparatus	yes	7	vdp-cuerpo,vdp-nota			6	primary	30-VI-1936; 30-junio-1936	413,432,1014,1380,1732	madrid-1936-1937.es.md; vazquez-fundador.11.3; vazquez-fundador.5.6; vazquez-fundador.8.8; vazquez-fundador.9.2; vazquez-fundador.9.6
+1373	yes	apuntes.1373	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary			10-relacion-del-viaje-de-san-josemaria-a-valencia-1936.es.md; vazquez-fundador.8.8
+1374	yes	apuntes.1374	unverified-line-scan	no	0				1	primary			portillo-carta-19920319.es.md
+1377	yes	apuntes.1377	vdp-apparatus	yes	1	vdp-nota-ref			2	secondary			vazquez-fundador.9.6
+1379	yes	apuntes.1379	vdp-apparatus	yes	4	vdp-cuerpo			5	primary	19-mayo-1937; 6-mayo-1937; 8-V-1937; 8-mayo-1937; 9-V-1937	1380	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.11.3; vazquez-fundador.9.6
+1380	yes	apuntes.1380	vdp-apparatus	yes	11	q-cita,q-nota,vdp-cuerpo,vdp-nota			12	primary	23-mayo-1937; 28-IX-1938; 29-XI-1931; 8-V-1937; 9-Mayo-1937; 9-V-1937; 9-mayo-1937	217,347,413,432,1014,1029,1372,1379,1732	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 04 en-torno-a-la-legacionde-honduras-marzo.md; 05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; vazquez-fundador.11.3; vazquez-fundador.5.6; vazquez-fundador.6.7; vazquez-fundador.9.6
+1381	yes	apuntes.1381	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	10-marzo-1937; 11-V-1937	1382	vazquez-fundador.11.3; vazquez-fundador.9.6
+1382	yes	apuntes.1382	vdp-apparatus	yes	1	vdp-cuerpo			1	secondary	10-marzo-1937; 11-V-1937	1381	vazquez-fundador.9.6
+1388	yes	apuntes.1388	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	15-IX-1938; 21-III-1938; 21-V-1937	1569,1589	vazquez-fundador.11.3; vazquez-fundador.9.6
+1389	yes	apuntes.1389	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			3	primary	23-V-1937; 23-mayo-1937; 9-mayo-1937		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 04 en-torno-a-la-legacionde-honduras-marzo.md; vazquez-fundador.9.6
+1391	yes	apuntes.1391	vdp-apparatus	yes	4	vdp-cuerpo			5	primary	26-V-1937		04 en-torno-a-la-legacionde-honduras-marzo.md; vazquez-fundador.11.3; vazquez-fundador.9.6
+1396	yes	apuntes.1396	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	17-diciembre-1937		vazquez-fundador.11.1
+1397	yes	apuntes.1397	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.1
+1398	yes	apuntes.1398	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	11-XII-1937		vazquez-fundador.11.1
+1400	yes	apuntes.1400	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	12-XII-1937		vazquez-fundador.11.1
+1403	yes	apuntes.1403	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	13-XII-1937; 25-I-1938	1510	vazquez-fundador.11.1
+1406	yes	apuntes.1406	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	13-XII-1937; 14-XII-1937; 15-XII-1937; 5-II-1938	1408,1410,1513,1527	vazquez-fundador.11.1; vazquez-fundador.11.2
+1408	yes	apuntes.1408	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	13-XII-1937; 14-XII-1937; 15-XII-1937; 5-II-1938	1406,1410,1513,1527	vazquez-fundador.11.2
+1410	yes	apuntes.1410	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	13-XII-1937; 14-XII-1937; 15-XII-1937; 5-II-1938	1406,1408,1513,1527	vazquez-fundador.11.1; vazquez-fundador.11.2
+1411	yes	apuntes.1411	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1412	vazquez-fundador.11.1
+1412	yes	apuntes.1412	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1411	vazquez-fundador.11.1
+1414	yes	apuntes.1414	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.1
+1419	yes	apuntes.1419	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1420,1421	vazquez-fundador.11.1
+1420	yes	apuntes.1420	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1419,1421	vazquez-fundador.11.1
+1421	yes	apuntes.1421	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1419,1420	vazquez-fundador.11.1
+1422	yes	apuntes.1422	vdp-apparatus	yes	2	vdp-cuerpo			1	primary	19-XII-1937; 23-XII-1937	1423,1444	vazquez-fundador.11.1
+1423	yes	apuntes.1423	vdp-apparatus	yes	6	q-nota,vdp-cuerpo,vdp-nota			4	primary	19-XII-1937; 19-diciembre-1937; 23-XII-1937; 23-diciembre-1937	1422,1444	03-la-formacion-de-la-biblioteca-de-san-josemaria-escriva-de.es.md; vazquez-fundador.11.1; vazquez-fundador.11.5
+1425	yes	apuntes.1425	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	19-XII-1937		vazquez-fundador.11.1
+1426	yes	apuntes.1426	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	19-XII-1937		vazquez-fundador.11.1
+1428	yes	apuntes.1428	vdp-apparatus	no	0				1	primary	20-XII-1937		vazquez-fundador.11.1
+1429	yes	apuntes.1429	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	20-XII-1937		para-mi-vivir-es-cristo.es.md; vazquez-fundador.11.1
+1430	yes	apuntes.1430	unverified-line-scan	no	0				1	secondary			04-a-devocao-de-sao-josemaria-escriva-a-sao-pio-x-e-a-sua-nomeacao.pt.md
+1431	yes	apuntes.1431	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	20-XII-1937; 22-XII-1937	1437	vazquez-fundador.11.1
+1433	yes	apuntes.1433	vdp-apparatus	yes	2	vdp-cuerpo			1	primary	21-XII-1937	1434	vazquez-fundador.11.1
+1434	yes	apuntes.1434	vdp-apparatus	yes	2	vdp-cuerpo			1	primary	21-XII-1937	1433	vazquez-fundador.11.1
+1435	yes	apuntes.1435	vdp-apparatus	yes	4	q-cita,vdp-cuerpo,vdp-nota			3	primary	14-febrero-1943; 16-julio-1932; 21-XII-1937; 23-IX-1937	1217	05 la-evasion-del-fundador-y-de-sus-acompan.md; fieles-del-opus-dei.es.md; vazquez-fundador.8.4
+1436	yes	apuntes.1436	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	21-XII-1937		vazquez-fundador.11.6
+1437	yes	apuntes.1437	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	20-XII-1937; 22-XII-1937	1431	vazquez-fundador.11.1
+1439	yes	apuntes.1439	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary	20-noviembre-1954; 22-XII-1937; 22-diciembre-1937; 23-diciembre-1937	1440	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.10.6; vazquez-fundador.11.1
+1440	yes	apuntes.1440	vdp-apparatus	yes	1	vdp-nota			6	primary	22-XII-1937; 22-diciembre-1937; 25-V-1980	1439	05 la-evasion-del-fundador-y-de-sus-acompan.md; vazquez-fundador.10.6; vazquez-fundador.10.7; vazquez-fundador.11.3
+1441	yes	apuntes.1441	vdp-apparatus	yes	2	vdp-cuerpo			3	primary			cn 12-10  (THE FIRST IN LOVE).en.md; vazquez-fundador.11.1; vazquez-fundador.12.2
+1444	yes	apuntes.1444	vdp-apparatus	yes	3	vdp-cuerpo			2	primary	19-XII-1937; 23-XII-1937	1422,1423	vazquez-fundador.11.1
+1445	yes	apuntes.1445	vdp-apparatus	yes	6	q-cita,q-nota,vdp-cuerpo	it		7	primary	20-noviembre-1954; 22-diciembre-1937; 23-XII-1937; 23-diciembre-1937; 3-diciembre-1937		02-el-doctorado-de-san-josemaria-en-la-universidad-de-madrid.es.md; 02-los-comienzos-del-apostolado-del-opus-dei-entre-mujeres-1930.es.md; 02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 03-gli-studi-di-teologia-di-san-josemaria-escriva.it.md; vazquez-fundador.11.1; vazquez-fundador.11.4; vazquez-fundador.11.5
+1447	yes	apuntes.1447	vdp-apparatus	no	0				1	primary	24-XII-1937		vazquez-fundador.11.1
+1449	yes	apuntes.1449	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	24-XII-1937; 29-XII-1937	1455	vazquez-fundador.11.1
+1454	yes	apuntes.1454	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.1
+1455	yes	apuntes.1455	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	24-XII-1937; 29-XII-1937	1449	vazquez-fundador.11.1
+1457	yes	apuntes.1457	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	30-XII-1937; 5-I-1938	1466	vazquez-fundador.11.1
+1458	yes	apuntes.1458	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota,vdp-nota-ref			2	primary	13-I-1938; 17-I-1938; 31-XII-1938	1484,1493	vazquez-fundador.11.2
+1461	yes	apuntes.1461	vdp-apparatus	yes	1	vdp-cuerpo			1	secondary	2-I-1938		vazquez-fundador.11.5
+1463	yes	apuntes.1463	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	2-I-1938; 2-enero-1938		vazquez-fundador.10.9
+1465	yes	apuntes.1465	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.1
+1466	yes	apuntes.1466	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	30-XII-1937; 5-I-1938	1457	vazquez-fundador.11.1
+1467	yes	apuntes.1467	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	6-I-1938		vazquez-fundador.11.2
+1474	yes	apuntes.1474	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	4-VI-1938; 8-I-1938	1573	vazquez-fundador.11.2
+1475	yes	apuntes.1475	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	25-I-1938; 9-I-1938	1510	portillo-carta-19920319.es.md; vazquez-fundador.11.2
+1476	yes	apuntes.1476	vdp-apparatus	yes	4	vdp-cuerpo			4	primary	10-I-1938	1477	vazquez-fundador.1.1; vazquez-fundador.11.2; vazquez-fundador.15.5; vazquez-fundador.5.6
+1477	yes	apuntes.1477	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	10-I-1938	1476	vazquez-fundador.11.2
+1479	yes	apuntes.1479	vdp-apparatus	no	0				1	primary	10-I-1938		vazquez-fundador.11.5
+1480	yes	apuntes.1480	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	11-I-1938; 11-enero-1938		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.11.2
+1482	yes	apuntes.1482	vdp-apparatus	yes	1	vdp-nota-ref			2	primary	11-I-1938		vazquez-fundador.10.3
+1483	yes	apuntes.1483	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	12-I-1938		vazquez-fundador.11.2; vazquez-fundador.11.3
+1484	yes	apuntes.1484	vdp-apparatus	yes	6	vdp-cuerpo,vdp-nota,vdp-nota-ref			5	primary	13-I-1938; 15-XII-1942; 17-I-1938; 23-septiembre-1942; 31-XII-1938	1458,1493	vazquez-fundador.11.2; vazquez-fundador.11.6; vazquez-fundador.2.4
+1487	yes	apuntes.1487	unverified-line-scan	no	0				1	primary	14-enero-1938		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+1490	yes	apuntes.1490	vdp-apparatus	no	0				1	secondary	15-I-1938		vazquez-fundador.11.3
+1491	yes	apuntes.1491	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	15-I-1938		vazquez-fundador.11.2
+1492	yes	apuntes.1492	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.2
+1493	yes	apuntes.1493	vdp-apparatus	yes	5	q-cita,vdp-cuerpo,vdp-nota			3	primary	13-I-1938; 17-I-1938; 17-enero-1938; 31-XII-1938	1458,1484	burgos.es.md; vazquez-fundador.11.2
+1494	yes	apuntes.1494	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			2	primary	17-I-1938		vazquez-fundador.11.3
+1499	yes	apuntes.1499	vdp-apparatus	no	0				2	primary	15-enero-1938; 19-enero-1938; 20-I-1938		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.11.3
+1500	yes	apuntes.1500	vdp-apparatus	no	0				1	primary	20-I-1938		vazquez-fundador.11.3
+1501	yes	apuntes.1501	vdp-apparatus	no	0				1	primary	20-I-1938		vazquez-fundador.11.3
+1502	yes	apuntes.1502	vdp-apparatus	yes	1	vdp-cuerpo			1	secondary	20-I-1938		vazquez-fundador.11.4
+1503	yes	apuntes.1503	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	21-I-1938; 22-I-1938; 23-I-1938; 25-enero-1938; 3-marzo-1938	1505,1506,1508,1510	vazquez-fundador.11.3
+1505	yes	apuntes.1505	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	21-I-1938; 22-I-1938; 23-I-1938; 25-enero-1938; 3-marzo-1938	1503,1506,1508,1510	vazquez-fundador.11.3
+1506	yes	apuntes.1506	vdp-apparatus	yes	3	vdp-cuerpo			3	primary	21-I-1938; 22-I-1938; 23-I-1938; 23-febrero-1938; 24-I-1938; 25-enero-1938; 3-marzo-1938	1503,1505,1508,1509,1510	13-epistolario-entre-san-josemaria-escriva-de-balaguer-y-el-obispo.es.md; vazquez-fundador.11.3
+1508	yes	apuntes.1508	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	21-I-1938; 22-I-1938; 23-I-1938; 25-enero-1938; 3-marzo-1938	1503,1505,1506,1510	vazquez-fundador.11.3
+1509	yes	apuntes.1509	vdp-apparatus	yes	2	vdp-cuerpo			1	primary	22-I-1938; 24-I-1938	1506	vazquez-fundador.11.3
+1510	yes	apuntes.1510	vdp-apparatus	yes	8	q-cita,vdp-cuerpo,vdp-nota,vdp-nota-ref			6	primary	13-XII-1937; 21-I-1938; 22-I-1938; 23-I-1938; 25-I-1938; 25-enero-1938; 3-marzo-1938	1403,1475,1503,1505,1506,1508	poveda-castroverde-pedro.es.md; vazquez-fundador.11.1; vazquez-fundador.11.2; vazquez-fundador.11.3
+1513	yes	apuntes.1513	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	13-XII-1937; 14-XII-1937; 15-XII-1937; 27-enero-1938; 5-II-1938	1406,1408,1410,1527	07-juan-jimenez-vargas-1913-1997.es.md; vazquez-fundador.11.2
+1514	yes	apuntes.1514	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.3
+1517	yes	apuntes.1517	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.3
+1519	yes	apuntes.1519	vdp-apparatus	yes	1	vdp-cuerpo			1	secondary	1-II-1938; 18-IV-1936; 25-III-1936; 28-II-1936; 31-I-1938	1319,1326,1330,1520	vazquez-fundador.13.4
+1520	yes	apuntes.1520	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	1-II-1938; 18-IV-1936; 25-III-1936; 28-II-1936; 31-I-1938	1319,1326,1330,1519	vazquez-fundador.11.3; vazquez-fundador.13.4
+1521	yes	apuntes.1521	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.3
+1522	yes	apuntes.1522	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.3
+1523	yes	apuntes.1523	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.3
+1524	yes	apuntes.1524	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	4-II-1938		vazquez-fundador.11.4
+1527	yes	apuntes.1527	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	13-XII-1937; 14-XII-1937; 15-XII-1937; 5-II-1938	1406,1408,1410,1513	vazquez-fundador.11.2
+1530	yes	apuntes.1530	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	10-II-1938	1531,1534	vazquez-fundador.11.3
+1531	yes	apuntes.1531	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	10-II-1938	1530,1534	vazquez-fundador.11.3
+1534	yes	apuntes.1534	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	10-II-1938	1530,1531	vazquez-fundador.11.3
+1540	yes	apuntes.1540	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	17-II-1938	1543	vazquez-fundador.11.3
+1541	yes	apuntes.1541	unverified-line-scan	no	0				1	secondary	14-abril-1938; 16-febrero-1938; 21-febrero-1938; 27-febrero-1938; 7-enero-1938		15-un-boletin-durante-la-guerra-civil-espanola-noticias-el-segundo.es.md
+1543	yes	apuntes.1543	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	17-II-1938	1540	vazquez-fundador.11.3
+1544	yes	apuntes.1544	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	18-II-1938		vazquez-fundador.11.3
+1545	yes	apuntes.1545	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.3
+1547	yes	apuntes.1547	vdp-apparatus	yes	3	q-cita,vdp-cuerpo			3	primary	14-abril-1938; 16-febrero-1938; 21-II-1938; 21-febrero-1938; 27-febrero-1938; 7-enero-1938		15-un-boletin-durante-la-guerra-civil-espanola-noticias-el-segundo.es.md; vazquez-fundador.11.3
+1550	yes	apuntes.1550	vdp-apparatus	no	0				1	secondary	22-II-1938		vazquez-fundador.12.2
+1554	yes	apuntes.1554	vdp-apparatus	no	0				1	primary			vazquez-fundador.4.3
+1566	yes	apuntes.1566	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1567	vazquez-fundador.11.3
+1567	yes	apuntes.1567	vdp-apparatus	yes	6	vdp-cuerpo			7	primary	10-III-1938; 21-III-1938	1566	vazquez-fundador.11.3
+1568	yes	apuntes.1568	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1569	vazquez-fundador.11.3
+1569	yes	apuntes.1569	vdp-apparatus	yes	4	vdp-cuerpo			6	primary	10-junio-1976; 15-IX-1938; 21-III-1938; 21-marzo-1938; 7-julio-1975	1388,1568,1589	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.11.3
+1570	yes	apuntes.1570	unverified-line-scan	no	0				1	secondary	17-mayo-1938; 20-septiembre-1938; 23-marzo-1938; 23-septiembre-1938; 26-marzo-1938		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+1572	yes	apuntes.1572	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	15-IV-1938; 4-VI-1938; 4-junio-1938		vazquez-fundador.11.3
+1573	yes	apuntes.1573	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	4-VI-1938; 8-I-1938	1474	vazquez-fundador.11.2
+1574	yes	apuntes.1574	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary	4-VI-1938		cn 11-91  (NUNC COEPI).en.md; portillo-carta-19911001.es.md; vazquez-fundador.11.4
+1575	yes	apuntes.1575	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	5-VI-1938		vazquez-fundador.11.5
+1576	yes	apuntes.1576	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.4
+1577	yes	apuntes.1577	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			2	primary	17-VII-1939; 2-VIII-1938	1582,1600	vazquez-fundador.11.5
+1578	yes	apuntes.1578	vdp-apparatus	no	0				1	primary	2-VIII-1938		vazquez-fundador.11.5
+1579	yes	apuntes.1579	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	2-VIII-1938	1580	vazquez-fundador.11.5
+1580	yes	apuntes.1580	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	2-VIII-1938	1579	vazquez-fundador.11.5
+1581	yes	apuntes.1581	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	2-VIII-1938		vazquez-fundador.11.5
+1582	yes	apuntes.1582	vdp-apparatus	yes	5	vdp-cuerpo,vdp-nota			3	primary	17-VII-1939; 2-VIII-1938; 2-agosto-1938	1577,1600	vazquez-fundador.11.5
+1585	yes	apuntes.1585	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	20-VIII-1938		vazquez-fundador.11.6
+1586	yes	apuntes.1586	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.11.6
+1587	yes	apuntes.1587	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	14-IX-1938		echevarria-carta-20150901.es.md; vazquez-fundador.11.7
+1588	yes	apuntes.1588	vdp-apparatus	yes	4	q-cita,q-nota,vdp-cuerpo			3	primary	28-IX-1938; 29-XI-1931		05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md; vazquez-fundador.11.7; vazquez-fundador.16.3
+1589	yes	apuntes.1589	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	15-IX-1938; 21-III-1938	1388,1569	vazquez-fundador.11.3
+1590	yes	apuntes.1590	unverified-line-scan	yes	1	q-cita			1	primary	19-IV-1938		liturgia-vision-general.es.md
+1594	yes	apuntes.1594	vdp-apparatus	yes	2	vdp-cuerpo			3	primary	23-I-1929; 23-enero-1929	70,174,178	echevarria-carta-19990620.es.md; vazquez-fundador.2.6; vazquez-fundador.5.6
+1595	yes	apuntes.1595	vdp-apparatus	yes	2	vdp-cuerpo			4	primary	13-IV-1939; 13-abril-1939; 17-junio-1939; 20-diciembre-1941; 24-agosto-1940; 8-octubre-1940		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.12.1; vazquez-fundador.9.2
+1596	yes	apuntes.1596	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	12-XII-1935; 13-IV-1939; 16-III-1934; 24-II-1934	1141,1160,1304	vazquez-fundador.12.2; vazquez-fundador.13.1
+1598	yes	apuntes.1598	vdp-apparatus	yes	5	vdp-cuerpo,vdp-nota			2	primary	12-diciembre-1935; 17-VII-1939; 24-VIII-1940	1304,1600,1620	vazquez-fundador.11.5; vazquez-fundador.12.6
+1600	yes	apuntes.1600	vdp-apparatus	yes	6	vdp-cuerpo,vdp-nota			2	primary	12-diciembre-1935; 17-VII-1939; 2-VIII-1938; 24-VIII-1940	1304,1577,1582,1598,1620	vazquez-fundador.11.5
+1602	yes	apuntes.1602	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.12.4
+1603	yes	apuntes.1603	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	12-VIII-1939	1604	vazquez-fundador.12.4
+1604	yes	apuntes.1604	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	12-VIII-1939	1603	vazquez-fundador.12.4
+1605	yes	apuntes.1605	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	3-septiembre-1939		vazquez-fundador.12.7
+1606	yes	apuntes.1606	vdp-apparatus	yes	1	vdp-nota-ref			2	primary	25-XI-1939		vazquez-fundador.12.7
+1607	yes	apuntes.1607	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota-tras			4	primary	25-XI-1939		05 segunda-parte-las-aprobaciones-diocesana.md; vazquez-fundador.12.7; vazquez-fundador.13.1
+1609	yes	apuntes.1609	vdp-apparatus	yes	2	q-nota,vdp-cuerpo	en		4	primary	14-II-1966; 29-XII-1947; 5-II-1940		05 segunda-parte-las-aprobaciones-diocesana.md; romana-040-en-el-29-simposio-internacional-sobre-teologia.en.md; romana-040-en-el-29-simposio-internacional-sobre-teologia.es.md; vazquez-fundador.12.7
+1610	yes	apuntes.1610	vdp-apparatus	yes	4	q-cita,vdp-cuerpo			4	primary	1-julio-1940; 8-V-1940; 8-mayo-1940		07-el-libro-menos-conocido-de-san-josemaria-la-abadesa-de-las.es.md; vazquez-fundador.12.6; vazquez-fundador.13.1; vazquez-fundador.14.4
+1611	yes	apuntes.1611	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.12.8
+1612	yes	apuntes.1612	vdp-apparatus	yes	3	q-cita,vdp-cuerpo			3	primary	21-junio-1940		mujeres-en-el-opus-dei-inicio-del-apostolado.es.md; vazquez-fundador.12.5; vazquez-fundador.13.1
+1613	yes	apuntes.1613	vdp-apparatus	yes	3	q-nota,vdp-cuerpo			4	primary	21-VI-1940		05 segunda-parte-las-aprobaciones-diocesana.md; 07-el-libro-menos-conocido-de-san-josemaria-la-abadesa-de-las.es.md; 09-los-primeros-pasos-del-opus-dei-en-italia-epistolario-entre.es.md; vazquez-fundador.12.7
+1614	yes	apuntes.1614	vdp-apparatus	no	0				1	secondary	21-VI-1940		vazquez-fundador.12.8
+1615	yes	apuntes.1615	vdp-apparatus	no	0				1	primary	21-VI-1940		vazquez-fundador.12.7
+1616	yes	apuntes.1616	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	1-julio-1940; 13-enero-1942; 27-septiembre-2014		02-el-claustro-academico-del-centro-de-estudios-eclesiasticos-de.es.md; vazquez-fundador.14.4
+1617	yes	apuntes.1617	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	4-VIII-1940; 4-agosto-1940		vazquez-fundador.12.5
+1618	yes	apuntes.1618	vdp-apparatus	yes	4	q-cita,vdp-cuerpo			4	primary	4-VIII-1940; 4-agosto-1940		07-el-libro-menos-conocido-de-san-josemaria-la-abadesa-de-las.es.md; vazquez-fundador.12.5; vazquez-fundador.12.6; vazquez-fundador.14.4
+1619	yes	apuntes.1619	vdp-apparatus	yes	1	vdp-cuerpo		yes	3	primary	13-abril-1939; 17-junio-1939; 20-diciembre-1941; 24-VIII-1940; 24-agosto-1940; 8-octubre-1940		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; crt guiones y examenes.md; vazquez-fundador.12.8
+1620	yes	apuntes.1620	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			2	primary	12-diciembre-1935; 17-VII-1939; 24-VIII-1940	1304,1598,1600	vazquez-fundador.11.5; vazquez-fundador.9.1
+1621	yes	apuntes.1621	unverified-line-scan	no	0				1	primary			fe.es.md
+1622	yes	apuntes.1622	vdp-apparatus	yes	2	vdp-cuerpo			3	primary			vazquez-fundador.12.8; vazquez-fundador.13.7
+1623	yes	apuntes.1623	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	14-IX-1940		vazquez-fundador.12.8
+1624	yes	apuntes.1624	vdp-apparatus	yes	2	vdp-cuerpo			3	primary	10-septiembre-1940; 15-IX-1940; 15-noviembre-1940; 15-septiembre-1940; 16-Septiembre-1940; 16-septiembre-1940; 23-abril-1940		13-sirviendo-a-la-iglesia-desde-posiciones-diversas-el-epistolario.es.md; vazquez-fundador.12.8; vazquez-fundador.13.1
+1625	yes	apuntes.1625	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	14-II-1966; 29-XII-1947; 4-XI-1940		vazquez-fundador.12.8
+1626	yes	apuntes.1626	vdp-apparatus	yes	1	vdp-cuerpo			5	primary	10-septiembre-1940; 15-XI-1940; 15-noviembre-1940; 15-septiembre-1940; 16-Septiembre-1940; 16-septiembre-1940; 20-noviembre-1929; 23-abril-1940		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 08-la-formacion-de-un-gran-relato-sobre-el-opus-dei.es.md; 13-sirviendo-a-la-iglesia-desde-posiciones-diversas-el-epistolario.es.md; vazquez-fundador.12.8
+1627	yes	apuntes.1627	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.1
+1628	yes	apuntes.1628	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.1
+1634	yes	apuntes.1634	vdp-apparatus	no	0				1	primary			vazquez-fundador.7.4
+1635	yes	apuntes.1635	vdp-apparatus	no	0				1	primary	3-octubre-1932		vazquez-fundador.7.4
+1636	yes	apuntes.1636	vdp-apparatus	yes	1	q-nota			2	primary	3-octubre-1932		03-la-formacion-de-la-biblioteca-de-san-josemaria-escriva-de.es.md; vazquez-fundador.7.4
+1637	yes	apuntes.1637	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			8	primary	10-noviembre-1924; 12-marzo-1925; 14-II-1966; 14-junio-1924; 15-junio-1922; 19-III-1975; 2-enero-1918; 24-marzo-1925; 25-V-1962; 25-marzo-1925; 29-XII-1917; 29-XII-1947; 30-XII-1917; 30-octubre-1932; 5-diciembre-1924; 5-noviembre-1924; 6-mayo-1924; 7-junio-1924		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; cn 07-17 (JESUS IS MY DEAR FRIEND).en.md; nuevos-mediterraneos.es.md; vazquez-fundador.2.4; vazquez-fundador.7.4
+1642	yes	apuntes.1642	vdp-apparatus	yes	7	q-cita,q-nota,vdp-cuerpo,vdp-nota			4	primary	11-III-1932; 14-enero-1931; 2-octubre-1931; 27-diciembre-1930; 6-X-1932; 6-octubre-1932; 8-mayo-1931	140,152,198,1653	04 capitulo-i-primeros-pasos-del-opus-dei.md; 10-resumenes-de-los-primeros-circulos-de-la-obra-de-san-rafael.es.md; vazquez-fundador.7.4; vazquez-fundador.7.5
+1643	yes	apuntes.1643	unverified-line-scan	no	0				1	secondary	22-abril-1940; 6-octubre-1932; 7-octubre-1932; 8-octubre-1932		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+1644	yes	apuntes.1644	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1646,1648	vazquez-fundador.7.4
+1646	yes	apuntes.1646	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1644,1648	vazquez-fundador.7.4
+1647	yes	apuntes.1647	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	7-X-1932		vazquez-fundador.15.4
+1648	yes	apuntes.1648	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1644,1646	vazquez-fundador.7.4
+1650	yes	apuntes.1650	unverified-line-scan	no	0				1	secondary	22-abril-1940; 6-octubre-1932; 7-octubre-1932; 8-octubre-1932		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+1652	yes	apuntes.1652	unverified-line-scan	no	0				1	secondary	22-abril-1940; 6-octubre-1932; 7-octubre-1932; 8-octubre-1932		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md
+1653	yes	apuntes.1653	vdp-apparatus	yes	5	q-nota,vdp-cuerpo,vdp-nota			3	primary	14-enero-1931; 2-octubre-1933; 27-diciembre-1930; 6-octubre-1932; 8-mayo-1931	140,152,198,1642	09-las-preces-del-opus-dei-comentario-historico-teologico.es.md; sm rt exams Jan - Dec odd years.es.md; vazquez-fundador.7.5
+1654	yes	apuntes.1654	unverified-line-scan	no	0				1	primary			sm rt exams Jan - Dec odd years.es.md
+1655	yes	apuntes.1655	vdp-apparatus	yes	1	vdp-cuerpo			2	primary			sm rt exams Jan - Dec odd years.es.md; vazquez-fundador.7.4
+1658	yes	apuntes.1658	vdp-apparatus	yes	3	vdp-cuerpo			4	primary	9-X-1932		nuevos-mediterraneos.es.md; vazquez-fundador.7.4; vazquez-fundador.7.5; vazquez-fundador.8.5
+1660	yes	apuntes.1660	vdp-apparatus	no	0				3	primary			cn 10-96  (BEING RICH, HE BEACME POOR).en.md; portillo-carta-19920319.es.md; vazquez-fundador.7.4
+1661	yes	apuntes.1661	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			2	primary	14-II-1966; 29-XII-1947	1791	vazquez-fundador.7.4
+1665	yes	apuntes.1665	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		719,720,721,739,743	vazquez-fundador.7.4
+1668	yes	apuntes.1668	unverified-line-scan	no	0				1	primary			fe.es.md
+1670	yes	apuntes.1670	unverified-line-scan	yes	1	q-nota			1	primary	11-octubre-1932		03-la-formacion-de-la-biblioteca-de-san-josemaria-escriva-de.es.md
+1676	yes	apuntes.1676	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			3	primary		780,1678	vazquez-fundador.6.1; vazquez-fundador.7.4
+1677	yes	apuntes.1677	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			1	secondary		801	vazquez-fundador.8.7
+1678	yes	apuntes.1678	vdp-apparatus	yes	2	q-cita,vdp-nota	it		2	primary		1676	03-gli-studi-di-teologia-di-san-josemaria-escriva.it.md; vazquez-fundador.7.4
+1679	yes	apuntes.1679	vdp-apparatus	yes	2	q-cita,vdp-cuerpo			2	primary			medios-de-comunicacion-social.es.md; vazquez-fundador.7.4
+1680	yes	apuntes.1680	vdp-apparatus	yes	2	vdp-cuerpo			1	primary		1681	vazquez-fundador.7.4
+1681	yes	apuntes.1681	vdp-apparatus	yes	2	vdp-cuerpo			1	primary		1680	vazquez-fundador.7.4
+1682	yes	apuntes.1682	unverified-line-scan	no	0				1	primary			06-conviene-que-me-relacione-con-los-propagandistas-de-herrera-y.es.md
+1683	yes	apuntes.1683	unverified-line-scan	no	0				1	secondary			06-conviene-que-me-relacione-con-los-propagandistas-de-herrera-y.es.md
+1684	yes	apuntes.1684	unverified-line-scan	no	0				3	primary			06-conviene-que-me-relacione-con-los-propagandistas-de-herrera-y.es.md
+1686	yes	apuntes.1686	vdp-apparatus	yes	2	vdp-cuerpo			1	primary			vazquez-fundador.7.4
+1688	yes	apuntes.1688	vdp-apparatus	yes	5	vdp-cuerpo,vdp-nota			4	primary	28-febrero-1919		vazquez-fundador.2.3; vazquez-fundador.2.4; vazquez-fundador.2.5; vazquez-fundador.7.4
+1689	yes	apuntes.1689	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.4
+1691	yes	apuntes.1691	vdp-apparatus	yes	1	vdp-nota			1	primary		1726	vazquez-fundador.6.3
+1695	yes	apuntes.1695	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.5
+1696	yes	apuntes.1696	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.7.6
+1697	yes	apuntes.1697	vdp-apparatus	yes	5	q-cita,q-nota,vdp-nota			5	primary	10-X-1932	921	04 capitulo-i-primeros-pasos-del-opus-dei.md; 10-los-inicios-de-la-obra-de-san-rafael-un-documento-de-1935.es.md; algo-grande-y-que-sea-amor.es.md; vazquez-fundador.7.5
+1698	yes	apuntes.1698	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota-ref			2	secondary	10-X-1932		vazquez-fundador.13.8
+1699	yes	apuntes.1699	vdp-apparatus	yes	4	q-cita,q-nota,vdp-cuerpo	it		7	primary	10-X-1932		cn 4-02  (THE CERTAINTY OF OUR VOCATION).en.md; echevarria-carta-19980401.es.md; fe.es.md; portillo-carta-19911001.es.md; romana-010-relazione-svolta-da-mons-alvaro-del-portillo-gran.it.md; vazquez-fundador.21.1; vazquez-fundador.7.4
+1700	yes	apuntes.1700	vdp-apparatus	no	0				1	primary	24-III-1933		vazquez-fundador.7.6
+1701	yes	apuntes.1701	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			1	primary	11-diciembre-1931; 14-octubre-1932; 24-V-1932	470,474,713,735,839	vazquez-fundador.6.2
+1702	yes	apuntes.1702	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			2	primary	3-X-1932; 3-diciembre-1932		vazquez-fundador.11.2; vazquez-fundador.7.5
+1703	yes	apuntes.1703	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.23.4
+1704	yes	apuntes.1704	vdp-apparatus	yes	2	vdp-cuerpo			1	primary		1705,1710	vazquez-fundador.8.1
+1705	yes	apuntes.1705	vdp-apparatus	yes	2	vdp-cuerpo			1	primary		1704,1710	vazquez-fundador.8.1
+1709	yes	apuntes.1709	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	1-mayo-1933	995	vazquez-fundador.8.1
+1710	yes	apuntes.1710	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			3	primary	22-VI-1933; 24-XI-1932; 24-noviembre-1932	875,1704,1705	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.15.4; vazquez-fundador.8.1
+1713	yes	apuntes.1713	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	19-junio-1933	1714	vazquez-fundador.8.1
+1714	yes	apuntes.1714	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	19-junio-1933	1713	vazquez-fundador.8.1
+1716	yes	apuntes.1716	unverified-line-scan	no	0				1	primary	22-VI-1933; 25-VI-1933		05 capitulo-ii-la-academia-1933-1934.md
+1720	yes	apuntes.1720	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			1	primary	6-XI-1933	506,1073	vazquez-fundador.8.5
+1723	yes	apuntes.1723	vdp-apparatus	yes	3	q-cita,q-nota,vdp-cuerpo			8	primary	22-VI-1933		02-las-cartas-de-san-josemaria-estudio-para-una-cronologia.es.md; 03-las-cartas-de-san-josemaria-hipotesis-sobre-su-cronologia-y-su.es.md; 05 capitulo-ii-la-academia-1933-1934.md; 06-conviene-que-me-relacione-con-los-propagandistas-de-herrera-y.es.md; cartas-obra-inedita.es.md; vazquez-fundador.8.1; vida-cotidiana-y-santidad.introduccion.en.md
+1724	yes	apuntes.1724	vdp-apparatus	yes	4	q-cita,vdp-cuerpo,vdp-nota			4	primary	22-VI-1933; 22-junio-1933; 25-VI-1933	1726	05 capitulo-ii-la-academia-1933-1934.md; echevarria-carta-19980401.es.md; romana-010-relazione-svolta-da-mons-alvaro-del-portillo-gran.it.md; vazquez-fundador.8.1
+1725	yes	apuntes.1725	vdp-apparatus	yes	5	q-nota,vdp-cuerpo	it		15	primary	11-III-1934; 22-VI-1933; 27-IV-1939; 6-X-1968; 8-IX-1988	1152	05 capitulo-ii-la-academia-1933-1934.md; algo-grande-y-que-sea-amor.es.md; cn 1-02  (TIMES OF OUR FATHER).en.md; cn 12-98  (IN THE PAGES OF THE DECENARIO ).en.md; cn 3-11  (WITH OUR FATHER AND THE FATHER).en.md; cn 4-02  (THE CERTAINTY OF OUR VOCATION).en.md; cn 4-14  (UNITED TO THE FATHER FROM EVERY CORNER OF THE WORLD).en.md; cn 6-14  (FORMATION FOR ADOLESCENTS IN THE WORK).en.md; meditaciones-7.es.md; portillo-carta-19920319.es.md; romana-019-omelia-pronunciata-durante-la-santa-messa-per.it.md; romana-028-en-la-solemne-concelebracion-eucaristica.es.md; sm rt outlines.es.md; vazquez-fundador.21.1; vazquez-fundador.8.5
+1726	yes	apuntes.1726	vdp-apparatus	yes	4	vdp-cuerpo,vdp-nota			2	primary	22-junio-1933	1691,1724	vazquez-fundador.6.3; vazquez-fundador.8.1
+1727	yes	apuntes.1727	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.1
+1729	yes	apuntes.1729	vdp-apparatus	yes	5	vdp-cuerpo,vdp-nota			5	primary	1-marzo-1931; 12-agosto-1932; 2-octubre-1928; 22-junio-1933; 24-VI-1933; 5-enero-1933	1730	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.11.3; vazquez-fundador.8.1
+1730	yes	apuntes.1730	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			4	primary	2-octubre-1928; 24-VI-1933	1729	05 capitulo-ii-la-academia-1933-1934.md; romana-046-servicio-de-la-prelatura-del-opus-dei.es.md; vazquez-fundador.8.1
+1731	yes	apuntes.1731	unverified-line-scan	no	0				1	primary	26-X-1933		05 capitulo-ii-la-academia-1933-1934.md
+1732	yes	apuntes.1732	vdp-apparatus	yes	6	q-nota,vdp-cuerpo,vdp-nota			4	primary		413,432,1014,1372,1380	02-los-comienzos-del-apostolado-del-opus-dei-entre-mujeres-1930.es.md; vazquez-fundador.5.6; vazquez-fundador.8.1; vazquez-fundador.8.6
+1733	yes	apuntes.1733	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			2	primary	21-X-1933; 26-X-1933	1049	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.8
+1735	yes	apuntes.1735	unverified-line-scan	no	0				1	primary			vida-cotidiana-y-santidad.introduccion.en.md
+1738	yes	apuntes.1738	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.3
+1739	yes	apuntes.1739	vdp-apparatus	yes	1	q-cita			2	secondary	1-II-1950; 15-X-1948; 16-VII-1934; 27-II-1938; 7-III-1930		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.1.1
+1741	yes	apuntes.1741	vdp-apparatus	yes	1	vdp-cuerpo			4	primary	16-VII-1934; 16-julio-1934		09-la-carta-n-29-de-san-josemaria-escriva-sobre-la-obra-de-san.es.md; Santo Rosario.es.md; portillo-carta-19920319.es.md; vazquez-fundador.15.4
+1743	yes	apuntes.1743	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.3
+1746	yes	apuntes.1746	unverified-line-scan	no	0				2	primary	17-VII-1934		cn 6-96  (BEING ROMAN).en.md; portillo-carta-19910801.es.md
+1747	yes	apuntes.1747	unverified-line-scan	yes	1	q-nota	it		2	primary	17-VII-1934		portillo-carta-19930109.es.md; romana-013-omelia-nella-celebrazione-eucaristica-per-l.it.md
+1748	yes	apuntes.1748	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			6	primary	17-julio-1934; 17-junio-1978; 21-noviembre-1975; 22-marzo-1933; 28-septiembre-1920; 4-septiembre-1938		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 06-los-anos-de-seminario-y-de-ordenacion-de-jose-maria-escriva.es.md; vazquez-fundador.2.3; vazquez-fundador.2.6; vazquez-fundador.3.2
+1751	yes	apuntes.1751	vdp-apparatus	yes	1	vdp-cuerpo			3	primary			05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.4; vazquez-fundador.8.6
+1753	yes	apuntes.1753	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			7	primary			05 capitulo-ii-la-academia-1933-1934.md; algo-grande-y-que-sea-amor.es.md; vazquez-fundador.8.2; vazquez-fundador.8.3
+1754	yes	apuntes.1754	vdp-apparatus	yes	1	vdp-cuerpo			2	primary		1755	vazquez-fundador.8.3; vazquez-fundador.8.4
+1755	yes	apuntes.1755	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			3	primary		1754	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.24.1; vazquez-fundador.8.4
+1756	yes	apuntes.1756	vdp-apparatus	yes	5	q-nota,vdp-cuerpo,vdp-nota,vdp-nota-ref	it		5	primary		122	romana-013-omelia-nella-celebrazione-eucaristica-per-l.it.md; vazquez-fundador.1.1; vazquez-fundador.7.3; vida-cotidiana-y-santidad.capitulo-9.es.md
+1757	yes	apuntes.1757	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota,vdp-nota-ref			3	primary		379	vazquez-fundador.7.4
+1758	yes	apuntes.1758	unverified-line-scan	no	0				1	primary			05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md
+1763	yes	apuntes.1763	unverified-line-scan	no	0				1	primary			nuevos-mediterraneos.es.md
+1766	yes	apuntes.1766	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.5
+1771	yes	apuntes.1771	unverified-line-scan	no	0				1	primary	20-VII-1934		05 capitulo-ii-la-academia-1933-1934.md
+1786	yes	apuntes.1786	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1787	vazquez-fundador.8.3
+1787	yes	apuntes.1787	vdp-apparatus	yes	1	vdp-cuerpo			2	primary		1786	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.3
+1789	yes	apuntes.1789	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.8.6
+1790	yes	apuntes.1790	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	21-VII-1934		05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.3
+1791	yes	apuntes.1791	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	14-II-1966; 29-XII-1947	1661	vazquez-fundador.7.4
+1794	yes	apuntes.1794	vdp-apparatus	yes	2	vdp-nota			2	primary		1796	vazquez-fundador.7.1; vazquez-fundador.8.1
+1795	yes	apuntes.1795	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	11-marzo-1934	1155,1796,1800,1801,1804	portillo-carta-19920319.es.md; vazquez-fundador.8.4
+1796	yes	apuntes.1796	vdp-apparatus	yes	3	vdp-cuerpo,vdp-nota			2	primary	11-marzo-1934	1155,1794,1795,1800,1801,1804	vazquez-fundador.7.1; vazquez-fundador.8.4
+1798	yes	apuntes.1798	vdp-apparatus	yes	1	vdp-nota			3	primary		1167	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.2
+1799	yes	apuntes.1799	unverified-line-scan	no	0				1	primary			05 capitulo-ii-la-academia-1933-1934.md
+1800	yes	apuntes.1800	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	11-marzo-1934	1155,1795,1796,1801,1804	vazquez-fundador.8.4
+1801	yes	apuntes.1801	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			1	primary	11-marzo-1934	1155,1795,1796,1800,1804	vazquez-fundador.8.4
+1804	yes	apuntes.1804	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			2	primary	11-marzo-1934	1155,1795,1796,1800,1801	05 capitulo-ii-la-academia-1933-1934.md; vazquez-fundador.8.4
+1808	yes	apuntes.1808	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1810,1811	vazquez-fundador.8.5
+1810	yes	apuntes.1810	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	16-IX-1935	1808,1811	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.5
+1811	yes	apuntes.1811	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			2	primary	16-IX-1935	1808,1810	06 capitulo-iii-el-despegue-de-la-residenci.md; vazquez-fundador.8.5
+1812	yes	apuntes.1812	vdp-apparatus	yes	1	vdp-cuerpo			2	primary	17-IX-1935	1813	portillo-carta-19920319.es.md; vazquez-fundador.8.5
+1813	yes	apuntes.1813	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1812	vazquez-fundador.8.5
+1819	yes	apuntes.1819	unverified-line-scan	no	0				1	primary	17-IX-1935		portillo-carta-19930109.es.md
+1821	yes	apuntes.1821	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			3	primary	17-IX-1935		06 capitulo-iii-el-despegue-de-la-residenci.md; portillo-carta-19920319.es.md; vazquez-fundador.8.5
+1824	yes	apuntes.1824	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	18-IX-1935		vazquez-fundador.15.4
+1825	yes	apuntes.1825	unverified-line-scan	yes	1	q-nota			1	primary	18-IX-1935		06 capitulo-iii-el-despegue-de-la-residenci.md
+1828	yes	apuntes.1828	unverified-line-scan	no	0				1	primary			05-san-josemaria-escriva-de-balaguer-y-la-devocion-al-amor.es.md
+1832	yes	apuntes.1832	vdp-apparatus	yes	2	q-nota,vdp-cuerpo			3	primary	19-IX-1935		06 capitulo-iii-el-despegue-de-la-residenci.md; cn 3-11  (WITH OUR FATHER AND THE FATHER).en.md; vazquez-fundador.8.5
+1841	yes	apuntes.1841	vdp-apparatus	no	0				1	primary			vazquez-fundador.8.5
+1854	yes	apuntes.1854	vdp-apparatus	yes	5	q-nota,vdp-cuerpo			6	primary	9-XI-1941		02-las-cartas-de-san-josemaria-estudio-para-una-cronologia.es.md; 03-las-cartas-de-san-josemaria-hipotesis-sobre-su-cronologia-y-su.es.md; vazquez-fundador.12.6; vazquez-fundador.14.2; vazquez-fundador.14.4; vazquez-fundador.15.1
+1855	yes	apuntes.1855	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1856	vazquez-fundador.13.7
+1856	yes	apuntes.1856	vdp-apparatus	yes	1	vdp-cuerpo			1	primary		1855	vazquez-fundador.13.7
+1857	yes	apuntes.1857	vdp-apparatus	yes	2	vdp-cuerpo			2	primary	9-II-1944		vazquez-fundador.15.4
+1858	yes	apuntes.1858	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	10-II-1944		vazquez-fundador.15.4
+1859	yes	apuntes.1859	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	10-II-1944		vazquez-fundador.15.4
+1860	yes	apuntes.1860	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	10-II-1944		vazquez-fundador.15.4
+1861	yes	apuntes.1861	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	11-II-1944		vazquez-fundador.15.1
+1862	yes	apuntes.1862	vdp-apparatus	yes	3	q-cita,vdp-cuerpo			5	primary	14-VI-1948; 14-febrero-1930; 14-junio-1948; 2-octubre-1928; 27-junio-1985		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; apuntes-intimos-obra-inedita.es.md; vazquez-fundador.6.2
+1864	yes	apuntes.1864	vdp-apparatus	yes	2	vdp-cuerpo,vdp-nota			11	primary	10-octubre-1931; 13-abril-1939; 13-noviembre-1944; 14-febrero-1930; 14-junio-1948; 17-junio-1939; 18-agosto-1944; 2-enero-1932; 2-octubre-1928; 20-diciembre-1941; 20-marzo-1931; 24-agosto-1940; 26-octubre-1931; 27-junio-1985; 8-octubre-1940		02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; vazquez-fundador.6.1
+1866	yes	apuntes.1866	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	26-julio-1930	73	vazquez-fundador.6.1
+1867	yes	apuntes.1867	vdp-apparatus	yes	2	vdp-cuerpo			2	primary			vazquez-fundador.6.1
+1868	yes	apuntes.1868	vdp-apparatus	yes	1	vdp-cuerpo			1	primary			vazquez-fundador.6.1
+1869	yes	apuntes.1869	unverified-line-scan	no	0				1	primary	14-VI-1948		04 capitulo-i-primeros-pasos-del-opus-dei.md
+1870	yes	apuntes.1870	vdp-apparatus	yes	6	q-cita,vdp-cuerpo			9	primary	14-II-1966; 19-III-1975; 2-octubre-1928; 29-XII-1947		cn 2-05  (A RAY OF THAT LIGHT).en.md; cn 2-10  (REFLECTIONS OF DIVINE SPLENDOR [on the 80th  Annivasary of Feb 14 1930]).en.md; fundacion-del-opus-dei.es.md; mujeres-en-el-opus-dei-inicio-del-apostolado.es.md; vazquez-fundador.5.7
+1871	yes	apuntes.1871	vdp-apparatus	yes	8	q-cita,q-nota,vdp-cuerpo			12	primary	14-II-1964; 14-VI-1948; 14-febrero-1930; 14-febrero-1964; 14-junio-1948; 2-octubre-1928; 28-septiembre-1930; 30-julio-1930; 5-enero-1931		02-los-comienzos-del-apostolado-del-opus-dei-entre-mujeres-1930.es.md; 02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 04 capitulo-i-primeros-pasos-del-opus-dei.md; 07-14-de-febrero-de-1930-la-transmision-de-un-acontecimiento-y-un.es.md; 07-el-libro-menos-conocido-de-san-josemaria-la-abadesa-de-las.es.md; cn 2-05  (A RAY OF THAT LIGHT).en.md; cn 2-10  (REFLECTIONS OF DIVINE SPLENDOR [on the 80th  Annivasary of Feb 14 1930]).en.md; fundacion-del-opus-dei.es.md; vazquez-fundador.5.7
+1872	yes	apuntes.1872	vdp-apparatus	yes	5	vdp-cuerpo,vdp-nota			7	primary	1-IV-1932; 10-V-1932; 10-octubre-1931; 12-VIII-1932; 14-VI-1948; 14-junio-1948; 2-enero-1932; 2-octubre-1928; 20-marzo-1931; 21-VII-1930; 4-II-1932; 7-XII-1932	381,602,716,769,808	02-sacerdotes-en-el-acompanamiento-espiritual-de-san-josemaria.es.md; 04 capitulo-i-primeros-pasos-del-opus-dei.md; 09-las-preces-del-opus-dei-comentario-historico-teologico.es.md; vazquez-fundador.13.1; vazquez-fundador.5.7; vazquez-fundador.7.3
+1873	yes	apuntes.1873	vdp-apparatus	yes	1	vdp-cuerpo			1	primary	22-XI-1948		vazquez-fundador.12.8

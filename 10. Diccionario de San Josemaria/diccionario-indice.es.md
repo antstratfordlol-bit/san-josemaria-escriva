@@ -1,0 +1,1274 @@
+---
+id: dicsje.indice.es
+work: diccionario-san-josemaria
+title: "Diccionario de San Josemaría Escrivá de Balaguer — índice de voces"
+language: es
+original-language: yes
+authority-type: scholarly
+status: current
+supersedes: 01. Sources/_originals/Biblioteca/_markdown/DicSJE.md
+edition: "iSilo Biblioteca decode (DicSJE.pdb). The decode names no edition, publisher, editor or date"
+derived-from: "01. Sources/_originals/Biblioteca/_markdown/DicSJE/ — the per-letter index blocks of the 23 index records"
+anchors: "{#dicsje.indice} — one whole-document anchor; the index numbers nothing of its own. The second position takes a word so that it cannot collide with a voz slug"
+extracted: 2026-08-26
+extracted-by: "99. Tools/promote/promote_dicsje.py"
+---
+# Diccionario de San Josemaría Escrivá de Balaguer — índice de voces {#dicsje.indice}
+
+The work's own alphabetical index, as the decode prints it: every voz with the sections it contains. Lifted out of the 23 page records that carried one letter's index each.
+
+
+**Abandono • Academia DYA • Acciones gracias • Actividad • Administración • Albás • Dolores A. • Alegría • Alemania • Alma sacerdotal • Amigos de Dios • Amistad • Amor a Dios • Amor misericordioso • Ángeles • Apostolado • ad fidem • de la opinión • Apuntes • Argentina • A. enfermos • Audacia • Australia • Austria**
+
+- **Abandono**
+  - 1. Confianza plena en Dios.
+  - 2. Abandono en su Voluntad aceptándola por entero.
+  - 3. Abandono y medios humanos.
+- **Academia y residencia DYA**
+  - 1. Precedentes.
+  - 2. La Academia.
+  - 3. La Academia y Residencia.
+- **Acciones de gracias**
+  - 1. El reconocimiento de los dones divinos, condición del progreso espiritual.
+  - 2. Importancia de las acciones de gracias.
+- **Actividad del Opus Dei**
+  - 1. Una actividad doble.
+  - 2. Actividades para hombres y para mujeres.
+  - 3. Actividad relativa a la formación individual.
+  - 4. Actividad relativa a los apostolados asociados.
+- **Administración de la Residencia de la Moncloa**
+  - 1. Precedentes.
+  - 2. Instalación y primera andadura de la Administración de La Moncloa.
+  - 3. Atención espiritual por parte de san Josemaría.
+  - 4. Papel de la Administración en el ambiente de los Centros.
+- **Albás, Familia**
+  - 1. Albás, línea paterna de Dolores.
+  - 2. Blanc, línea materna de Dolores.
+  - 3. Los Albás Blanc.
+- **Albás Blanc, Dolores**
+  - 1. En Barbastro.
+  - 2. La etapa de Logroño.
+  - 3. En Zaragoza.
+  - 4. En Madrid, Dolores, ayuda fundamental.
+  - 5. Enfermedad y fallecimiento.
+  - 6. La contribución de Dolores al Opus Dei.
+- **Alegría**
+  - 1. La alegría, virtud cristiana.
+  - 2. Se fundamenta en la filiación divina.
+  - 3. Es factor importante para la convivencia.
+  - 4. La alegría, rasgo característico del espíritu del Opus Dei.
+  - 5. La tristeza, enemiga de la alegría.
+- **Alemania**
+  - 1. Los inicios de la labor.
+  - 2. Los viajes de san Josemaría a Alemania.
+  - 3. Desarrollo de la labor apostólica.
+- **Alma sacerdotal**
+  - 1. El alma sacerdotal del cristiano.
+  - 2. Alma sacerdotal y mentalidad laical.
+  - 3. María Santísima, modelo para el alma sacerdotal del cristiano.
+- **Amigos de Dios (libro)**
+  - 1. Elaboración y contenido.
+  - 2. Características principales.
+  - 3. Difusión.
+- **Amistad**
+  - 1. Idea de amistad.
+  - 2. La amistad entre Dios y el hombre.
+  - 3. La amistad entre los hombres.
+- **Amor a Dios**
+  - 1. Carácter teologal del amor a Dios.
+  - 2. Concreciones vitales del amor a Dios.
+  - 3. Amor a Dios y amor al prójimo.
+  - 4. María: modelo de amor a Dios.
+- **Amor misericordioso, Obra del**
+- **Ángeles**
+  - 1. Los ángeles y su papel en la vida del cristiano y en la historia del Opus Dei.
+  - 2. Los arcángeles san Rafael, san Miguel y san Gabriel y las obras que san Josemaría les ha encomendado.
+  - 3. La devoción a los Ángeles Custodios.
+- **Apostolado**
+  - 1. Una vocación universal.
+  - 2. "Sobreabundancia de la vida interior".
+  - 3. "Apostolado de amistad y confidencia".
+  - 4. "Santificar a los demás con el trabajo". El ámbito del apostolado personal.
+  - 5. "Vibración apostólica".
+- **Apostolado ad fidem**
+  - 1. Alcance y sentido de la expresión.
+  - 2. Aspectos históricos.
+  - 3. Características generales.
+- **Apostolado de la opinión pública**
+  - 1. El interés de san Josemaría.
+  - 2. La difusión del mensaje cristiano.
+  - 3. Principios inspiradores.
+  - 4. La información sobre el Opus Dei.
+  - 5. Proyección evangelizadora.
+- **Apuntes intimos (obra inédita)**
+  - 1. Estructura de los Apuntes íntimos.
+  - 2. De las "cuartillas" a los "Cuadernos".
+  - 3. El contenido de los Cuadernos.
+  - 4. Conclusión.
+- **Argentina**
+  - 1. Inicio de la labor estable.
+  - 2. Síntesis histórica de la labor apostólica.
+  - 3. El viaje de catequesis de 1974.
+- **Atención a enfermos y visitas a hospitales**
+  - 1. El gitano moribundo.
+  - 2. Los hospitales de Madrid.
+  - 3. Glorificado sea el dolor.
+  - 4. Los cimientos para hacer la Obra de Dios: oración y expiación.
+  - 5. Constante atención a los enfermos.
+- **Audacia**
+  - 1. Significado y contexto.
+  - 2. Dos sentidos de la audacia.
+  - 3. Audacia e infancia espiritual.
+- **Australia**
+  - 1. Los comienzos en tierras lejanas.
+  - 2. La tiranía de la distancia.
+- **Austria**
+  - 1. La "prehistoria" de la labor estable.
+  - 2. El inicio del trabajo apostólico.
+  - 3. El Este de Europa.
+
+**Barbastro • Bautismo • Bélgica • E. Botella • F. Botella • Brasil • Burgos**
+
+- **Barbastro**
+  - 1. Situación geográfica e historia de la ciudad
+  - 2. Estructura económica y social
+  - 3. Situación eclesiástica
+  - 4. El hogar Escrivá Albás
+  - 5. Fonz
+  - 6. El parvulario de las Hijas de la Caridad y el colegio de los Escolapios
+  - 7. Desventuras de su infancia
+  - 8. Razón comercial Juncosa y Escrivá
+- **Bautismo y confirmación**
+  - 1. Bautismo y vocación bautismal
+  - 2. Bautismo y fraternidad cristiana
+  - 3. Bautismo, Confirmación, participación en la misión de la Iglesia
+- **Bélgica**
+  - 1. Viajes de preparación de la labor apostólica
+  - 2. Amistad de san Josemaría con eclesiásticos belgas
+  - 3. Inicio y desarrollo de la labor
+- **Botella Raduán, Enrica**
+- **Botella Raduán, Francisco**
+- **Brasil**
+  - 1. Inicio de la labor apostólica y primeros pasos
+  - 2. El viaje de catequesis
+  - 3. "En el Brasil y desde el Brasil"
+- **Burgos**
+  - 1. Motivos, duración y circunstancias
+  - 2. "Ver a los nuestros"
+  - 3. Con obispos, sacerdotes y religiosos
+  - 4. Trabajos de redacción
+  - 5. Circunstancias físicas y espirituales
+  - 6. Preparando nuevos tiempos
+
+**Camino • Canadá • Canonización • Carácter • Caridad • Carismas • Cartas • P. Casciaro • Castidad • Catequesis • Celibato • C. ELIS y SAFI • Chile • C.R. Sta. Cruz • C.R. Sta. María • Colombia • Comunión Santos • Conciencia • CV II • Consagraciones • Contemplación • Contemplativos • Contrición • Conversaciones • Conversión • Cooperadores • Corazón • Cosas pequeñas • Costa Rica • Cruz • Cultura**
+
+- **Camino (libro)**
+  - 1. El proceso de redacción
+  - 2. Estructura interna
+  - 3. Un libro de aforismos espirituales
+  - 4. La recepción de Camino en la Iglesia del siglo XX
+  - 5. Camino y la vocación del laico
+  - 6. Difusión
+- **Canadá**
+  - 1. Inicio de la labor apostólica estable
+  - 2. Inicio de la labor apostólica con mujeres
+  - 3. Regalos de san Josemaría
+  - 4. Presencia epistolar
+  - 5. Traducción de Camino al hebreo y prehistoria de la labor en Israel
+- **Canonización de San Josemaría**
+  - 1. La beatificación
+  - 2. La canonización
+- **Carácter, formación del**
+  - 1. El carácter, rasgo distintivo de la personalidad humana y cristiana
+  - 2. Educación del carácter
+- **Caridad**
+  - 1. El mandatum novum
+  - 2. Universalidad del amor cristiano
+  - 3. Caridad, afectividad y cariño
+  - 4. Caridad, comprensión, perdón y justicia
+- **Carismas**
+  - 1. Concepto de carisma
+  - 2. Diversidad de carismas en la Iglesia
+  - 3. El carisma fundacional del Opus Dei
+- **Cartas (obra inédita)**
+  - 1. Hacia la preparación del ciclo de las Cartas
+  - 2. La redacción del ciclo de las Cartas
+  - 3. Descripción de conjunto del ciclo de las Cartas
+  - 4. Las Cartas posteriores a 1965
+- **Casciaro Ramírez, Pedro**
+- **Castidad**
+  - 1. La virtud de la castidad
+  - 2. importancia para la vida humana y cristiana
+  - 3. La castidad en el propio estado
+- **Catequesis, labor y viajes de**
+  - 1. Durante los primeros años de su sacerdocio (1925-1931)
+  - 2. Desde la fundación del Opus Dei hasta el comienzo de la Guerra Civil española (1928-1936)
+  - 3. En los años sucesivos (1939-1970)
+  - 4. Las grandes catequesis en los últimos años de su vida (1970-1975)
+- **Celibato**
+  - 1. Breve panorámica histórica
+  - 2. Celibato, amor y misión
+  - 3. El celibato apostólico en el Opus Dei
+- **Centros ELIS y SAFI**
+- **Chile**
+  - 1. Inicio de la labor estable
+  - 2. Desarrollo de la labor apostólica
+  - 3. El viaje de catequesis de san Josemaría
+- **Colegio Romano de la Santa Cruz**
+  - 1. Un centro de formación en Roma
+  - 2. Los comienzos (1948-1955)
+  - 3. Consolidación y sede definitiva (1956-1975)
+- **Colegio Romano de Santa María**
+  - 1. Los comienzos del Colegio Romano2. El Colegio Romano de Santa María en Villa delle Rose
+  - 3. El Colegio Romano en Villa Balestra
+- **Colombia**
+  - 1. Inicio de la labor estable
+  - 2. Desarrollo de la labor apostólica
+  - 3. El paso de san Josemaría por Colombia
+- **Comunión de los Santos**
+  - 1. La comunión de los santos, artículo de la fe
+  - 2. De la comunión eucarística a la comunión de los santos
+  - 3. De la comunión con la humanidad que puebla la tierra a la comunión con los cielos
+- **Conciencia**
+  - 1. La conciencia, un lugar de encuentro con Dios
+  - 2. La libertad de las conciencias, una búsqueda de la verdad de Dios
+  - 3. En un camino de santidad: la plenitud de una vida
+  - 4. La formación de la conciencia y las realidades seculares
+- **Concilio Vaticano II**
+  - 1. San Josemaría y los trabajos del Concilio Vaticano II
+  - 2. Sintonías entre el espíritu del Opus Dei y los documentos del Vaticano II
+  - 3. La etapa post–conciliar
+- **Consagraciones del Opus Dei**
+  - 1. Consagración a la Sagrada Familia (1951)
+  - 2. Consagración al Corazón Dulcísimo de María (1951)
+  - 3. Consagración al Corazón Sacratísimo de Jesús (1952)
+  - 4. Consagración al Espíritu Santo (1971)
+- **Contemplación**
+  - 1. Distinción del concepto
+  - 2. La doctrina de san Josemaría
+- **Contemplativos en medio del mundo**
+- **Contrición**
+  - 1. Necesidad de la conversión y la contrición cristianas
+  - 2. Volver a Dios, nuestro Padre, mediante el sacramento de la Penitencia
+  - 3. Dolor de amor
+- **Conversaciones con Mons. Escrivá de Balaguer (libro)**
+  - 1. El ciclo de las entrevistas
+  - 2. La homilíaAmar al mundo apasionadamente
+  - 3. De la prensa periódica al libro
+  - 4. Tipo de entrevistas
+  - 5. Contexto, temas, ideas
+  - 6. Repercusión y fortuna editorial
+- **Conversión**
+  - 1. Enseñanzas bíblicas
+  - 2. Primera conversión y conversiones sucesivas
+  - 3. Elementos de la doctrina de la conversión
+- **Cooperadores del Opus Dei**
+- **Corazón**
+  - 1. El "corazón", centro de la persona
+  - 2. Amar a Dios con todo el corazón
+  - 3. Tener corazón para todos
+  - 4. Corazón puro
+  - 4. En el corazón de María
+- **Cosas pequeñas**
+  - 1. Noción
+  - 2. Ámbito de las cosas pequeñas
+  - 3. Relación con el mensaje fundacional
+  - 4. Fundamento teológico
+- **Costa Rica**
+  - 1. Inicio de la labor
+  - 2. Algunos datos sobre el desarrollo posterior del apostolado
+- **Cruz**
+  - 1. La Cruz en la vida de san Josemaría
+  - 2. Abandono en Dios e identificación con Cristo
+  - 3. Dolor y alegría: obediencia al Padre
+  - 4. El sentido amable y victorioso de la Cruz
+  - 5. La devoción a la Cruz
+  - 6. Para corredimir con Cristo
+  - 7. La Cruz y la Misa
+  - 8. El Espíritu Santo, "fruto" de la Cruz
+  - 9. María junto a la Cruz
+- **Cultura**
+  - 1. Dimensiones de la cultura
+  - 2. Formación integral
+  - 3. Formación permanente
+  - 4. Cultura e integración social
+
+**Deberes • Defectos • A. Dell'Acqua • Desagravio • Descanso • Desprendimiento • Devoción • a San Josemaria • Diego de León • Dios Padre • Dirección espiritual • Dolor**
+
+- **Deberes de estado**
+  - 1. Llamada universal a la santidad: santificarse en el propio estado
+  - 2. Santificarse en el seno de la familia, en la profesión, en la vida cívica
+- **Defectos**
+  - 1. Defectos y lucha ascética
+  - 2. La caridad y los defectos del prójimo
+- **Dell'Acqua, Angelo**
+- **Desagravio**
+  - 1. El desagravio en la historia de la espiritualidad
+  - 2. Desagravio y reparación en los escritos de san Josemaría
+- **Descanso. Santificación de las fiestas**
+  - 1. Necesidad del descanso en la vida del hombre
+  - 2. Descanso y filiación divina
+  - 3. Modo de descansar: descanso y ocio
+  - 4. Apostolado de la diversión y de la fiesta
+  - 5. Descanso, festividades litúrgicas, contemplativos en medio del mundo
+- **Desprendimiento**
+  - 1. Actitud cristiana hacia los bienes materiales: apreciar los dones recibidos y desprendimiento
+  - 2. Amor al espíritu de pobreza
+  - 3. Amor auténtico por los pobres
+  - 4. Desprendimiento, espíritu de servicio y contribución al progreso social
+  - 5. Desprendimiento de uno mismo
+- **Devoción, devociones**
+  - 1. La devoción en las enseñanzas de san Josemaría
+  - 2. Principales devociones en la enseñanza de san Josemaría
+  - 3. Consideraciones finales
+- **Devoción a San Josemaria**
+- **Diego de León, Centro de estudios**
+- **Dios Padre**
+  - 1. La paternidad de Dios
+  - 2. Misericordia y Providencia de Dios
+  - 3. La paternidad de Dios y la unidad de vida
+  - 4. Jesús y el Padre
+  - 5. Dios Padre en la economía de la salvación
+- **Dirección espiritual**
+  - 1. En la Iglesia como familia de los hijos de Dios en Cristo
+  - 2. Hacia la santidad
+  - 3. Libertad y responsabilidad
+- **Dolor**
+  - 1. La experiencia personal de san Josemaría
+  - 2. La pedagogía del dolor en san Josemaría
+  - 3. El dolor como misterio: la relación con los enfermos
+
+**J. Echevarría • Economia • Ecuador • Educación • L. Eijo • Ejemplo • El Salvador • Enfermedad • Epistolario • Es Cristo que pasa • Escatología • Escritos • Familia Escrivá • José E. • Carmen E. • Santiago E. • España • Esperanza • Espiritu • E. Santo • EE.UU. • Estatutos • Estilo • Estudio • Estudios • Eucaristía • Evangelización • Examen • Expansión**
+
+- **Echevarría Rodríguez, Javier**
+  - 1. Primeros años de vida.
+  - 2. Su dedicación al gobierno pastoral del Opus Dei.
+- **Economia**
+  - 1. Valor de la actividad económica.
+  - 2. La economía, esfera de libertad y responsabilidad.
+  - 3. Una economía para el hombre.
+- **Ecuador**
+  - 1. Inicio de la labor estable.
+  - 2. El viaje de Catequesis en 1974.
+  - 3. Breve panorámica en el año 1975.
+- **Educacion y enseñanza**
+  - 1. San Josemaría, educador.
+  - 2. Rasgos principales de la actividad educativa.3. Los padres, primeros educadores.
+- **Eijo y Garay, Leopoldo**
+- **Ejemplo, apostolado del**
+  - 1. Raíces teológicas del apostolado del ejemplo.
+  - 2. El cristiano, signo de Cristo.
+  - 3. Fe con obras: la palabra y el ejemplo.
+  - 4. Coherencia de vida.
+  - 5. La atracción divina.
+- **El Salvador**
+  - 1. El amor de san Josemaría a El Salvador.
+  - 2. Comienzo de la labor apostólica.
+  - 3. Impacto de la personalidad de san Josemaría en los salvadoreños.
+- **Enfermedad**
+  - 1. La enfermedad, presente en la vida humana.
+  - 2. Identificación con Cristo.
+  - 3. Presencia de Cristo en el enfermo y valor de su sufrimiento.
+  - 4. El cuidado y la atención a los enfermos.
+  - 5. El deber de cuidar la salud y de ser buenos enfermos.
+  - 6. Cristo vencedor de la enfermedad, del dolor y de la muerte.
+- **Epistolario de San Josemaría**
+  - 1. Contenido.
+  - 2. Valoración.
+- **Es Cristo que pasa (libro)**
+  - 1. Descripción.
+  - 2. Características principales.
+  - 3. Difusión.
+- **Escatología–novísimos**
+  - 1. Muerte.
+  - 2. Vida eterna y vida terrena.
+  - 3. Juicio y retribución (cielo, purgatorio, infierno).
+  - 4. Retorno y reinado de Cristo.
+  - 5. Resurrección de los muertos.
+- **Escritos de San Josemaria: descripción de conjunto**
+  - 1. Desde la fundación del Opus Dei (1928) hasta la marcha de san Josemaría a Roma (1946).
+  - 2. Desde la marcha de san Josemaría a Roma (1946) hasta finales de la década de 1950.
+  - 3. Desde fines de la década de 1950 hasta el 26 de junio de 1975.
+- **Escrivá, familia**
+  - 1. El linaje de los Escrivá, desde sus orígenes al siglo XVII.
+  - 2. Siglos XVII y XVIII: de la tradición agrícola a la práctica jurídica y los cargos públicos.
+  - 3. El viraje hacia las profesiones liberales.
+- **Escrivá Corzán, José**
+  - 1. Vida en Barbastro.
+  - 2. Vida en Logroño. La vocación sacerdotal de san Josemaría.
+  - 3. Fallecimiento.
+- **Escrivá de Balaguer y Albás, Carmen**
+  - 1. Datos biográficos
+  - 2. Relación con el Opus Dei
+- **Escrivá de Balaguer y Albás, Santiago**
+  - 1. Primeros años
+  - 2. Entre Madrid y Roma
+- **España**
+  - 1. El desarrollo de las labores apostólicas del Opus Dei en España entre 1928-1946.
+  - 2. El desarrollo de las labores apostólicas del Opus Dei en España entre 1946 y 1975.
+  - 3. Recapitulación: las labores apostólicas del Opus Dei en España en junio de 1975.
+- **Esperanza**
+  - 1. La esperanza en la vida de san Josemaría.
+  - 2. Esperanza teologal, experiencia vivida de la gracia de Dios y esperanza humana.
+  - 3. La esperanza cristiana, una realidad auténticamente humana.
+  - 4. La fuerza de la esperanza teologal no es compatible con la pasividad y la evasión irresponsable.
+  - 5. La lucha ascética cristiana, manifestación de la virtud de la esperanza.
+  - 6. El apostolado cristiano, fruto de la esperanza.
+  - 7. Conclusión: la esperanza cristiana y la llamada universal a la santidad.
+- **Espiritu del Opus Dei**
+  - 1. Características específicas del espíritu del Opus Dei.
+  - 2. Santificación en el ejercicio del trabajo profesional y en las circunstancias ordinarias de la vida.
+  - 3. Trabajo y contemplación.
+  - 4. Formación doctrinal y espiritual.
+  - 5. Práctica de las virtudes cristianas.
+  - 6. Al servicio de la misión de la Iglesia.
+- **Espíritu Santo**
+  - 1. La Trinidad como origen y fin.
+  - 2. El Espíritu Santo, Pastor de nuestras almas.
+  - 3. La respuesta del hombre: limitación humana y docilidad.
+  - 4. La misión de la Iglesia y del cristiano.
+- **Estados Unidos**
+  - 1. Primeros pasos.
+  - 2. El primer Centro y el comienzo de las actividades para mujeres.
+  - 3. Nueva York y Boston.
+  - 4. Aprendiendo el espíritu del Opus Dei de su fundador.
+  - 5. La expansión a nuevas ciudades.
+  - 6. Mensaje a los Estados Unidos.
+- **Estatutos del Opus Dei**
+  - 1. Los estatutos de las prelaturas personales.
+  - 2. Contenido de los estatutos de la Prelatura del Opus Dei.
+  - 3. El derecho particular de la Prelatura del Opus Dei: breve apunte histórico.
+- **Estilo literario**
+  - 1. San Josemaría Escrivá como escritor.
+  - 2. Rasgos de estilo.
+  - 3. Camino, Surco y Forja.
+  - 4. Santo Rosario y Via Crucis.
+  - 5. Homilías.
+- **Estudio**
+  - 1. Importancia del estudio para el crecimiento intelectual.
+  - 2. Estudio y vida interior.
+  - 3. El estudio en orden a la formación profesional y cultural.
+  - 4. Estudio y desarrollo de la personalidad.
+- **Estudios y títulos académicos de San Josemaría**
+- **Eucaristía**
+  - 1. La Eucaristía, don de la Trinidad.
+  - 2. La santa Misa, centro y raíz de la vida del cristiano.
+  - 3. El culto de adoración a Cristo presente en la Eucaristía.
+  - 4. Eucaristía, vida en Cristo y transformación del mundo.
+- **Evangelización y catequesis**
+  - 1. La misión evangelizadora de la Iglesia.
+  - 2. Apostolado de la doctrina.
+  - 3. "Una gran catequesis".
+  - 4. Las virtudes del evangelizador.
+- **Examen de conciencia**
+  - 1. El examen de conciencia en el contexto del diálogo entre el hombre y Dios.
+  - 2. Conocimiento de Dios y conocimiento propio.
+  - 3. Examen general y examen particular.
+- **Expansión apostólica del Opus Dei: visión sintética**
+  - 1. Primera expansión por España (1928-1945).
+  - 2. La expansión fuera de España: primeros países europeos y americanos (1946-1953).
+  - 3. Nuevos continentes: África y Asia (1954-1962).
+  - 4. La llegada a Oceanía y a otros nuevos países (1963-1975).
+
+**Familia • Fe • R. F. Vallespín • Fidelidad • Fieles cristianos • F. del Opus Dei • Filiacion divina • Filipinas • L. Fisac •º Forja • Formación • Fortaleza • Francia • Fraternidad • Fundación**
+
+- **Familia, Santificacion de la**
+  - 1. El enamoramiento
+  - 2. Hogares luminosos y alegres
+  - 3. La castidad matrimonial
+  - 4. Transmisión de la vida y educación de los hijos
+- **Fe**
+  - 1. La virtud de la fe en la vida de san Josemaría
+  - 2. La referencia a la fe en los escritos de san Josemaría
+  - 3. La forma específica de la predicación de san Josemaría sobre la virtud de la fe
+  - 4. Consideración final
+- **Fernández Vallespín, Ricardo**
+- **Fidelidad**
+  - 1. Fidelidad, lealtad y perseverancia
+  - 2. Fidelidad de Dios y fidelidad del cristiano
+  - 3. Fiel en lo poco
+  - 4. Lealtad a la Iglesia
+- **Fieles cristianos**
+  - 1. La condición común de fiel
+  - 2. La condición cristiana como vocación
+  - 3. Participación de todo cristiano en la misión de la Iglesia
+- **Fieles del Opus Dei**
+  - 1. Unidad de vocación y diversidad de situaciones y funciones
+  - 2. Numerarios, Agregados, Supernumerarios
+  - 3. Hombres y mujeres
+  - 4. Sacerdotes y laicos
+  - 5. Incorporación al Opus Dei
+- **Filiacion divina**
+  - 1. Origen contemplativo de una doctrina
+  - 2. La filiación divina, fundamento de la vida espiritual
+  - 3. Filiación divina e identificación con Cristo
+  - 4. El Espíritu Santo y la filiación divina
+  - 5. La participación en la filiación del Verbo
+  - 6. Filiación divina, libertad y vida ordinaria
+  - 7. Filiación divina y oración
+  - 8. Filiación divina, fraternidad y apostolado
+  - 9. La alegría y la conversión de los hijos de Dios
+- **Filipinas**
+  - 1. En Filipinas y desde Filipinas
+  - 2. Los inicios de la labor apostólica
+  - 3. Desarrollo de la labor apostólica
+- **Fisac Serna, Maria Dolores (Lola)**
+- **Forja (libro)**
+  - 1. Composición del texto
+  - 2. Estructura, estilo y contenido
+  - 3. Difusión
+- **Formación: consideración general**
+  - 1. Necesidad de una formación cristiana
+  - 2. Aspectos de la formación
+  - 3. Medios de formación
+- **Fortaleza**
+  - 1. La fortaleza a la luz de la Cruz de Cristo
+  - 2. Fortaleza y conciencia de la propia debilidad
+  - 3. Fortaleza y fe: nuestra fortaleza es prestada
+  - 4. Fortaleza en la vida ordinaria: perseverancia, paciencia y serenidad. Santa tozudez e intransigencia
+- **Francia**
+  - 1. Fuentes literarias francesas
+  - 2. Inicios de la labor apostólica
+  - 3. La intercesión de los santos franceses
+  - 4. Viajes de san Josemaría
+- **Fraternidad**
+  - 1. La fraternidad, ideal cristiano
+  - 2. Manifestaciones en la vida de la Iglesia y en la sociedad
+  - 3. El espíritu de familia en el Opus Dei
+- **Fundación del Opus Dei**
+  - 1. Una misión fundacional
+  - 2. La fundación del Opus Dei: acontecimientos centrales
+  - 3. Epílogo: fin de la etapa fundacional y comienzo de la etapa de la continuidad
+
+**Mª Ig. Gª Escobar • José Mª Gª Lahiguera • Gloria de Dios • Nisa Glez • Luis Gordon • Grabaciones • Gracia • Gran Bretaña • Guatemala**
+
+- **García Escobar, María Ignacia**
+- **García Lahiguera, José María**
+- **Gloria de Dios**
+  - 1. La doctrina bíblica: dar toda la gloria a Dios
+  - 2. La fundación del Opus Dei marcada por el deseo de dar gloria a Dios
+  - 3. La experiencia vivida de san Josemaría
+  - 4. Raíces bíblicas de la enseñanza de san Josemaría
+  - 5. ¿En qué consiste hacerlo todo para la gloria de Dios?
+  - 6. Sentido del deseo de dar toda la gloria a Dios
+  - 7. La Virgen María, Maestra del sacrificio escondido y silencioso
+- **González Guzmán, Narcisa (Nisa)**
+- **Gordon Picardo, Luis**
+- **Grabaciones audiovisuales**
+  - 1. El antecedente próximo de las grabaciones
+  - 2. Planteamiento de la filmación de tertulias de catequesis
+  - 3. Algunos rasgos de la catequesis de san Josemaría, desde la perspectiva de su filmación
+  - 4. Sobre el carácter personal de esos encuentros y de la recepción de sus grabaciones
+- **Gracia**
+  - 1. Naturaleza trinitaria y eclesiológica de la gracia
+  - 2. Necesidad y gratuidad de la gracia
+  - 3. Gracia y libertad: cooperación humana
+- **Gran Bretaña**
+  - 1. Los primeros años
+  - 2. Cinco veranos en Londres
+  - 3. Nuestra Señora y santo Tomás Moro
+  - 4. Los siguientes años
+- **Guatemala**
+  - 1. Comienzo de la labor apostólica
+  - 2. Desarrollo del apostolado
+  - 3. Viajes de san Josemaría a Guatemala
+
+**J Mª Hdez Garnica • Holanda • Dora del Hoyo • Humildad**
+
+- **Hernández Garnica, José María**
+- **Holanda**
+  - 1. Inicio de la labor por el fundador
+  - 2. Comienzo de la labor estable
+  - 3. Ulterior desarrollo
+  - 4. En tiempos de crisis
+- **Hoyo Alonso, Salvadora (Dora) del**
+- **Humildad**
+  - 1. Naturaleza e importancia de la humildad
+  - 2. Los caminos hacia la humildad
+  - 3. Manifestaciones de la humildad
+  - 4. La Virgen Santísima, maestra de humildad
+
+**Identificacion • Iglesia • Incardinación • Infancia espiritual • Inhabitación • Iniciación cristiana • Instituto de Logroño • histórico san Josemaría• seculares • Instrucciones • Irlanda • Italia • Itinerario jurídico**
+
+- **Identificacion con Cristo**
+  - 1. Seguimiento, imitación, identificación
+  - 2. Claves de fondo
+  - 3. Contenidos de la identificación
+  - 4. El modelo de María
+- **Iglesia**
+  - 1. La Iglesia, misterio de fe
+  - 2. Propiedades de la Iglesia
+  - 3. La iglesia, Pueblo sacerdotal
+  - 4. Los laicos y la misión de la Iglesia
+- **Incardinación sacerdotal de san Josemaría**
+- **Infancia espiritual**
+  - 1. Claves de la doctrina de san Josemaría
+  - 2. Fuentes
+  - 3. Contenidos
+- **Inhabitación trinitaria**
+  - 1. El hecho de la inhabitación de la Trinidad en el alma
+  - 2. La inhabitación como identificación con Cristo en los sacramentos
+  - 3. El papel del Espíritu Santo
+  - 4. Consecuencias de la inhabitación
+- **Iniciación cristiana de san Josemaría**
+  - 1. Nacimiento, Bautismo, Confirmación
+  - 2. Ofrecimiento a la Virgen e inicio del parvulario
+  - 3. En el colegio de los Escolapios; su primera Confesión
+  - 4. La primera Comunión
+  - 5. Algunas devociones adquiridas durante la infancia
+  - 6. "El Señor me ha llevado de la mano"
+- **Instituto General y Técnico de Logroño**
+- **Instituto histórico san Josemaría Escrivá de Balaguer**
+- **Institutos seculares**
+  - 1. Una nueva figura jurídica
+  - 2. ¿La "secularidad consagrada", solución adecuada o figura destinada a decantarse?
+  - 3. La configuración provisional del Opus Dei como Instituto Secular
+  - 4. Necesidad de una nueva solución para la cuestión institucional del Opus Dei
+- **Instrucciones (obra inédita)**
+  - 1. Características e historia de las Instrucciones de san Josemaría
+  - 2. Instrucción acerca del espíritu sobrenatural de la Obra de Dios (19-III-1934)
+  - 3. Instrucción sobre el modo de hacer el proselitismo (1-IV-1934)
+  - 4. Instrucción para la obra de San Rafael (9-I-1935)
+  - 5. Instrucción para los Directores (31-V-1936)
+  - 6. Instrucción para la obra de San Miguel (8-XII-1941)
+- **Irlanda**
+  - 1. Los inicios
+  - 2. Visita de san Josemaría a Irlanda
+- **Italia**
+  - 1. Campos de la labor apostólica del Opus Dei en Italia
+  - 2. Desarrollo posterior de la labor
+  - 3. Italia como lugar de residencia y de la acción apostólica de san Josemaría
+- **Itinerario jurídico del Opus Dei**
+  - 1. La etapa inicial de la fundación del Opus Dei (años 30)
+  - 2. Un estatuto jurídico provisional (años 40 y 50)
+  - 3. Frente a los límites de la configuración jurídica de 1947-1950
+  - 4. En busca de nuevos caminos: una Prelatura con estatutos propios (años 60)
+  - 5. Hacia una configuración jurídica definitiva: la Prelatura personal (años 70-80)
+
+**Jaculatorias • Japón • Jenner • Jesucristo • J. J. Vargas • Jorge Manrique • Juan Pablo I • Juan Pablo II • Juan XXIII • Justicia**
+
+- **Jaculatorias**
+  - 1. Las jaculatorias en la experiencia espiritual y pastoral de san Josemaría
+  - 2. Algunas jaculatorias más significativas en la piedad de san Josemaría
+  - 3. Jaculatorias según los distintos momentos de su vida
+- **Japón**
+  - 1. Comienzo de la labor apostólica
+  - 2. Desarrollos posteriores de la labor
+- **Jenner, residencia universitaria**
+- **Jesucristo**
+  - 1. Fuentes de la doctrina de san Josemaría
+  - 2. Cristo, centro. Cristocentrismo
+  - 3. Cristo, mediador
+  - 4. Cristo, salvador: camino, verdad y vida
+- **Jiménez Vargas, Juan**
+- **Jorge Manrique, Centro de**
+- **Juan Pablo I**
+- **Juan Pablo II**
+- **Juan XXIII**
+- **Justicia**
+  - 1. Definición y fundamento
+  - 2. Justicia y cumplimiento del propio deber
+  - 3. Justicia y recto ejercicio de las tareas profesionales
+  - 4. Justicia y bien social
+  - 5. Relación de la justicia con la caridad
+- **Kenya**
+- **KENYA**
+  - 1. Inicio de la labor apostólica: 1958-Strathmore College
+  - 2. El comienzo de la labor con mujeres
+  - 3. Kibondeni College y Kianda College
+  - 4. Desarrollo de la labor
+  - 5. La expansión por África
+
+**La Abadesa • Laboriosidad • Laicos • Lectura • L. Honduras • Libertad • en lo temporal • Liturgia • de las Horas • y vida espiritual • Logroño • Los Rosales • Lucha ascética**
+
+- **La Abadesa de Las Huelgas (libro)**
+  - 1. Características generales
+  - 2. Descripción del contenido
+  - 3. Cuestiones jurídico-teológicas que se plantean
+- **Laboriosidad**
+  - 1. Características y frutos de la laboriosidad
+  - 2. Virtudes relacionadas con la laboriosidad
+  - 3. Defectos contrarios a la laboriosidad: ocio, pereza, activismo, rutina
+- **Laicos**
+  - 1. La condición laical como condición cristiana
+  - 2. Vocación laical y llamada a la santidad y al apostolado en las realidades temporales
+  - 3. La secularidad, nota específica de la condición laical
+  - 4. Derechos y deberes de los laicos
+- **Lectura espiritual**
+  - 1. Contexto histórico
+  - 2. El lugar de la lectura espiritual en las enseñanzas de san Josemaría
+- **Legacion de Honduras**
+- **Libertad**
+  - 1. La libertad, don de Dios
+  - 2. Libertad y filiación divina
+  - 3. Libertad y gracia
+  - 4. Libertad, amor de Dios y donación
+  - 5. Educación en la libertad y para la libertad
+  - 6. La libertad de las conciencias
+- **Libertad en las cuestiones temporales**
+  - 1. Las dimensiones de la libertad
+  - 2. La libre elección en la gestión responsable de las cuestiones temporales
+  - 3. Diversidad y pluralismo en las cuestiones temporales
+  - 4. Una aparente paradoja
+  - 5. Como fieles corrientes, los fieles del Opus Dei tienen la misma libertad en las cuestiones temporales que los demás
+- **Liturgia: visión general**
+  - 1. Aspectos biográficos
+  - 2. Algunas realizaciones
+  - 3. Relieves teológicos
+- **Liturgia de las Horas**
+- **Liturgia y vida espiritual**
+  - 1. La Eucaristía
+  - 2. El año litúrgico
+  - 3. El entorno litúrgico
+- **Logroño**
+  - 1. La ciudad
+  - 2. Ambiente social
+  - 3. La familia Escrivá Albás
+  - 4. Estudios en el Instituto
+  - 5. Las huellas en la nieve
+- **Los Rosales, centro de formación y casa de retiros**
+  - 1. Historia de Los Rosales
+  - 2. Dedicación sacerdotal de san Josemaría
+  - 3. El taller de ornamentos.
+- **Lucha ascética**
+  - 1. Continuidad y novedad
+  - 2. Terminología
+  - 3. Características de la lucha cristiana
+  - 4. Frentes de la lucha
+  - 5. La falta de lucha: la tibieza
+  - 6. Táctica y tono de la lucha
+
+**Madrid 1927-1936 • 1936-1937 • 1939-1946 • Magnanimidad • María • devoción a • Matrimonio • Medios comunicación • Mentalidad laical • México • Mística • Molinoviejo • Moncloa • Moral • Mortificación • Mujeres • Mundo • J.L. Muzquiz**
+
+- **Madrid (1927-1936)**
+  - 1. La Iglesia en Madrid
+  - 2. Contexto político y social
+  - 3. Consideración general de la vida de san Josemaría en Madrid durante este periodo
+  - 4. De su llegada a Madrid hasta 1930
+  - 5. De 1930 hasta 1933
+  - 6. De 1933 al inicio de la Guerra Civil
+- **Madrid (1936-1937)**
+  - 1. La persecución religiosa durante la Segunda República
+  - 2. La persecución durante la Guerra Civil
+  - 3. San Josemaría frente a la persecución
+- **Madrid (1939-1946)**
+  - 1. Contexto político, social y eclesiástico del Madrid de la postguerra
+  - 2. La actividad de san Josemaría: visión de conjunto
+  - 3. El crecimiento del Opus Dei en y desde Madrid
+  - 4. Servicio a la diócesis de Madrid y otras diócesis españolas
+  - 5. Incomprensiones y la primera aprobación canónica
+  - 6. La ordenación de los primeros sacerdotes
+  - 7. La marcha a Roma
+- **Magnanimidad**
+  - 1. La magnanimidad en la enseñanza de san Josemaría
+  - 2. Aspectos de la magnanimidad
+- **María Santísima**
+  - 1. Una vida enteramente mariana
+  - 2. Una enseñanza mariológica de raíz trinitaria
+  - 3. La maternidad divina, fundamento de la vida de María y de la devoción mariana
+  - 4. Madre de los hombres
+  - 5. Santa María, ejemplo de virtudes
+- **María Santísima, Devoción a**
+  - 1. Manifestaciones de la devoción mariana
+  - 2. Coordenadas teológicas de la devoción mariana
+- **Matrimonio**
+  - 1. Valor humano y cristiano del matrimonio
+  - 2. El matrimonio como sacramento y como estado de vida
+  - 3. El matrimonio como vocación
+  - 4. El matrimonio y la apertura a la vida
+- **Medios de comunicación social**
+  - 1. Los medios de comunicación en la vida de san Josemaría
+  - 2. Líneas generales de su enseñanza respecto a los medios de comunicación y a los agentes de la comunicación
+  - 3. Libertad y responsabilidad
+  - 4. Amor y servicio a la verdad
+- **Mentalidad laical**
+  - 1. Secularidad, alma sacerdotal, identidad personal
+  - 2. Actuar con mentalidad laical
+  - 3. Mentalidad laical y sacerdocio ministerial
+- **México**
+  - 1. Inicio de la labor apostólica en México
+  - 2. Los inicios de los apostolados del Opus Dei con mujeres
+  - 3. San Josemaría en México y la Novena a la Virgen de Guadalupe
+  - 4. Desarrollo de la labor
+- **Mística**
+  - 1. Mística y vida cristiana
+  - 2. La mística en la vida y enseñanza de san Josemaría
+- **Molinoviejo, casa de retiros**
+- **Moncloa, colegio mayor universitario**
+- **Moral cristiana**
+  - 1. Dinamismo y dimensiones fundamentales de la vida moral cristiana
+  - 2. La lógica de la Encarnación: virtudes sobrenaturales y virtudes humanas
+  - 3. Moral social y política. La doctrina social de la Iglesia
+- **Mortificación y penitencia**
+  - 1. El lugar de la mortificación en la vida espiritual
+  - 2. Necesidad y motivos para la mortificación
+  - 3. Mortificación, amor, oración
+  - 4. Formas y manifestaciones de la mortificación
+  - 5. Mortificación y redención
+- **Mujeres en el Opus Dei. Inicio del apostolado**
+  - 1. El 14 de febrero de 1930
+  - 2. Dedicación de san Josemaría a este apostolado, de 1930 a 1936
+  - 3. El segundo intento en 1939-1940
+  - 4. El Centro de la calle Jorge Manrique
+  - 5. Las primeras numerarias auxiliares
+- **Mundo**
+  - 1. Amor al mundo creado
+  - 2. Mundo, pecado y redención
+  - 3. Mundo, gracia, santificación y conciencia de sentido
+- **Muzquiz de Miguel, José Luis**
+
+**Naturalidad • Nigeria • Nombramientos y distinciones de san Josemaría**
+
+- **Naturalidad**
+  - 1. Importancia y valor de la naturalidad en la vida del cristiano
+  - 2. La naturalidad como actitud del cristiano en medio del mundo
+  - 3. Centralidad de la naturalidad en la misión apostólica del cristiano corriente
+  - 4. Naturalidad, secreto y discreción
+- **Nigeria**
+  - 1. Inicio de la labor y primeros pasos
+  - 2. Comienzo de la labor con mujeres
+  - 3. Expansión posterior de la labor apostólica
+- **Nombramientos y distinciones de san Josemaría**
+  - 1. Nombramientos y títulos eclesiásticos
+  - 2. Nombramientos y títulos académicos
+  - 3. Nombramientos y títulos civiles españoles de carácter nacional
+  - 4. Nombramientos y títulos civiles de carácter local
+  - 5. Rehabilitación del Marquesado de Peralta
+
+**Obediencia • Oración • Ordenación San Josemaría • Organización del Opus Dei • Encarnita Ortega • Guadalupe Ortiz de L.**
+
+- **Obediencia**
+  - 1. La obediencia en el contexto de la familia y de la sociedad civil
+  - 2. La obediencia en el contexto de la comunidad eclesial
+  - 3. Dimensión teologal de la obediencia cristiana
+  - a) Trinitaria e histórico-salvífica
+  - b) Cristocéntrica
+  - c) Filial y fundamentada en la fe, la esperanza y el amor
+  - 4. La obediencia en la vida de san Josemaría
+  - 5. El camino de la obediencia de los hijos de Dios en medio del mundo
+  - 6. Obediencia, libertad y responsabilidad personal del cristiano
+- **Oración**
+  - 1. Características generales de la oración de los hijos de Dios
+  - a) La oración, presencia constante de amor
+  - b) La oración, trato con Dios
+  - c) Carácter trinitario de la oración
+  - d) La oración cristiana, oración en la Iglesia
+  - e) Meditación, amor, contemplación
+  - 2. La oración mental
+  - a) Disposiciones interiores, tiempo y lugar
+  - b) Recursos para orar
+  - c) En el Evangelio como un personaje más
+  - d) La oración de petición
+  - e) Oraciones preparatoria y conclusiva para la oración mental
+  - 3. De la oración mental y las oraciones vocales a la vida de oración
+  - a) Las oraciones vocales
+  - b) Toda la vida debe llegar a ser oración
+- **Ordenación sacerdotal de San Josemaría**
+  - 1. Hacia la ordenación sacerdotal
+  - 2. La ordenación sacerdotal
+  - 3. Compañeros de ordenación
+  - 4. Primera Misa y primeros encargos sacerdotales
+- **Organizacion y gobierno del Opus Dei**
+  - 1. Organización del gobierno de la Prelatura
+  - a) El Prelado
+  - b) Diversidad de ámbitos de ejercicio
+  - c) Los Vicarios del Prelado
+  - d) Consejo General y Asesoría Central
+  - e) Comisión Regional y Asesoría Regional
+  - f) Consejos locales
+  - 2. Congresos y Asambleas
+  - a) Congresos Generales Ordinarios
+  - b) Congresos Generales Extraordinarios
+  - c) Congresos Generales Electivos
+  - d) Las Asambleas Regionales o Semanas de Trabajo
+  - 3. Características del gobierno en el Opus Dei
+  - a) Unidad y colaboración colegial
+  - b) Colaboración de sacerdotes y laicos
+  - c) Libertad y responsabilidad personal
+  - d) Confianza y aire de familia
+  - e) Sentido profesional
+  - f) Espíritu de servicio
+- **Ortega Pardo, Encarnación (Encarnita)**
+- **Ortiz de Landazuri, Guadalupe**
+
+**Pablo VI • P. Palazzini • Paraguay • Pirineos • Patriotismo • P. Enfermos • Patronos • Paz • Pecado • Penitencia • Perdiguera • Perú • Piedad • Pío XII • Plan de vida • Política • A. Portillo • Portugal • J. Pou • P. Poveda • Predicación • de San Josemaría • Prelado • Prelaturas • Presencia de Dios • Primeros cristianos • Promoción • Proselitismo • Prudencia • Puerto Rico**
+
+- **Pablo VI**
+- **Palazzini, Pietro**
+- **Paraguay**
+  - 1. Inicio de la labor apostólica
+  - 2. Comienzo de los apostolados de las mujeres del Opus Dei
+  - 3. Estancia de san Josemaría en Paraguay y desarrollo actual de la labor apostólica
+- **Paso de los Pirineos**
+  - 1. Los expedicionarios
+  - 2. El bosque de Rialp
+  - 3. Principado de Andorra
+  - 4. Lourdes y entrada a España
+- **Patriotismo**
+- **Patronato de Enfermos**
+  - 1. El Patronato de Enfermos; algunos datos históricos
+  - 2. La incorporación de san Josemaría a la labor del Patronato de Enfermos
+  - 3. Fin de una etapa
+- **Patronos e Intercesores del Opus Dei**
+- **Paz**
+  - 1. Don de Dios
+  - 2. Raíces morales y espirituales de la paz
+- **Pecado**
+  - 1. La gravedad del pecado
+  - 2. Efectos del pecado
+  - 3. Pecado y misericordia de Dios
+  - 4. Superación del pecado, gracia de Dios y lucha ascética
+- **Penitencia, virtud y sacramento de la**
+  - 1. La penitencia: consideración general
+  - 2. El misterio del amor misericordioso de Dios
+  - 3. La virtud de la penitencia
+  - 4. El sacramento de la misericordia divina
+  - 5. La celebración del sacramento de la Penitencia
+- **Perdiguera**
+- **Perú**
+  - 1. Inicios y desarrollo de la labor apostólica
+  - 2. En Perú y desde Perú
+- **Piedad**
+  - 1. Fundamento de la piedad
+  - 2. Características
+  - 3. Piedad, doctrina y apostolado
+  - 4. Vida ordinaria y normas de piedad
+- **Pío XII**
+- **Plan de vida**
+  - 1. Importancia
+  - 2. Espíritu del plan de vida
+- **Política**
+  - 1. Política, sociedad y persona
+  - 2. Derechos y deberes cívicos
+  - 3. Cristianos y ciudadanos. Libertad en las cuestiones temporales
+  - 4. Vocación a la santidad en la acción política
+- **Portillo y Diez de Sollano, Álvaro del**
+  - 1. Infancia y juventud
+  - 2. Primeros años junto a san Josemaría
+  - 3. Procurador General del Opus Dei
+  - 4. Secretario General del Opus Dei
+  - 5. Prelado del Opus Dei
+- **Portugal**
+  - 1. Inicio de la labor apostólica estable
+  - 2. Los viajes de san Josemaría a Portugal y sus romerías a Fátima
+  - 3. Desarrollo de la labor
+- **Pou de Foxá, José**
+- **Poveda Castroverde, Pedro**
+- **Predicación**
+  - 1. La predicación de la Palabra de Dios, pasión dominante del sacerdote
+  - 2. Importancia de la predicación para la formación del pueblo cristiano
+  - 3. Predicación y fidelidad al mensaje de Cristo
+  - 4. "Don de lenguas"
+- **Predicación de San Josemaría**
+  - 1. Predicación a todo tipo de personas
+  - 2. Predicación a sacerdotes en los años 1939 a 1946
+  - 3. Predicación a fieles del Opus Dei y a personas relacionadas con su apostolado
+- **Prelado del Opus Dei**
+  - 1. Introducción: un apunte histórico-biográfico
+  - 2. La noción de Prelado y sus características
+  - 3. El Opus Dei, Prelatura personal
+- **Prelaturas personales**
+  - 1. Origen de la figura canónica
+  - 2. Rasgos fundamentales de las prelaturas personales
+  - 3. El Opus Dei, prelatura personal
+- **Presencia de Dios**
+  - 1. Presencia de Dios, filiación divina y comunión con Dios
+  - 2. Medios para fomentar la presencia de Dios
+  - 3. Presencia de Dios y unidad de vida
+- **Primeros cristianos**
+  - 1. El ejemplo de los primeros fieles, como referencia explicativa
+  - 2. La vida ordinaria, ámbito de santificación cristiana
+  - 3. Proyección apostólica del cristiano corriente
+- **Promoción social y desarrollo**
+  - 1. El contacto de san Josemaría con la pobreza
+  - 2. Algunos principios de fondo
+  - 3. Impulso a obras y tareas encaminadas a la promoción social
+- **Proselitismo**
+  - 1. Presencia y significado del término en san Josemaría
+  - 2. Apostolado y proselitismo
+  - 3. Derecho y deber
+- **Prudencia**
+  - 1. La virtud de la prudencia en el contexto de las enseñanzas de san Josemaría
+  - 2. Aspectos propios del ejercicio de la virtud
+  - 3. La prudencia en la vida de san Josemaría
+  - 4. Prudencia y confianza en Dios
+- **Puerto Rico**
+  - 1. Antecedentes
+  - 2. Inicio de la labor estable
+  - 3. Síntesis histórica del desarrollo de la labor apostólica hasta el fallecimiento de san Josemaría
+
+**Recogimiento • Responsabilidad • Retiro • Roma (1946-1956) • 1956-1965 • 1965-1975 • Romano Pontífice • Romerías**
+
+- **Recogimiento**
+- **Responsabilidad**
+  - 1. Libertad y responsabilidad: consideración general
+  - 2. La responsabilidad ante la propia santidad y al apostolado
+  - 3. La responsabilidad en las cuestiones temporales y profesionales
+- **Retiro espiritual**
+  - 1. El retiro espiritual en la Tradición de la Iglesia
+  - 2. Los retiros espirituales en la vida y en la práctica de san Josemaría
+- **Roma (1946-1956)**
+  - 1. Primeros pasos en la Ciudad Eterna
+  - 2. El itinerario hacia la aprobación pontificia
+  - 3. Asentando la sede del Opus Dei en Roma
+  - 4. Los primeros años de la Región de Italia
+  - 5. Expansión por el mundo
+  - 6. La formación de los miembros del Opus Dei
+  - 7. Desarrollo institucional y general del Opus Dei
+- **Roma (1956-1965)**
+  - 1. Labor de gobierno pastoral
+  - 2. El estatuto jurídico del Opus Dei
+  - 3. La difusión internacional del Opus Dei
+  - 4. Los Centros del Opus Dei en Roma
+  - 5. La relación con los papas, obispos y la Curia romana
+  - 6. Viajes fuera de Roma
+- **Roma (1965-1975)**
+  - 1. Clausura del Concilio Vaticano II. La etapa postconciliar
+  - 2. Tareas de escritor y de gobernante
+  - 3. Años difíciles
+  - 4. Una nueva juventud
+  - 5. Viajes de catequesis
+- **Romano Pontífice**
+  - 1. El amor al Romano Pontífice en la vida de san Josemaría
+  - 2. El amor al Papa en la doctrina de san Josemaría
+- **Romerías**
+  - 1. Orígenes históricos
+  - 2. La romería de san Josemaría a Sonsoles
+  - 3. Expansión de una costumbre mariana
+
+**Sacerdocio común • ministerial • Sacramentos • Sgda Escritura • Sgda Familia • San José • Valentín Schez • Sta Isabel • Santidad • llamada universal • Sto Rosario • Santuarios • Secularidad • Seminario de Logroño • de Zaragoza • de san Fco de Paula • Serenidad • Servicio • Sinceridad • Sociedad • S. S. Sta Cruz, historia • naturaleza y régimen • Solidaridad • José Mª Somoano • Suiza • Surco**
+
+- **Sacerdocio común**
+  - 1. Elementos doctrinales
+  - 2. Aspectos del ejercicio del sacerdocio común
+- **Sacerdocio ministerial**
+  - 1. Introducción
+  - 2. Identidad teológica del sacerdocio ministerial
+  - 3. Ministerio de la Palabra
+  - 4. Ministerio sacramental
+  - 5. Ministerio pastoral
+  - 6. Espiritualidad sacerdotal
+- **Sacramentos: exposición de conjunto**
+  - 1. Los sacramentos, regalo amoroso de Dios
+  - 2. Necesidad de los sacramentos para la vida cristiana
+  - 3. Conjunto armonioso de los sacramentos
+  - 4. Efectos de los sacramentos
+- **Sagrada Escritura**
+  - 1. La Sagrada Escritura, Palabra de Dios
+  - 2. La Biblia, libro de oración
+  - 3. El Evangelio, vía para configurarse con Cristo
+  - 4. La Escritura en la predicación de san Josemaría
+- **Sagrada Familia**
+  - 1. La trinidad de la tierra
+  - 2. La vocación matrimonial
+  - 3. La Sagrada Familia y el Opus Dei
+- **San José**
+  - 1. La devoción y el culto de san José en la historia de la espiritualidad cristiana
+  - 2. La devoción de san Josemaría a san José
+  - 3. Aspectos de la personalidad de san José
+- **Sánchez Ruiz, Valentín María**
+- **Santa Isabel, Real Patronato de**
+  - 1. Relación de san Josemaría con el Real Patronato de Santa Isabel
+  - 2. Breve historia del Real Patronato
+  - 3. San Josemaría durante los años en Santa Isabel
+  - 4. ¿Un precedente de la futura configuración jurídica del Opus Dei?
+  - 5. Los últimos años de san Josemaría en el Real Patronato entre 1939 y 1945
+- **Santidad**
+  - 1. Santidad y santificación en medio del mundo
+  - 2. Santidad y vida sacramental
+  - 3. La santidad como identificación con Cristo
+  - 4. Santidad y apostolado
+  - 5. El camino de la santidad
+- **Santidad, llamada universal a la**
+  - 1. Magisterio de la Iglesia
+  - 2. Enseñanzas de san Josemaría
+- **Santo Rosario (libro)**
+  - 1. Origen
+  - 2. Las primeras ediciones
+  - 3. “Notas del Autor” y otros añadidos al texto
+  - 4. Valor literario de Santo Rosario
+  - 5. Teología y espiritualidad en Santo Rosario
+- **Santuarios y lugares marianos, peregrinaciones de san Josemaría a**
+  - 1. Durante sus primeros años
+  - 2. Visitas a santuarios en España (1927- 1946)
+  - 3. Lourdes y Fátima
+  - 4. Oración mariana en relación con la aprobación pontificia del Opus Dei
+  - 5. Visitas a lugares marianos en Roma e Italia. Loreto
+  - 6. Santuarios europeos
+  - 7. En oración por la Iglesia. Torreciudad
+  - 8. La última visita a Torreciudad
+- **Secularidad**
+  - 1. La secularidad en el mensaje de san Josemaría
+  - 2. El amor del cristiano al mundo
+  - 3. Implicaciones prácticas de la secularidad
+  - 4. Secularidad, “mentalidad laical” y “alma sacerdotal”
+  - 5. Secularidad y legítima autonomía de los laicos en las cuestiones temporales
+- **Seminario conciliar de Logroño**
+- **Seminario conciliar de Zaragoza**
+- **Seminario de san Francisco de Paula**
+- **Serenidad**
+  - 1. Serenidad y filiación divina
+  - 2. El camino de la serenidad
+  - 3. Importancia y frutos de la serenidad
+- **Servicio, espíritu de**
+  - 1. La caridad y la justicia, fundamento del espíritu de servicio
+  - 2. Trabajo y espíritu de servicio
+  - 3. Cultura y espíritu de servicio
+  - 4. Política y espíritu de servicio
+  - 5. Economía y espíritu de servicio
+  - 6. Familia y espíritu de servicio
+- **Sinceridad**
+  - 1. Virtud humana y sobrenatural
+  - 2. Sinceridad de vida
+  - 3. Sinceridad con Dios, sinceridad en la dirección espiritual, sinceridad con los demás
+- **Sociedad**
+  - 1. La sociedad, ámbito de la realización de la persona y de su solidaridad
+  - 2. Responsabilidad respecto a la sociedad y al espíritu de servicio
+  - 3. Tono humano y cristiano en las diversas esferas de la sociedad
+- **Sociedad Sacerdotal de la Santa Cruz, historia de la**
+  - 1. El 2 de octubre de 1928
+  - 2. Una nueva luz fundacional: la Sociedad Sacerdotal de la Santa Cruz
+- **DicSJE/0043 El Seminario de San Francisco de Paula tuvo|3. Primavera de 1950: la incorporación a la Sociedad Sacerdotal de la Santa Cruz de sacerdotes incardinados en diversas diócesis 4. La Sociedad Sacerdotal de la Santa Cruz en la Prelatura personal Sociedad Sacerdotal de la Santa Cruz. Naturaleza y régimen 1. Naturaleza 2. Características fundamentales de la Asociación 3. La Sociedad Sacerdotal de la Santa Cruz y las diócesis 4. Medios ascéticos y formativos 5. Régimen Solidaridad 1. El vocablo “solidaridad” y su uso histórico 2. La solidaridad en la enseñanza de san Josemaría Somoano Berdasco, José María Suiza 1. Comienzo y desarrollo del trabajo apostólico 2. Einsiedeln y el Segundo Congreso General del Opus Dei 3. Suiza vista por san Josemaría Surco (libro) 1. Composición del texto 2. Estilo, estructura y contenido 3. Difusión**
+
+**Templanza • Teología • Tibieza • Torreciudad • Trabajo • Trinidad**
+
+- **Templanza**
+  - 1. Significado y contexto
+  - 2. Elementos de la templanza
+- **Teología**
+  - 1. Necesidad de la teología en la vida cristiana
+  - 2. Teología y fidelidad al Magisterio de la Iglesia3. Teología y libertad de opinión e investigación
+  - 4. La aportación de san Josemaría a la teología
+- **Tibieza**
+  - 1. Significado
+  - 2. Síntomas
+  - 3. Causas
+  - 4. Remedios
+- **Torreciudad**
+  - 1. Enfermedad, curación y ofrecimiento a la Virgen
+  - 2. El nuevo impulso a la devoción a la Virgen de Torreciudad
+  - 3. La romería de abril de 1970
+  - 4. Dones del fundador al santuario
+  - 5. Torreciudad en su correspondencia y en sus tertulias
+  - 6. La romería de mayo de 1975
+- **Trabajo, Santificación del**
+  - 1. Trabajo y trabajo profesional
+  - 2. Dimensiones del trabajo
+  - 3. Santificarse en el trabajo, santificar con el trabajo
+  - 4. Santificar el trabajo
+  - 5. Santificación del trabajo y transformación del mundo
+- **Trinidad Santísima**
+  - 1. Importancia de la Trinidad en la vida y en la predicación de san Josemaría
+  - 2. La homilía Hacia la santidad
+  - 3. Unidad y Trinidad
+  - 4. La “trinidad de la tierra” y la Trinidad del cielo
+  - 5. Las devociones trinitarias
+
+**Unidad de vida • Universidad • de Madrid • de Navarra • de Piura • de Zaragoza • Uruguay**
+
+- **Unidad de vida**
+  - 1. Los fundamentos de la unidad de vida
+  - 2. Aspectos de la unidad de vida
+  - 3. Identificación con Cristo
+- **Universidad**
+  - 1. San Josemaría, universitario
+  - 2. Su modo de entender la universidad
+  - 3. El amor a la verdad y la investigación científica
+  - 4. La educación superior y la preparación profesional
+  - 5. El ambiente universitario
+  - 6. La promoción de instituciones universitarias
+- **Universidad de Madrid**
+- **Universidad de Navarra**
+- **Universidad de Piura**
+  - 1. El comienzo de la Universidad
+  - 2. La estancia de san Josemaría
+- **Universidad de Zaragoza**
+  - 1. Los estudios de san Josemaría
+  - 2. Profesores y compañeros
+- **Uruguay**
+  - 1. Los comienzos
+  - 2. El aliento del fundador
+  - 3. Desarrollo de la labor apostólica
+
+**Varón y mujer • Venezuela • Veracidad • Via Crucis • Viajes • Vida interior • ordinaria • Villa delle Rose • Tevere • Virtudes • Vocación • de San Josemaría • Voluntad de Dios**
+
+- **Varón y mujer**
+  - 1. Dignidad humana y vocación divina del hombre y de la mujer
+  - 2. Igualdad y diferencia
+  - 3. Varón y mujer en la sociedad y en la Iglesia
+- **Venezuela**
+  - 1. El inicio de la labor apostólica
+  - 2. Primer viaje de san Josemaría
+  - 3. Segundo viaje
+  - 4. Continuidad de la labor
+- **Veracidad**
+  - 1. Naturaleza y fundamentos
+  - 2. Veracidad e intransigencia
+  - 3. Dificultades para vivir la veracidad
+  - 4. Actuaciones opuestas a la veracidad
+- **Via Crucis (libro)**
+  - 1. Historia del libro
+  - 2. Contenido
+  - 3. Dinámica interna
+  - 4. Estilo literario
+  - 5. Difusión
+- **Viajes apostólicos**
+  - 1. Viajes desde Burgos (1938-1939)
+  - 2. Viajes desde Madrid por España y Portugal (1939-1946)
+  - 3. Viajes desde Roma por Europa (1946- 1958)
+- **Vida interior**
+  - 1. Rasgo específico: la vida interior en medio del mundo
+  - 2. Crecimiento cristiano y vida interior
+  - 3. La vida interior, fruto de la gracia y de las virtudes teologales
+  - 4. Vida interior, recogimiento y existencia ordinaria
+  - 5. Vida interior y apostolado
+- **Vida ordinaria, santificación de la**
+  - 1. La “vida ordinaria”: punto de referencia del espíritu del Opus Dei
+  - 2. La vida ordinaria en la historia de la espiritualidad y de la cultura
+  - 3. La grandeza cristiana de la vida ordinaria: dimensiones subjetiva y objetiva
+  - 4. La transmisión del mensaje: algunas expresiones y metáforas utilizadas por san Josemaría
+  - 5. En la coyuntura actual contemporánea
+- **Villa delle Rose**
+- **Villa Tevere**
+  - 1. La necesidad de una sede central del Opus Dei en Roma
+  - 2. La historia anterior de la casa
+  - 3. El Pensionato
+  - 4. Los edificios y su evolución
+  - 5. La iglesia prelaticia de Santa María de la Paz
+- **Virtudes: consideración general**
+  - 1. El lugar de la consideración de la virtud en la enseñanza de san Josemaría
+  - 2. La definición de virtud y la distinción entre virtudes sobrenaturales y virtudes humanas
+  - 3. Las virtudes sobrenaturales o teologales
+  - 4. Las virtudes humanas o morales
+  - 5. Las virtudes y los dones del Espíritu Santo
+- **Vocación**
+  - 1. La vida cristiana como vocación
+  - 2. Dimensiones de la vocación: responder al amor de Dios y animar a los demás a amarle
+  - 3. Diversidad de vocaciones
+  - 4. La vocación al Opus Dei, concreción de la vocación bautismal
+  - 5. Fidelidad a la vocación
+- **Vocación de San Josemaría**
+  - 1. Los “barruntos”
+  - 2. La puesta en práctica de la decisión de hacerse sacerdote
+  - 3. Una oración intensa
+- **Voluntad de Dios**
+  - 1. Santidad y voluntad de Dios
+  - 2. La paternidad de Dios
+  - 3. Abandono y libertad
+  - 4. Voluntad de Dios y Cruz
+  - 5. Santidad en la vida ordinaria
+- **Yauyos**
+- **YAUYOS, PRELATURA DE**
+  - 1. La Prelatura territorial de Yauyos
+  - 2. Impulso de la labor apostólica y solicitud de san Josemaría
+  - 3. Visita de san Josemaría a la Prelatura de Yauyos
+
+**Zaragoza • I. Zorzano • C.M.U. Zurbarán**
+
+- **Zaragoza**
+  - 1. Datos históricos
+  - 2. En el Seminario de Zaragoza
+  - 3. Estudiante de Derecho
+  - 4. Ordenación sacerdotal
+- **Zorzano Ledesma, Isidoro**
+- **Zurbarán, Colegio Mayor Universitario**

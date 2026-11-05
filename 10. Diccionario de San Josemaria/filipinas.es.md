@@ -1,0 +1,60 @@
+---
+id: dicsje.filipinas.es
+work: diccionario-san-josemaria
+title: Filipinas
+voz: FILIPINAS
+author: Rocío G. DAVIS
+creator: collective — a signed dictionary; the voz's own author is in `author` above
+language: es
+original-language: yes
+authority-type: scholarly
+status: current
+supersedes: 01. Sources/_originals/Biblioteca/_markdown/DicSJE.md
+edition: Diccionario de San Josemaría Escrivá de Balaguer, Instituto Histórico San Josemaría Escrivá de Balaguer / Fundación Studium / Editorial Monte Carmelo, Burgos, 2ª edición, diciembre 2013; ISBN 978-84-8353-592-9 (the work's own copyright page)
+source-file: Diccionario de San Josemaria Escriva de Balaguer.epub
+source-sha256: 9bb99eafaf5d432f
+original: 01. Sources/_originals/San Josemaria/diccionario/Diccionario de San Josemaria Escriva de Balaguer.epub
+decode-witness: 01. Sources/_originals/Biblioteca/_markdown/DicSJE/ record 0017 — the decode-derived text this file carried until 2026-08-28 is in the store (01. Sources/_originals/San Josemaria/diccionario/decode-2026-08-26/) and in git history
+replaced: "2026-08-28 — the publisher's epub text replaced the decode-derived promotion of 2026-08-26 in place, on the same anchors (§17b: 'check both to see which is best; keep the best')"
+anchors: "{#dicsje.filipinas} on the voz; {#dicsje.filipinas.N} on the sections the work numbers — CARRIED from the 2026-08-26 promotion (99. Tools/promote/dicsje-registered-anchors.tsv), never recomputed"
+sections: 3
+extracted: 2026-08-28
+extracted-by: 99. Tools/promote/replace_dicsje_es.py
+---
+# Filipinas {#dicsje.filipinas}
+
+Filipinas es el único país asiático con una población mayoritariamente católica. Aproximadamente el 80 por ciento es católico, el 10 por ciento de otras confesiones cristianas y el 10 por ciento musulmán. Por tanto, es lógico que san Josemaría pensara en Filipinas como el primer país donde empezar la labor apostólica del Opus Dei en Asia. Además del conocimiento general que hay en España sobre Filipinas, es probable que san Josemaría tuviera un conocimiento más profundo a través de un buen amigo, el fraile dominico Silvestre Sancho Morales, que había vivido en el archipiélago filipino entre 1932 y 1940, y entre 1951 y 1960, y que podía haberle hablado de la cultura y de la idiosincrasia del país, así como de las peculiaridades del clima. En todo caso, san Josemaría estaba bien informado y pudo orientar a los primeros que comenzaron la labor apostólica en el país en los años sesenta. Cuando se estaba construyendo el santuario de Torreciudad, durante los años setenta, san Josemaría pidió expresamente que se trajeran de Filipinas unas conchas grandes que sirvieran para las fuentes de agua bendita del santuario.
+
+## 1. En Filipinas y desde Filipinas {#dicsje.filipinas.1}
+
+Desde los años cuarenta, hubo filipinos de ascendencia española que habían conocido la Obra en España y que, al volver a Filipinas, urgieron a san Josemaría para que empezara la labor estable en el país. Esto no fue posible hasta un par de décadas más tarde. Ya en los años cincuenta algunos filipinos, que por razón de estudios se encontraban en Estados Unidos, se habían acercado a la Obra. En 1964 san Josemaría consideró que había llegado el momento de dar estabilidad a la labor en el país y convocó en Roma a esos filipinos y a otros fieles de la Obra que se preparaban para ir a Filipinas. En esos días les dijo: "!Qué maravilla de país, Filipinas! Constituís la vanguardia de Jesucristo en Oriente. Vuestra tierra será el cauce para llevar la luz de Cristo a millares de almas. Sois un pueblo escogido. Digo esto no por amabilidad, sino porque es verdad, y una verdad muy hermosa" ("Al comenzar en Filipinas", en *Crónica,* VI-1984: AGP, Biblioteca, P01). Recordaba luego a los filipinos que, como habían recibido la fe, tenían un deber con el resto de su continente: transmitirla a otros países. San Josemaría soñaba también con la expansión a las otras naciones asiáticas, sobre todo a China, y animaba a los miembros de la Obra en Filipinas a empezar cuanto antes, para poder extenderse a otros lugares, con vistas, en última instancia, a iniciar la labor en China. La expansión no se pudo realizar en vida de san Josemaría, aunque ya se habían hecho algunos viajes.
+
+Hacia el final de su vida, san Josemaría seguía animando a sus hijos filipinos a pensar en el desarrollo por Asia. El 20 de marzo de 1975, pocos meses antes de su fallecimiento, dijo a un grupo de hijas suyas en Roma: "Si seguís correspondiendo (...) haréis una gran labor no sólo en Filipinas, sino desde Filipinas, porque tenéis este aspecto encantador que os facilita ir por todo oriente: tantos millones y millones de almas que no conocen todavía a Nuestro Señor (...), y son hijos de Dios como nosotros, y si conocieran a Dios serían cien veces mejores que nosotros" (SASTRE, 1989, p. 501).
+
+## 2. Los inicios de la labor apostólica {#dicsje.filipinas.2}
+
+Los primeros miembros filipinos conocieron el Opus Dei cuando estudiaban en Harvard, a finales de los años cincuenta. Jesús (Jess) Estanislao, Bernardo (Bernie) Villegas y Plácido Mapa, Jr., entraron en contacto con el Opus Dei a través de la residencia universitaria de Boston, y pidieron la admisión. En agosto de 1964, san Josemaría nombró al sacerdote José Morales Marín primer Consiliario de Filipinas, cargo que ocupó hasta principios de 1966, cuando se trasladó a Pamplona para trabajar como profesor de Teología en la Universidad de Navarra. Le sustituyó en el cargo José Cremades.
+
+Los primeros miembros del Opus Dei se trasladaron a Filipinas entre abril y diciembre de 1964. Llegaron Jess Estanislao y Bernie Villegas, junto con don José Morales, don Javier de Pedro y José Rivera, un ingeniero español que había vivido en Filipinas de niño. El primer Centro de la Obra estaba situado en una casita al lado de la residencia de los Villegas, en la calle C. Ayala. Le pusieron el nombre de Maynilad, el antiguo nombre de la ciudad de Manila. Estaba cerca de De La Salle University y del Colegio de Santa Escolástica, de donde vinieron los primeros miembros del Opus Dei en el país. A principios de abril de 1965, trasladaron Maynilad a una casa más amplia, y el Maynilad Study Center se convirtió en un foco de formación cristiana de universitarios y jóvenes profesionales.
+
+Las primeras mujeres llegaron a Filipinas el 8 de octubre de 1965: Soledad Usechi, Eulalia Sastre y María Teresa Martínez Barón tenían el proyecto de dar vida a una Escuela-Hogar, aprovechando la experiencia de la existente en Madrid, la Escuela-Hogar Montelar, de la que Soledad Usechi había sido directora. En el aeropuerto las recibió Luisa Lorenzo, una señora filipina que habían conocido en Madrid. A través de la ayuda de Luisa, se adquirió una casa en León Guinto Street en Singalong, Manila. En 1966, se inauguró el Mayana School of Home and Fine Arts, que comenzó la labor apostólica con mujeres casadas y empleadas de hogar. Riña Villegas, hermana de Bernie y la primera numeraria filipina, y la hija de Luisa Lorenzo, Cholang, profesora de Literatura en la Universidad de Filipinas y primera agregada pidieron por entonces la admisión en el Opus Dei.
+
+La labor con jóvenes y profesionales creció rápidamente entre hombres y mujeres, debido a la profunda fe de los filipinos. Pronto se establecieron otros Centros para atender a las necesidades apostólicas: Tanglaw Residence, para mujeres, en 1967 y Banahaw Cultural Center, para varones, en 1968. A partir de 1969 algunos filipinos, como Fernán Cruz, se trasladaron al Colegio Romano de la Santa Cruz para recibir una formación más intensa al lado de san Josemaría; de entre ellos saldrían los primeros sacerdotes filipinos del Opus Dei. María Lourdes Ygoa fue la primera filipina que fue al Colegio Romano de Santa María, en 1970; Riña Villegas llegó el curso siguiente.
+
+A finales de los años sesenta, san Josemaría sugirió a los miembros del Opus Dei que buscaran una casa donde las personas pudieran recibir cursos de formación más intensos. En 1971, se inauguró el Makiling Conference Center en Calamba, Laguna, a las afueras de Manila.
+
+San Josemaría también animó a crear un centro educativo de postgrado que sirviera para dar formación a personas que en el futuro podrían ocupar cargos directivos en el país. En agosto de 1967, Jess Estanislao y Bernie Villegas crearon un *think tank* de Economía llamado Center for Research and Communication (CRC), el germen de lo que llegó a ser, en 1995, la University of Asia and the Pacific. En 1970, en una reunión en México con Bernie Villegas, san Josemaría le sugirió la oportunidad de ampliar el alcance del CRC más allá de Filipinas y de otros países del sudeste asiático. Ese mismo curso, el CRC inauguró su primer programa de postgrado, el "Master of Science in Industrial Economics".
+
+El interés de san Josemaría por la formación de los jóvenes llevó también a grupos de padres a crear una asociación que promoviera colegios que impartieran una educación en valores cristianos. Los colegios no se hicieron realidad hasta después de la muerte de san Josemaría: Woodrose School, para chicas (1977), y Southridge School, para chicos (1979). Además, con la ilusión de aplicar la enseñanza de la doctrina social de la Iglesia, y consciente de la situación socio-cultural del país, con grandes diferencias de clases sociales y gran pobreza en una parte de la población, san Josemaría animó a los miembros del Opus Dei a promover escuelas para la capacitación de hombres y mujeres en e campo de la hostelería, de la electrónica. en los trabajos agropecuarios y en el amplio campo de la tecnología.
+
+Entre esas escuelas destaca Punlaan School, inaugurada en 1975. El centro estaba inspirado en las palabras de san Josemaría: [si la mujer se] "forma bien, con autonomía personal, con autenticidad, realizará eficazmente su labor, la misión a la que se siente llamada, cualquiera que sea: su vida y su trabajo serán realmente constructivos y fecundos, llenos de sentido" porque en todos los sectores de la sociedad -la familia, la educación, la política, etc.- "puede dar la mujer una valiosa contribución, como persona, y siempre con las peculiaridades de su condición femenina; y lo hará así en la medida en que esté humana y profesionalmente preparada" (CONV, 87).
+
+Cuando falleció san Josemaría, la Obra llevaba en Filipinas sólo once años. No obstante, la labor apostólica había prendido en todos los estratos de la sociedad, como se demostró en el funeral que se celebró en la catedral de Manila, a donde acudieron más de mil personas.
+
+## 3. Desarrollo de la labor apostólica {#dicsje.filipinas.3}
+
+En 1975, san Josemaría comentó a un grupo de hijos suyos en Roma: "Yo tengo muchos deseos de ir a Filipinas, pero para estar una temporada, aunque pase calor. No olvides de decir a tus hermanos de Filipinas, que tenéis todo el Oriente. A vosotros no se os cierra, sino que se os abre el Oriente". El crecimiento de la labor en el país incluyó mayor desarrollo en el campo de la capacitación de mujeres y hombres: en 1986 se creó Anihan Technical School, que ofrece diplomas en Cocina y Pastelería, y en 1992, el Habihan School for Residence and Institution Services and Management. A partir de Punlaan, se empezó una labor social que incluía otras escuelas de formación profesional que comenzaron a operar en los años ochenta, como el Dualtech Training Center, Center for Industrial Technology and Enterprise (CITE), el Dagatan Family Farm School, el Balete Family Farm School y el Bais Family Farm School. Los colegios se han multiplicado: actualmente, hay ocho colegios para chicos y chicas en diversas ciudades del país, y cuatro colegios de preescolar.
+
+Desde Filipinas, como había dicho el fundador, la Obra se extendió a numerosos países de Asia. Se inició la labor en Hong Kong en 1981 (entonces todavía colonia británica) y en Singapur el año siguiente. A Taiwan llegaron los primeros de la Obra en 1985, a Macao en 1989 y, en 2009, empezó la labor estable en Indonesia y Corea del Sur, junto con viajes a diversas ciudades de China continental, Vietnam, Tailandia y Malasia.
+
+*Rocío G. DAVIS*
